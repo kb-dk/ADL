@@ -7,7 +7,8 @@ class CatalogController < ApplicationController
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
     config.default_solr_params = { 
       :qt => 'search',
-      :rows => 10 
+      :rows => 10,
+      :fq => '-type_ssi:leaf'
     }
     
     # solr path which will be added to solr base url before the other solr params.
@@ -54,7 +55,6 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
