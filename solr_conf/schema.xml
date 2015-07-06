@@ -158,7 +158,7 @@
     <!--<field name="authors_prefix" type="AuthorsPrefix" indexed="true" multiValued="true"/>-->
 
 
-    <!--<copyField source="author" dest="authors_prefix"/>-->
+    <copyField source="author_name" dest="author_ssi"/>
 
   </fields>
 
