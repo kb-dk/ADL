@@ -29,7 +29,7 @@ class CatalogController < ApplicationController
 
     # solr field configuration for search results/index views
     config.index.title_field = 'work_title_tesim'
-    config.index.display_type_field = 'type_ssi'
+    config.index.display_type_field = 'cat_ssi'
 
     # solr field configuration for document/show views
     #config.show.title_field = 'title_display'
@@ -55,6 +55,7 @@ class CatalogController < ApplicationController
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
     config.add_facet_field 'type_ssi', :label => 'Format'
+    config.add_facet_field 'cat_ssi', :label => 'Genre'
     config.add_facet_field 'author_name', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -81,6 +82,8 @@ class CatalogController < ApplicationController
     config.add_index_field 'work_title_tesim', :label => 'Title'
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_name', :label => 'Forfatter'
+    config.add_index_field 'cat_ssi', :label => 'Genre'
+    config.add_index_field 'volume_title_tesim', :label => 'Bog'
     # config.add_index_field 'author_vern_display', :label => 'Author'
     # config.add_index_field 'format', :label => 'Format'
     # config.add_index_field 'language_facet', :label => 'Language'
