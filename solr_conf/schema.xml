@@ -159,6 +159,7 @@
 
 
     <copyField source="author_name" dest="author_ssi"/>
+    <copyField source="work_title_tesim" dest="work_title_ssi"/>
 
   </fields>
 
