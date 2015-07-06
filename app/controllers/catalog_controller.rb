@@ -81,6 +81,11 @@ class CatalogController < ApplicationController
     config.add_index_field 'work_title_tesim', :label => 'Title'
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_name', :label => 'Forfatter'
+
+    # this adds basic highlighting to index results
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'Matches'
+    config.add_field_configuration_to_solr_request!
+
     # config.add_index_field 'author_vern_display', :label => 'Author'
     # config.add_index_field 'format', :label => 'Format'
     # config.add_index_field 'language_facet', :label => 'Language'
