@@ -8,7 +8,9 @@ class CatalogController < ApplicationController
     config.default_solr_params = { 
       :qt => 'search',
       :rows => 10,
-      :fq => '-type_ssi:leaf'
+      :fq => '-type_ssi:leaf',
+      :hl => 'true',
+      :'hl.snippets' => '3'
     }
     
     # solr path which will be added to solr base url before the other solr params.
@@ -25,7 +27,7 @@ class CatalogController < ApplicationController
     #  ## These are hard-coded in the blacklight 'document' requestHandler
     #  # :fl => '*',
     #  # :rows => 1
-    #  # :q => '{!raw f=id v=$id}' 
+    #  # :q => '{!raw f=id v=$id}'
     #}
 
     # solr field configuration for search results/index views
@@ -83,8 +85,9 @@ class CatalogController < ApplicationController
     config.add_index_field 'author_name', :label => 'Forfatter'
 
     # this adds basic highlighting to index results
-    config.add_index_field 'text_tesim', :highlight => true, :label => 'Matches'
-    config.add_field_configuration_to_solr_request!
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets
+    # comment this out because we're not using the default highlighting config
+    # config.add_field_configuration_to_solr_request!
 
     # config.add_index_field 'author_vern_display', :label => 'Author'
     # config.add_index_field 'format', :label => 'Format'
