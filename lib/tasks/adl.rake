@@ -21,10 +21,7 @@ namespace :adl do
   end
 
   task :clear do
-    system "curl -H 'Content-Type: text/xml' #{blacklight_config['url']}/update?commit=true --data-binary '<delete><query>*:*</query></delete>'"
+    system "curl -H 'Content-Type: text/xml' #{Blacklight.connection_config[:url]}/update?commit=true --data-binary '<delete><query>*:*</query></delete>'"
   end
 
-  def blacklight_config
-    YAML.load(ERB.new(File.read("#{Rails.root}/config/blacklight.yml")).result)[Rails.env]
-  end
 end
