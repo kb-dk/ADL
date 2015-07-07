@@ -7,7 +7,8 @@ class CatalogController < ApplicationController
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
     config.default_solr_params = { 
       :qt => 'search',
-      :rows => 10 
+      :rows => 10,
+      :fq => '-type_ssi:leaf'
     }
     
     # solr path which will be added to solr base url before the other solr params.
@@ -84,6 +85,11 @@ class CatalogController < ApplicationController
     config.add_index_field 'author_name', :label => 'Forfatter'
     config.add_index_field 'cat_ssi', :label => 'Genre'
     config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
+
+    # this adds basic highlighting to index results
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'Matches'
+    config.add_field_configuration_to_solr_request!
+
     # config.add_index_field 'author_vern_display', :label => 'Author'
     # config.add_index_field 'format', :label => 'Format'
     # config.add_index_field 'language_facet', :label => 'Language'
