@@ -9,6 +9,7 @@ class CatalogController < ApplicationController
       :qt => 'search',
       :rows => 10,
       :fq => '-type_ssi:leaf',
+      :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3'
     }
@@ -83,7 +84,7 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     config.add_index_field 'work_title_tesim', :label => 'Title'
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_name', :label => 'Forfatter'
+    config.add_index_field 'author_ssi', :label => 'Forfatter', link_to_search: true
     config.add_index_field 'cat_ssi', :label => 'Genre'
     config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
 
