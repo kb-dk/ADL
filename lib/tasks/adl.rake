@@ -1,3 +1,5 @@
+require 'blacklight'
+
 namespace :adl do
   desc 'Load ADL Solr Config'
   task :config do
@@ -14,9 +16,13 @@ namespace :adl do
     doc_path = Rails.root.join('solr_conf', 'doc.xml')
     open doc_path do |f|
       doc = f.read
-      solr = RSolr.connect(url: 'http://localhost:8983/solr/blacklight-core/')
+      solr = RSolr.connect(url: Blacklight.connection_config[:url])
       solr.update(data: doc)
       solr.commit
     end
+  end
+
+  task test: :environment do
+     puts Blacklight.connection_config[:url]
   end
 end
