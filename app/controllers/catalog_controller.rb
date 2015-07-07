@@ -7,7 +7,8 @@ class CatalogController < ApplicationController
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
     config.default_solr_params = { 
       :qt => 'search',
-      :rows => 10 
+      :rows => 10,
+      :fq => '-type_ssi:leaf'
     }
     
     # solr path which will be added to solr base url before the other solr params.
@@ -54,8 +55,7 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'type_ssi', :label => 'Format'
-    config.add_facet_field 'author_name', :label => 'Forfatter', :single => true
+    config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
     # config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
@@ -81,6 +81,11 @@ class CatalogController < ApplicationController
     config.add_index_field 'work_title_tesim', :label => 'Title'
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_name', :label => 'Forfatter'
+
+    # this adds basic highlighting to index results
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'Matches'
+    config.add_field_configuration_to_solr_request!
+
     # config.add_index_field 'author_vern_display', :label => 'Author'
     # config.add_index_field 'format', :label => 'Format'
     # config.add_index_field 'language_facet', :label => 'Language'
@@ -168,7 +173,8 @@ class CatalogController < ApplicationController
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc', :label => 'relevance'
+    config.add_sort_field 'score desc', :label => 'relevans'
+    config.add_sort_field 'work_title_ssi asc', :label => 'titel'
     # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
     # config.add_sort_field 'author_sort asc, title_sort asc', :label => 'author'
     # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'

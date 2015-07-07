@@ -1,5 +1,3 @@
-require 'blacklight'
-
 namespace :adl do
   desc 'Load ADL Solr Config'
   task :config do
@@ -22,7 +20,11 @@ namespace :adl do
     end
   end
 
-  task test: :environment do
-     puts Blacklight.connection_config[:url]
+  task :clear do
+    system "curl -H 'Content-Type: text/xml' #{blacklight_config['url']}/update?commit=true --data-binary '<delete><query>*:*</query></delete>'"
+  end
+
+  def blacklight_config
+    YAML.load(ERB.new(File.read("#{Rails.root}/config/blacklight.yml")).result)[Rails.env]
   end
 end
