@@ -56,7 +56,7 @@ class CatalogController < ApplicationController
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
     config.add_facet_field 'type_ssi', :label => 'Format'
-    config.add_facet_field 'cat_ssi', :label => 'Genre'
+    config.add_facet_field 'genre_ssi', :label => 'Genre'
     config.add_facet_field 'author_name', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -83,7 +83,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'work_title_tesim', :label => 'Title'
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_name', :label => 'Forfatter'
-    config.add_index_field 'cat_ssi', :label => 'Genre'
+    config.add_index_field 'genre_ssi', :label => 'Genre'
     config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
 
     # this adds basic highlighting to index results
@@ -99,20 +99,26 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display 
-    config.add_show_field 'title_display', :label => 'Title'
-    config.add_show_field 'title_vern_display', :label => 'Title'
-    config.add_show_field 'subtitle_display', :label => 'Subtitle'
-    config.add_show_field 'subtitle_vern_display', :label => 'Subtitle'
-    config.add_show_field 'author_display', :label => 'Author'
-    config.add_show_field 'author_vern_display', :label => 'Author'
-    config.add_show_field 'format', :label => 'Format'
-    config.add_show_field 'url_fulltext_display', :label => 'URL'
-    config.add_show_field 'url_suppl_display', :label => 'More Information'
-    config.add_show_field 'language_facet', :label => 'Language'
-    config.add_show_field 'published_display', :label => 'Published'
-    config.add_show_field 'published_vern_display', :label => 'Published'
-    config.add_show_field 'lc_callnum_display', :label => 'Call number'
-    config.add_show_field 'isbn_t', :label => 'ISBN'
+    # config.add_show_field 'title_display', :label => 'Title'
+    # config.add_show_field 'title_vern_display', :label => 'Title'
+    # config.add_show_field 'subtitle_display', :label => 'Subtitle'
+    # config.add_show_field 'subtitle_vern_display', :label => 'Subtitle'
+    # config.add_show_field 'author_display', :label => 'Author'
+    # config.add_show_field 'author_vern_display', :label => 'Author'
+    # config.add_show_field 'format', :label => 'Format'
+    # config.add_show_field 'url_fulltext_display', :label => 'URL'
+    # config.add_show_field 'url_suppl_display', :label => 'More Information'
+    # config.add_show_field 'language_facet', :label => 'Language'
+    # config.add_show_field 'published_display', :label => 'Published'
+    # config.add_show_field 'published_vern_display', :label => 'Published'
+    # config.add_show_field 'lc_callnum_display', :label => 'Call number'
+    # config.add_show_field 'isbn_t', :label => 'ISBN'
+
+
+    # Work show fields
+    config.add_show_field 'genre_ssi', :label => 'Type'
+    config.add_show_field 'author_name', :label => 'Forfatter'
+
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for Blacklight::SearchFields
