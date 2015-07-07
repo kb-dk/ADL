@@ -83,7 +83,7 @@ class CatalogController < ApplicationController
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_name', :label => 'Forfatter'
     config.add_index_field 'cat_ssi', :label => 'Genre'
-    config.add_index_field 'volume_title_tesim', :label => 'Bog'
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
     # config.add_index_field 'author_vern_display', :label => 'Author'
     # config.add_index_field 'format', :label => 'Format'
     # config.add_index_field 'language_facet', :label => 'Language'
