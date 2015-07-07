@@ -14,7 +14,7 @@ namespace :adl do
     doc_path = Rails.root.join('solr_conf', 'doc.xml')
     open doc_path do |f|
       doc = f.read
-      solr = RSolr.connect(url: blacklight_config['url'])
+      solr = RSolr.connect(url: Blacklight.connection_config[:url])
       solr.update(data: doc)
       solr.commit
     end

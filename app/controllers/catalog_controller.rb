@@ -32,7 +32,7 @@ class CatalogController < ApplicationController
 
     # solr field configuration for search results/index views
     config.index.title_field = 'work_title_tesim'
-    config.index.display_type_field = 'type_ssi'
+    config.index.display_type_field = 'cat_ssi'
 
     # solr field configuration for document/show views
     #config.show.title_field = 'title_display'
@@ -57,7 +57,9 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
+    config.add_facet_field 'type_ssi', :label => 'Format'
+    config.add_facet_field 'cat_ssi', :label => 'Genre'
+    config.add_facet_field 'author_name', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
     # config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
@@ -83,6 +85,8 @@ class CatalogController < ApplicationController
     config.add_index_field 'work_title_tesim', :label => 'Title'
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_name', :label => 'Forfatter'
+    config.add_index_field 'cat_ssi', :label => 'Genre'
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
 
     # this adds basic highlighting to index results
     config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets
@@ -176,8 +180,7 @@ class CatalogController < ApplicationController
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
-    config.add_sort_field 'score desc', :label => 'relevans'
-    config.add_sort_field 'work_title_ssi asc', :label => 'titel'
+    config.add_sort_field 'score desc', :label => 'relevance'
     # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
     # config.add_sort_field 'author_sort asc, title_sort asc', :label => 'author'
     # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
