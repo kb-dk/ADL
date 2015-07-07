@@ -5,11 +5,11 @@ class CatalogController < ApplicationController
 
   configure_blacklight do |config|
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
-    config.default_solr_params = { 
+    config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
       :fq => '-type_ssi:leaf',
-      :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
+      # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3'
     }
@@ -135,7 +135,12 @@ class CatalogController < ApplicationController
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise. 
     
-    config.add_search_field 'all_fields', :label => 'All Fields'
+    config.add_search_field 'all_fields' do |field|
+      # add the fulltext term frequence to the result docs
+      field.solr_parameters = {
+          :fl => '* AND termfreq(text_tesim, $q)'
+      }
+    end
     
 
     # Now we see how to over-ride Solr request handler defaults, in this
