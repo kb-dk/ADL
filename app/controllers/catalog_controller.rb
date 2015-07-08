@@ -123,6 +123,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'genre_ssi', :label => 'Type'
     config.add_show_field 'author_name', :label => 'Forfatter'
     config.add_show_field 'publisher_ssi', :label => 'Publisher'
+    config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
     config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
 

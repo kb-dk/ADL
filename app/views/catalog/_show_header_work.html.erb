@@ -7,7 +7,4 @@
           <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
       <% end -%>
   <% end -%>
-  <%# book link -%>
-  <dt class="blacklight-volume">Bog:</dt>
-  <dd class="blacklight-volume"><%= show_volume({document: document, field: 'volume_title_tesim'})%></dd>
 </dl>
