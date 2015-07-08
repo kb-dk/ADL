@@ -117,40 +117,24 @@
          text^10
        </str>
        <str name="author_qf">
-         author_unstem_search^200
-         author_addl_unstem_search^50
-         author_t^20
-         author_addl_t
+         <!-- Boost the untokenised text -->
+         author_ssi^10
+         author_name^5
        </str>
        <str name="author_pf">
-         author_unstem_search^2000
-         author_addl_unstem_search^500
-         author_t^200
-         author_addl_t^10
+         author_ssi
        </str>
        <str name="title_qf">
-         title_unstem_search^50000
-         subtitle_unstem_search^25000
-         title_addl_unstem_search^10000
-         title_t^5000
-         subtitle_t^2500
-         title_addl_t^100
-         title_added_entry_unstem_search^50
-         title_added_entry_t^10
-         title_series_unstem_search^5
-         title_series_t
+          work_title_tesim
        </str>
        <str name="title_pf">
-         title_unstem_search^500000
-         subtitle_unstem_search^250000
-         title_addl_unstem_search^100000
-         title_t^50000
-         subtitle_t^25000
-         title_addl_t^1000
-         title_added_entry_unstem_search^500
-         title_added_entry_t^100
-         title_series_t^50
-         title_series_unstem_search^10
+         work_title_tesim
+       </str>
+       <str name="text_qf">
+         text_tesim
+       </str>
+       <str name="text_pf">
+         text_tesim
        </str>
        <str name="subject_qf">
          subject_topic_unstem_search^200

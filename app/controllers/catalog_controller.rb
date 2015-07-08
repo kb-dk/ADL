@@ -5,10 +5,11 @@ class CatalogController < ApplicationController
 
   configure_blacklight do |config|
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
-    config.default_solr_params = { 
+    config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
       :fq => '-type_ssi:leaf',
+      # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3'
     }
@@ -59,7 +60,7 @@ class CatalogController < ApplicationController
     # facet bar
     config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'cat_ssi', :label => 'Genre'
-    config.add_facet_field 'author_name', :label => 'Forfatter', :single => true
+    config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
     # config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
@@ -84,9 +85,9 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_name', :label => 'Forfatter', short_form: true
+    config.add_index_field 'author_ssi', :label => 'Forfatter', link_to_search: true, , short_form: true
     config.add_index_field 'cat_ssi', :label => 'Genre'
-
+    
     # this adds basic highlighting to index results
     config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
     config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
@@ -135,7 +136,12 @@ class CatalogController < ApplicationController
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise. 
     
-    config.add_search_field 'all_fields', :label => 'All Fields'
+    config.add_search_field 'all_fields' do |field|
+      # add the fulltext term frequence to the result docs
+      field.solr_parameters = {
+          :fl => '* AND termfreq(text_tesim, $q)'
+      }
+    end
     
 
     # Now we see how to over-ride Solr request handler defaults, in this
@@ -145,7 +151,6 @@ class CatalogController < ApplicationController
     config.add_search_field('title') do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
       field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
-
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
       # Solr parameter de-referencing like $title_qf.
@@ -161,18 +166,6 @@ class CatalogController < ApplicationController
       field.solr_local_parameters = { 
         :qf => '$author_qf',
         :pf => '$author_pf'
-      }
-    end
-    
-    # Specifying a :qt only to show it's possible, and so our internal automated
-    # tests can test it. In this case it's the same as 
-    # config[:default_solr_parameters][:qt], so isn't actually neccesary. 
-    config.add_search_field('subject') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'subject' }
-      field.qt = 'search'
-      field.solr_local_parameters = { 
-        :qf => '$subject_qf',
-        :pf => '$subject_pf'
       }
     end
 
