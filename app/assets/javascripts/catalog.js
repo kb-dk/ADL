@@ -20,7 +20,28 @@ $(document).ready(function(){
             }
         }
         return false;
+    });
+
+    /**
+     * Terrible hack here - sending empty queries causes
+     * some problem with the function query which crashes Solr
+     * If we have clicked the search button without a value, enter a space
+     */
+    $('button#search').click(function(){
+        var $input = $('input#q');
+        if ($input.val().length == 0) {
+            $input.val(' ');
+        }
+        return true;
+    });
+
+    $('input#q').click(function(){
+        if ($(this).val() == ' ') {
+            $(this).val('')
+        }
     })
+
+
 });
 
 //Change the label fo the collapse buttons in the search results page
