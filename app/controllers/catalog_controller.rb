@@ -82,14 +82,14 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
-    config.add_index_field 'work_title_tesim', :label => 'Title'
+    config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', link_to_search: true
+    config.add_index_field 'author_ssi', :label => 'Forfatter', link_to_search: true, short_form: true
     config.add_index_field 'cat_ssi', :label => 'Genre'
-    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
-
+    
     # this adds basic highlighting to index results
-    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
     # comment this out because we're not using the default highlighting config
     # config.add_field_configuration_to_solr_request!
 
