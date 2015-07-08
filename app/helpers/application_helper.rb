@@ -12,4 +12,8 @@ module ApplicationHelper
     snippets = ('...' + val.join('...<br/>...'))
     "<strong>#{term_freq} fund:</strong><br/> #{snippets}".html_safe
   end
+
+  def search_type_link(type, label)
+    link_to label, '#', data: { search_type: type,  no_turbolink: true }
+  end
 end

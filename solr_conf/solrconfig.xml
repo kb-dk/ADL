@@ -130,6 +130,12 @@
        <str name="title_pf">
          work_title_tesim
        </str>
+       <str name="text_qf">
+         text_tesim
+       </str>
+       <str name="text_pf">
+         text_tesim
+       </str>
        <str name="subject_qf">
          subject_topic_unstem_search^200
          subject_unstem_search^125
