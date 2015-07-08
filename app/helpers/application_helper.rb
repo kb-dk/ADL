@@ -1,7 +1,9 @@
 module ApplicationHelper
 
   def show_volume args
-    link_to args[:document][args[:field]].first, solr_document_path(args[:document]['volume_id_ssi'])
+    id = args[:document]['volume_id_ssi']
+    return unless id.present?
+    link_to args[:value].first, solr_document_path(id)
   end
 
 
