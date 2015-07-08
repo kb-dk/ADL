@@ -58,7 +58,7 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'type_ssi', :label => 'Format'
+    #config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'cat_ssi', :label => 'Genre'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
@@ -85,7 +85,7 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', link_to_search: true, , short_form: true
+    config.add_index_field 'author_ssi', :label => 'Forfatter', link_to_search: true, short_form: true
     config.add_index_field 'cat_ssi', :label => 'Genre'
     
     # this adds basic highlighting to index results
