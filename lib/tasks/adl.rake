@@ -11,12 +11,15 @@ namespace :adl do
   end
 
   task seed: :environment do
-    doc_path = Rails.root.join('solr_conf', 'doc.xml')
-    open doc_path do |f|
-      doc = f.read
-      solr = RSolr.connect(url: Blacklight.connection_config[:url])
-      solr.update(data: doc)
-      solr.commit
+    data_path = Rails.root.join('solr_conf', 'seed_data')
+    data_path.each_child do |e|
+      next if e.directory?
+      open e do |f|
+        doc = f.read
+        solr = RSolr.connect(url: Blacklight.connection_config[:url])
+        solr.update(data: doc)
+        solr.commit
+      end
     end
   end
 
