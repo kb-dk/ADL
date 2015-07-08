@@ -6,6 +6,7 @@ module ApplicationHelper
    link_to args[:document][args[:field]].first, solr_document_path(args[:document]['volume_id_ssi'])
   end
 
+
   def render_snippet(id,op=nil)
     a =id.split("#")
     uri = "#{Rails.application.config_for(:adl)["snippet_server_url"]}?doc=#{a[0]}.xml"
