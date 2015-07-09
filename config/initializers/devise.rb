@@ -261,7 +261,7 @@ Devise.setup do |config|
 
   # you can override these if you need to, but cas_base_url is usually enough
   config.cas_login_url = "https://user.kb.dk/cas/login"
-  # config.cas_logout_url = "https://cas.myorganization.com/logout"
+  config.cas_logout_url = "https://user.kb.dk/cas/logout"
   config.cas_validate_url = "https://user.kb.dk/cas/serviceValidate"
 
   # The CAS specification allows for the passing of a follow URL to be displayed when
@@ -269,13 +269,13 @@ Devise.setup do |config|
   # URL via the destination param. Set either of these urls and specify either nil,
   # 'destination' or 'follow' as the logout_url_param. If the urls are blank but
   # logout_url_param is set, a default will be detected for the service.
-  # config.cas_destination_url = 'https://cas.myorganization.com'
-  # config.cas_follow_url = 'https://cas.myorganization.com'
-  # config.cas_logout_url_param = nil
+  config.cas_destination_url = 'http://www.adl.dk'
+  config.cas_follow_url = 'http://www.adl.dk'
+  config.cas_logout_url_param = 'destination'
 
   # You can specify the name of the destination argument with the following option.
   # e.g. the following option will change it from 'destination' to 'url'
-  # config.cas_destination_logout_param_name = 'url'
+   config.cas_destination_logout_param_name = 'url'
 
   # By default, devise_cas_authenticatable will create users.  If you would rather
   # require user records to already exist locally before they can authenticate via
