@@ -20,7 +20,7 @@ da:
       next: 'Næste &raquo;'
 
   blacklight:
-    application_name: 'Valhal'
+    application_name: 'ADL: Arkiv for Dansk Litteratur'
 
     entry_name:
           default: 'post'
@@ -160,6 +160,10 @@ da:
     back_to_bookmarks: 'Back to Bookmarks'
 
     search:
+      bookmarks:
+          present: "In Bookmarks"
+          absent: "Bookmark"
+          inprogress: "Saving..."
       title: '%{application_name} søgeresultater'
       search_results_header: 'Søg'
       search_results: 'Søgeresultater'
