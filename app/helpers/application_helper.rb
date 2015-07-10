@@ -8,6 +8,11 @@ module ApplicationHelper
     link_to args[:value].first, solr_document_path(id)
   end
 
+  def author_link args
+    id = args[:document]['author_id_ssi']
+    return unless id.present?
+    link_to args[:value], solr_document_path(id)
+  end
 
   def render_snippet(id,op=nil)
     a =id.split("#")
