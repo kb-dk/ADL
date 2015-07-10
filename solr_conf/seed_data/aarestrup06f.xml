@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="id">aarestrup06f</field>
+    <field name="volume_id_ssi">aarestrup06f</field>
+    <field name="url_ssi">http://adl.kb.dk/aarestrup06f#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Emil &lt;&lt;Aarestrups=Årestrups&gt;&gt; Samlede Skrifter</field>
+    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
+    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_place_ssi">["Kbh"]</field>
+  </doc>
+</add>

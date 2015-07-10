@@ -11,7 +11,7 @@
           <% if value.present? and field.short_form %>
               <dt class="blacklight-<%= field_name.parameterize %>"><%= label %></dt>
               <dd class="blacklight-<%= field_name.parameterize %>"><%= value %></dd>
-          <% else %>
+          <% elsif value.present?  %>
               <% collapse_fields << [label, value, field_name] %>
           <% end %>
       <% end -%>
@@ -19,10 +19,8 @@
 
   <div class="long_form_collapse collapse" id=<%= collapse_id %>>
     <% collapse_fields.each do |label, value, field_name| %>
-        <dl class="document-metadata dl-horizontal dl-invert">
           <dt class="blacklight-<%= field_name.parameterize %>"><%= label %></dt>
           <dd class="blacklight-<%= field_name.parameterize %>"><%= value %></dd>
-        </dl>
     <% end %>
   </div>
   <% unless collapse_fields.empty? %>

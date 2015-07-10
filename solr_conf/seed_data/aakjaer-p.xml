@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="id">aakjaer-p</field>
+    <field name="volume_id_ssi">aakjaer-p</field>
+    <field name="url_ssi">http://adl.kb.dk/aakjaer-p#</field>
+    <field name="volume_title_tesim">Jeppe Aakjær</field>
+    <field name="author_name">Jensen, Henrik Fibæk</field>
+    <field name="author_id_ssi">8a/de/14/23/8ade1423-5f09-41db-9088-4a2c5057df2a</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+  </doc>
+</add>
