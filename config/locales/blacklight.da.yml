@@ -23,44 +23,44 @@ da:
     application_name: 'ADL: Arkiv for Dansk Litteratur'
 
     entry_name:
-          default: 'post'
+      default: 'post'
 
     header_links:
-      login: 'Login'
-      logout: 'Log Out'
-      bookmarks: 'Bookmarks'
-      saved_searches: 'Saved Searches'
-      search_history: 'History'
+      login: 'Log ind'
+      logout: 'Log ud'
+      bookmarks: 'Bogmærker'
+      saved_searches: 'Gemte søgninger'
+      search_history: 'Historik'
 
     welcome: 'Welcome!'
-    and: 'and'
-    or: 'or'
+    and: 'og'
+    or: 'eller'
 
     bookmarks:
       collection:
         add:
-          button: 'Add to Bookmarks'
-      title: 'Bookmarks'
+          button: 'Tilføj til bogmærker'
+      title: 'Bogmærker'
       no_bookmarks: 'You have no bookmarks'
       add:
-        button: 'Bookmark'
+        button: 'Bogmærk'
         success:
-          one: 'Successfully added bookmark.'
-          other: 'Successfully added bookmarks.'
-        failure:  'Sorry, there was a problem saving the bookmarks.'
+          one: 'Dit bogmærk er blevet gemt.'
+          other: 'Dine bogmærker er blevet gemt.'
+        failure:  'Beklager, dine bogmærker kunne ikke gemmes'
       remove:
-        button: 'Remove bookmark'
-        success: 'Successfully removed bookmark.'
-        failure: 'Sorry, there was a problem removing the bookmarks.'
-        action_confirm: 'Remove this bookmark?'
+        button: 'Fjern bogmærk'
+        success: 'Din bogmærk er blevet fjernet.'
+        failure: 'Beklager, din bogmærker kunne ikke fjernes.'
+        action_confirm: 'Fjerne bogmærket?'
       clear:
-        action_title: 'Clear Bookmarks'
-        action_confirm: 'Clear your bookmarks?'
-        success: 'Cleared your bookmarks.'
-        failure: 'Sorry, there was a problem clearing your bookmarks.'
-      need_login: 'Please log in to manage and view your bookmarks.'
-      list_title: 'Your Bookmarks'
-      delete: 'Remove'
+        action_title: 'Ryd bogmærker'
+        action_confirm: 'Ryd dine bogmærker?'
+        success: 'Bogmærker ryddet.'
+        failure: 'Beklager din bogmærker kunne ikke ryddes.'
+      need_login: 'Venligst log ind for at se dine gemte bogmærker.'
+      list_title: 'Dine bogmærker'
+      delete: 'Slet'
 
     feedback:
       valid_name: 'A valid name is required'
@@ -74,39 +74,39 @@ da:
 
     saved_searches:
       add:
-        success: 'Successfully saved your search.'
-        failure: 'There was a problem saving your search.'
+        success: 'Din søgning er blevet gemt.'
+        failure: 'Din søgning kunne ikke gemmes.'
       remove:
-        success: 'Successfully removed that saved search.'
-        failure: 'There was a problem removing your search.'
+        success: 'Din gemt søgning blev slettet.'
+        failure: 'Din gemt søgning kunne ikke slettes.'
       clear:
-        action_title: 'Clear Saved Searches'
-        action_confirm: 'Clear your saved searches?'
-        success: 'Cleared your saved searches.'
-        failure: 'There was a problem clearing your searches.'
-      title: 'Saved Searches'
-      need_login: 'Please log in to manage and view your saved searches.'
-      no_searches: 'You have no saved searches'
-      list_title: 'Your saved searches'
-      delete: 'delete'
+        action_title: 'Slet gemte søgninger'
+        action_confirm: 'Slet dine gemte søgninger?'
+        success: 'Din gemte søgninger er blevet slettet'
+        failure: 'Din gemte søgninger kunne ikke slettes.'
+      title: 'Gemte søgninger'
+      need_login: 'Venligst log ind for at se dine gemte søgninger.'
+      no_searches: 'Du har ikke nogen gemte søgninger'
+      list_title: 'Dine gemte søgninger'
+      delete: 'slet'
 
     search_history:
       clear:
-        action_title: 'Clear Search History'
-        action_confirm: 'Clear your search history?'
-        success: 'Cleared your search history.'
-        failure: 'There was a problem clearing your search history.'
-      title: 'Search History'
-      no_history: 'You have no search history'
-      recent: 'Your recent searches'
-      forget: 'forget'
-      save: 'save'
+        action_title: 'Fjern søgehistorik'
+        action_confirm: 'Ryd din søgehistorik'
+        success: 'Søgehistorik ryddet.'
+        failure: 'Din søgehistorik kunne ikke slettes.'
+      title: 'Søgehistorik'
+      no_history: 'Du har ikke nogen søgehistorik'
+      recent: 'Dine seneste søgninger'
+      forget: 'glem'
+      save: 'gem'
 
     tools:
-      title: 'Tools'
-      cite: 'Cite'
-      endnote: 'Export to EndNote'
-      refworks: 'Export to Refworks'
+      title: 'Værktøjer'
+      cite: 'Citere'
+      endnote: 'Eksport til EndNote'
+      refworks: 'Eksport til Refworks'
       email: 'Email'
       sms: 'SMS This'
       librarian_view: 'Librarian View'
@@ -119,25 +119,25 @@ da:
 
     email:
       form:
-        title: 'Email This'
+        title: 'Email'
         to: 'Email:'
-        message: 'Message:'
+        message: 'Besked:'
         submit: 'Send'
       text:
-        title: 'Title: %{value}'
-        author: 'Author: %{value}'
+        title: 'Titel: %{value}'
+        author: 'Forfatter: %{value}'
         format: 'Format: %{value}'
-        language: 'Language: %{value}'
+        language: 'Sprog: %{value}'
         subject:
           one: 'Item Record: %{title}'
           other: 'Item records'
         url: 'URL: %{url}'
-        message: 'Message: %{message}'
+        message: 'Besked: %{message}'
 
       errors:
         to:
-          invalid: 'You must enter a valid email address'
-          blank: 'You must enter a recipient in order to send this message'
+          invalid: 'Du skal indtaste en valid email adress'
+          blank: 'Du skal indtaste en modtager for at sende beskeden'
     sms:
       form:
         title: 'SMS This'
@@ -156,14 +156,14 @@ da:
         carrier:
           blank: 'You must select a carrier'
 
-    back_to_search: 'Back to Search'
-    back_to_bookmarks: 'Back to Bookmarks'
+    back_to_search: 'Tilbage til søgning'
+    back_to_bookmarks: 'Tilbage til bogmærker'
 
     search:
       bookmarks:
-          present: "In Bookmarks"
-          absent: "Bookmark"
-          inprogress: "Saving..."
+          present: "Bogmærket"
+          absent: "Bogmærk"
+          inprogress: "Gemmer..."
       title: '%{application_name} søgeresultater'
       search_results_header: 'Søg'
       search_results: 'Søgeresultater'
@@ -206,7 +206,7 @@ da:
           count: 'Numerical Sort'
           index: 'A-Z Sort'
         count: '%{number}'
-        more: 'more »'
+        more: 'mere »'
         selected:
           remove: '[remove]'
 
@@ -225,10 +225,10 @@ da:
       show:
         title: '%{document_title} - %{application_name}'
         label: '%{label}:'
-      rss_feed: 'RSS for results'
-      atom_feed: 'Atom for results'
+      rss_feed: 'RSS for resultater'
+      atom_feed: 'Atom for resultater'
       fields:
-        default: 'Keyword'
+        default: 'Nøgleord'
       zero_results:
         modify_search: 'Tilpas søgning'
         use_fewer_keywords: 'Brug færre søgeord'
@@ -238,4 +238,4 @@ da:
 
     page_entries: 'hh'
 
-    did_you_mean: 'Did you mean to type: %{options}?'
+    did_you_mean: 'Mente du: %{options}?'
