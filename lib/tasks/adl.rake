@@ -14,11 +14,16 @@ namespace :adl do
     data_path = Rails.root.join('solr_conf', 'seed_data')
     data_path.each_child do |e|
       next if e.directory?
-      open e do |f|
-        doc = f.read
-        solr = RSolr.connect(url: Blacklight.connection_config[:url])
-        solr.update(data: doc)
-        solr.commit
+      begin
+        open e do |f|
+          puts "ingesting #{f.path}"
+          doc = f.read
+          solr = RSolr.connect(url: Blacklight.connection_config[:url])
+          solr.update(data: doc)
+          solr.commit
+        end
+      rescue Exception => e
+        puts "error loading solerdoc #{doc}: #{e.message}"
       end
     end
   end
