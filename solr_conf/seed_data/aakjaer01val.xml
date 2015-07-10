@@ -4,8 +4,6 @@
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
     <field name="id">aakjaer01val</field>
-    <field name="editor_ssi">some editor</field>
-    <field name="copyright_ssi">this is the copyright</field>
     <field name="volume_id_ssi">aakjaer01val</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer01val#</field>
     <field name="page_ssi">a</field>
