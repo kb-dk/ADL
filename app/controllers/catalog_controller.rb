@@ -58,7 +58,8 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'cat_ssi', :label => 'Genre'
+    config.add_facet_field 'type_ssi', :label => 'Format'
+    config.add_facet_field 'genre_ssi', :label => 'Genre'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -82,14 +83,18 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
-    config.add_index_field 'work_title_tesim', :label => 'Title'
+    config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', link_to_search: true
+    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link
     config.add_index_field 'cat_ssi', :label => 'Genre'
-    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
+    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', short_form: true, helper_method: :published_fields
 
     # this adds basic highlighting to index results
-    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
+    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted'
+    config.add_index_field 'editor_ssi', :label => 'Editor'
+    config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger'
     # comment this out because we're not using the default highlighting config
     # config.add_field_configuration_to_solr_request!
 
@@ -102,20 +107,31 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display 
-    config.add_show_field 'title_display', :label => 'Title'
-    config.add_show_field 'title_vern_display', :label => 'Title'
-    config.add_show_field 'subtitle_display', :label => 'Subtitle'
-    config.add_show_field 'subtitle_vern_display', :label => 'Subtitle'
-    config.add_show_field 'author_display', :label => 'Author'
-    config.add_show_field 'author_vern_display', :label => 'Author'
-    config.add_show_field 'format', :label => 'Format'
-    config.add_show_field 'url_fulltext_display', :label => 'URL'
-    config.add_show_field 'url_suppl_display', :label => 'More Information'
-    config.add_show_field 'language_facet', :label => 'Language'
-    config.add_show_field 'published_display', :label => 'Published'
-    config.add_show_field 'published_vern_display', :label => 'Published'
-    config.add_show_field 'lc_callnum_display', :label => 'Call number'
-    config.add_show_field 'isbn_t', :label => 'ISBN'
+    # config.add_show_field 'title_display', :label => 'Title'
+    # config.add_show_field 'title_vern_display', :label => 'Title'
+    # config.add_show_field 'subtitle_display', :label => 'Subtitle'
+    # config.add_show_field 'subtitle_vern_display', :label => 'Subtitle'
+    # config.add_show_field 'author_display', :label => 'Author'
+    # config.add_show_field 'author_vern_display', :label => 'Author'
+    # config.add_show_field 'format', :label => 'Format'
+    # config.add_show_field 'url_fulltext_display', :label => 'URL'
+    # config.add_show_field 'url_suppl_display', :label => 'More Information'
+    # config.add_show_field 'language_facet', :label => 'Language'
+    # config.add_show_field 'published_display', :label => 'Published'
+    # config.add_show_field 'published_vern_display', :label => 'Published'
+    # config.add_show_field 'lc_callnum_display', :label => 'Call number'
+    # config.add_show_field 'isbn_t', :label => 'ISBN'
+
+
+    # Work show fields
+    config.add_show_field 'genre_ssi', :label => 'Type'
+    config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link
+    config.add_show_field 'publisher_ssi', :label => 'Publisher'
+    config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
+    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
+    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
+
+
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for Blacklight::SearchFields
@@ -150,7 +166,6 @@ class CatalogController < ApplicationController
     config.add_search_field('title') do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
       field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
-
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
       # Solr parameter de-referencing like $title_qf.
@@ -166,18 +181,6 @@ class CatalogController < ApplicationController
       field.solr_local_parameters = { 
         :qf => '$author_qf',
         :pf => '$author_pf'
-      }
-    end
-    
-    # Specifying a :qt only to show it's possible, and so our internal automated
-    # tests can test it. In this case it's the same as 
-    # config[:default_solr_parameters][:qt], so isn't actually neccesary. 
-    config.add_search_field('subject') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'subject' }
-      field.qt = 'search'
-      field.solr_local_parameters = { 
-        :qf => '$subject_qf',
-        :pf => '$subject_pf'
       }
     end
 

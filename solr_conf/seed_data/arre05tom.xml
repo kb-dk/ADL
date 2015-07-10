@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="id">arre05tom</field>
+    <field name="volume_id_ssi">arre05tom</field>
+    <field name="url_ssi">http://adl.kb.dk/arre05tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">s1</field>
+    <field name="volume_title_tesim"> Indledning Og Kommentar. Ved Vagn Lundgaard Simonsen Under Medvirken Af Flemming Hovmann. Ordbog Ved Ebba Hjorth. 1983</field>
+    <field name="author_name">Arrebo, Anders</field>
+    <field name="author_id_ssi">c7/0f/28/94/c70f2894-7c51-4a87-a4ec-ff1036a95835</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Munksgaard</field>
+    <field name="published_place_ssi">["Kbh"]</field>
+  </doc>
+</add>

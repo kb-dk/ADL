@@ -11,20 +11,25 @@ namespace :adl do
   end
 
   task seed: :environment do
-    doc_path = Rails.root.join('solr_conf', 'doc.xml')
-    open doc_path do |f|
-      doc = f.read
-      solr = RSolr.connect(url: Blacklight.connection_config[:url])
-      solr.update(data: doc)
-      solr.commit
+    data_path = Rails.root.join('solr_conf', 'seed_data')
+    data_path.each_child do |e|
+      next if e.directory?
+      begin
+        open e do |f|
+          puts "ingesting #{f.path}"
+          doc = f.read
+          solr = RSolr.connect(url: Blacklight.connection_config[:url])
+          solr.update(data: doc)
+          solr.commit
+        end
+      rescue Exception => e
+        puts "error loading solerdoc #{doc}: #{e.message}"
+      end
     end
   end
 
   task :clear do
-    system "curl -H 'Content-Type: text/xml' #{blacklight_config['url']}/update?commit=true --data-binary '<delete><query>*:*</query></delete>'"
+    system "curl -H 'Content-Type: text/xml' #{Blacklight.connection_config[:url]}/update?commit=true --data-binary '<delete><query>*:*</query></delete>'"
   end
 
-  def blacklight_config
-    YAML.load(ERB.new(File.read("#{Rails.root}/config/blacklight.yml")).result)[Rails.env]
-  end
 end
