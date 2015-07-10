@@ -85,9 +85,9 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link
-    config.add_index_field 'cat_ssi', :label => 'Genre'
-    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', short_form: true, helper_method: :published_fields
+    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true
+    config.add_index_field 'cat_ssi', :label => 'Genre', short_form: true
+    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true
 
     # this adds basic highlighting to index results
     config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
