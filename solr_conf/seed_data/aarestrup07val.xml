@@ -3,6 +3,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Udvalgte Digte</field>
     <field name="id">aarestrup07val</field>
     <field name="volume_id_ssi">aarestrup07val</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup07val#</field>

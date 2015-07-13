@@ -22,6 +22,16 @@ class User < ActiveRecord::Base
     fullname
   end
 
+  # the following two methods are necessary because devise-guests
+  # has a dependency on database_authenticable which we are not using
+  # because we use cas_authenticatable. So these methods just provide the API
+  # expected by devise-guests without actually doing anything
+  def password_confirmation=(*args)
+  end
+
+  def password=(*args)
+  end
+
   # We use the fullname attribute rather than username because CAS auth expects
   # username to be the same one as used in the CAS login
   def cas_extra_attributes=(extra_attributes)
