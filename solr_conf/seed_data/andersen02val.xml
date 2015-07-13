@@ -3,6 +3,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">De To Baronesser</field>
     <field name="id">andersen02val</field>
     <field name="volume_id_ssi">andersen02val</field>
     <field name="url_ssi">http://adl.kb.dk/andersen02val#</field>
