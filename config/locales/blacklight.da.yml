@@ -147,7 +147,7 @@ da:
         submit: 'Send'
       text:
         title: '%{value}'
-        author: ' by %{value}'
+        author: ' af %{value}'
         url: 'Link: %{url}'
       errors:
         to:
@@ -161,8 +161,8 @@ da:
 
     search:
       bookmarks:
-          present: "Bogmærket"
-          absent: "Bogmærke"
+          present: "i Bogmærker"
+          absent: "Føj til Bogmærker"
           inprogress: "Gemmer..."
       title: '%{application_name} søgeresultater'
       search_results_header: 'Søg'
