@@ -47,7 +47,7 @@ module Blacklight
         # remove the termfreq function query if there is no query value
         # prevents Solr NullPointer bug.
         if params['q'].blank? && params['fl'].present?
-          params['fl'].sub!(/AND termfreq.+/, '').strip
+          params['fl'] = params['fl'].sub(/AND termfreq.+/, '').strip
         end
         res = connection.send_and_receive(path, {key=>params.to_hash, method: blacklight_config.http_method})
 
