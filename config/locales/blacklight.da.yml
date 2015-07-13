@@ -45,19 +45,19 @@ da:
       add:
         button: 'Bogmærk'
         success:
-          one: 'Dit bogmærk er blevet gemt.'
+          one: 'Dit bogmærke er blevet gemt.'
           other: 'Dine bogmærker er blevet gemt.'
         failure:  'Beklager, dine bogmærker kunne ikke gemmes'
       remove:
-        button: 'Fjern bogmærk'
-        success: 'Din bogmærk er blevet fjernet.'
-        failure: 'Beklager, din bogmærker kunne ikke fjernes.'
-        action_confirm: 'Fjerne bogmærket?'
+        button: 'Fjern bogmærke'
+        success: 'Din bogmærker er blevet fjernet.'
+        failure: 'Beklager, dine bogmærker kunne ikke fjernes.'
+        action_confirm: 'Fjern bogmærket?'
       clear:
         action_title: 'Ryd bogmærker'
         action_confirm: 'Ryd dine bogmærker?'
         success: 'Bogmærker ryddet.'
-        failure: 'Beklager din bogmærker kunne ikke ryddes.'
+        failure: 'Beklager dine bogmærker kunne ikke ryddes.'
       need_login: 'Venligst log ind for at se dine gemte bogmærker.'
       list_title: 'Dine bogmærker'
       delete: 'Slet'
@@ -77,13 +77,13 @@ da:
         success: 'Din søgning er blevet gemt.'
         failure: 'Din søgning kunne ikke gemmes.'
       remove:
-        success: 'Din gemt søgning blev slettet.'
-        failure: 'Din gemt søgning kunne ikke slettes.'
+        success: 'Din gemte søgning blev slettet.'
+        failure: 'Din gemte søgning kunne ikke slettes.'
       clear:
         action_title: 'Slet gemte søgninger'
         action_confirm: 'Slet dine gemte søgninger?'
-        success: 'Din gemte søgninger er blevet slettet'
-        failure: 'Din gemte søgninger kunne ikke slettes.'
+        success: 'Dine gemte søgninger er blevet slettet'
+        failure: 'Dine gemte søgninger kunne ikke slettes.'
       title: 'Gemte søgninger'
       need_login: 'Venligst log ind for at se dine gemte søgninger.'
       no_searches: 'Du har ikke nogen gemte søgninger'
@@ -104,9 +104,9 @@ da:
 
     tools:
       title: 'Værktøjer'
-      cite: 'Citere'
-      endnote: 'Eksport til EndNote'
-      refworks: 'Eksport til Refworks'
+      cite: 'Citer'
+      endnote: 'Eksporter til EndNote'
+      refworks: 'Eksporter til Refworks'
       email: 'Email'
       sms: 'SMS This'
       librarian_view: 'Librarian View'
@@ -136,7 +136,7 @@ da:
 
       errors:
         to:
-          invalid: 'Du skal indtaste en valid email adress'
+          invalid: 'Du skal indtaste en valid email adresse'
           blank: 'Du skal indtaste en modtager for at sende beskeden'
     sms:
       form:
@@ -162,7 +162,7 @@ da:
     search:
       bookmarks:
           present: "Bogmærket"
-          absent: "Bogmærk"
+          absent: "Bogmærke"
           inprogress: "Gemmer..."
       title: '%{application_name} søgeresultater'
       search_results_header: 'Søg'
