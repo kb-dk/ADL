@@ -83,17 +83,17 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
-    config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true
+    config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true, itemprop: :creativework
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link
-    config.add_index_field 'cat_ssi', :label => 'Genre'
-    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', short_form: true, helper_method: :published_fields
+    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :person
+    config.add_index_field 'cat_ssi', :label => 'Genre', itemprop: :genre
+    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', short_form: true, helper_method: :published_fields, itemprop: :organization
 
     # this adds basic highlighting to index results
     config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
-    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
-    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted'
-    config.add_index_field 'editor_ssi', :label => 'Editor'
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :book
+    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', itemprop: :place
+    config.add_index_field 'editor_ssi', :label => 'Editor', itemprop: :person
     config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger'
     # comment this out because we're not using the default highlighting config
     # config.add_field_configuration_to_solr_request!
@@ -190,7 +190,7 @@ class CatalogController < ApplicationController
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => 'relevance'
     # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
-    # config.add_sort_field 'author_sort asc, title_sort asc', :label => 'author'
+    config.add_sort_field 'author_ssi asc', :label => 'author'
     # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
 
     # If there are more than this many search results, no spelling ("did you 
