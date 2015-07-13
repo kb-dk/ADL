@@ -13,11 +13,15 @@ module ApplicationHelper
     return unless id.present?
     link_to args[:value], solr_document_path(id)
   end
+
   def published_fields args
     publisher = args[:document]['publisher_ssi']
     published_date = args[:document]['published_date_ssi']
-    #published_place = args[:document]['published_place_ssi']
-    published = (publisher+", "+published_date).html_safe
+    published = ""
+    published += publisher if publisher.present?
+    published += ", " if publisher.present? and published_date.present?
+    published += published_date if published_date.present?
+    published.html_safe
   end
 
   def render_snippet(id,op=nil)
