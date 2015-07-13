@@ -124,12 +124,12 @@ class CatalogController < ApplicationController
 
 
     # Work show fields
-    config.add_show_field 'genre_ssi', :label => 'Type'
-    config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link
-    config.add_show_field 'publisher_ssi', :label => 'Publisher'
-    config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume
-    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
-    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
+    config.add_show_field 'genre_ssi', :label => 'Type', itemprop: :genre
+    config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
+    config.add_show_field 'publisher_ssi', :label => 'Publisher', itemprop: :organization
+    config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :book
+    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
+    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted', itemprop: :place
 
 
 
