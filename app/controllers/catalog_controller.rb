@@ -83,18 +83,18 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
-    config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true, itemprop: :creativework
+    config.add_index_field 'work_title_tesim', :label => 'Title', short_form: true, itemprop: :name
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :person
+    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
     config.add_index_field 'cat_ssi', :label => 'Genre', itemprop: :genre
-    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', short_form: true, helper_method: :published_fields, itemprop: :organization
+    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', short_form: true, helper_method: :published_fields, itemprop: :publisher
 
     # this adds basic highlighting to index results
     config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
-    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :book
-    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', itemprop: :place
-    config.add_index_field 'editor_ssi', :label => 'Editor', itemprop: :person
-    config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger'
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf
+    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted'
+    config.add_index_field 'editor_ssi', :label => 'Editor', itemprop: :editor
+    config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
     # config.add_field_configuration_to_solr_request!
 
@@ -126,10 +126,10 @@ class CatalogController < ApplicationController
     # Work show fields
     config.add_show_field 'genre_ssi', :label => 'Type', itemprop: :genre
     config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
-    config.add_show_field 'publisher_ssi', :label => 'Publisher', itemprop: :organization
-    config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :book
+    config.add_show_field 'publisher_ssi', :label => 'Publisher', itemprop: :publisher
+    config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
-    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted', itemprop: :place
+    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
 
 
 

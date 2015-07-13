@@ -3,6 +3,19 @@ class SolrDocument
 
   include Blacklight::Solr::Document
 
+  # overwrite the default behaviour to enable different schema definitions
+  def itemtype
+    type = self.to_hash['cat_ssi'] || ''
+    case type
+      when 'work'
+        'http://schema.org/CreativeWork'
+      when 'person'
+        'http://schema.org/Person'
+      else
+        'http://schema.org/Thing'
+    end
+  end
+
   # self.unique_key = 'id'
   
   # Email uses the semantic field mappings below to generate the body of an email.
