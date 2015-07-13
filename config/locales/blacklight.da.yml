@@ -43,7 +43,7 @@ da:
       title: 'Bogmærker'
       no_bookmarks: 'You have no bookmarks'
       add:
-        button: 'Bogmærk'
+        button: '*Føj til Bogmærker'
         success:
           one: 'Dit bogmærke er blevet gemt.'
           other: 'Dine bogmærker er blevet gemt.'
