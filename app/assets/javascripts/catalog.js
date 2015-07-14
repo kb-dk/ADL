@@ -22,6 +22,12 @@ $(document).ready(function(){
         return false;
     });
 
+
+    /**
+     * Remove the 'leaf' option from search_field options
+     */
+    $("#search_field option[value='leaf']").remove()
+
 });
 
 //Change the label fo the collapse buttons in the search results page
