@@ -22,11 +22,32 @@ $(document).ready(function(){
         return false;
     });
 
-
     /**
      * Remove the 'leaf' option from search_field options
      */
     $("#search_field option[value='leaf']").remove()
+
+    $("[data-function='worksearch']").click(function(e){
+        workid = encodeURIComponent($(this).data('workid'));
+        qselector = $(this).data('selector');
+        target_selector = $(this).data('target');
+        q = encodeURIComponent($(qselector).val());
+        $.ajax({
+            type: 'GET',
+            url: '/catalog.json?search_field=leaf&rows=200&q='+q+'&workid='+workid,
+            datatype: 'json',
+            success: function(data) {
+                $(target_selector).empty();
+                docs = data.response.docs
+                $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' Matches</p></div>');
+                for (i in docs) {
+                    $(target_selector).append('<p><a href="'+extractDivId(docs[i].id)+'">'+docs[i].text_tesim+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                }
+            }
+
+        });
+       return false;
+    });
 
 });
 
@@ -34,4 +55,8 @@ $(document).ready(function(){
 function changeButtonLabel(elem){
     if (elem.innerHTML.trim()=="Vis mere") elem.innerHTML = "Vis mindre";
     else elem.innerHTML = "Vis mere"
+}
+
+function extractDivId(id){
+    return id.substr(id.lastIndexOf('#'));
 }
