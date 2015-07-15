@@ -92,6 +92,7 @@
          volume_title_tesim
          text_tesim
          author_name
+         part_of_ssi
          all_text_timv
        </str>
        <str name="pf">
@@ -336,7 +337,8 @@
         isbn_t, 
         language_facet, 
         lc_callnum_display,
-        material_type_display, 
+        material_type_display,
+        part_of_ssi
         published_display,
         published_vern_display,
         pub_date,
