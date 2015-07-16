@@ -3,8 +3,10 @@
 
   <% vol = @document['volume_id_ssi'] %>
   <% text = FileServer.render_snippet(@document.id) %>
-  <% image_links(vol, text).each do |link| %>
-    <%= image_tag link %>
+  <% pages(text).each do |page| %>
+      <%= content_tag :div, id: page do %>
+        <%= image_tag(img_link(vol, page)) %>
+    <% end %>
   <% end %>
 </div>
 <div id="sidebar" class="<%= show_sidebar_classes %>">

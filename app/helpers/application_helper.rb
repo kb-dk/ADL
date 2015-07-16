@@ -57,8 +57,12 @@ module ApplicationHelper
   end
 
   def image_links(vol_name, text)
+    pages(text).collect { |num| img_link(vol_name, num.text)}
+  end
+
+  def pages(text)
     xml = Nokogiri::XML(text)
-    xml.xpath('//span/small').collect { |num| img_link(vol_name, num.text)}
+    xml.xpath('//span/small/text()').to_a.collect(&:to_s)
   end
 
   def is_number? string
