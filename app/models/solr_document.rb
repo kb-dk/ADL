@@ -29,6 +29,26 @@ class SolrDocument
   # single valued. See Blacklight::Document::SemanticFields#field_semantics
   # and Blacklight::Document::SemanticFields#to_semantic_values
   # Recommendation: Use field names from Dublin Core
-  use_extension( Blacklight::Document::DublinCore)    
+  use_extension( Blacklight::Document::DublinCore)
+
+
+  field_semantics.merge!(
+      #dc_fields
+      #:contributor,
+      #:coverage,
+      :creator => 'author_name',
+      #:date,
+      #:description,
+      #:format,
+      :identifier => 'id',
+      #:language,
+      :publisher=> 'publisher_ssi',
+      #:relation,
+      #:rights,
+      #:source,
+      #:subject,
+      :title => 'work_title_tesim',
+      #:type
+  )
 
 end
