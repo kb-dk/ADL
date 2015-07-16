@@ -1,6 +1,9 @@
 <%# default partial to display solr document fields in catalog show view -%>
 <div class="text-content">
+  <div class="worksearch">
+    <%= render partial: 'work_search', locals: {document: document} %>
+  </div>
   <div class="text">
-    <%= render_snippet(document[:id]) %>
+    <%= FileServer.render_snippet(document[:id]) %>
   </div>
 </div>

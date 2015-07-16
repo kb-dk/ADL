@@ -17,4 +17,5 @@
 /tmp
 /jetty
 /.idea
+/public/pdfs/*.pdf
 .keep
