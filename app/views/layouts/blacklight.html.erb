@@ -8,6 +8,12 @@
   <meta name="author" content="">
 
 
+  <div id="cookie-button" class="alert alert-info alert-dismissible  in text-center announcement" role="alert" style="display: none;">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close" onclick="cookieTerms('terms', 'true', 60)">OK</button>
+    <span>Bekendtgørelse om krav til information og samtykke ved lagring af eller adgang til oplysninger i slutbrugeres terminaludstyr. &nbsp; </span>
+    <a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=139279" class="btn btn-primary btn-sm">Læs mere</a>
+  </div>
+
   <title><%= render_page_title %></title>
   <%= opensearch_description_tag application_name, opensearch_catalog_path(:format => 'xml', :only_path => false) %>
   <%= stylesheet_link_tag    "application" %>
@@ -24,7 +30,7 @@
   <![endif]-->
 
 </head>
-<body class="<%= render_body_class %>">
+<body class="<%= render_body_class %>" onload="checkCookie()">
 <%= render :partial => 'shared/header_navbar' %>
 <div class="container">
   <div class="row">
