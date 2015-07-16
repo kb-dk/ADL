@@ -1,3 +1,4 @@
+<% document ||= @document %>
 <% # bookmark/folder functions -%>
 <%= render_document_heading(document, :tag => :h1) %>
 <dl class="dl-horizontal  dl-invert">
@@ -9,3 +10,4 @@
   <% end -%>
 </dl>
 <%= link_to 'Download som PDF', solr_document_path(document, format: :pdf ) %>
+<%= link_to 'Facsimile', facsimile_catalog_path(document) %>

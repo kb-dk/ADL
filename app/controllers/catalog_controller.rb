@@ -158,6 +158,10 @@ class CatalogController < ApplicationController
       end
     end
 
+    def facsimile
+      @response, @document = fetch(params[:id])
+    end
+
 
 
     # "fielded" search configuration. Used by pulldown among other places.

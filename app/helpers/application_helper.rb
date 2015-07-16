@@ -44,7 +44,24 @@ module ApplicationHelper
     text = pieces.first
     num = pieces[1].sub('0', '').sub(/[a-zA-Z]+/, '')
     vol_dir = text + num
-    fname = text[0..3] + num + pb.sub(/[a-zA-Z]/, '')
+    if is_number? pb
+      index = pb.sub(/[a-zA-Z]/, '').rjust(3, '0')
+    else
+      # "s. a" => fm001 etc
+      letters = ('a'..'z').to_a
+      letter_pos = (letters.index(pb) + 1).to_s
+      index = 'fm' + letter_pos.rjust(3, '0')
+    end
+    fname = text[0..3] + num + index
     Rails.application.config_for(:adl)['img_url'] % {vol: vol_dir, file: fname}
+  end
+
+  def image_links(vol_name, text)
+    xml = Nokogiri::XML(text)
+    xml.xpath('//span/small').collect { |num| img_link(vol_name, num.text)}
+  end
+
+  def is_number? string
+    true if Float(string) rescue false
   end
 end

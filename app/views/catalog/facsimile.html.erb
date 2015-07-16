@@ -1,0 +1,12 @@
+<div id="content" class="<%= show_content_classes %>">
+<%= render partial: 'catalog/show_header_work' %>
+
+  <% vol = @document['volume_id_ssi'] %>
+  <% text = FileServer.render_snippet(@document.id) %>
+  <% image_links(vol, text).each do |link| %>
+    <%= image_tag link %>
+  <% end %>
+</div>
+<div id="sidebar" class="<%= show_sidebar_classes %>">
+  <%= render_document_sidebar_partial %>
+</div>
