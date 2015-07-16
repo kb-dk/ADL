@@ -47,7 +47,8 @@ module ApplicationHelper
       # "s. i" => fm001 etc
       index = pb.sub(/[a-zA-Z]/, '').rjust(3, '0')
     elsif is_roman?(pb) && (is_roman?(prev) || prev.nil?)
-      index = RomanNumerals.to_decimal(pb).to_s.rjust(3, '0')
+      n = RomanNumerals.to_decimal(pb).to_s.rjust(3, '0')
+      index = 'fm' + n
     else
       # "s. a" => fm001 etc
       letters = ('a'..'z').to_a
