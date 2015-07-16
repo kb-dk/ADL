@@ -133,6 +133,33 @@ class CatalogController < ApplicationController
     config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
 
 
+    # Overwriting this method to enable pdf generation using WickedPDF
+    # Unfortunately the additional_export_formats method was quite difficult t
+    # to use for this use case.
+    def show
+      @response, @document = fetch params[:id]
+
+      name = @document['work_title_tesim'].first.strip rescue @document.id
+      path = Rails.root.join('public', 'pdfs', "#{@document.id.gsub('/', '_')}.pdf")
+
+      respond_to do |format|
+        format.html { setup_next_and_previous_documents }
+        format.json { render json: { response: { document: @document } } }
+        format.pdf do
+          # if we've already created the file, no need to regenerate it
+          if File.exist? path.to_s
+            send_file path.to_s, type: 'application/pdf', disposition: :inline
+          else
+            render pdf: name, footer: { right: '[page] af [topage] sider' },
+                   save_to_file: path
+          end
+        end
+
+        additional_export_formats(@document, format)
+      end
+    end
+
+
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for Blacklight::SearchFields
