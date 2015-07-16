@@ -34,7 +34,7 @@ $(document).ready(function(){
         q = encodeURIComponent($(qselector).val());
         $.ajax({
             type: 'GET',
-            url: '/catalog.json?search_field=leaf&rows=200&q='+q+'&workid='+workid,
+            url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+workid,
             datatype: 'json',
             success: function(data) {
                 $(target_selector).empty();
@@ -49,7 +49,20 @@ $(document).ready(function(){
        return false;
     });
 
+    /*
+     * Get the query from the 'back to search' link and trigger an  automatic document search
+     * with that query
+     */
+    var q= getURLParameter($("div.search-widgets a[id!='startoverlink']").attr('href').split('?'),'q');
+    if (q!= null && q != '') {
+        $("#wq").val(q);
+        $("#worksearch_btn").click();
+    }
+
+
 });
+
+
 
 //Change the label fo the collapse buttons in the search results page
 function changeButtonLabel(elem){
@@ -59,4 +72,8 @@ function changeButtonLabel(elem){
 
 function extractDivId(id){
     return id.substr(id.lastIndexOf('#'));
+}
+
+function getURLParameter(url,name) {
+    return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(url)||[,""])[1].replace(/\+/g, '%20'))||null
 }
