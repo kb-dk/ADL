@@ -159,6 +159,12 @@ class CatalogController < ApplicationController
       end
     end
 
+    # we do not want to start a new search_session for 'leaf' searches
+    # to avoid messing up previous and next links
+    def start_new_search_session?
+      action_name == "index" && params['search_field'] != 'leaf'
+    end
+
 
 
     # "fielded" search configuration. Used by pulldown among other places.
