@@ -22,6 +22,8 @@ $(document).ready(function(){
         return false;
     });
 
+    $("img").unveil();
+
 });
 
 //Change the label fo the collapse buttons in the search results page
@@ -29,3 +31,4 @@ function changeButtonLabel(elem){
     if (elem.innerHTML.trim()=="Vis mere") elem.innerHTML = "Vis mindre";
     else elem.innerHTML = "Vis mere"
 }
+

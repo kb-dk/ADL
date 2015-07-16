@@ -6,7 +6,7 @@
   <% prev_page = nil %>
   <% pages(text).each do |page| %>
       <%= content_tag :div, id: page do %>
-        <%= image_tag(img_link(vol, page, prev_page)) %>
+        <%= image_tag('default.gif', data: { src: img_link(vol, page, prev_page) }) %>
     <% end %>
     <% prev_page = page %>
   <% end %>
