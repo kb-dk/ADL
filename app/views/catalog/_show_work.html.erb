@@ -1,7 +1,5 @@
 <%# default partial to display solr document fields in catalog show view -%>
 <div class="text-content">
-  <% vol = document['volume_id_ssi'] %>
-  <%= img_link vol, 's258' %>
   <div class="text">
     <%= FileServer.render_snippet(document[:id]) %>
   </div>
