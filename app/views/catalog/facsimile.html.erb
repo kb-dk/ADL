@@ -3,10 +3,12 @@
 
   <% vol = @document['volume_id_ssi'] %>
   <% text = FileServer.render_snippet(@document.id) %>
+  <% prev_page = nil %>
   <% pages(text).each do |page| %>
       <%= content_tag :div, id: page do %>
-        <%= image_tag(img_link(vol, page)) %>
+        <%= image_tag(img_link(vol, page, prev_page)) %>
     <% end %>
+    <% prev_page = page %>
   <% end %>
 </div>
 <div id="sidebar" class="<%= show_sidebar_classes %>">

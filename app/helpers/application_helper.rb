@@ -39,25 +39,32 @@ module ApplicationHelper
   end
 
   # logic to create the url for the ADL facsimiles
-  def img_link(vol_name, pb)
+  def img_link(vol_name, pb, prev)
     pieces = vol_name.partition(/\d.+/)
     text = pieces.first
     num = pieces[1].sub('0', '').sub(/[a-zA-Z]+/, '')
-    vol_dir = text + num
     if is_number? pb
+      # "s. i" => fm001 etc
       index = pb.sub(/[a-zA-Z]/, '').rjust(3, '0')
+    elsif is_roman?(pb) && (is_roman?(prev) || prev.nil?)
+      index = RomanNumerals.to_decimal(pb).to_s.rjust(3, '0')
     else
       # "s. a" => fm001 etc
       letters = ('a'..'z').to_a
-      letter_pos = (letters.index(pb) + 1).to_s
+      letter_pos = (letters.index(pb.downcase) + 1).to_s
       index = 'fm' + letter_pos.rjust(3, '0')
     end
     fname = text[0..3] + num + index
-    Rails.application.config_for(:adl)['img_url'] % {vol: vol_dir, file: fname}
+    # leaving this fail code here for now to make errors more obvious
+    IMAGE_REFS[fname] || fail
   end
 
   def image_links(vol_name, text)
-    pages(text).collect { |num| img_link(vol_name, num.text)}
+    prev = nil
+    pages(text).collect do |num|
+      img_link(vol_name, num.text, prev)
+      prev = num
+    end
   end
 
   def pages(text)
@@ -67,5 +74,19 @@ module ApplicationHelper
 
   def is_number? string
     true if Float(string) rescue false
+  end
+
+  # don't allow roman numerals larger than 100, to prevent
+  # the d problem - a hack but I presume that there are no
+  # introductions longer than 100 pages
+  def is_roman? string
+    num = RomanNumerals.to_decimal(string) rescue return
+    num.between?(1, 100)
+  end
+
+  # Use regex to wrap all page breaks with links to corresponding
+  # anchor in facsimile view
+  def text_with_image_links(text, id)
+    text.gsub(/(\[s\. <small>(\w|\d.+)<\/small>])/,'<a href="' + id + '/facsimile#\2" target="blank">\1</a>')
   end
 end

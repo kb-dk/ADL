@@ -29,6 +29,8 @@ gem 'high_voltage', '~> 2.3.0'
 gem 'wicked_pdf'
 gem 'wkhtmltopdf-binary'
 
+gem 'roman-numerals'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
