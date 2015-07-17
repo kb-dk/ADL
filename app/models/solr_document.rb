@@ -29,6 +29,18 @@ class SolrDocument
   # single valued. See Blacklight::Document::SemanticFields#field_semantics
   # and Blacklight::Document::SemanticFields#to_semantic_values
   # Recommendation: Use field names from Dublin Core
-  use_extension( Blacklight::Document::DublinCore)    
+  use_extension( Blacklight::Document::DublinCore)
+
+  def export_as_apa_citation_txt
+    doc = self.to_hash
+    cite = ""
+    cite += doc['author_name'].first + ". "
+    cite += "("+ doc['published_date'] + "). " unless doc['published_date_ssi'].blank?
+    cite +=  doc['work_title_tesim'].first + ". "
+    cite +=  I18n.t('blacklight.retrieve') + doc['volume_title_tesim'].first + ". " unless doc['volume_title_tesim'].blank?
+    cite +=  doc['published_place_ssi'] + ": " unless doc['published_place_ssi'].blank?
+    cite +=  doc['publisher_ssi'] + ". " unless doc['publisher_ssi'].blank?
+    cite.html_safe
+  end
 
 end

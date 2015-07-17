@@ -239,3 +239,5 @@ da:
     page_entries: 'hh'
 
     did_you_mean: 'Mente du: %{options}?'
+
+    retrieve: 'Hentet fra '
