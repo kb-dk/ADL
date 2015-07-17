@@ -1,0 +1,17 @@
+
+<% @documents.each do |document| %>
+
+  <h4><%= document['author_name'].first %>.
+  <%= document_heading(document) %>.
+
+<% unless document['published_date'].blank? %>
+  (<%= document['published_date'].first %>).
+<% end %>
+
+<% unless document['volume_title_tesim'].blank? %>
+  <i><%= document['volume_title_tesim'].first %>.</i>
+<% end %>
+
+  </h4>
+
+<% end %>
