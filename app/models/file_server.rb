@@ -14,4 +14,19 @@ class FileServer
     end
     result.html_safe.force_encoding('UTF-8')
   end
+
+  # Using the data in the images file, find the correct href for the facsimile
+  # This is a heavy operation! A better solution would be to correct the attributes
+  # in the TEI / HTML to prevent the large number of Hash lookups.
+  # Note that we use data-src here in concert with the jQuery Unveil plugin
+  # to lazy load our images
+  def self.render_facsimile(id)
+    html = FileServer.render_snippet(id, 'facsimile')
+    xml = Nokogiri::HTML(html)
+    xml.css('img').each do |img|
+      img['src'] = 'images/default.gif'
+      img['data-src'] = IMAGE_REFS.fetch img['data-src'], 'images/default.gif'
+    end
+    xml.to_xml
+  end
 end
