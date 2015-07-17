@@ -85,9 +85,8 @@ module ApplicationHelper
     num.between?(1, 100)
   end
 
-  # Use regex to wrap all page breaks with links to corresponding
-  # anchor in facsimile view
+  # correct image links from served HTML
   def text_with_image_links(text, id)
-    text.gsub(/(\[s\. <small>(\w|\d.+)<\/small>])/,'<a href="' + id + '/facsimile#\2" target="blank">\1</a>')
+   text.gsub('a href="/facsimile', "a href=\"/catalog/#{id}/facsimile")
   end
 end
