@@ -22,6 +22,8 @@ $(document).ready(function(){
         return false;
     });
 
+
+    // Uses jQuery unveil library for lazyloading facsimile images
     $("img").unveil();
 
 });
