@@ -233,6 +233,32 @@ class CatalogController < ApplicationController
     # If there are more than this many search results, no spelling ("did you 
     # mean") suggestion is offered.
     config.spell_max = 5
+
+    config[:oai] = {
+        :provider => {
+            :repository_name => 'ADL OAI',
+            :repository_url => 'http://localhost:3000/oai',
+            :record_prefix => '',
+            :admin_email => 'root@localhost'
+        },
+        :document => {
+            :timestamp => 'timestamp',
+            :limit => 25
+        }
+    }
   end
 
+
+  def oai
+    options = params.delete_if { |k,v| %w{controller action}.include?(k) }
+    render :text => oai_provider.process_request(options), :content_type => 'text/xml'
+  end
+
+  def oai_config
+    blacklight_config.oai || {}
+  end
+
+  def oai_provider
+    @oai_provider ||= SolrDocumentProvider.new(self, oai_config)
+  end
 end 
