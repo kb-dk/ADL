@@ -42,7 +42,7 @@ module ApplicationHelper
   end
 
   def first_page_link(text)
-    's' + pages(text).first
+    '#s' + pages(text).first unless pages(text).empty?
   end
 
   # correct image links from served HTML
