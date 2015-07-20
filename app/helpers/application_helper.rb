@@ -24,8 +24,6 @@ module ApplicationHelper
     published.html_safe
   end
 
-
-
   def present_snippets args
     val = args[:value]
     return unless val.present?
@@ -38,55 +36,18 @@ module ApplicationHelper
     link_to label, '#', data: { search_type: type,  no_turbolink: true }
   end
 
-  # logic to create the url for the ADL facsimiles
-  def img_link(vol_name, pb, prev)
-    pieces = vol_name.partition(/\d.+/)
-    text = pieces.first
-    num = pieces[1].sub('0', '').sub(/[a-zA-Z]+/, '')
-    if is_number? pb
-      # "s. i" => fm001 etc
-      index = pb.sub(/[a-zA-Z]/, '').rjust(3, '0')
-    elsif is_roman?(pb) && (is_roman?(prev) || prev.nil?)
-      n = RomanNumerals.to_decimal(pb).to_s.rjust(3, '0')
-      index = 'fm' + n
-    else
-      # "s. a" => fm001 etc
-      letters = ('a'..'z').to_a
-      letter_pos = (letters.index(pb.downcase) + 1).to_s
-      index = 'fm' + letter_pos.rjust(3, '0')
-    end
-    fname = text[0..3] + num + index
-    # leaving this fail code here for now to make errors more obvious
-    IMAGE_REFS[fname] || fail
-  end
-
-  def image_links(vol_name, text)
-    prev = nil
-    pages(text).collect do |num|
-      img_link(vol_name, num.text, prev)
-      prev = num
-    end
-  end
-
   def pages(text)
     xml = Nokogiri::XML(text)
-    xml.xpath('//span/small/text()').to_a.collect(&:to_s)
+    xml.xpath('//span/a/small/text()').to_a.collect(&:to_s)
   end
 
-  def is_number? string
-    true if Float(string) rescue false
-  end
-
-  # don't allow roman numerals larger than 100, to prevent
-  # the d problem - a hack but I presume that there are no
-  # introductions longer than 100 pages
-  def is_roman? string
-    num = RomanNumerals.to_decimal(string) rescue return
-    num.between?(1, 100)
+  def first_page_link(text)
+    's' + pages(text).first
   end
 
   # correct image links from served HTML
+  # Note the no turbolink rule to enable unveil plugin to work properly
   def text_with_image_links(text, id)
-   text.gsub('a href="/facsimile', "a href=\"/catalog/#{id}/facsimile")
+   text.gsub('a href="/facsimile', "a data-no-turbolink=\"true\" href=\"/catalog/#{id}/facsimile")
   end
 end

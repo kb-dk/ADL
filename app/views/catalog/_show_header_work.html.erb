@@ -12,4 +12,9 @@
 <%= link_to 'Tekst', solr_document_path(document) %>
 <%= link_to 'Download som PDF', solr_document_path(document, format: :pdf ) %>
 <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-<%= link_to 'Facsimile', facsimile_catalog_path(document), data: { no_turbolink: true } %>
+<%# HACK -  We render the text already here so that we can link to the correct page in the full facsimile view %>
+<%# See DE166 for more details %>
+<% text ||= FileServer.render_snippet(document[:id]) %>
+<% first_pb = first_page_link(text) %>
+<% vol = document['volume_id_ssi'].present?  ? document['volume_id_ssi'] : document.id %>
+<%= link_to 'Facsimile', facsimile_catalog_path(vol) + "##{first_pb}", data: { no_turbolink: true } %>

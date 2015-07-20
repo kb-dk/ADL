@@ -23,9 +23,12 @@ class FileServer
   def self.render_facsimile(id)
     html = FileServer.render_snippet(id, 'facsimile')
     xml = Nokogiri::HTML(html)
+    # we use the path_to_image helper here to insert a loading gif
+    # we need to use the helper to take care of watermarking for us
+    loading_image = ActionController::Base.helpers.path_to_image('default.gif')
     xml.css('img').each do |img|
-      img['src'] = 'images/default.gif'
-      img['data-src'] = IMAGE_REFS.fetch img['data-src'], 'images/default.gif'
+      img['src'] = loading_image
+      img['data-src'] = IMAGE_REFS.fetch img['data-src'], loading_image
     end
     xml.to_xml
   end
