@@ -9,4 +9,9 @@ class SearchBuilder < Blacklight::SearchBuilder
       solr_params[:fq] << "part_of_ssi:#{workid}"
     end
   end
+
+  def restrict_to_works solr_params
+    solr_params[:fq] ||= []
+    solr_params[:fq] << "cat_ssi:work"
+  end
 end

@@ -1,5 +1,5 @@
 # -*- encoding : utf-8 -*-
-class CatalogController < ApplicationController  
+class CatalogController < ApplicationController
 
   include Blacklight::Catalog
 
@@ -10,6 +10,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
+      :fq => 'type_ssi:trunk',
       # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3'
@@ -62,6 +63,7 @@ class CatalogController < ApplicationController
     config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'genre_ssi', :label => 'Genre'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
+    config.add_facet_field 'cat_ssi', :label => 'Kategori'
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
     # config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
@@ -233,32 +235,16 @@ class CatalogController < ApplicationController
     # If there are more than this many search results, no spelling ("did you 
     # mean") suggestion is offered.
     config.spell_max = 5
-
-    config[:oai] = {
-        :provider => {
-            :repository_name => 'ADL OAI',
-            :repository_url => 'http://localhost:3000/oai',
-            :record_prefix => '',
-            :admin_email => 'root@localhost'
-        },
-        :document => {
-            :timestamp => 'timestamp',
-            :limit => 25
-        }
-    }
   end
 
 
   def oai
     options = params.delete_if { |k,v| %w{controller action}.include?(k) }
-    render :text => oai_provider.process_request(options), :content_type => 'text/xml'
-  end
-
-  def oai_config
-    blacklight_config.oai || {}
+    p = oai_provider
+    render :text => p.process_request(options), :content_type => 'text/xml'
   end
 
   def oai_provider
-    @oai_provider ||= SolrDocumentProvider.new(self, oai_config)
+    @oai_provider ||= ::AdlDocumentProvider.new(self)
   end
 end 

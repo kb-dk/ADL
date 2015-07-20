@@ -52,7 +52,7 @@ class SolrDocument
   )
 
   def timestamp
-    Time.parse get('timestamp')
+    Time.parse fetch('timestamp')
   end
   def to_oai_dc
     export_as('oai_dc_xml')
