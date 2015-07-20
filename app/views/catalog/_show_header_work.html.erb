@@ -17,4 +17,5 @@
 <% text ||= FileServer.render_snippet(document[:id]) %>
 <% first_pb = first_page_link(text) %>
 <% vol = document['volume_id_ssi'].present?  ? document['volume_id_ssi'] : document.id %>
-<%= link_to 'Facsimile', facsimile_catalog_path(vol) + "##{first_pb}", data: { no_turbolink: true } %>
+<%= link_to 'Faksimile', facsimile_catalog_path(vol) + "##{first_pb}", data: { no_turbolink: true } %>
+<%= link_to 'Download faksimile som pdf', facsimile_catalog_path(vol, format: :pdf) %>
