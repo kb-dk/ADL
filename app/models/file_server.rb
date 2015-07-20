@@ -21,15 +21,30 @@ class FileServer
   # Note that we use data-src here in concert with the jQuery Unveil plugin
   # to lazy load our images
   def self.render_facsimile(id)
-    html = FileServer.render_snippet(id, 'facsimile')
+    html = FileServer.facsimile(id)
     xml = Nokogiri::HTML(html)
     # we use the path_to_image helper here to insert a loading gif
     # we need to use the helper to take care of watermarking for us
     loading_image = ActionController::Base.helpers.path_to_image('default.gif')
     xml.css('img').each do |img|
-      img['src'] = loading_image
-      img['data-src'] = IMAGE_REFS.fetch img['data-src'], loading_image
-    end
+        img['src'] = loading_image
+        img['data-src'] = IMAGE_REFS.fetch img['data-src'], loading_image
+      end
     xml.to_xml
+  end
+
+  # return all image links for use in facsimile pdf view
+  def self.image_links(id)
+    html = FileServer.facsimile(id)
+    xml = Nokogiri::HTML(html)
+    links = []
+    xml.css('img').each do |img|
+      links << IMAGE_REFS.fetch(img['data-src'], '')
+    end
+    links
+  end
+
+  def self.facsimile(id)
+    FileServer.render_snippet(id, 'facsimile')
   end
 end
