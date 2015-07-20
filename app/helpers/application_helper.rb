@@ -24,6 +24,8 @@ module ApplicationHelper
     published.html_safe
   end
 
+
+
   def present_snippets args
     val = args[:value]
     return unless val.present?
@@ -49,5 +51,12 @@ module ApplicationHelper
   # Note the no turbolink rule to enable unveil plugin to work properly
   def text_with_image_links(text, id)
    text.gsub('a href="/facsimile', "a data-no-turbolink=\"true\" href=\"/catalog/#{id}/facsimile")
+  end
+
+  # Generic method to create glyphicon icons
+  # supply only the last component of the icon name
+  # e.g. 'off', 'cog' etc
+  def bootstrap_glyphicon(icon, classes = '')
+    content_tag(:span, nil, class: "glyphicon glyphicon-#{icon} #{classes}").html_safe
   end
 end
