@@ -156,7 +156,6 @@ GEM
     ref (1.0.5)
     responders (2.1.0)
       railties (>= 4.2.0, < 5)
-    roman-numerals (0.3.0)
     rsolr (1.0.12)
       builder (>= 2.1.2)
     rubycas-client (2.3.9)
@@ -216,7 +215,6 @@ DEPENDENCIES
   jettywrapper (>= 2.0)
   jquery-rails
   rails (= 4.2.1)
-  roman-numerals
   rsolr (~> 1.0.6)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
