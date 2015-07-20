@@ -1,0 +1,18 @@
+<%# default partial to display solr document fields in catalog show view -%>
+<dl class="dl-horizontal  dl-invert" xmlns="http://www.w3.org/1999/html">
+  <% if document['birth_date_ssi'] %>
+      <dt>Født:</dt>
+      <dd><%= document['birth_date_ssi'] %></dd>
+  <%end %>
+
+  <% if document['death_date_ssi'] %>
+      <dt>Død:</dt>
+      <dd><%= document['death_date_ssi'] %></dd>
+  <%end %>
+
+  <h1><small>Links</small></h1>
+  <a>Forfatterportræt</a><br>
+  <% @genres.each do |key, value| %>
+      <a href="/?f[author_ssi][]=<%= document['author_name'].first %>&f[genre_ssi][]=<%= key %>"><%= key.to_s.capitalize %> (<%= value %>)</a><br>
+  <%end %>
+</dl>

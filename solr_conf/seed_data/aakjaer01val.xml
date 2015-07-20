@@ -31,6 +31,7 @@
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Digte 1885-1908</field>
+    <field name="genre_ssi">drama</field>
     <field name="head_tesim">
             I NATTENS TIME
             .
@@ -1214,6 +1215,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">drama</field>
     <field name="work_title_tesim">
     MEJERISTSANG
     
@@ -1821,6 +1823,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">drama</field>
     <field name="work_title_tesim">
     STRINDBERG
     
@@ -1966,6 +1969,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">prose</field>
     <field name="work_title_tesim">
     BONDE-GYMNASTIK
     
@@ -2393,6 +2397,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">prose</field>
     <field name="work_title_tesim">
     VI SAD ALENE -
     
@@ -2626,6 +2631,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">prose</field>
     <field name="work_title_tesim">
     ARBEJD
     
@@ -2716,6 +2722,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">prose</field>
     <field name="work_title_tesim">
     UNG
     
@@ -2997,6 +3004,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     AA, SPIL DE TONER -
     
@@ -3196,6 +3204,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     I RANDBØL DAL
     
@@ -3482,6 +3491,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     FØDT I JULI MAANED -
     
@@ -3661,6 +3671,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     DET 'LEVENDE' ORD
     
@@ -3749,6 +3760,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     DU BLEGE KVINDE -
     
@@ -4176,6 +4188,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     MIN VENINDES ØJNE
     
@@ -4544,6 +4557,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     FØRSTE GANG
     
@@ -4874,6 +4888,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     IFALD JEG KUNDE DANSE -
     
@@ -5068,6 +5083,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
+    <field name="genre_ssi">lyrik</field>
     <field name="work_title_tesim">
     LAAN MIG TYVE DUKATER -
     

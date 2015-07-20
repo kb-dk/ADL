@@ -11,7 +11,7 @@ module ApplicationHelper
   def author_link args
     id = args[:document]['author_id_ssi']
     return unless id.present?
-    link_to args[:value], solr_document_path(id)
+    link_to args[:value], controller: "people", action: "show", id: id
   end
 
   def published_fields args

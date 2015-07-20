@@ -3,12 +3,13 @@ class CatalogController < ApplicationController
 
   include Blacklight::Catalog
 
+  self.search_params_logic += [:add_work_id]
+
   configure_blacklight do |config|
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => '-type_ssi:leaf',
       # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3'
@@ -168,6 +169,12 @@ class CatalogController < ApplicationController
       end
     end
 
+    # we do not want to start a new search_session for 'leaf' searches
+    # to avoid messing up previous and next links
+    def start_new_search_session?
+      action_name == "index" && params['search_field'] != 'leaf'
+    end
+
 
 
     # "fielded" search configuration. Used by pulldown among other places.
@@ -191,6 +198,7 @@ class CatalogController < ApplicationController
     config.add_search_field 'all_fields' do |field|
       # add the fulltext term frequence to the result docs
       field.solr_parameters = {
+          :fq => 'type_ssi:trunk',
           :fl => '* AND termfreq(text_tesim, $q)'
       }
     end
@@ -202,7 +210,7 @@ class CatalogController < ApplicationController
     
     config.add_search_field('title') do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
-      field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
+      field.solr_parameters = { :'spellcheck.dictionary' => 'title', :fq => 'type_ssi:trunk',}
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
       # Solr parameter de-referencing like $title_qf.
@@ -214,10 +222,18 @@ class CatalogController < ApplicationController
     end
     
     config.add_search_field('author') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
+      field.solr_parameters = { :'spellcheck.dictionary' => 'author', :fq => 'type_ssi:trunk', }
       field.solr_local_parameters = { 
         :qf => '$author_qf',
         :pf => '$author_pf'
+      }
+    end
+
+    config.add_search_field('leaf') do |field|
+      field.solr_parameters = { :fq => 'type_ssi:leaf' }
+      field.solr_local_parameters = {
+          :qf => '$text_qf',
+          :pf => '$text_pf'
       }
     end
 
