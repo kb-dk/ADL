@@ -24,8 +24,6 @@ module ApplicationHelper
     published.html_safe
   end
 
-
-
   def present_snippets args
     val = args[:value]
     return unless val.present?
@@ -37,4 +35,25 @@ module ApplicationHelper
   def search_type_link(type, label)
     link_to label, '#', data: { search_type: type,  no_turbolink: true }
   end
+
+  module Blacklight::UrlHelperBehavior
+  ##
+  # Extension point for downstream applications
+  # to provide more interesting routing to
+  # documents
+    def url_for_document doc, options = {}
+      if respond_to?(:blacklight_config) and
+          blacklight_config.show.route and
+          (!doc.respond_to?(:to_model) or doc.to_model.is_a? SolrDocument)
+        route = blacklight_config.show.route.merge(action: :show, id: doc).merge(options)
+        route[:controller] = controller_name if route[:controller] == :current
+        route
+      elsif doc.present? && doc['cat_ssi'] == 'person'
+        { controller: :people, action: :show, id: doc }
+      else
+        doc
+      end
+    end
+  end
+
 end
