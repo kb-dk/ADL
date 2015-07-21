@@ -1,0 +1,2 @@
+class ImageServer
+end
