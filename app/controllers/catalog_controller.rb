@@ -140,25 +140,41 @@ class CatalogController < ApplicationController
     # to use for this use case.
     def show
       @response, @document = fetch params[:id]
-
-      name = @document['work_title_tesim'].first.strip rescue @document.id
-      path = Rails.root.join('public', 'pdfs', "#{@document.id.gsub('/', '_')}.pdf")
-
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
-        format.pdf do
-          # if we've already created the file, no need to regenerate it
-          if File.exist? path.to_s
-            send_file path.to_s, type: 'application/pdf', disposition: :inline
-          else
-            render pdf: name, footer: { right: '[page] af [topage] sider' },
-                   save_to_file: path
-          end
-        end
-
+        format.pdf { send_pdf(@document, 'text') }
         additional_export_formats(@document, format)
       end
+    end
+
+    def facsimile
+      @response, @document = fetch(params[:id])
+      respond_to do |format|
+        format.html { setup_next_and_previous_documents }
+        format.pdf { send_pdf(@document, 'image') }
+      end
+    end
+
+    # common method for rendering pdfs based on wicked_pdf
+    # cache files in the public folder based on their id
+    # TODO: this should include some sort of cache busting method to regenerate when TEIs are updated
+    # perhaps using the Solr document modified field
+    def send_pdf(document, type)
+      name = document['work_title_tesim'].first.strip rescue document.id
+      path = Rails.root.join('public', 'pdfs', "#{document.id.gsub('/', '_')}_#{type}.pdf")
+      if File.exist? path.to_s
+        send_file path.to_s, type: 'application/pdf', disposition: :inline
+      else
+        render pdf: name, footer: { right: '[page] af [topage] sider' },
+               save_to_file: path
+      end
+    end
+
+    # we do not want to start a new search_session for 'leaf' searches
+    # to avoid messing up previous and next links
+    def start_new_search_session?
+      action_name == "index" && params['search_field'] != 'leaf'
     end
 
 

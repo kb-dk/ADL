@@ -1,0 +1,8 @@
+<%= render partial: 'previous_next_doc' %>
+<div id="content" class="<%= show_content_classes %>">
+<%= render partial: 'catalog/show_header_work' %>
+<%= FileServer.render_facsimile(@document.id).html_safe %>
+</div>
+<div id="sidebar" class="<%= show_sidebar_classes %>">
+  <%= render_document_sidebar_partial %>
+</div>

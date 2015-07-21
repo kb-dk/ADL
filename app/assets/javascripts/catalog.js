@@ -22,6 +22,10 @@ $(document).ready(function(){
         return false;
     });
 
+
+    // Uses jQuery unveil library for lazyloading facsimile images
+    $("img").unveil();
+
     /**
      * Remove the 'leaf' option from search_field options
      */
@@ -62,7 +66,40 @@ $(document).ready(function(){
 
 });
 
+function cookieTerms(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+    console.log(document.cookie);
+}
 
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+    }
+    return "";
+}
+
+function checkCookie() {
+    var cookie = getCookie("terms");
+    if (cookie != "") {
+        console.log("cookie: "+ cookie);
+//        document.getElementById("cookie-button").style.display="none";
+        //alert("Welcome again " + cookie);
+    } else {
+        document.getElementById("cookie-button").style.display="block";
+        console.log("cookie 2: "+ cookie);
+
+        if (cookie != "" && cookie != null) {
+            cookieTerms("terms", cookie, 60);
+        }
+    }
+}
 
 //Change the label fo the collapse buttons in the search results page
 function changeButtonLabel(elem){
@@ -77,3 +114,4 @@ function extractDivId(id){
 function getURLParameter(url,name) {
     return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(url)||[,""])[1].replace(/\+/g, '%20'))||null
 }
+

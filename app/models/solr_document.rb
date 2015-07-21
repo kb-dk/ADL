@@ -54,8 +54,21 @@ class SolrDocument
   def timestamp
     Time.parse fetch('timestamp')
   end
+  
   def to_oai_dc
     export_as('oai_dc_xml')
+  end
+
+  def export_as_apa_citation_txt
+    doc = self.to_hash
+    cite = ""
+    cite += doc['author_name'].first + ". " unless doc['author_name'].blank?
+    cite += "("+ doc['published_date_ssi'] + "). " unless doc['published_date_ssi'].blank?
+    cite +=  doc['work_title_tesim'].first + ". " unless doc['work_title_tesim'].blank?
+    cite +=  I18n.t('blacklight.retrieve') + doc['volume_title_tesim'].first + ". " unless doc['volume_title_tesim'].blank?
+    cite +=  doc['published_place_ssi'] + ": " unless doc['published_place_ssi'].blank?
+    cite +=  doc['publisher_ssi'] + ". " unless doc['publisher_ssi'].blank?
+    cite.html_safe
   end
 
 end
