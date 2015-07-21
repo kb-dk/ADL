@@ -22,6 +22,10 @@ $(document).ready(function(){
         return false;
     });
 
+
+    // Uses jQuery unveil library for lazyloading facsimile images
+    $("img").unveil();
+
     /**
      * Remove the 'leaf' option from search_field options
      */
@@ -106,3 +110,4 @@ function extractDivId(id){
 function getURLParameter(url,name) {
     return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(url)||[,""])[1].replace(/\+/g, '%20'))||null
 }
+

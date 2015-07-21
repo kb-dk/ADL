@@ -36,6 +36,28 @@ module ApplicationHelper
     link_to label, '#', data: { search_type: type,  no_turbolink: true }
   end
 
+  def pages(text)
+    xml = Nokogiri::XML(text)
+    xml.xpath('//span/a/small/text()').to_a.collect(&:to_s)
+  end
+
+  def first_page_link(text)
+    '#s' + pages(text).first unless pages(text).empty?
+  end
+
+  # correct image links from served HTML
+  # Note the no turbolink rule to enable unveil plugin to work properly
+  def text_with_image_links(text, id)
+   text.gsub('a href="/facsimile', "a data-no-turbolink=\"true\" href=\"/catalog/#{id}/facsimile")
+  end
+
+  # Generic method to create glyphicon icons
+  # supply only the last component of the icon name
+  # e.g. 'off', 'cog' etc
+  def bootstrap_glyphicon(icon, classes = '')
+    content_tag(:span, nil, class: "glyphicon glyphicon-#{icon} #{classes}").html_safe
+  end
+
   module Blacklight::UrlHelperBehavior
   ##
   # Extension point for downstream applications

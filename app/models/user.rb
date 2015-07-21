@@ -5,6 +5,11 @@ class User < ActiveRecord::Base
     attr_accessible :username, :password, :password_confirmation
   end
 
+   # to allow guest users to be saved, we need to create a username
+  before_validation do
+   self.username = self.email if self.guest? && self.username.blank?
+  end
+
   validates_uniqueness_of :username
 
  # Connects this user object to Blacklights Bookmarks.

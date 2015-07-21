@@ -135,7 +135,7 @@ da:
           other: 'Item records'
         url: 'URL: %{url}'
         message: 'Besked: %{message}'
-
+      success: "Email sendt"
       errors:
         to:
           invalid: 'Du skal indtaste en valid email adresse'

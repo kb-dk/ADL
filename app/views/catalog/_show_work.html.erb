@@ -4,6 +4,8 @@
     <%= render partial: 'work_search', locals: {document: document} %>
   </div>
   <div class="text">
-    <%= FileServer.render_snippet(document[:id]) %>
+    <% vol = document['volume_id_ssi'] %>
+    <% text ||= FileServer.render_snippet(document.id) %>
+    <%= text_with_image_links(text, vol).html_safe %>
   </div>
 </div>
