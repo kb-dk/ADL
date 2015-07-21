@@ -9,12 +9,10 @@ class AdlDocumentWrapper < ::OAI::Provider::Model
   end
 
   def earliest
-   # Time.parse @controller.get_search_results(@controller.params, { :fl => @timestamp_field, :sort => @timestamp_field +' asc', :rows => 1}).last.first.get(@timestamp_field)
     Time.parse @controller.search_results({:action=> 'index', :fl => @timestamp_field, :sort => @timestamp_field +' asc', :rows => 1},@controller.search_params_logic + [:restrict_to_works]).last.first.get(@timestamp_field)
   end
 
   def latest
-   # Time.parse @controller.get_search_results(@controller.params, { :fl => @timestamp_field, :sort => @timestamp_field +' desc', :rows => 1}).last.first.get(@timestamp_field)
    Time.parse @controller.search_results({:action=> 'index', :fl => @timestamp_field, :sort => @timestamp_field +' asc', :rows => 1},@controller.search_params_logic + [:restrict_to_works]).last.first.get(@timestamp_field)
   end
 
@@ -22,7 +20,6 @@ class AdlDocumentWrapper < ::OAI::Provider::Model
     return next_set(options[:resumption_token]) if options[:resumption_token]
 
     if :all == selector
-      #response, records = @controller.get_search_results(@controller.params, {:sort => @timestamp_field + ' asc', :rows => @limit})
       response, records  = @controller.search_results({:action=> 'index',:sort => @timestamp_field + ' asc', :rows => @limit},@controller.search_params_logic + [:restrict_to_works])
 
       if @limit && response.total >= @limit
