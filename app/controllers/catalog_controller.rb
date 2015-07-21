@@ -164,8 +164,8 @@ class CatalogController < ApplicationController
       @response, @document = fetch params[:id]
       @report = ""
       @report += "URL: " + @document['url_ssi'] + "\n" unless @document['url_ssi'].blank?
-      @report += "Author: " + @document['author_name'].first + "\n" unless @document['author_name'].blank?
-      @report += "Title: " + @document['work_title_tesim'].first.strip + "\n" unless @document['work_title_tesim'].blank?
+      @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
+      @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
       render layout: nil
     end
 

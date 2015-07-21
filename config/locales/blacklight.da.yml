@@ -111,6 +111,7 @@ da:
       sms: 'SMS This'
       librarian_view: 'Librarian View'
       clear: 'Clear'
+      feedback: "Fejlrapportering"
 
     citation:
       mla: 'MLA'
@@ -118,6 +119,7 @@ da:
       chicago: 'Chicago'
 
     email:
+      success: "Din besked er blevet sendt."
       form:
         title: 'Email'
         to: 'Email:'
