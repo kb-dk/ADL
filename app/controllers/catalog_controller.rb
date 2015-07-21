@@ -132,6 +132,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
     config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
 
+    config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params
 
     # Overwriting this method to enable pdf generation using WickedPDF
     # Unfortunately the additional_export_formats method was quite difficult t
@@ -157,6 +158,15 @@ class CatalogController < ApplicationController
 
         additional_export_formats(@document, format)
       end
+    end
+
+    def feedback
+      @response, @document = fetch params[:id]
+      @report = ""
+      @report += "URL: " + @document['url_ssi'] + "\n" unless @document['url_ssi'].blank?
+      @report += "Author: " + @document['author_name'].first + "\n" unless @document['author_name'].blank?
+      @report += "Title: " + @document['work_title_tesim'].first.strip + "\n" unless @document['work_title_tesim'].blank?
+      render layout: nil
     end
 
     # we do not want to start a new search_session for 'leaf' searches

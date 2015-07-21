@@ -16,6 +16,7 @@ Rails.application.routes.draw do
 
   get 'people/:id' => 'people#show'
   get 'people' => 'people#index'
+  get '/catalog/:id/feedback' => 'catalog#feedback', as: 'feedback_catalog'
   # Example resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
 
