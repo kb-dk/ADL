@@ -1,3 +1,6 @@
+=begin
+  Setup at ADL OAI provider
+=end
 class AdlDocumentProvider < ::OAI::Provider::Base
   repository_name 'Adl OAI provider'
   repository_url  'http://localhost/provider'

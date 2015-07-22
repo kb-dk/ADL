@@ -1,3 +1,9 @@
+=begin
+This class perform the mapping from OAI requests to Blacklight searches
+The code is borrowed from the blacklight_oai_provider gem ()https://github.com/cbeer/blacklight_oai_provider) and modified to the latest version of ruby-oai an Blacklight 5
+TODO: commit this code back to the blacklight_oai gem
+note: that we add :restrict_to_work to the search_params_logic, so that only documents with cat_ssi:work, is included in the OAI provider
+=end
 class AdlDocumentWrapper < ::OAI::Provider::Model
 
   def initialize(controller)

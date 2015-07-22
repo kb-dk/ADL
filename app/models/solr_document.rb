@@ -32,6 +32,7 @@ class SolrDocument
   use_extension( Blacklight::Document::DublinCore)
 
 
+  #Defines the mapping from solr_fiels to Dublin Core (used by oai)
   field_semantics.merge!(
       #dc_fields
       #:contributor,
@@ -51,6 +52,7 @@ class SolrDocument
       #:type
   )
 
+#begin OAI functions
   def timestamp
     Time.parse fetch('timestamp')
   end
@@ -58,6 +60,7 @@ class SolrDocument
   def to_oai_dc
     export_as('oai_dc_xml')
   end
+#End OAI functions
 
   def export_as_apa_citation_txt
     doc = self.to_hash
