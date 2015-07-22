@@ -136,6 +136,11 @@ class CatalogController < ApplicationController
 
     config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
 
+    # This overwrites the default Blacklight sms_mappings so that
+    # the sms tool is not shown.
+    def sms_mappings
+      {}
+    end
     # Overwriting this method to enable pdf generation using WickedPDF
     # Unfortunately the additional_export_formats method was quite difficult t
     # to use for this use case.
