@@ -132,6 +132,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
     config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
+    config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
     config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
 
