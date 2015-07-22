@@ -23,5 +23,14 @@ module Adl
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
     config.autoload_paths += Dir[Rails.root.join('lib', '{**}')]
+    config.action_mailer.delivery_method = :smtp
+    config.action_mailer.smtp_settings = {
+        address:              'post.kb.dk',
+        port:                 25
+    }
+
+    config.action_mailer.default_options = {
+        from: "noreply@kb.dk"
+    }
   end
 end
