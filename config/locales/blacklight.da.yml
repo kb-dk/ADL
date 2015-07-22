@@ -131,8 +131,8 @@ da:
         format: 'Format: %{value}'
         language: 'Sprog: %{value}'
         subject:
-          one: 'Item Record: %{title}'
-          other: 'Item records'
+          one: 'Mail fra ADL: %{title}'
+          other: 'Mail fra ADL'
         url: 'URL: %{url}'
         message: 'Besked: %{message}'
       success: "Email sendt"
