@@ -41,7 +41,7 @@ da:
         add:
           button: 'Tilføj til bogmærker'
       title: 'Bogmærker'
-      no_bookmarks: 'You have no bookmarks'
+      no_bookmarks: 'Du har ingen bogmærker'
       add:
         button: 'Føj til Bogmærker'
         success:
