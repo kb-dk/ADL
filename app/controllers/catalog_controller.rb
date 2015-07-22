@@ -60,7 +60,7 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'type_ssi', :label => 'Format'
+    # config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'genre_ssi', :label => 'Genre'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
