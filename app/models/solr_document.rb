@@ -31,6 +31,10 @@ class SolrDocument
   # Recommendation: Use field names from Dublin Core
   use_extension( Blacklight::Document::DublinCore)
 
+  def has_text?
+    self.to_hash['text_tesim'].present?
+  end
+
   def export_as_apa_citation_txt
     doc = self.to_hash
     cite = ""

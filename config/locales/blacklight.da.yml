@@ -243,3 +243,6 @@ da:
     did_you_mean: 'Mente du: %{options}?'
 
     retrieve: 'Hentet fra '
+  catalog:
+    show_work:
+      no_text: "Dette værk har ikke nogen scannede tekst"
