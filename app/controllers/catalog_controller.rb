@@ -157,7 +157,8 @@ class CatalogController < ApplicationController
     def feedback
       @response, @document = fetch params[:id]
       @report = ""
-      @report += "URL: " + @document['url_ssi'] + "\n" unless @document['url_ssi'].blank?
+      @report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+      @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
       @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
       @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
       render layout: nil

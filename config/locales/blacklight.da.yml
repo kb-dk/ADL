@@ -126,6 +126,7 @@ da:
         message: 'Besked:'
         submit: 'Send'
       text:
+        from: 'Fra: %{value}'
         title: 'Titel: %{value}'
         author: 'Forfatter: %{value}'
         format: 'Format: %{value}'
