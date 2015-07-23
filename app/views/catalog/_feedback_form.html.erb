@@ -1,0 +1,25 @@
+<%= form_tag url_for(:controller => controller_name, :action => "email"), :id => 'feedback_form', :class => "form-horizontal ajax_form", :method => :post do %>
+
+  <div class="modal-body">
+    <%= render :partial=>'/flash_msg' %>
+    <div class="form-group">
+      <div class="col-sm-10" style="display: none;">
+        <%= email_field_tag :to, Rails.application.config_for(:adl)["feedback_mail"], class: 'form-control' %>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="message">
+        <%= t('blacklight.email.form.message') %>
+      </label>
+      <div class="col-sm-10">
+        <%= text_area_tag 'message', @report, rows: 10, class: 'form-control'%>
+      </div>
+    </div>
+
+
+  </div>
+  <div class="modal-footer">
+  <button type="submit" class="btn btn-primary"> <%= t('blacklight.sms.form.submit') %></button>
+  </div>
+<% end %>

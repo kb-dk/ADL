@@ -41,7 +41,7 @@ da:
         add:
           button: 'Tilføj til bogmærker'
       title: 'Bogmærker'
-      no_bookmarks: 'You have no bookmarks'
+      no_bookmarks: 'Du har ingen bogmærker'
       add:
         button: 'Føj til Bogmærker'
         success:
@@ -111,6 +111,7 @@ da:
       sms: 'SMS This'
       librarian_view: 'Librarian View'
       clear: 'Clear'
+      feedback: "Fejlrapportering"
 
     citation:
       mla: 'MLA'
@@ -118,6 +119,7 @@ da:
       chicago: 'Chicago'
 
     email:
+      success: "Din besked er blevet sendt."
       form:
         title: 'Email'
         to: 'Email:'
@@ -129,11 +131,11 @@ da:
         format: 'Format: %{value}'
         language: 'Sprog: %{value}'
         subject:
-          one: 'Item Record: %{title}'
-          other: 'Item records'
+          one: 'Mail fra ADL: %{title}'
+          other: 'Mail fra ADL'
         url: 'URL: %{url}'
         message: 'Besked: %{message}'
-
+      success: "Email sendt"
       errors:
         to:
           invalid: 'Du skal indtaste en valid email adresse'
@@ -241,3 +243,6 @@ da:
     did_you_mean: 'Mente du: %{options}?'
 
     retrieve: 'Hentet fra '
+  catalog:
+    show_work:
+      no_text: "Dette værk har ikke nogen scannede tekst"

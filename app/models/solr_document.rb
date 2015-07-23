@@ -56,11 +56,15 @@ class SolrDocument
   def timestamp
     Time.parse fetch('timestamp')
   end
-  
+
   def to_oai_dc
     export_as('oai_dc_xml')
   end
 #End OAI functions
+
+  def has_text?
+    self.to_hash['text_tesim'].present?
+  end
 
   def export_as_apa_citation_txt
     doc = self.to_hash

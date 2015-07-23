@@ -28,7 +28,7 @@ class FileServer
     loading_image = ActionController::Base.helpers.path_to_image('default.gif')
     xml.css('img').each do |img|
         img['src'] = loading_image
-        img['data-src'] = IMAGE_REFS.fetch img['data-src'], loading_image
+        img['data-src'] = ImageServer.ref_to_url(img['data-src'], loading_image)
       end
     xml.to_xml
   end
@@ -39,7 +39,7 @@ class FileServer
     xml = Nokogiri::HTML(html)
     links = []
     xml.css('img').each do |img|
-      links << IMAGE_REFS.fetch(img['data-src'], '')
+      links << ImageServer.ref_to_url(img['data-src'], '')
     end
     links
   end

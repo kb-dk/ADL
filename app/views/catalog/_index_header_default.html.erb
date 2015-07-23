@@ -15,11 +15,7 @@
         <%= t('blacklight.search.documents.counter', counter: counter) %>
       </span>
     <% end %>
-    <% if document['cat_ssi'] == "person" %>
-        <%= link_to document['author_name'].first, controller: "people", action: "show", id: document['id'] %>
-    <% else %>
-        <%= link_to_document document, document_show_link_field(document), counter: counter %>
-    <% end %>
+    <%= link_to_document document, document_show_link_field(document), counter: counter %>
   </h5>
 
   <%= document_actions %>

@@ -60,7 +60,7 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    config.add_facet_field 'type_ssi', :label => 'Format'
+    # config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'genre_ssi', :label => 'Genre'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
     config.add_facet_field 'cat_ssi', :label => 'Kategori'
@@ -133,8 +133,15 @@ class CatalogController < ApplicationController
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
     config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
+    config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
+    config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
 
+    # This overwrites the default Blacklight sms_mappings so that
+    # the sms tool is not shown.
+    def sms_mappings
+      {}
+    end
     # Overwriting this method to enable pdf generation using WickedPDF
     # Unfortunately the additional_export_formats method was quite difficult t
     # to use for this use case.
@@ -146,6 +153,15 @@ class CatalogController < ApplicationController
         format.pdf { send_pdf(@document, 'text') }
         additional_export_formats(@document, format)
       end
+    end
+
+    def feedback
+      @response, @document = fetch params[:id]
+      @report = ""
+      @report += "URL: " + @document['url_ssi'] + "\n" unless @document['url_ssi'].blank?
+      @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
+      @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
+      render layout: nil
     end
 
     def facsimile
@@ -212,7 +228,7 @@ class CatalogController < ApplicationController
     
     config.add_search_field('title') do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
-      field.solr_parameters = { :'spellcheck.dictionary' => 'title', :fq => 'type_ssi:trunk',}
+      field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
       # Solr parameter de-referencing like $title_qf.
@@ -224,7 +240,7 @@ class CatalogController < ApplicationController
     end
     
     config.add_search_field('author') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'author', :fq => 'type_ssi:trunk', }
+      field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
       field.solr_local_parameters = { 
         :qf => '$author_qf',
         :pf => '$author_pf'

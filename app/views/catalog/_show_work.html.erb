@@ -1,11 +1,18 @@
 <%# default partial to display solr document fields in catalog show view -%>
-<div class="text-content">
-  <div class="worksearch">
-    <%= render partial: 'work_search', locals: {document: document} %>
-  </div>
-  <div class="text">
-    <% vol = document['volume_id_ssi'] %>
-    <% text ||= FileServer.render_snippet(document.id) %>
-    <%= text_with_image_links(text, vol).html_safe %>
-  </div>
-</div>
+<% if document.has_text? %>
+    <div class="text-content">
+      <div class="worksearch">
+        <%= render partial: 'work_search', locals: {document: document} %>
+      </div>
+      <div class="text">
+
+        <% vol = document['volume_id_ssi'] %>
+        <% text ||= FileServer.render_snippet(document.id) %>
+        <%= text_with_image_links(text, vol).html_safe %>
+      </div>
+    </div>
+<% else %>
+    <div>
+      <%= t '.no_text' %>
+    </div>
+<% end %>

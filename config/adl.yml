@@ -1,6 +1,9 @@
 development:
   snippet_server_url: http://disdev-01.kb.dk/storage/adl/present.xq
+  feedback_mail: poma@kb.dk
 test:
   snippet_server_url: http://disdev-01.kb.dk/storage/adl/present.xq
+  feedback_mail: poma@kb.dk
 production:
   snippet_server_url: xxx
+  feedback_mail: jamo@kb.dk
