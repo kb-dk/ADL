@@ -1,5 +1,5 @@
 # -*- encoding : utf-8 -*-
-class CatalogController < ApplicationController  
+class CatalogController < ApplicationController
 
   include Blacklight::Catalog
 
@@ -63,6 +63,7 @@ class CatalogController < ApplicationController
     # config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'genre_ssi', :label => 'Genre'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
+    config.add_facet_field 'cat_ssi', :label => 'Kategori'
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
     # config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
@@ -268,4 +269,14 @@ class CatalogController < ApplicationController
     config.spell_max = 5
   end
 
+
+  def oai
+    options = params.delete_if { |k,v| %w{controller action}.include?(k) }
+    p = oai_provider
+    render :text => p.process_request(options), :content_type => 'text/xml'
+  end
+
+  def oai_provider
+    @oai_provider ||= ::AdlDocumentProvider.new(self)
+  end
 end 
