@@ -32,7 +32,13 @@ class SolrDocument
   use_extension( Blacklight::Document::DublinCore)
 
   def has_text?
-    self.to_hash['text_tesim'].present?
+    if self.to_hash['text_tesim'].present?
+      # some documents contain text only with line breaks
+      text = self.to_hash['text_tesim'].first.delete("\n")
+      !text.blank?
+    else
+      return false
+    end
   end
 
   def export_as_apa_citation_txt
