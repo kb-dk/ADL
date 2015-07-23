@@ -6,7 +6,16 @@ class FileServer
     uri += "&id=#{a[1]}" unless a.size < 2
     uri += "&op=#{op}" unless op.nil?
     Rails.logger.debug("url #{uri}")
-    res = Net::HTTP.get_response(URI(uri))
+
+    #res = Net::HTTP.get_response(URI(uri))
+    uri = URI.parse(uri)
+    http = Net::HTTP.new(uri.host, uri.port)
+    http.open_timeout = 10
+    http.read_timeout = 20
+    res = http.start do |http|
+      http.request_get(URI(uri))
+    end
+
     if (res.code == "200")
       result = res.body
     else
