@@ -31,6 +31,37 @@ class SolrDocument
   # Recommendation: Use field names from Dublin Core
   use_extension( Blacklight::Document::DublinCore)
 
+
+  #Defines the mapping from solr_fiels to Dublin Core (used by oai)
+  field_semantics.merge!(
+      #dc_fields
+      #:contributor,
+      #:coverage,
+      :creator => 'author_name',
+      #:date,
+      #:description,
+      #:format,
+      :identifier => 'id',
+      #:language,
+      :publisher=> 'publisher_ssi',
+      #:relation,
+      #:rights,
+      #:source,
+      #:subject,
+      :title => 'work_title_tesim',
+      #:type
+  )
+
+#begin OAI functions
+  def timestamp
+    Time.parse fetch('timestamp')
+  end
+
+  def to_oai_dc
+    export_as('oai_dc_xml')
+  end
+#End OAI functions
+
   def has_text?
     if self.to_hash['text_tesim'].present?
       # some documents contain text only with line breaks
