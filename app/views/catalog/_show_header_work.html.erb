@@ -15,19 +15,14 @@
 <% end %>
 <%= link_to(solr_document_path(document, format: :pdf), class: 'btn btn-default', disabled: !document.has_text?) do %>
     <%= bootstrap_glyphicon 'save-file' %><br/>
-    Download som PDF
+    Download tekst som PDF
 <% end %>
 <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-<%# HACK -  We render the text already here so that we can link to the correct page in the full facsimile view %>
-<%# See DE166 for more details %>
-<% text ||= FileServer.render_snippet(document[:id]) %>
-<% first_pb = first_page_link(text) %>
-<% vol = document['volume_id_ssi'].present?  ? document['volume_id_ssi'] : document.id %>
-<%= link_to(facsimile_catalog_path(vol) + "#{first_pb}", data: { no_turbolink: true }, class: 'btn btn-default') do %>
+<%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }, class: 'btn btn-default') do %>
     <%= bootstrap_glyphicon 'picture' %><br/>
     Faksimile<br/>
 <% end %>
-<%= link_to(facsimile_catalog_path(vol, format: :pdf), class: 'btn btn-default') do %>
+<%= link_to(facsimile_catalog_path(document.id, format: :pdf), class: 'btn btn-default') do %>
     <%= bootstrap_glyphicon 'save-file' %><br/>
     Download faksimile som pdf
 <% end %>

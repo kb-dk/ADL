@@ -1,1 +1,0 @@
-IMAGE_REFS = YAML.load_file('config/images.yml')

@@ -41,10 +41,6 @@ module ApplicationHelper
     xml.xpath('//span/a/small/text()').to_a.collect(&:to_s)
   end
 
-  def first_page_link(text)
-    '#s' + pages(text).first unless pages(text).empty?
-  end
-
   # correct image links from served HTML
   # Note the no turbolink rule to enable unveil plugin to work properly
   def text_with_image_links(text, id)
