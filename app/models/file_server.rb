@@ -46,6 +46,10 @@ class FileServer
     xml.to_xml
   end
 
+  def self.toc(id)
+    FileServer.render_snippet(id, 'toc')
+  end
+
   # return all image links for use in facsimile pdf view
   def self.image_links(id)
     html = FileServer.facsimile(id)
