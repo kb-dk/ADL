@@ -1,5 +1,3 @@
-require 'net/http'
-
 module ApplicationHelper
 
   def show_volume args
@@ -34,17 +32,6 @@ module ApplicationHelper
 
   def search_type_link(type, label)
     link_to label, '#', data: { search_type: type,  no_turbolink: true }
-  end
-
-  def pages(text)
-    xml = Nokogiri::XML(text)
-    xml.xpath('//span/a/small/text()').to_a.collect(&:to_s)
-  end
-
-  # correct image links from served HTML
-  # Note the no turbolink rule to enable unveil plugin to work properly
-  def text_with_image_links(text, id)
-   text.gsub('a href="/facsimile', "a data-no-turbolink=\"true\" href=\"/catalog/#{id}/facsimile")
   end
 
   # Generic method to create glyphicon icons

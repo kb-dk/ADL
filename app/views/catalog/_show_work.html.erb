@@ -1,18 +1,16 @@
 <%# default partial to display solr document fields in catalog show view -%>
-<div id="toc">
+<div id="toc" style="display: none;">
   <%= FileServer.toc(document.id) %>
 </div>
 
 <% if document.has_text? %>
     <div class="text-content">
-      <div class="worksearch">
+      <div class="worksearch" style="display: none;">
         <%= render partial: 'work_search', locals: {document: document} %>
       </div>
       <div class="text">
-
-        <% vol = document['volume_id_ssi'] %>
         <% text ||= FileServer.render_snippet(document.id) %>
-        <%= text_with_image_links(text, vol).html_safe %>
+        <%= text.html_safe %>
       </div>
     </div>
 <% else %>
