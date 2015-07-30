@@ -5,16 +5,14 @@
 
 /* BLACKLIGHT GEM
 *************************************************************************************/
-@import "blacklight/blacklight";
-
+@import 'blacklight/blacklight';
 
 /* ADL
 *************************************************************************************/
-body{
-  background:red;
-}
 
-div.work-search-results {
-  height: 200px;
-  overflow: auto;
+body{
+  margin: 75px;
 }
+//@import "adl/variables";
+@import "adl/header";
+
