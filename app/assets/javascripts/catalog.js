@@ -26,6 +26,13 @@ $(document).ready(function(){
     // Uses jQuery unveil library for lazyloading facsimile images
     $("img").unveil();
 
+    // generic function to allow buttons with data-function="toggle" to
+    // show and hide elements defined in their data-target attribute
+    $('[data-function="toggle"]').click(function(){
+        var $target = $($(this).data('target'));
+        $target.toggle();
+        return false;
+    });
     /**
      * Remove the 'leaf' option from search_field options
      */
