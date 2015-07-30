@@ -9,19 +9,20 @@
       <% end -%>
   <% end -%>
 </dl>
+<% document_empty = !FileServer.has_text(document.id) %>
 <%= link_to('#', class: 'btn btn-default', data: { function: 'toggle', target: '#toc' }) do %>
     <%= bootstrap_glyphicon 'list' %><br/>
     Indhold
 <% end %>
-<%= link_to('#', class: 'btn btn-default', data: { function: 'toggle', target: '.worksearch' }, disabled: !document.has_text?) do %>
+<%= link_to('#', class: 'btn btn-default', data: { function: 'toggle', target: '.worksearch' }, disabled: document_empty) do %>
     <%= bootstrap_glyphicon 'search' %><br/>
     Søg
 <% end %>
-<%= link_to(solr_document_path(document), class: 'btn btn-default' , disabled: !document.has_text?) do %>
+<%= link_to(solr_document_path(document), class: 'btn btn-default' , disabled: document_empty) do %>
     <%= bootstrap_glyphicon 'font' %><br/>
     Tekst
 <% end %>
-<%= link_to(solr_document_path(document, format: :pdf), class: 'btn btn-default', disabled: !document.has_text?) do %>
+<%= link_to(solr_document_path(document, format: :pdf), class: 'btn btn-default', disabled: document_empty) do %>
     <%= bootstrap_glyphicon 'save-file' %><br/>
     Download tekst som PDF
 <% end %>

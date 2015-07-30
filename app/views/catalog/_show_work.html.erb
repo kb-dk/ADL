@@ -2,8 +2,8 @@
 <div id="toc" style="display: none;">
   <%= FileServer.toc(document.id) %>
 </div>
-
-<% if document.has_text? %>
+<% document_empty ||= !FileServer.has_text(document.id) %>
+<% if !document_empty %>
     <div class="text-content">
       <div class="worksearch" style="display: none;">
         <%= render partial: 'work_search', locals: {document: document} %>

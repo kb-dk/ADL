@@ -32,6 +32,15 @@ class FileServer
     FileServer.render_snippet(id, 'toc')
   end
 
+  def self.has_text(id)
+    text ||= self.render_snippet(id).to_str
+    text = text.delete("\n")
+    text = ActionController::Base.helpers.strip_tags(text)
+    # check text length excluding pb elements
+    text = text.gsub(/\[s. \d+\s+\]/, '')
+    text.present?
+  end
+
   # return all image links for use in facsimile pdf view
   def self.image_links(id)
     html = FileServer.facsimile(id)
