@@ -1,5 +1,5 @@
 <%# default partial to display solr document fields in catalog show view -%>
-<% if document.has_text? %>
+<% if FileServer.has_text(document.id) %>
     <div class="text-content">
       <div class="worksearch">
         <%= render partial: 'work_search', locals: {document: document} %>

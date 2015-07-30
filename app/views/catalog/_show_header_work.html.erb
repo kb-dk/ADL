@@ -9,11 +9,11 @@
       <% end -%>
   <% end -%>
 </dl>
-<%= link_to(solr_document_path(document), class: 'btn btn-default' , disabled: !document.has_text?) do %>
+<%= link_to(solr_document_path(document), class: 'btn btn-default' , disabled: !FileServer.has_text(document.id)) do %>
     <%= bootstrap_glyphicon 'font' %><br/>
     Tekst
 <% end %>
-<%= link_to(solr_document_path(document, format: :pdf), class: 'btn btn-default', disabled: !document.has_text?) do %>
+<%= link_to(solr_document_path(document, format: :pdf), class: 'btn btn-default', disabled: !FileServer.has_text(document.id)) do %>
     <%= bootstrap_glyphicon 'save-file' %><br/>
     Download som PDF
 <% end %>

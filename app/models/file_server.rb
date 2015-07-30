@@ -28,6 +28,15 @@ class FileServer
     result.html_safe.force_encoding('UTF-8')
   end
 
+  def self.has_text(id)
+    text ||= self.render_snippet(id).to_str
+    text = text.delete("\n")
+    text = ActionController::Base.helpers.strip_tags(text)
+    # check text length excluding pb elements
+    text = text.gsub(/\[s. \d+\s+\]/, '')
+    text.present?
+  end
+
   # Using the data in the images file, find the correct href for the facsimile
   # This is a heavy operation! A better solution would be to correct the attributes
   # in the TEI / HTML to prevent the large number of Hash lookups.
