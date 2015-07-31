@@ -177,8 +177,11 @@ class CatalogController < ApplicationController
     def send_pdf(document, type)
       name = document['work_title_tesim'].first.strip rescue document.id
       path = Rails.root.join('public', 'pdfs', "#{document.id.gsub('/', '_')}_#{type}.pdf")
-      if File.exist? path.to_s
-        send_file path.to_s, type: 'application/pdf', disposition: :inline
+      solr_timestamp = Time.parse(document.to_hash['timestamp'])
+      file_mtime = File.mtime(path) if File.exist? path.to_s
+      # display the cached pdf if solr doc timestamp is older than the file's modified date
+      if File.exist? path.to_s and ((type == 'text' and solr_timestamp < file_mtime) or type == 'image')
+          send_file path.to_s, type: 'application/pdf', disposition: :inline
       else
         render pdf: name, footer: { right: '[page] af [topage] sider' },
                save_to_file: path
