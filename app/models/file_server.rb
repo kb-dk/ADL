@@ -37,7 +37,7 @@ class FileServer
     text = text.delete("\n")
     text = ActionController::Base.helpers.strip_tags(text)
     # check text length excluding pb elements
-    text = text.gsub(/\[s. \d+\s+\]/, '')
+    text = text.gsub(/\[s. \w+\s+\]/, '')
     text.present?
   end
 
