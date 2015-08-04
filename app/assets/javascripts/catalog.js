@@ -70,6 +70,43 @@ $(document).ready(function(){
         $("#worksearch_btn").click();
     }
 
+    // FIXME: We should wrap all our functions into this object, in order not to polute the global object!
+    window.ADL = function (window, $, undefined) {
+        return {
+            /**
+             * Get id of the top most visible text element, used in bookmarking.
+             * @return {String/id} Id of the text element in top of the visible part of the viewport.
+             */
+            getFirstVisibleElement: function () {
+                var firstVisibleElement;
+                $("*[id^='idm']").each(function (index, elem, elems) {
+                    if ($(elem).visible()) {
+                        firstVisibleElement = elem;
+                        return false;
+                    }
+                    return true;
+                });
+                return firstVisibleElement;
+            },
+
+            getFirstVisibleId: function () {
+                var firstElement = this.getFirstVisibleElement();
+                return firstElement ? firstElement.id : '';
+            },
+
+            getFirstVisibleText: function () {
+                var firstElement = this.getFirstVisibleElement();
+                if (firstElement) {
+                    if (firstElement.tagName === 'BR') {
+                        return firstElement.previousSibling
+                    } else {
+                        return $(firstElement).text();
+                    }
+                }
+                return '';
+            }
+        };
+    } (window, jQuery);
 
 });
 
