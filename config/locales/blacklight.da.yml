@@ -190,6 +190,9 @@ da:
         submit: 'Søg'
         search:
           placeholder: 'Søg'
+          all_filters: 'Alle Felter'
+          title: 'Title'
+          author: 'Forfatter'
       pagination:
         title: 'Results navigation'
       pagination_info:
