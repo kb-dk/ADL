@@ -133,6 +133,21 @@ $(document).ready(function(){
                     }
                 }
                 return '';
+            },
+
+            updateBookmarkLink: function (e) {
+                // TODO: Somewhere here we need to manipulate the bookmark elements between set and unset!
+                var formElem = $('form.bookmark_toggle'),
+                    firstVisibleId = ADL.getFirstVisibleId();
+                if (firstVisibleId.length) {
+                    // There is a line id - append it to the bookmark id
+                    formElem.attr('action',
+                    '/bookmarks/' + formElem.attr('data-doc-id') + '%23' + firstVisibleId);
+                } else {
+                    // No line id - set the bookmark to the entire work
+                    formElem.attr('action',
+                        '/bookmarks/' + formElem.attr('data-doc-id'));
+                }
             }
         };
     } (window, jQuery);
