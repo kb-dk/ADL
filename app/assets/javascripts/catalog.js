@@ -148,6 +148,25 @@ $(document).ready(function(){
                     formElem.attr('action',
                         '/bookmarks/' + formElem.attr('data-doc-id'));
                 }
+            },
+
+            scrollSniffer: function (e) {
+                ADL.updateBookmarkLink(e);
+
+                // FIXME: Set a class instead, and let the stylesheets do the CSS work!
+                if ($(window).scrollTop() >= 145) {
+                    $('#sidebar').css({
+                        position: 'fixed',
+                        top: '10px',
+                        right: '0'
+                    });
+                } else {
+                    $('#sidebar').css({
+                        position: 'relative',
+                        top: '0',
+                        right: '0'
+                    });
+                }
             }
         };
     } (window, jQuery);
@@ -169,6 +188,10 @@ $(document).ready(function(){
             }
         }
     });
+
+    // setup scrollSniffer that manipulates bookmarks
+    // FIXME: Next line turns on the scrollSniffer - but it does not discriminate between pages (and it should!)
+    // $(window).scroll(ADL.scrollSniffer);
 });
 
 function cookieTerms(cname, cvalue, exdays) {
