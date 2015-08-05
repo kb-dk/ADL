@@ -1,13 +1,33 @@
 <%# default partial to display solr document fields in catalog show view -%>
-<div id="toc" style="display: none;">
-  <%= FileServer.toc(document.id) %>
-</div>
+
 <% document_empty ||= !FileServer.has_text(document.id) %>
 <% if !document_empty %>
+
+
+
+    <ul class="nav nav-tabs">
+      <li role="presentation" class="active">
+        <%= link_to(solr_document_path(document), disabled: document_empty) do %>
+            <%= bootstrap_glyphicon 'font' %>
+            Tekst
+        <% end %>
+      </li>
+      <li role="presentation">
+        <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
+        <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
+            <%= bootstrap_glyphicon 'picture' %>
+            Faksimile
+        <% end %>
+      </li>
+      <li class="pull-right">
+        <%= button_to(solr_document_path(document, format: :pdf), class:'btn btn-default',:method => 'get', disabled: document_empty) do %>
+            <%= bootstrap_glyphicon 'download-alt' %>
+            Download
+        <% end %>
+      </li>
+    </ul>
+
     <div class="text-content">
-      <div class="worksearch" style="display: none;">
-        <%= render partial: 'work_search', locals: {document: document} %>
-      </div>
       <div class="text">
         <% text ||= FileServer.render_snippet(document.id) %>
         <%= text.html_safe %>
