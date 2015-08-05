@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require jquery.unveil.min
 //= require jquery.turbolinks
+//= require bootstrap/tab
 // Required by Blacklight
 //= require blacklight/blacklight
 //= require turbolinks
