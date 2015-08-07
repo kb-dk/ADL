@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root to: "catalog#index"
   # we define the root route in initializers/high_voltage.rb
   # root to: "catalog#index"
   blacklight_for :catalog
