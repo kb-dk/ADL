@@ -214,7 +214,7 @@ class CatalogController < ApplicationController
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise. 
     
-    config.add_search_field 'all_fields' do |field|
+    config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
       # add the fulltext term frequence to the result docs
       field.solr_parameters = {
           :fq => 'type_ssi:trunk',
@@ -227,7 +227,7 @@ class CatalogController < ApplicationController
     # case for a BL "search field", which is really a dismax aggregate
     # of Solr search fields. 
     
-    config.add_search_field('title') do |field|
+    config.add_search_field(I18n.t'blacklight.search.form.search.title') do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
       field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
       # :solr_local_parameters will be sent using Solr LocalParams
@@ -240,7 +240,7 @@ class CatalogController < ApplicationController
       }
     end
     
-    config.add_search_field('author') do |field|
+    config.add_search_field(I18n.t'blacklight.search.form.search.author') do |field|
       field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
       field.solr_local_parameters = { 
         :qf => '$author_qf',

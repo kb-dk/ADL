@@ -1,16 +1,16 @@
 <%# default partial to display solr document fields in catalog index view -%>
 <dl class="document-metadata dl-horizontal dl-invert">
     <% if document['birth_date_ssi'] %>
-      <dt>Født:</dt>
+      <dt> <%= t 'people.show_person.born' %></dt>
       <dd><%= document['birth_date_ssi'] %></dd>
     <%end %>
 
     <% if document['death_date_ssi'] %>
-        <dt>Død:</dt>
+        <dt> <%= t 'people.show_person.died' %></dt>
         <dd><%= document['death_date_ssi'] %></dd>
     <%end %>
 
   <dt>Relateret:</dt>
-  <dd><a>Forfatterportræt</a> <a href="/?f[author_ssi][]=<%= document['author_name'].first %>">Samlede Værker</a></dd>
+  <dd><a> <%= t 'people.show_person.potrait' %></a> <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>"> <%= t 'people.show_person.similar_works' %></a></dd>
 
 </dl>

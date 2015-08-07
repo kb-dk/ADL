@@ -190,6 +190,9 @@ da:
         submit: 'Søg'
         search:
           placeholder: 'Søg'
+          all_filters: 'Alle Felter'
+          title: 'Title'
+          author: 'Forfatter'
       pagination:
         title: 'Results navigation'
       pagination_info:
@@ -247,3 +250,11 @@ da:
   catalog:
     show_work:
       no_text: "Dette værk har ikke nogen scannede tekst"
+
+  people:
+    show_person:
+      born: "Født:"
+      died: "Død:"
+      links: "Links"
+      potrait: "Forfatterportræt"
+      similar_works:  "Samlede Værker"
