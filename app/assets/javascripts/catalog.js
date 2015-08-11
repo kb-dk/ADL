@@ -89,6 +89,19 @@ $(document).ready(function(){
                 return firstVisibleElement;
             },
 
+            getFirstVisiblePage: function () {
+                var firstVisibleElement = this.getFirstVisibleElement();
+                if (firstVisibleElement.tagName === 'P' || firstVisibleElement.tagName === 'DIV') {
+                    return $(firstVisibleElement);
+                } else {
+                    return $(firstVisibleElement).closest("div[id^='idm'], p[id^='idm']");
+                }
+            },
+
+            getFirstVisiblePageId: function () {
+                return this.getFirstVisiblePage().attr('id');
+            },
+
             getFirstVisibleId: function () {
                 var firstElement = this.getFirstVisibleElement();
                 return firstElement ? firstElement.id : '';
@@ -111,9 +124,17 @@ $(document).ready(function(){
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
             // this is a feedback request
-            var firstVisibleId = ADL.getFirstVisibleId();
-            if (firstVisibleId) { // If there is an id, append it to the errormessage
-                $('textarea#message').html($('textarea#message').html() + 'id: #' + firstVisibleId + '\n');
+            var firstVisiblePageId = ADL.getFirstVisiblePageId();
+            if (firstVisiblePageId) { // If there is an id, append it to the errormessage
+                var lines = $('textarea#message').html().split(/\n/i);
+                $.each(lines, function (index, line) {
+                    if (line.indexOf('URL') === 0) {
+                        line = line.replace('#','%23'); // html encode the # before workId in the link
+                        lines[index] = line + '#' + firstVisiblePageId;
+                        return false;
+                    }
+                });
+                $('textarea#message').html(lines.join('\n'));
             }
         }
     });
