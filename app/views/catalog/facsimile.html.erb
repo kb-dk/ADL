@@ -1,6 +1,7 @@
 <% document ||= @document %>
 <% document_empty ||= !FileServer.has_text(document.id) %>
-
+<div class="container">
+  <div class="row">
 <%= render partial: 'previous_next_doc' %>
 
 <div id="sidebar" class="<%= show_sidebar_classes %>">
@@ -35,7 +36,8 @@
 
 
     <%= FileServer.facsimile(@document.id).html_safe %>
-
+</div>
+</div>
 </div>
 
 
