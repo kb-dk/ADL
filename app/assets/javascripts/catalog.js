@@ -108,10 +108,6 @@ $(document).ready(function(){
         };
     } (window, jQuery);
 
-    // setup scrollSniffer that manipulates bookmarks
-    // FIXME: Next line turns on the scrollSniffer - but it does not discriminate between pages (and it should!)
-    // $(window).scroll(ADL.scrollSniffer);
-
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
             // this is a feedback request
