@@ -2,14 +2,14 @@
 <add>
   <doc>
     <field name="type_ssi">trunk</field>
-    <field name="cat_ssi">work</field>
+    <field name="cat_ssi">portrait</field>
     <field name="work_title_tesim">Emil Aarestrup</field>
     <field name="id">aarestrup-p-val</field>
     <field name="volume_id_ssi">aarestrup-p-val</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup-p-val#</field>
     <field name="volume_title_tesim">Emil Aarestrup</field>
     <field name="author_name">Kielberg, Esther</field>
-    <field name="author_id_ssi">87/81/26/3b/8781263b-f077-4147-929c-0216429e4957</field>
+    <field name="author_id_ssi">d9/4b/b0/68/d94bb068-eedb-4c33-932a-f4ff8afade69</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>

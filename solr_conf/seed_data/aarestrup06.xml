@@ -10,12 +10,13 @@
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm139962190149408</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
   </doc>
   <doc>
@@ -29,18 +30,16 @@
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">idm139962190147440</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
     <field name="text_tesim">
-    
-    
-    
-    </field>
+        </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
@@ -53,18 +52,16 @@
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">idm139962190147440</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
     <field name="text_tesim">
-    
-    
-    
-    </field>
+        </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
@@ -77,18 +74,16 @@
     <field name="page_ssi">4</field>
     <field name="page_id_ssi">idm139962190143200</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
     <field name="text_tesim">
-    
-    
-    
-    </field>
+        </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
@@ -101,18 +96,16 @@
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">idm139962190140720</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
     <field name="text_tesim">
-    
-    
-    
-    </field>
+        </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
@@ -125,19 +118,16 @@
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">idm139962190140720</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
     <field name="text_tesim">
-    
-    
-    
-    
-    </field>
+        </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
@@ -150,18 +140,16 @@
     <field name="page_ssi">7</field>
     <field name="page_id_ssi">idm139962190232688</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
     <field name="text_tesim">
-    
-    
-    
-    </field>
+        </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
@@ -174,18 +162,15 @@
     <field name="page_ssi">7</field>
     <field name="page_id_ssi">idm139962190232688</field>
     <field name="volume_title_tesim">Emil Aarestrups Samlede Skrifter</field>
-    <field name="author_name">&lt;&lt;Aarestrup=Årestrup&gt;&gt;, Emil</field>
-    <field name="author_id_ssi">33/6c/89/ea/336c89ea-a7c8-4444-867d-5f4e28f7b3f4</field>
+    <field name="author_name">Aarestrup, Emil</field>
+    <field name="author_id_ssi">e8/f1/88/ea/e8f188ea-aef9-498b-b437-8a181ad60096</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">C. A. Reitzel</field>
+    <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
     <field name="text_tesim">
-    
-    
-    
-    
-    </field>
+        </field>
   </doc>
 </add>
