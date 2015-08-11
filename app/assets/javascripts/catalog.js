@@ -172,6 +172,15 @@ $(document).ready(function(){
                         right: '0'
                     });
                 }
+            },
+
+            goto: function (idm) {
+                var elem = $('#' + idm);
+                if (elem.length > 0) {
+                    document.body.scrollTop = elem.offset().top;
+                    return true;
+                }
+                return false;
             }
         };
     } (window, jQuery);
