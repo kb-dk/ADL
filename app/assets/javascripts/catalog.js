@@ -100,7 +100,7 @@ $(document).ready(function(){
              */
             getFirstVisibleElement: function () {
                 var firstVisibleElement;
-                $("*[id^='idm']").each(function (index, elem, elems) {
+                $('*[id^="idm"]').each(function (index, elem) {
                     if ($(elem).visible()) {
                         firstVisibleElement = elem;
                         return false;
