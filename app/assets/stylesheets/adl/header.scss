@@ -1,13 +1,29 @@
 
 
 
-// colors
-$color-white:               #fff !default;
+//== Colors
+$black:              #000;    // Used for txt
+$white:              #fff;    // Used for txt
+$darkGray:           #1b1b1b; // Used for bg header footer
+$lightGray:          #f8f8f8; // Used for bg
 
 #header-navbar{
   border-radius:0;
-  margin-bottom:0;
-  background-color:$color-white;
-  z-index:1; // Ensuring navbar shaddow is on top of mobile navigation
-  box-shadow: 0 5px 5px rgba(0,0,0,0.14);
+  background-color:$darkGray;
+  color: $white;
+  border: none;
+  .navbar-nav li a{
+    text-transform: uppercase;
+  }
+  a{
+    font-family: RobotoCondensed-Regular;
+    color: $white;
+  }
+  .navbar-brand{
+    background:none;
+    width: inherit;
+    text-indent: 0px;
+    margin-left:0px;
+
+  }
 }
