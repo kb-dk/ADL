@@ -191,7 +191,7 @@ da:
         search:
           placeholder: 'Søg'
           all_filters: 'Alle Felter'
-          title: 'Title'
+          title: 'Titel'
           author: 'Forfatter'
       pagination:
         title: 'Results navigation'
@@ -208,6 +208,9 @@ da:
         counter: '%{counter}. '
       facets:
         title: 'Afgræns din søgning'
+        refine: 'Afgræns til'
+        facet_fulltext: 'Fuldtekst'
+        facet_title: 'Titel'
         sort:
           count: 'Numerical Sort'
           index: 'A-Z Sort'
