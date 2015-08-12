@@ -1,0 +1,9 @@
+@media screen and (min-width: 764px) {
+  #sidebar{
+    position: fixed;
+    width: $leftMenuWidth;
+  }
+  #content{
+    margin-left: $leftMenuWidth;
+  }
+}
