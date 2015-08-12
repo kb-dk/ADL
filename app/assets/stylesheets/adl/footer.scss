@@ -1,40 +1,14 @@
 
-@import  "variables";
+ .pageFooter{
 
-
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 450px;
-}
-.pageFooter {
-  position: absolute;
-  bottom: 0;
-  left: 0;;
-  width: 100%;
-  background:$lightGray ;
-  /* Set the fixed height of the footer here */
-  .about{
-    padding:$gutterPadding 0;
-
-  }
-  .partner{
-    color: $white;
-    background: $darkGray ;
-    padding: $gutterPadding*2;
-    hr, h4, a{
-
-    }
-    a{
-      color: $white;
-      text-decoration: none;
-      &:hover{
-
-      }
-    }
-  }
-}
+   font-family: $font-family-nav;
+   /*.about{
+     padding: $grid-gutter-width 0;
+     background: $gray-lighter;
+   }
+   .partner{
+     padding: $grid-gutter-width 0;
+     @extend .navbar-inverse;
+     color: $navbar-inverse-link-color;
+   } */
+ }
