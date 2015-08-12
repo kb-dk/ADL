@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim">Anders Arrebo</field>
+    <field name="id">arrebo-p</field>
+    <field name="volume_id_ssi">arrebo-p</field>
+    <field name="url_ssi">http://adl.kb.dk/arrebo-p#</field>
+    <field name="volume_title_tesim">Anders Arrebo</field>
+    <field name="author_name">Mundbjerg, Torben</field>
+    <field name="author_id_ssi">40/5f/41/c9/405f41c9-8042-4568-8bbf-c31d593badfd</field>
+    <field name="subject_id_ssi">7a/a8/fd/f7/7aa8fdf7-6c19-421e-a6ba-3e80899dfa6e</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+  </doc>
+</add>
