@@ -23,8 +23,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Livet paa Hegnsgaard
-    </field>
+    <field name="work_title_tesim">Livet paa Hegnsgaard </field>
     <field name="id">aakjaer03tom#workid54268</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid54268</field>
@@ -39,14 +38,12 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                           </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Ulvens Søn
-    </field>
+    <field name="work_title_tesim">Ulvens Søn </field>
     <field name="id">aakjaer03tom#workid55272</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid55272</field>
@@ -61,14 +58,12 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                                       </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Naar Bønder elsker
-    </field>
+    <field name="work_title_tesim">Naar Bønder elsker </field>
     <field name="id">aakjaer03tom#workid56306</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid56306</field>
@@ -83,14 +78,12 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                         </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Himmelbjærgpræsten
-    </field>
+    <field name="work_title_tesim">Himmelbjærgpræsten </field>
     <field name="id">aakjaer03tom#workid54294</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid54294</field>
@@ -105,7 +98,6 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                       </field>
   </doc>
 </add>

@@ -21,8 +21,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Arbejdets Glæder
-    </field>
+    <field name="work_title_tesim">Arbejdets Glæder </field>
     <field name="id">aakjaer08tom#workid54148</field>
     <field name="volume_id_ssi">aakjaer08tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer08tom#workid54148</field>
@@ -36,14 +35,12 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                                                                                                                               </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Hvor der er gjærende Kræfter
-    </field>
+    <field name="work_title_tesim">Hvor der er gjærende Kræfter </field>
     <field name="id">aakjaer08tom#workid56278</field>
     <field name="volume_id_ssi">aakjaer08tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer08tom#workid56278</field>
@@ -57,14 +54,12 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                                                                                                       </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Jens Langkniv
-    </field>
+    <field name="work_title_tesim">Jens Langkniv </field>
     <field name="id">aakjaer08tom#workid57687</field>
     <field name="volume_id_ssi">aakjaer08tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer08tom#workid57687</field>
@@ -78,7 +73,6 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                                                                                                                                       </field>
   </doc>
 </add>

@@ -21,8 +21,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Af min Hjemstavns Saga
-    </field>
+    <field name="work_title_tesim">Af min Hjemstavns Saga </field>
     <field name="id">aakjaer05tom#workid54121</field>
     <field name="volume_id_ssi">aakjaer05tom</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer05tom#workid54121</field>
@@ -36,7 +35,6 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </field>
   </doc>
 </add>

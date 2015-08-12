@@ -22,8 +22,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Dedikation til hr. A. Tønder
-    </field>
+    <field name="work_title_tesim">Dedikation til hr. A. Tønder </field>
     <field name="id">aarestrup06#workid54138</field>
     <field name="volume_id_ssi">aarestrup06</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup06#workid54138</field>
@@ -38,14 +37,12 @@
     <field name="publisher_ssi">C. A. Reitzel</field>
     <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">    </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Til Madam M. Zinck
-    </field>
+    <field name="work_title_tesim">Til Madam M. Zinck </field>
     <field name="id">aarestrup06#workid54147</field>
     <field name="volume_id_ssi">aarestrup06</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup06#workid54147</field>
@@ -60,14 +57,12 @@
     <field name="publisher_ssi">C. A. Reitzel</field>
     <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">    </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Rimbrev til Jomfru Anna Aagard - I
-    </field>
+    <field name="work_title_tesim">Rimbrev til Jomfru Anna Aagard - I </field>
     <field name="id">aarestrup06#workid54163</field>
     <field name="volume_id_ssi">aarestrup06</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup06#workid54163</field>
@@ -82,14 +77,12 @@
     <field name="publisher_ssi">C. A. Reitzel</field>
     <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">    </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Rimbrev til Jomfru Anna Aagard - II
-    </field>
+    <field name="work_title_tesim">Rimbrev til Jomfru Anna Aagard - II </field>
     <field name="id">aarestrup06#workid54178</field>
     <field name="volume_id_ssi">aarestrup06</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup06#workid54178</field>
@@ -104,14 +97,12 @@
     <field name="publisher_ssi">C. A. Reitzel</field>
     <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">    </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Rimbrev til Sophie Hansen
-    </field>
+    <field name="work_title_tesim">Rimbrev til Sophie Hansen </field>
     <field name="id">aarestrup06#workid54187</field>
     <field name="volume_id_ssi">aarestrup06</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup06#workid54187</field>
@@ -126,14 +117,12 @@
     <field name="publisher_ssi">C. A. Reitzel</field>
     <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">     </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Tilegnelse til Amalie Raben
-    </field>
+    <field name="work_title_tesim">Tilegnelse til Amalie Raben </field>
     <field name="id">aarestrup06#workid54209</field>
     <field name="volume_id_ssi">aarestrup06</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup06#workid54209</field>
@@ -148,14 +137,12 @@
     <field name="publisher_ssi">C. A. Reitzel</field>
     <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">    </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Sang om Grundloven
-    </field>
+    <field name="work_title_tesim">Sang om Grundloven </field>
     <field name="id">aarestrup06#workid54217</field>
     <field name="volume_id_ssi">aarestrup06</field>
     <field name="url_ssi">http://adl.kb.dk/aarestrup06#workid54217</field>
@@ -170,7 +157,6 @@
     <field name="publisher_ssi">C. A. Reitzel</field>
     <field name="published_date_ssi">1976</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">     </field>
   </doc>
 </add>

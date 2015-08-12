@@ -22,8 +22,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Julies Dagbog
-    </field>
+    <field name="work_title_tesim">Julies Dagbog </field>
     <field name="id">nansen01tom#workid54134</field>
     <field name="volume_id_ssi">nansen01tom</field>
     <field name="url_ssi">http://adl.kb.dk/nansen01tom#workid54134</field>
@@ -38,14 +37,12 @@
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_date_ssi">1908-09</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                                                                                                                   </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Maria
-    </field>
+    <field name="work_title_tesim">Maria </field>
     <field name="id">nansen01tom#workid55454</field>
     <field name="volume_id_ssi">nansen01tom</field>
     <field name="url_ssi">http://adl.kb.dk/nansen01tom#workid55454</field>
@@ -60,14 +57,12 @@
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_date_ssi">1908-09</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                           </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Guds Fred
-    </field>
+    <field name="work_title_tesim">Guds Fred </field>
     <field name="id">nansen01tom#workid55963</field>
     <field name="volume_id_ssi">nansen01tom</field>
     <field name="url_ssi">http://adl.kb.dk/nansen01tom#workid55963</field>
@@ -82,7 +77,6 @@
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_date_ssi">1908-09</field>
     <field name="published_place_ssi">["Kbh.Kristiania"]</field>
-    <field name="text_tesim">
-        </field>
+    <field name="text_tesim">                                                                                                         </field>
   </doc>
 </add>

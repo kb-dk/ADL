@@ -23,8 +23,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Davids Psalmer 1623 og 1627
-    </field>
+    <field name="work_title_tesim">Davids Psalmer 1623 og 1627 </field>
     <field name="id">arre02tom#workid54835</field>
     <field name="volume_id_ssi">arre02tom</field>
     <field name="url_ssi">http://adl.kb.dk/arre02tom#workid54835</field>
@@ -39,8 +38,7 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Munksgaard</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-            </field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </field>
   </doc>
   <doc>
     <field name="type_ssi">leaf</field>
@@ -66,8 +64,7 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Davids Psalmer 1623 og 1627, Tredie Bog
-    </field>
+    <field name="work_title_tesim">Davids Psalmer 1623 og 1627, Tredie Bog </field>
     <field name="id">arre02tom#workid58529</field>
     <field name="volume_id_ssi">arre02tom</field>
     <field name="url_ssi">http://adl.kb.dk/arre02tom#workid58529</field>
@@ -82,7 +79,6 @@
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Munksgaard</field>
     <field name="published_place_ssi">["Kbh"]</field>
-    <field name="text_tesim">
-              </field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </field>
   </doc>
 </add>
