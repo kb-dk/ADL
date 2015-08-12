@@ -1,42 +1,33 @@
 
+
+
 /* BOOTSTRAP GEM
 *************************************************************************************/
+// Core variables and mixins
+@import "adl/variables";
 @import "bootstrap";
+/*ADL*/
 
 /* BLACKLIGHT GEM
 *************************************************************************************/
-@import 'blacklight/blacklight';
+@import "blacklight/blacklight";
 
 /* ADL
 *************************************************************************************/
 
-body{
-  margin: 75px;
-}
-//@import "adl/variables";
 @import "adl/header";
+@import "adl/footer";
 
-  .tab-pane{
-    max-height:300px;
-    width: 100%;
-    overflow: auto;
-    overflow-x: hidden;
-  }
 
-html {
-  position: relative;
-  min-height: 100%;
-}
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 200px;
-}
-.pageFooter {
-  position: absolute;
-  bottom: 0;
-  left: 0;;
-  width: 100%;
-  /* Set the fixed height of the footer here */
 
-  background-color: #f5f5f5;
-}
+
+
+
+
+
+
+
+
+
+
+
