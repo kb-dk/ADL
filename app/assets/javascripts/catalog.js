@@ -70,7 +70,74 @@ $(document).ready(function(){
         $("#worksearch_btn").click();
     }
 
+    // FIXME: We should wrap all our functions into this object, in order not to polute the global object!
+    window.ADL = function (window, $, undefined) {
+        return {
+            /**
+             * Get id of the top most visible text element, used in bookmarking.
+             * @return {String/id} Id of the text element in top of the visible part of the viewport.
+             */
+            getFirstVisibleElement: function () {
+                var firstVisibleElement;
+                $("*[id^='idm']").each(function (index, elem, elems) {
+                    if ($(elem).visible()) {
+                        firstVisibleElement = elem;
+                        return false;
+                    }
+                    return true;
+                });
+                return firstVisibleElement;
+            },
 
+            getFirstVisiblePage: function () {
+                var firstVisibleElement = this.getFirstVisibleElement();
+                if (firstVisibleElement.tagName === 'P' || firstVisibleElement.tagName === 'DIV') {
+                    return $(firstVisibleElement);
+                } else {
+                    return $(firstVisibleElement).closest("div[id^='idm'], p[id^='idm']");
+                }
+            },
+
+            getFirstVisiblePageId: function () {
+                return this.getFirstVisiblePage().attr('id');
+            },
+
+            getFirstVisibleId: function () {
+                var firstElement = this.getFirstVisibleElement();
+                return firstElement ? firstElement.id : '';
+            },
+
+            getFirstVisibleText: function () {
+                var firstElement = this.getFirstVisibleElement();
+                if (firstElement) {
+                    if (firstElement.tagName === 'BR') {
+                        return firstElement.previousSibling
+                    } else {
+                        return $(firstElement).text();
+                    }
+                }
+                return '';
+            }
+        };
+    } (window, jQuery);
+
+    $(document).ajaxComplete(function (e, xhr, options) {
+        if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
+            // this is a feedback request
+            var firstVisiblePageId = ADL.getFirstVisiblePageId();
+            if (firstVisiblePageId) { // If there is an id, append it to the errormessage
+                var lines = $('textarea#message').html().split(/\n/i);
+                $.each(lines, function (index, line) {
+                    if (line.indexOf('URL') === 0) {
+                        line = line.replace('#','%23'); // html encode the # before workId in the link
+                        lines[index] = line + '#' + firstVisiblePageId;
+                        return false;
+                    }
+                });
+                $('textarea#message').html(lines.join('\n'));
+            }
+        }
+    });
 });
 
 function cookieTerms(cname, cvalue, exdays) {
