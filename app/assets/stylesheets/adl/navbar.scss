@@ -1,0 +1,8 @@
+
+
+.navbar{
+  font-family: $font-family-nav;
+  .navbar-nav{
+    @extend .text-uppercase;
+  }
+}
