@@ -11,7 +11,7 @@
   <%end %>
 
   <h1><small> <%= t '.links' %></small></h1>
-  <a> <%= t '.potrait' %></a><br>
+  <%= author_portrait_search_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.potrait')) %>
   <% @genres.each do |key, value| %>
       <a href="/?f[author_ssi][]=<%= document['author_name'].first %>&f[genre_ssi][]=<%= key %>"><%= key.to_s.capitalize %> (<%= value %>)</a><br>
   <%end %>
