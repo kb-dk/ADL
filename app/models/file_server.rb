@@ -1,10 +1,11 @@
 # Class to centralise inteface with FileServer
 class FileServer
-  def self.render_snippet(id,op=nil)
+  def self.render_snippet(id,opts={})
     a =id.split("#")
     uri = "#{Rails.application.config_for(:adl)["snippet_server_url"]}?doc=#{a[0]}.xml"
     uri += "&id=#{a[1]}" unless a.size < 2
-    uri += "&op=#{op}" unless op.nil?
+    uri += "&op=#{opts[:op]}" if opts[:op].present?
+    uri += "&c=#{opts[:c]}" if opts[:c].present?
     Rails.logger.debug("url #{uri}")
 
     #res = Net::HTTP.get_response(URI(uri))
@@ -29,7 +30,7 @@ class FileServer
   end
 
   def self.toc(id)
-    FileServer.render_snippet(id, 'toc')
+    FileServer.render_snippet(id, {op: 'toc'})
   end
 
   def self.has_text(id)

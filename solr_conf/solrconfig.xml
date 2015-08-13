@@ -139,20 +139,10 @@
          text_tesim
        </str>
        <str name="subject_qf">
-         subject_topic_unstem_search^200
-         subject_unstem_search^125
-         subject_topic_facet^100
-         subject_t^50
-         subject_addl_unstem_search^10
-         subject_addl_t
+         subject_id_ssi
        </str>
        <str name="subject_pf">
-         subject_topic_unstem_search^2000
-         subject_unstem_search^1250
-         subject_t^1000
-         subject_topic_facet^500
-         subject_addl_unstem_search^100
-         subject_addl_t^10
+         subject_id_ssi
        </str>
        
        <int name="ps">3</int>

@@ -11,6 +11,12 @@
     <%end %>
 
   <dt>Relateret:</dt>
-  <dd><a> <%= t 'people.show_person.potrait' %></a> <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>"> <%= t 'people.show_person.similar_works' %></a></dd>
+  <dd>
+
+
+    <%= author_portrait_search_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.potrait')) %>
+    <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>">
+      <%= t 'people.show_person.similar_works' %></a>
+  </dd>
 
 </dl>

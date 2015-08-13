@@ -41,6 +41,10 @@ module ApplicationHelper
     content_tag(:span, nil, class: "glyphicon glyphicon-#{icon} #{classes}").html_safe
   end
 
+  def author_portrait_search_link(firstname,lastname,label)
+    link_to label, "/?f[cat_ssi][]=portrait&search_field=Alle+Felter&q=#{firstname}+#{lastname}"
+  end
+
   module Blacklight::UrlHelperBehavior
   ##
   # Extension point for downstream applications
