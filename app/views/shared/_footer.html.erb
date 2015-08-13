@@ -1,71 +1,65 @@
 
 <footer class="pageFooter">
 
-    <div class="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-6">
-                  <h4 class="text-uppercase">Om ADL</h4>
-                  </br>
-                  <ul>
-                    <li><%= link_to 'Om ADL', page_path('about') , class:'' %></li>
-                    <li><%= link_to 'Cookies og Privatlivspolitik', page_path('politik'), class:'' %></li>
-                  </ul>
-                </div>
-                <div class="col-xs-6">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
 
-                    <h4 class="text-uppercase">Kontakt os</h4>
-                    </br>
+      <h2>Om ADL</h2>
+      <hr/>
+        <ul class="list-unstyled">
+          <li><%= link_to 'Om ADL', page_path('about') , class:'' %></li>
+          <li><%= link_to 'Cookies og Privatlivspolitik', page_path('politik'), class:'' %></li>
+          <li><a href="/?f[cat_ssi][]=person&sort=author_ssi+asc"  href="#" role="button">Forfatteroversigt</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
 
-                      <address>
-                        <strong>Twitter, Inc.</strong><br>
-                        795 Folsom Ave, Suite 600<br>
-                        San Francisco, CA 94107<br>
-                        <abbr title="Phone">P:</abbr> (123) 456-7890
-                      </address>
+          <h2 class="">Samarbejdspartnere</h2>
+        <hr/>
 
-                      <address>
-                        <strong>Full Name</strong><br>
-                        <a href="mailto:#">first.last@example.com</a>
-                      </address>
 
-                </div>
-            </div>
+        <div class="media">
+          <a href="http://www.kb.dk" target="_blank">
+          <div class="media-left">
+              <%= image_tag("partner/kb.png", :alt => "Det Kongelige Bibliotek") %>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Det Kongelige Bibliotek</h4>
+          </div>
+          </a>
         </div>
-    </div>
 
-    <div class="partner">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-sm-12 text-center" >
-                    <h4 class="text-uppercase">Samarbejdspartnere</h4>
-                     </br>
-                </div>
-            </div>
-            <div class="row text-center">
-                <div class="col-xs-6">
-
-                    <a href="http://www.kb.dk" target="_BLANK" class="">
-                      <%= image_tag("partner/kb.png", :alt => "rss feed") %>
-                      <br/>
-                      <small>Det Kongelige Bibliotek</small>
-                    </a>
-
-                </div>
-                <div class="col-xs-6">
-                  <a href="http://dsl.dk/" target="_BLANK" class="">
-
-                  <%= image_tag("partner/dsl.png", :alt => "rss feed") %>
-                  <br/>
-                  <small>Det Danske Sprog- og Litteraturselskab</small>
-                </a>
-                </div>
-            </div>
-
+        <div class="media">
+          <a href="http://www.dsl.dk" target="_blank">
+              <div class="media-left">
+                  <%= image_tag("partner/dsl.png", :alt => "Det Danske Sprog- og Litteraturselskab") %>
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading">Det Danske Sprog- og Litteraturselskab</h4>
+              </div>
+          </a>
         </div>
+
+      </div>
+      <div class="col-sm-4">
+       <br/>
+       <hr class="visible-xs-block"/>
+        <address class="text-right">
+          <strong>Twitter, Inc.</strong><br>
+          795 Folsom Ave, Suite 600<br>
+          San Francisco, CA 94107<br>
+          <abbr title="Phone">P:</abbr> (123) 456-7890
+        </address>
+
+        <address class="text-right">
+          <strong>Full Name</strong><br>
+          <a href="mailto:#">first.last@example.com</a>
+        </address>
+
+      </div>
     </div>
-</footer>
+  </div>
 
 </footer>
 

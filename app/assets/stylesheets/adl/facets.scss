@@ -1,0 +1,62 @@
+.facets{
+  .panel-group {
+    margin:$grid-gutter-width 0 0 0;
+    border: 1px solid #efefef;
+    border-bottom: none;
+    .panel-default > .panel-heading {
+      color: #333333;
+      background-color: #f8f8f8;
+      border-color: #ddd;
+      .panel-title {
+        font-family: Roboto-Regular,Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        padding: 8px 0px;
+      }
+    }
+    .panel{
+      margin: 0px;
+      border-radius: 0px;
+      border: none;
+      border-bottom: 1px solid #efefef;
+
+      .panel-body{
+        padding: 0px;
+        background: transparent;
+        margin: 0px;
+        ul{
+          margin-bottom: 0px;
+          li{
+            @extend .clearfix;
+            background: #f1f1f1;
+            padding: 8px $grid-gutter-width/2;
+            display:block;
+            .facet-label{
+              @extend .pull-left;
+              .facet_select, .selected{
+                color: inherit;
+              }
+            }
+            .facet-count{
+              @extend .pull-right;
+            }
+            .facet-count.selected{
+              color: inherit;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+  // xs view
+  .facets{
+    .top-panel-heading{
+      @extend .visible-xs-block;
+    }
+  }
+
+
+
+

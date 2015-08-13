@@ -1,0 +1,19 @@
+.navbar{
+  font-family: $font-family-nav;
+  .navbar-nav{
+    @extend .text-uppercase;
+  }
+}
+
+// Fix for in-page linking in a page with a fixed header.
+// Solution nicked from https://github.com/twbs/bootstrap/issues/1768
+// FIXME: I don't think pseudo-selectors are working in ios safari? Have this tested on an iPhone!
+@media screen and (min-width: 764px) {
+  #content *[id]:before {
+    display: block;
+    content: " ";
+    margin-top: -50px;
+    height: 50px;
+    visibility: hidden;
+  }
+}

@@ -125,7 +125,7 @@ class CatalogController < ApplicationController
 
     # Work show fields
     config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
-    config.add_show_field 'publisher_ssi', :label => 'Publisher', itemprop: :publisher
+    config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', itemprop: :publisher
     # don't show the volume field if we're on the landing page for that volume!
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
@@ -172,7 +172,6 @@ class CatalogController < ApplicationController
 
     # common method for rendering pdfs based on wicked_pdf
     # cache files in the public folder based on their id
-    # TODO: this should include some sort of cache busting method to regenerate when TEIs are updated
     # perhaps using the Solr document modified field
     def send_pdf(document, type)
       name = document['work_title_tesim'].first.strip rescue document.id
@@ -181,7 +180,7 @@ class CatalogController < ApplicationController
       file_mtime = File.mtime(path) if File.exist? path.to_s
       # display the cached pdf if solr doc timestamp is older than the file's modified date
       if File.exist? path.to_s and ((type == 'text' and solr_timestamp < file_mtime) or type == 'image')
-          send_file path.to_s, type: 'application/pdf', disposition: :inline
+          send_file path.to_s, type: 'application/pdf', disposition: :inline, filename: name+".pdf"
       else
         render pdf: name, footer: { right: '[page] af [topage] sider' },
                save_to_file: path
