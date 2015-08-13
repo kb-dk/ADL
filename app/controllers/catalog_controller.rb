@@ -93,7 +93,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
     config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf
     config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted'
-    config.add_index_field 'editor_ssi', :label => 'Editor', itemprop: :editor
+    config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
     # config.add_field_configuration_to_solr_request!
@@ -125,11 +125,12 @@ class CatalogController < ApplicationController
 
     # Work show fields
     config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
-    config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', itemprop: :publisher
+    config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
     # don't show the volume field if we're on the landing page for that volume!
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
     config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
+    config.add_show_field 'editor_ssi', :label => 'Redaktør'
     config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
     config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
