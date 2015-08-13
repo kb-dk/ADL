@@ -83,11 +83,12 @@
 
 /* ADL
 *************************************************************************************/
-
 @import "adl/navbar";
-@import "adl/footer";
+@import "adl/search";
+@import "adl/facets";
 @import "adl/homeSearch";
 @import "adl/leftMenu";
+@import "adl/footer";
 
 body{
   margin-top: 49px;
