@@ -1,14 +1,6 @@
 
  .pageFooter{
-
+   border-top:1px solid $gray-lighter;
    font-family: $font-family-nav;
-   /*.about{
-     padding: $grid-gutter-width 0;
-     background: $gray-lighter;
-   }
-   .partner{
-     padding: $grid-gutter-width 0;
-     @extend .navbar-inverse;
-     color: $navbar-inverse-link-color;
-   } */
+   padding: $grid-gutter-width 0;
  }
