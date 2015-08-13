@@ -55,6 +55,6 @@ class FileServer
   end
 
   def self.facsimile(id)
-    FileServer.render_snippet(id, 'facsimile')
+    FileServer.render_snippet(id, {op: 'facsimile'})
   end
 end
