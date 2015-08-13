@@ -91,7 +91,7 @@ class CatalogController < ApplicationController
 
     # this adds basic highlighting to index results
     config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
-    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
     config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted'
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
