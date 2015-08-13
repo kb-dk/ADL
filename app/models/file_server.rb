@@ -29,8 +29,9 @@ class FileServer
     result.html_safe.force_encoding('UTF-8')
   end
 
-  def self.toc(id)
-    FileServer.render_snippet(id, {op: 'toc'})
+  def self.toc(id,opts={})
+    opts[:op] = 'toc'
+    FileServer.render_snippet(id, opts)
   end
 
   def self.has_text(id)

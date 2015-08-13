@@ -21,7 +21,11 @@
   <!-- Tab panes -->
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="toc">
-        <%= FileServer.toc(document.id) %>
+      <% if document['cat_ssi'] == 'portrait' %>
+        <%= FileServer.toc(document.id,{c: 'authors'}) %>
+      <% else %>
+          <%= FileServer.toc(document.id) %>
+      <% end %>
     </div>
     <div role="tabpanel" class="tab-pane" id="worksearch" class="worksearch">
         <%= render partial: 'work_search', locals: {document: document} %>
