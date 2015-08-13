@@ -11,17 +11,23 @@
           <%= bootstrap_glyphicon 'list' %>
           Indhold
       <% end %>
-    <li role="presentation">
+      <% unless document['cat_ssi'] == 'portrait' %>
+  <li role="presentation">
       <%= link_to('#worksearch', role:'tab',  data: { toggle: 'tab' }, disabled: document_empty) do %>
           <%= bootstrap_glyphicon 'search' %>
           Søg
       <% end %>
+     <% end %>
   </ul>
 
   <!-- Tab panes -->
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="toc">
-        <%= FileServer.toc(document.id) %>
+      <% if document['cat_ssi'] == 'portrait' %>
+        <%= FileServer.toc(document.id,{c: 'authors'}) %>
+      <% else %>
+          <%= FileServer.toc(document.id) %>
+      <% end %>
     </div>
     <div role="tabpanel" class="tab-pane" id="worksearch" class="worksearch">
         <%= render partial: 'work_search', locals: {document: document} %>
