@@ -128,7 +128,7 @@ class CatalogController < ApplicationController
     config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
     # don't show the volume field if we're on the landing page for that volume!
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
+    #config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
     config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
     config.add_show_field 'editor_ssi', :label => 'Redaktør'
     config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
