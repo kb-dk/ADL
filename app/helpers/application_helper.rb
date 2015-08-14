@@ -14,11 +14,11 @@ module ApplicationHelper
 
   def published_fields args
     publisher = args[:document]['publisher_ssi']
+    published_place = args[:document]['published_place_ssi']
     published_date = args[:document]['published_date_ssi']
-    published = ""
-    published += publisher if publisher.present?
-    published += ", " if publisher.present? and published_date.present?
-    published += published_date if published_date.present?
+    # check if there are nil values in the array
+    published = [publisher, published_place, published_date].reject { |c| c.nil? }
+    published = published.join(', ')
     published.html_safe
   end
 
