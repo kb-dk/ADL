@@ -49,25 +49,14 @@ $link-hover-decoration: underline !default;
 
 
       //ADL specific
-      @font-face {
-        font-family: RobotoCondensed-Regular;
-        src: url(fonts/RobotoCondensed-Regular.ttf);
-      }
-      @font-face {
-        font-family: Roboto-Regular;
-        src: url(fonts/Roboto-Regular.ttf);
-      }
-      @font-face {
-        font-family: RobotoSlab-Regular;
-        src: url(fonts/RobotoSlab-Regular.ttf);
-      }
+@import url(http://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Slab);
 
-      $font-family-sans-serif:  Roboto-Regular, Helvetica, Arial, sans-serif !default;
-      $font-family-serif:       RobotoSlab-Regular, "Times New Roman", Times, serif !default;
+      $font-family-sans-serif:  'Roboto', Helvetica, Arial, sans-serif !default;
+      $font-family-serif:       'Roboto Slab', Times New Roman, Times, serif !default;
       //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
       $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
       $font-family-base:        $font-family-sans-serif !default;
-      $font-family-nav:         RobotoCondensed-Regular, Helvetica, Arial, sans-serif;
+      $font-family-nav:         'Roboto Condensed', Helvetica, Arial, sans-serif;
       //ADL specific END
 
 $font-size-base:          14px !default;
