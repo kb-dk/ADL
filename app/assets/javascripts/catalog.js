@@ -1,6 +1,22 @@
 /**
  * Created by romc on 7/8/15.
  */
+
+$(document).ready(function(){
+    resizeDiv();
+});
+
+window.onresize = function(event) {
+    resizeDiv();
+}
+
+function resizeDiv() {
+    vpw = $(window).width();
+    vph = $(window).height() - 108;
+    $('.tab-pane').css({'height': vph + 'px'});
+}
+
+
 $(document).ready(function(){
     /**
      * Handle search type pseudo facets
