@@ -80,7 +80,10 @@ $(document).ready(function(){
      * Get the query from the 'back to search' link and trigger an  automatic document search
      * with that query
      */
-    var q= getURLParameter($("div.search-widgets a[id!='startoverlink']").attr('href').split('?'),'q');
+    var q= $("div.search-widgets a[id!='startoverlink']").attr('href');
+    if (q) {
+        q = getURLParameter(q.split('?'), 'q');
+    }
     if (q!= null && q != '') {
         $("#wq").val(q);
         $("#worksearch_btn").click();
@@ -95,7 +98,7 @@ $(document).ready(function(){
              */
             getFirstVisibleElement: function () {
                 var firstVisibleElement;
-                $("*[id^='idm']").each(function (index, elem, elems) {
+                $('*[id^="idm"]').each(function (index, elem) {
                     if ($(elem).visible()) {
                         firstVisibleElement = elem;
                         return false;
@@ -133,6 +136,49 @@ $(document).ready(function(){
                     }
                 }
                 return '';
+            },
+
+            updateBookmarkLink: function (e) {
+                // TODO: Somewhere here we need to manipulate the bookmark elements between set and unset!
+                var formElem = $('form.bookmark_toggle'),
+                    firstVisibleId = ADL.getFirstVisibleId();
+                if (firstVisibleId.length) {
+                    // There is a line id - append it to the bookmark id
+                    formElem.attr('action',
+                    '/bookmarks/' + formElem.attr('data-doc-id') + '%23' + firstVisibleId);
+                } else {
+                    // No line id - set the bookmark to the entire work
+                    formElem.attr('action',
+                        '/bookmarks/' + formElem.attr('data-doc-id'));
+                }
+            },
+
+            scrollSniffer: function (e) {
+                ADL.updateBookmarkLink(e);
+
+                // FIXME: Set a class instead, and let the stylesheets do the CSS work!
+                if ($(window).scrollTop() >= 145) {
+                    $('#sidebar').css({
+                        position: 'fixed',
+                        top: '10px',
+                        right: '0'
+                    });
+                } else {
+                    $('#sidebar').css({
+                        position: 'relative',
+                        top: '0',
+                        right: '0'
+                    });
+                }
+            },
+
+            goto: function (idm) {
+                var elem = $('#' + idm);
+                if (elem.length > 0) {
+                    document.body.scrollTop = elem.offset().top;
+                    return true;
+                }
+                return false;
             }
         };
     } (window, jQuery);
@@ -151,6 +197,20 @@ $(document).ready(function(){
                     }
                 });
                 $('textarea#message').html(lines.join('\n'));
+            }
+        }
+    });
+
+    // setup scrollSniffer that manipulates bookmarks
+    // FIXME: Next line turns on the scrollSniffer - but it does not discriminate between pages (and it should!)
+    // $(window).scroll(ADL.scrollSniffer);
+
+    $(document).ajaxComplete(function (e, xhr, options) {
+        if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
+            // this is a feedback request
+            var firstVisibleId = ADL.getFirstVisibleId();
+            if (firstVisibleId) { // If there is an id, append it to the errormessage
+                $('textarea#message').html($('textarea#message').html() + 'id: #' + firstVisibleId + '\n');
             }
         }
     });
