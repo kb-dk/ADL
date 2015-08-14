@@ -2,6 +2,10 @@
   font-family: $font-family-nav;
   .navbar-nav{
     @extend .text-uppercase;
+    #bookmarks_nav:before{
+      @extend .glyphicon;
+      @extend .glyphicon-bookmark;
+    }
   }
 }
 
