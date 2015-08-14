@@ -26,8 +26,12 @@
 
 }
 
-.workContent{
+.workContent, .workFaksimile{
   padding-top:$grid-gutter-width;
+  img{
+    @extend .img-responsive;
+    width: 100%;
+  }
   span{
     color: #FFF;;
       display: block;
@@ -89,6 +93,8 @@
 
 
 }
+
+
 
 #sortAndPerPage, .pagination-search-widgets {
   border: none;
