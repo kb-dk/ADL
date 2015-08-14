@@ -2,43 +2,49 @@
 <% document_empty ||= !FileServer.has_text(document.id) %>
 <div class="container">
   <div class="row">
-<%= render partial: 'previous_next_doc' %>
 
-<div id="sidebar" class="<%= show_sidebar_classes %>">
-  <%= render_document_sidebar_partial %>
+    <div class="container workWrapper">
+      <div class="row">
+        <div id="sidebar" class="<%= show_sidebar_classes %>">
+          <%= render_document_sidebar_partial %>
+        </div>
+
+        <div id="content" class="<%= show_content_classes %> col-md-offset-3 col-sm-offset-4">
+          <%= render partial: 'previous_next_doc' %>
+          <%= render partial: 'catalog/show_header_work_faksimile' %>
+
+          <div class="workNav">
+            <ul class="nav nav-tabs">
+              <li role="presentation">
+                <%= link_to(solr_document_path(document), disabled: document_empty) do %>
+                    <%= bootstrap_glyphicon 'font' %>
+                    Tekst
+                <% end %>
+              </li>
+              <li role="presentation" class="active">
+                <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
+                <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
+                    <%= bootstrap_glyphicon 'picture' %>
+                    Faksimile
+                <% end %>
+              </li>
+            </ul>
+          </div>
+
+
+          <div class="workFaksimile">
+            <%= FileServer.facsimile(@document.id).html_safe %>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div id="content" class="<%= show_content_classes %>">
-    <%= render partial: 'catalog/show_header_work' %>
 
 
-  <ul class="nav nav-tabs">
-    <li role="presentation">
-      <%= link_to(solr_document_path(document), disabled: document_empty) do %>
-          <%= bootstrap_glyphicon 'font' %>
-          Tekst
-      <% end %>
-    </li>
-    <li role="presentation" class="active">
-      <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-      <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
-          <%= bootstrap_glyphicon 'picture' %>
-          Faksimile
-      <% end %>
-    </li>
-    <li class="pull-right">
-      <%= button_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default',:method => 'get') do %>
-          <%= bootstrap_glyphicon 'download-alt' %>
-          Download
-      <% end %>
-    </li>
-  </ul>
 
-
-    <%= FileServer.facsimile(@document.id).html_safe %>
-</div>
-</div>
-</div>
 
 
 
