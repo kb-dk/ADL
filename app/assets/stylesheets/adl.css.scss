@@ -88,19 +88,13 @@
 @import "adl/facets";
 @import "adl/homeSearch";
 @import "adl/leftMenu";
+@import "adl/workTools";
 @import "adl/footer";
 
 body{
   margin-top: 49px;
 }
 
-
-.tab-pane{
-  max-height:300px;
-  width: 100%;
-  overflow: auto;
-  overflow-x: hidden;
-}
 
 
 
