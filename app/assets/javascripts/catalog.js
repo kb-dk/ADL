@@ -80,8 +80,6 @@ $(document).ready(function(){
      * Get the query from the 'back to search' link and trigger an  automatic document search
      * with that query
      */
-// FIXME: What is this? It fails when $("div.search-widgets a[id!='startoverlink']") isn't present!
-    //var q= getURLParameter($("div.search-widgets a[id!='startoverlink']").attr('href').split('?'),'q');
     var q= $("div.search-widgets a[id!='startoverlink']").attr('href');
     if (q) {
         q = getURLParameter(q.split('?'), 'q');
