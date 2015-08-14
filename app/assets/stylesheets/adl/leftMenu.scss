@@ -1,9 +1,49 @@
-@media screen and (min-width: 764px) {
-  #sidebar{
-    position: fixed;
-    width: $leftMenuWidth;
+
+
+@media (max-width: $screen-xs-max) {
+  .tab-pane{
+    height: auto!important;
+    max-height: 300px;
   }
+}
+
+@media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+  .workWrapper #sidebar{
+    position: fixed;
+    width: 240px;
+  }
+}
+
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+  .workWrapper #sidebar{
+    position: fixed;
+    width: 232px;
+  }
+}
+
+@media (min-width: $screen-lg-min) {
+  .workWrapper #sidebar{
+    position: fixed;
+    width: 282px;
+  }
+
+}
+
+
+
+
+
+
+/*@media screen and (min-width: 764px) {
+
   #content{
     margin-left: $leftMenuWidth;
   }
-}
+}  */
+ // menu col-md-3 col-sm-4
+// menu lg 262px
+// menu md 212px
+// menu sm 220px
+//$leftMenuWidth
+
+// content col-md-9 col-sm-8
