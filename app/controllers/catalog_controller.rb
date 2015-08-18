@@ -145,6 +145,7 @@ class CatalogController < ApplicationController
     # to use for this use case.
     def show
       @response, @document = fetch params[:id]
+      @document_empty = !FileServer.has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
@@ -165,6 +166,7 @@ class CatalogController < ApplicationController
 
     def facsimile
       @response, @document = fetch(params[:id])
+      @document_empty = !FileServer.has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.pdf { send_pdf(@document, 'image') }
