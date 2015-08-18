@@ -2,7 +2,7 @@
 <% document_empty ||= !FileServer.has_text(document.id) %>
 
 <% # bookmark/folder functions -%>
-
+<div class="workNavbar">
 <%= render :partial => 'show_tools_work' %>
 
 <div class="btn-group">
@@ -28,7 +28,7 @@
 <div class="btn-group workNav pull-right " role="group">
   <%= render :partial => 'show_tools' %>
 </div>
-
+</div>
 
 <div class="workHeader">
 
