@@ -196,6 +196,10 @@ class CatalogController < ApplicationController
       action_name == "index" && params['search_field'] != 'leaf'
     end
 
+    #overwritten to get highlighting included in the json results
+    def render_search_results_as_json
+      {response: {docs: @document_list, facets: search_facets_as_json, highlighting: @response['highlighting'], pages: pagination_info(@response)}}
+    end
 
 
     # "fielded" search configuration. Used by pulldown among other places.
@@ -254,7 +258,8 @@ class CatalogController < ApplicationController
       field.solr_parameters = { :fq => 'type_ssi:leaf' }
       field.solr_local_parameters = {
           :qf => '$text_qf',
-          :pf => '$text_pf'
+          :pf => '$text_pf',
+          :hl => 'true',
       }
     end
 
