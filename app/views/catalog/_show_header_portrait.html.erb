@@ -1,0 +1,77 @@
+<% document ||= @document %>
+<% document_empty ||= !FileServer.has_text(document.id) %>
+
+<% # bookmark/folder functions -%>
+
+<!-- Button trigger table of content -->
+<button type="button" class="btn btn-default" data-toggle="modal" data-target="#toc">
+  <%= bootstrap_glyphicon 'list' %>
+  Indhold
+</button>
+
+<!-- Modal Table of content  -->
+<div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="tableOfContent">
+          <%= bootstrap_glyphicon 'list' %>
+          Indhold
+        </h4>
+      </div>
+      <div class="modal-body">
+        <% if document['cat_ssi'] == 'portrait' %>
+            <%= FileServer.toc(document.id,{c: 'authors'}) %>
+        <% else %>
+            <%= FileServer.toc(document.id) %>
+        <% end %>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <%= bootstrap_glyphicon 'download-alt' %>
+    Download PDF <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li>
+      <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt', disabled: document_empty) do %>
+          <%= bootstrap_glyphicon 'align-left' %>
+          Teksten
+      <% end %>
+    </li>
+    <li>
+      <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
+          <%= bootstrap_glyphicon 'picture' %>
+          Billeder
+      <% end %>
+    </li>
+  </ul>
+</div>
+<div class="btn-group workNav pull-right " role="group">
+  <%= render :partial => 'show_tools' %>
+</div>
+
+
+<div class="workHeader">
+  <h1><%= document['work_title_tesim'].first %> <small>(Forfatterportræt)</small></h1>
+    <dl class="dl-horizontal  dl-invert">
+      <% document_show_fields(document).each do |field_name, field| -%>
+          <% if should_render_show_field? document, field %>
+              <dt class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_label document, field: field_name %></dt>
+              <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
+          <% end -%>
+      <% end -%>
+    </dl>
+
+
+</div>
+
+
+
