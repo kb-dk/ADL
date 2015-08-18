@@ -157,18 +157,22 @@ $(document).ready(function(){
                 ADL.updateBookmarkLink(e);
 
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
-                if ($(window).scrollTop() >= 145) {
-                    $('#sidebar').css({
+                if ($(window).scrollTop() >= 55) {
+                    $('.workHeader').css({
                         position: 'fixed',
-                        top: '10px',
-                        right: '0'
+                        top: '50px',
+                        right: '230px', // FIXME: These two numbers is just to emulate a correct markup on my screen - they have got to die!
+                        left: '520px',
+                        paddingBottom: '10px'
                     });
+                    $('.workHeader dl').hide();
                 } else {
-                    $('#sidebar').css({
-                        position: 'relative',
+                    $('.workHeader').css({
+                        position: 'static',
                         top: '0',
                         right: '0'
                     });
+                    $('.workHeader dl').show();
                 }
             },
 
@@ -201,9 +205,8 @@ $(document).ready(function(){
         }
     });
 
-    // setup scrollSniffer that manipulates bookmarks
-    // FIXME: Next line turns on the scrollSniffer - but it does not discriminate between pages (and it should!)
-    // $(window).scroll(ADL.scrollSniffer);
+    // setup scrollsniffer
+    $(window).scroll(ADL.scrollSniffer);
 
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
