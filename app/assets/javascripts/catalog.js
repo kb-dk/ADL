@@ -223,6 +223,16 @@ $(document).ready(function(){
     // setup scrollsniffer
     $(window).scroll(ADL.scrollSniffer);
 
+    // modal should be closed as soon as one clicks on a in-page link.
+    $('.modal-body').click(function (e) {
+        if (e.target.tagName === 'A' && e.target.href.indexOf('#idm') > 0) {
+            $($(e.target).closest('.modal')).modal('hide');
+        }
+    });
+
+    // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
+    $('.modal').appendTo($('body'));
+
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
             // this is a feedback request
