@@ -3,19 +3,14 @@
 
 <% document_empty = !FileServer.has_text(document.id) %>
 
-
-
-
 <!-- Button trigger table of content -->
-<button type="button" class="btn btn-default" data-toggle="modal" data-target="#toc">
+<button type="button" class="btn btn-default tableOfContent" data-toggle="modal" data-target="#toc">
   <%= bootstrap_glyphicon 'list' %>
   Indhold
 </button>
 
-
-
 <!-- Button trigger search in full text -->
-<button type="button" class="btn btn-default" data-toggle="modal" data-target="#searchFullText">
+<button type="button" class="btn btn-defaul contentSearch" data-toggle="modal" data-target="#searchFullText">
   <%= bootstrap_glyphicon 'search' %>
   Søg
 </button>
