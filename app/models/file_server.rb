@@ -36,11 +36,10 @@ class FileServer
   end
 
   def self.has_text(id)
-    text ||= self.render_snippet(id).to_str
-    text = text.delete("\n")
-    text = ActionController::Base.helpers.strip_tags(text)
+    text = self.render_snippet(id).to_str
+    text = ActionController::Base.helpers.strip_tags(text).delete("\n")
     # check text length excluding pb elements
-    text = text.gsub(/\[s. \w+\s+\]/, '')
+    text = text.gsub(/[s|S]\. [\w\d]+/,'').delete(' ')
     text.present?
   end
 

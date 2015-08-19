@@ -1,5 +1,5 @@
 <% document ||= @document %>
-<% document_empty ||= !FileServer.has_text(document.id) %>
+<% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
 <div class="container">
   <div class="row">
 

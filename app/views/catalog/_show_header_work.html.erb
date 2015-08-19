@@ -1,5 +1,5 @@
 <% document ||= @document %>
-<% document_empty ||= !FileServer.has_text(document.id) %>
+<% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
 
 <% # bookmark/folder functions -%>
 
@@ -13,9 +13,11 @@
         <span class="glyphicon glyphicon-bookmark" alt="Bookmark"></span> <span>Bookmark</span>
       </button>
       <%= render :partial => 'show_tools' %>
-      <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-link', disabled: document_empty) do %>
-          <%= bootstrap_glyphicon 'download-alt' %>
-          Download
+      <% unless document_empty %>
+          <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-link', disabled: document_empty) do %>
+              <%= bootstrap_glyphicon 'download-alt' %>
+              Download
+          <% end %>
       <% end %>
     </div>
   </div>
