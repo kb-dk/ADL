@@ -1,7 +1,6 @@
 <%# default partial to display solr document fields in catalog show view -%>
 
-<% document_empty ||= !FileServer.has_text(document.id) %>
-<% if !document_empty %>
+<% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
 
 
     <div class="nav-tab-instance">
@@ -22,6 +21,7 @@
       </ul>
     </div>
 
+<% if !document_empty %>
     <div class="text-content workContent">
       <div class="text">
         <% text ||= FileServer.render_snippet(document.id) %>
@@ -29,7 +29,9 @@
       </div>
     </div>
 <% else %>
-    <div>
+    <div class="text-content workContent">
+      <div class="text">
       <%= t '.no_text' %>
+      </div>
     </div>
 <% end %>

@@ -6,7 +6,8 @@ class FileServer
     uri += "&id=#{a[1]}" unless a.size < 2
     uri += "&op=#{opts[:op]}" if opts[:op].present?
     uri += "&c=#{opts[:c]}" if opts[:c].present?
-    Rails.logger.debug("url #{uri}")
+    uri += "&prefix=#{opts[:prefix]}" if opts[:prefix].present?
+    Rails.logger.debug("snippet url #{uri}")
 
     #res = Net::HTTP.get_response(URI(uri))
     uri = URI.parse(uri)
@@ -35,11 +36,10 @@ class FileServer
   end
 
   def self.has_text(id)
-    text ||= self.render_snippet(id).to_str
-    text = text.delete("\n")
-    text = ActionController::Base.helpers.strip_tags(text)
+    text = self.render_snippet(id).to_str
+    text = ActionController::Base.helpers.strip_tags(text).delete("\n")
     # check text length excluding pb elements
-    text = text.gsub(/\[s. \w+\s+\]/, '')
+    text = text.gsub(/[s|S]\. [\w\d]+/,'').delete(' ')
     text.present?
   end
 
@@ -55,6 +55,6 @@ class FileServer
   end
 
   def self.facsimile(id)
-    FileServer.render_snippet(id, {op: 'facsimile'})
+    FileServer.render_snippet(id, {op: 'facsimile', prefix: Rails.application.config_for(:adl)["image_server_prefix"]})
   end
 end
