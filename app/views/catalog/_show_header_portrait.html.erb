@@ -6,39 +6,41 @@
   <div class="row">
     <div class="col-md-12">
       <div class="workNavBar">
-<!-- Button trigger table of content -->
-<button type="button" class="btn btn-default" data-toggle="modal" data-target="#toc">
-  <%= bootstrap_glyphicon 'list' %>
-  Indhold
-</button>
+         <div class="btn-group" role="group">
+            <!-- Button trigger table of content -->
+            <button type="button" class="btn btn-default tableOfContent" data-toggle="modal" data-target="#toc">
+              <%= bootstrap_glyphicon 'list' %>
+              Indhold
+            </button>
 
-<!-- Modal Table of content  -->
-<div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="tableOfContent">
-          <%= bootstrap_glyphicon 'list' %>
-          Indhold
-        </h4>
-      </div>
-      <div class="modal-body">
-        <% if document['cat_ssi'] == 'portrait' %>
-            <%= FileServer.toc(document.id,{c: 'authors'}) %>
-        <% else %>
-            <%= FileServer.toc(document.id) %>
-        <% end %>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="btn-group workNav pull-right " role="group">
-  <%= render :partial => 'show_tools' %>
-</div>
+            <!-- Modal Table of content  -->
+            <div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="tableOfContent">
+                      <%= bootstrap_glyphicon 'list' %>
+                      Indhold
+                    </h4>
+                  </div>
+                  <div class="modal-body">
+                    <% if document['cat_ssi'] == 'portrait' %>
+                        <%= FileServer.toc(document.id,{c: 'authors'}) %>
+                    <% else %>
+                        <%= FileServer.toc(document.id) %>
+                    <% end %>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="btn-group workNav pull-right " role="group">
+              <%= render :partial => 'show_tools' %>
+            </div>
+        </div>
       </div>
     </div>
   </div>
@@ -48,15 +50,15 @@
   <div class="row">
     <div class="col-md-12">
       <div class="workHeader">
-  <h1><%= document['work_title_tesim'].first %> <small>(Forfatterportræt)</small></h1>
-    <dl class="dl-horizontal  dl-invert">
-      <% document_show_fields(document).each do |field_name, field| -%>
-          <% if should_render_show_field? document, field %>
-              <dt class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_label document, field: field_name %></dt>
-              <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
+        <h1><%= document['work_title_tesim'].first %> <small>(Forfatterportræt)</small></h1>
+        <dl class="dl-horizontal  dl-invert">
+          <% document_show_fields(document).each do |field_name, field| -%>
+              <% if should_render_show_field? document, field %>
+                  <dt class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_label document, field: field_name %></dt>
+                  <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
+              <% end -%>
           <% end -%>
-      <% end -%>
-    </dl>
+        </dl>
 
       </div>
     </div>
