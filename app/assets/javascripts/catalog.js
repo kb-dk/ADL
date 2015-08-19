@@ -230,6 +230,9 @@ $(document).ready(function(){
         }
     });
 
+    // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
+    $('.modal').appendTo($('body'));
+
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
             // this is a feedback request
