@@ -2,37 +2,39 @@
 <% document_empty ||= !FileServer.has_text(document.id) %>
 
 <% # bookmark/folder functions -%>
-<div class="workNavbar">
-<%= render :partial => 'show_tools_work' %>
 
-<div class="btn-group">
-  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    <%= bootstrap_glyphicon 'download-alt' %>
-    Download PDF <span class="caret"></span>
-  </button>
-  <ul class="dropdown-menu">
-    <li>
-      <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt', disabled: document_empty) do %>
-          <%= bootstrap_glyphicon 'align-left' %>
-          Teksten
-      <% end %>
-    </li>
-    <li>
-      <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
-          <%= bootstrap_glyphicon 'picture' %>
-          Billeder
-      <% end %>
-    </li>
-  </ul>
-</div>
-<div class="btn-group workNav pull-right " role="group">
-  <%= render :partial => 'show_tools' %>
+<div class="workNavBar">
+
+  <div class="btn-group" role="group">
+    <%= render :partial => 'show_tools_work' %>
+    <%= render :partial => 'show_tools' %>
+  </div>
+
+    <!--<div class="btn-group">
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <%#= bootstrap_glyphicon 'download-alt' %>
+        Download PDF <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu">
+        <li>
+          <%#= link_to(solr_document_path(document, format: :pdf), class:'dlTxt', disabled: document_empty) do %>
+              <%#= bootstrap_glyphicon 'align-left' %>
+              Teksten
+          <%# end %>
+        </li>
+        <li>
+          <%#= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
+              <%#= bootstrap_glyphicon 'picture' %>
+              Billeder
+          <%# end %>
+        </li>
+      </ul>
+    </div>  -->
 </div>
 </div>
 
 <div class="workHeader">
-
-  <%= render_document_heading(document, :tag => :h1) %>
+    <%= render_document_heading(document, :tag => :h1) %>
     <dl class="dl-horizontal  dl-invert">
       <% document_show_fields(document).each do |field_name, field| -%>
           <% if should_render_show_field? document, field %>
@@ -41,8 +43,6 @@
           <% end -%>
       <% end -%>
     </dl>
-
-
 </div>
 
 
