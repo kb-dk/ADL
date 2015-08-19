@@ -2,7 +2,10 @@
 <% document_empty ||= !FileServer.has_text(document.id) %>
 
 <% # bookmark/folder functions -%>
-
+<div class="container workNavbarFixContainer">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="workNavBar">
 <!-- Button trigger table of content -->
 <button type="button" class="btn btn-default" data-toggle="modal" data-target="#toc">
   <%= bootstrap_glyphicon 'list' %>
@@ -33,33 +36,18 @@
     </div>
   </div>
 </div>
-
-<div class="btn-group">
-  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    <%= bootstrap_glyphicon 'download-alt' %>
-    Download PDF <span class="caret"></span>
-  </button>
-  <ul class="dropdown-menu">
-    <li>
-      <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt', disabled: document_empty) do %>
-          <%= bootstrap_glyphicon 'align-left' %>
-          Teksten
-      <% end %>
-    </li>
-    <li>
-      <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
-          <%= bootstrap_glyphicon 'picture' %>
-          Billeder
-      <% end %>
-    </li>
-  </ul>
-</div>
 <div class="btn-group workNav pull-right " role="group">
   <%= render :partial => 'show_tools' %>
 </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-
-<div class="workHeader">
+<div class="container workHeaderFixContainer">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="workHeader">
   <h1><%= document['work_title_tesim'].first %> <small>(Forfatterportræt)</small></h1>
     <dl class="dl-horizontal  dl-invert">
       <% document_show_fields(document).each do |field_name, field| -%>
@@ -70,7 +58,9 @@
       <% end -%>
     </dl>
 
-
+      </div>
+    </div>
+  </div>
 </div>
 
 
