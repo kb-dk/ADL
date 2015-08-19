@@ -13,7 +13,9 @@ class CatalogController < ApplicationController
       :fq => 'type_ssi:trunk',
       # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
-      :'hl.snippets' => '3'
+      :'hl.snippets' => '3',
+      :'hl.simple.pre' => '<em class="highlight" >',
+      :'hl.simple.post' => '</em>'
     }
     
     # solr path which will be added to solr base url before the other solr params.
