@@ -158,19 +158,33 @@ $(document).ready(function(){
 
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
                 if ($(window).scrollTop() >= 55) {
-                    $('.workHeader').css({
+                    $('.workNavbarFixContainer').css({
                         position: 'fixed',
                         top: '50px',
-                        right: '230px', // FIXME: These two numbers is just to emulate a correct markup on my screen - they have got to die!
-                        left: '520px',
+                        right: '0',
+                        left: '0',
+                        backgroundColor: '#fff',
+                        zIndex: '4'
+                    });
+                    $('.workHeaderFixContainer').css({
+                        position: 'fixed',
+                        top: '84px',
+                        right: '0',
+                        left: '0',
                         paddingBottom: '10px'
                     });
                     $('.workHeader dl').hide();
                 } else {
-                    $('.workHeader').css({
+                    $('.workNavbarFixContainer').css({
                         position: 'static',
                         top: '0',
                         right: '0'
+                    });
+                    $('.workHeaderFixContainer').css({
+                        position: 'static',
+                        top: '0',
+                        right: '0',
+                        paddingBottom: '30px'
                     });
                     $('.workHeader dl').show();
                 }
