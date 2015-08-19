@@ -20,11 +20,7 @@
     }
   }
 }
-.workNav {
-  padding: 0 $grid-gutter-width;
-  background:$gray-lighter;
 
-}
 
 .workContent, .workFaksimile{
   padding-top:$grid-gutter-width;
@@ -100,6 +96,18 @@
   border: none;
   padding: 20px 0 0 0;
   margin: 0 0 10px 0;
+}
+
+
+.workNav{
+  form{
+    display:inline-block;
+    @extend .pull-right;
+  }
+  a{
+    @extend .btn;
+    @extend .btn-default;
+  }
 }
 
 

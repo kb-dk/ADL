@@ -1,19 +1,11 @@
 <% document ||= @document %>
 <% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
-<div class="container">
-  <div class="row">
-
-    <div class="container workWrapper">
-      <div class="row">
-        <div id="sidebar" class="<%= show_sidebar_classes %>">
-          <%= render_document_sidebar_partial %>
-        </div>
-
-        <div id="content" class="<%= show_content_classes %> col-md-offset-3 col-sm-offset-4">
-          <%= render partial: 'previous_next_doc' %>
-          <%= render partial: 'catalog/show_header_work_faksimile' %>
-
-          <div class="workNav">
+  <div class="container work">
+    <div class="row">
+      <div id="content" class="col-sm-12">
+        <%= render partial: 'previous_next_doc' %>
+        <%= render partial: 'catalog/show_header_work' %>
+        <div class="nav-tab-instance">
             <ul class="nav nav-tabs">
               <li role="presentation">
                 <%= link_to(solr_document_path(document), disabled: document_empty) do %>
@@ -29,22 +21,9 @@
                 <% end %>
               </li>
             </ul>
-          </div>
-
-
-          <div class="workFaksimile">
-            <%= FileServer.facsimile(@document.id).html_safe %>
-          </div>
-
         </div>
+        <%= FileServer.facsimile(@document.id).html_safe %>
       </div>
     </div>
   </div>
-</div>
-
-
-
-
-
-
 

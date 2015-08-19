@@ -2,40 +2,44 @@
 <% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
 
 <% # bookmark/folder functions -%>
-
-
-
-<div class="workHeader">
-
-  <div class="btn-toolbar" role="toolbar">
-    <div class="btn-group" role="toolbar">
-      <button type="button" class="btn btn-link">
-        <span class="glyphicon glyphicon-bookmark" alt="Bookmark"></span> <span>Bookmark</span>
-      </button>
-      <%= render :partial => 'show_tools' %>
-      <% unless document_empty %>
-          <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-link', disabled: document_empty) do %>
-              <%= bootstrap_glyphicon 'download-alt' %>
-              Download
-          <% end %>
-      <% end %>
+<div class="container workNavbarFixContainer">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="workNavBar">
+                <div class="btn-group" role="group">
+                    <%= render :partial => 'show_tools_work' %>
+                    <%= render :partial => 'show_tools' %>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  <%= render_document_heading(document, :tag => :h1) %>
-
-    <dl class="dl-horizontal  dl-invert">
-      <% document_show_fields(document).each do |field_name, field| -%>
-          <% if should_render_show_field? document, field %>
-              <dt class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_label document, field: field_name %></dt>
-              <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
-          <% end -%>
-      <% end -%>
-    </dl>
-
-
-
-
 </div>
 
-
+<div class="container workHeaderFixContainer">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="workHeader">
+                <%= render_document_heading(document, :tag => :h1) %>
+                <dl class="dl-horizontal  dl-invert">
+                    <% document_show_fields(document).each do |field_name, field| -%>
+                        <% if should_render_show_field? document, field %>
+                            <dt class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_label document, field: field_name %></dt>
+                            <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
+                        <% end -%>
+                    <% end -%>
+                </dl>
+              <% unless document_empty %>
+              <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt') do %>
+                    <%= bootstrap_glyphicon 'align-left' %>
+                        Teksten
+                <% end %>
+              <% end %>
+                <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
+                    <%= bootstrap_glyphicon 'picture' %>
+                        Billeder
+                <% end %>
+            </div>
+        </div>
+    </div>
+</div>
 

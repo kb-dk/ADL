@@ -3,37 +3,62 @@
 
 <% document_empty = !FileServer.has_text(document.id) %>
 
-<div class="workTools">
-  <!-- Nav tabs -->
-  <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active">
-      <%= link_to('#toc', role:'tab', data: { toggle: 'tab' }) do %>
+<!-- Button trigger table of content -->
+<button type="button" class="btn btn-default tableOfContent" data-toggle="modal" data-target="#toc">
+  <%= bootstrap_glyphicon 'list' %>
+  Indhold
+</button>
+
+<!-- Button trigger search in full text -->
+<button type="button" class="btn btn-defaul contentSearch" data-toggle="modal" data-target="#searchFullText">
+  <%= bootstrap_glyphicon 'search' %>
+  Søg
+</button>
+
+<!-- Modal Table of content  -->
+<div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="tableOfContent">
           <%= bootstrap_glyphicon 'list' %>
           Indhold
-      <% end %>
-      <% unless document['cat_ssi'] == 'portrait' %>
-  <li role="presentation">
-      <%= link_to('#worksearch', role:'tab',  data: { toggle: 'tab' }, disabled: document_empty) do %>
-          <%= bootstrap_glyphicon 'search' %>
-          Søg
-      <% end %>
-     <% end %>
-  </ul>
-
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="toc">
-      <% if document['cat_ssi'] == 'portrait' %>
-        <%= FileServer.toc(document.id,{c: 'authors'}) %>
-      <% else %>
-          <%= FileServer.toc(document.id) %>
-      <% end %>
-    </div>
-    <div role="tabpanel" class="tab-pane" id="worksearch" class="worksearch">
-        <%= render partial: 'work_search', locals: {document: document} %>
+        </h4>
+      </div>
+      <div class="modal-body">
+        <% if document['cat_ssi'] == 'portrait' %>
+            <%= FileServer.toc(document.id,{c: 'authors'}) %>
+        <% else %>
+            <%= FileServer.toc(document.id) %>
+        <% end %>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
+      </div>
     </div>
   </div>
+</div>
 
+<!-- Modal Search in content  -->
+<div class="modal fade" id="searchFullText" tabindex="-1" role="dialog" aria-labelledby="searchFullText">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="searchInFullText">
+          <%= bootstrap_glyphicon 'search' %>
+          Søg
+        </h4>
+      </div>
+      <div class="modal-body">
+        <%= render partial: 'work_search', locals: {document: document} %>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
+      </div>
+    </div>
+  </div>
 </div>
 
 

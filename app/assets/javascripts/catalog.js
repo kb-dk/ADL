@@ -158,18 +158,36 @@ $(document).ready(function(){
                 ADL.updateBookmarkLink(e);
 
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
-                if ($(window).scrollTop() >= 145) {
-                    $('#sidebar').css({
+                if ($(window).scrollTop() >= 55) {
+                    $('.workNavbarFixContainer').css({
                         position: 'fixed',
-                        top: '10px',
-                        right: '0'
+                        top: '50px',
+                        right: '0',
+                        left: '0',
+                        backgroundColor: '#fff',
+                        zIndex: '4'
                     });
+                    $('.workHeaderFixContainer').css({
+                        position: 'fixed',
+                        top: '84px',
+                        right: '0',
+                        left: '0',
+                        paddingBottom: '10px'
+                    });
+                    $('.workHeader dl').hide();
                 } else {
-                    $('#sidebar').css({
-                        position: 'relative',
+                    $('.workNavbarFixContainer').css({
+                        position: 'static',
                         top: '0',
                         right: '0'
                     });
+                    $('.workHeaderFixContainer').css({
+                        position: 'static',
+                        top: '0',
+                        right: '0',
+                        paddingBottom: '30px'
+                    });
+                    $('.workHeader dl').show();
                 }
             },
 
@@ -202,9 +220,8 @@ $(document).ready(function(){
         }
     });
 
-    // setup scrollSniffer that manipulates bookmarks
-    // FIXME: Next line turns on the scrollSniffer - but it does not discriminate between pages (and it should!)
-    // $(window).scroll(ADL.scrollSniffer);
+    // setup scrollsniffer
+    $(window).scroll(ADL.scrollSniffer);
 
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?

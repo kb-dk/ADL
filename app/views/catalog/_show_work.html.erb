@@ -3,7 +3,7 @@
 <% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
 
 
-    <div class="workNav">
+    <div class="nav-tab-instance">
       <ul class="nav nav-tabs">
         <li role="presentation" class="active">
           <%= link_to(solr_document_path(document), disabled: document_empty) do %>
