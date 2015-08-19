@@ -28,6 +28,16 @@
                         <% end -%>
                     <% end -%>
                 </dl>
+              <% unless document_empty %>
+              <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt') do %>
+                    <%= bootstrap_glyphicon 'align-left' %>
+                        Teksten
+                <% end %>
+              <% end %>
+                <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
+                    <%= bootstrap_glyphicon 'picture' %>
+                        Billeder
+                <% end %>
             </div>
         </div>
     </div>
