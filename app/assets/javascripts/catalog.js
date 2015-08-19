@@ -198,6 +198,8 @@ $(document).ready(function(){
 
     // setup scrollsniffer
     $(window).scroll(ADL.scrollSniffer);
+    // also test the scrollTop from loading (if the page starts scrolled)
+    ADL.scrollSniffer();
 
     // modal should be closed as soon as one clicks on a in-page link.
     $('.modal-body').click(function (e) {
