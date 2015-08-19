@@ -1,0 +1,67 @@
+
+
+// Contains tools for work
+.workNavBar{
+  form{
+    @extend .pull-right;
+  }
+  .btn-group{
+    .contentSearcht, .tableOfContent, #emailLink, #citationLink, #feedbackLink{
+      @extend .btn;
+      @extend .btn-default;
+      border: none;
+      background: none;
+      color: $gray-light;
+      &:hover{
+        background: $gray-lighter;
+      }
+    }
+    #emailLink{
+      &:before{
+        @extend .glyphicon-envelope;
+        @extend .glyphicon;
+        position: relative;
+        padding-right:4px;
+      }
+    }
+    #citationLink{
+      &:before{
+        @extend .glyphicon-pencil;
+        @extend .glyphicon;
+        position: relative;
+        padding-right:4px;
+      }
+    }
+    #feedbackLink{
+      &:before{
+        @extend .glyphicon-comment;
+        @extend .glyphicon;
+        position: relative;
+        padding-right:4px;
+      }
+    }
+  }
+  #toc ul{
+    @extend .list-unstyled;
+    padding:0px $grid-gutter-width;
+    li a{
+      display: block;
+      border-bottom: 1px dotted silver;
+    }
+  }
+
+}
+
+.nav-tab-instance{
+  background: $gray-lighter;
+  ul{
+    border: none;
+    padding:0px $grid-gutter-width;
+    li a{
+      border: none!important;
+    }
+  }
+}
+
+
+
