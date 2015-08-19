@@ -21,3 +21,23 @@
     visibility: hidden;
   }
 }
+
+.workNavbarFixContainer.fixed{
+    position: fixed;
+    top: 50px;
+    right: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+.workHeaderFixContainer.fixed{
+    position: fixed;
+    top: 82px;
+    right: 0;
+    left: 0;
+    padding-bottom: 10px;
+}
+
+body.modal-open .workNavbarFixContainer.fixed, body.modal-open .workHeaderFixContainer.fixed, body.modal-open .navbar-fixed-top{
+    right:15px;
+}
