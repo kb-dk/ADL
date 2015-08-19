@@ -1,12 +1,11 @@
 
-
 // Contains tools for work
 .workNavBar{
   form{
     @extend .pull-right;
   }
   .btn-group{
-    .contentSearcht, .tableOfContent, #emailLink, #citationLink, #feedbackLink{
+    .contentSearch, .tableOfContent, #emailLink, #citationLink, #feedbackLink{
       @extend .btn;
       @extend .btn-default;
       border: none;
