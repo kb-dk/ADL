@@ -28,19 +28,7 @@
     @extend .img-responsive;
     width: 100%;
   }
-  span{
-    color: #FFF;;
-      display: block;
-      border-bottom: 1px dotted $gray-lighter;
-      text-align: right;
-      margin-bottom:$grid-gutter-width/2 ;
-      font-size: $font-size-large;
-      line-height: $line-height-base;
 
-    a{
-      @extend .text-muted;
-    }
-  }
 }
 .workTools{
   margin-top:20px;

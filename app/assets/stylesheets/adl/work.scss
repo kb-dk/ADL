@@ -56,22 +56,43 @@
   ul{
     border: none;
     padding:0px $grid-gutter-width;
-    li a{
-      border: none!important;
+    li{
+      margin-bottom: 0px;
+       a{
+        border: none!important;
+      }
     }
   }
 }
 
-<<<<<<< HEAD
 body.modal-open .workNavbarFixContainer, body.modal-open .workHeaderFixContainer, body.modal-open #header-navbar{
   right: 15px!important;
 }
 .text-content{
   padding-left:$grid-gutter-width;
   padding-right:$grid-gutter-width;
+  padding-bottom:$grid-gutter-width;
+
+  .pageBreak{
+    display: block;
+    border-bottom: 1px dotted $gray-lighter;
+    text-align: right;
+    margin-bottom:$grid-gutter-width/2 ;
+    font-size: $font-size-large;
+    line-height: $line-height-base;
+
+
+
+    a{
+      @extend .text-muted;
+      &:after{
+        font-family: 'Glyphicons Halflings';
+        content:'\e060';
+
+      }
+    }
+  }
 }
 
-=======
->>>>>>> origin/frontend
 
 
