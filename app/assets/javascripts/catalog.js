@@ -156,14 +156,21 @@ $(document).ready(function(){
 
             scrollSniffer: function (e) {
                 ADL.updateBookmarkLink(e);
-
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
                 if ($(window).scrollTop() >= 55) {
                     $('.workNavbarFixContainer, .workHeaderFixContainer').addClass('fixed');
                     $('.workHeader dl').hide();
+                    $('.nav-tab-instance').addClass('fixedTop');
+                    //correct top for all content (to correct top point just under the fixed top bars)
+                    $('#content .workContent div, #content .workContent p').removeClass('top1cor').addClass('top2cor');
+
                 } else {
                     $('.workNavbarFixContainer, .workHeaderFixContainer').removeClass('fixed');
                     $('.workHeader dl').show();
+                    $('.nav-tab-instance').removeClass('fixedTop');
+                    //correct top for all content (to correct top point just under the fixed top bars)
+                    $('#content .workContent div, #content .workContent p').removeClass('top2cor').addClass('top1cor');
+
                 }
             },
 
