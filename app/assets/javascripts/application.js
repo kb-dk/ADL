@@ -16,7 +16,7 @@
 //= require jquery.visible.min
 //= require jquery.turbolinks
 //= require bootstrap/tab
-// Required by Blacklight
+// Required by blacklight
 //= require blacklight/blacklight
 //= require turbolinks
 
