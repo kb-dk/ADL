@@ -6,8 +6,10 @@ class AdlDocumentProvider < ::OAI::Provider::Base
   repository_url  'http://www.adl.dk'
   record_prefix ''
   admin_email 'root@localhost'   # String or Array
+  register_format(::Blacklight::Ese.instance)
   def initialize controller
     w = ::AdlDocumentWrapper.new controller
     self.class.model = w
+
   end
 end
