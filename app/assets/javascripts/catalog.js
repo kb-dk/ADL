@@ -210,7 +210,7 @@ $(document).ready(function(){
 
     // modal should be closed as soon as one clicks on a in-page link.
     $('.modal-body').click(function (e) {
-        if (e.target.tagName === 'A' && e.target.href.indexOf('#idm') > 0) {
+        if (e.target.tagName === 'A' && ((e.target.href.indexOf('#idm') > 0) || (e.target.href.indexOf('#workid') > 0))) {
             $($(e.target).closest('.modal')).modal('hide');
         }
     });
