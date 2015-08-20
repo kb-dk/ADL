@@ -2,7 +2,7 @@
 
 
 
-.pageFooter{
+footer.pageFooter{
   @include gradient-vertical($gray-lighter, #FFF);
    font-family: $font-family-nav;
    padding: $grid-gutter-width 0;

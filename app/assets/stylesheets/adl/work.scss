@@ -92,3 +92,12 @@
   }
 }
 
+.search-query-form{
+  #results-header{
+    @extend .alert;
+    @extend .alert-success;
+
+  }
+
+}
+
