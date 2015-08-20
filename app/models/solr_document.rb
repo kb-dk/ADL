@@ -2,6 +2,7 @@
 class SolrDocument 
 
   include Blacklight::Solr::Document
+  include Concerns::DefaultSemanticFieldValues
 
   # overwrite the default behaviour to enable different schema definitions
   def itemtype
@@ -26,10 +27,10 @@ class SolrDocument
 
   # DublinCore uses the semantic field mappings below to assemble an OAI-compliant Dublin Core document
   # Semantic mappings of solr stored fields. Fields may be multi or
-  # single valued. See Blacklight::Document::SemanticFields#field_semantics
-  # and Blacklight::Document::SemanticFields#to_semantic_values
+  # single valued. See blacklight::Document::SemanticFields#field_semantics
+  # and blacklight::Document::SemanticFields#to_semantic_values
   # Recommendation: Use field names from Dublin Core
-  use_extension( Blacklight::Document::DublinCore)
+  SolrDocument.use_extension(Europeana)
 
 
   #Defines the mapping from solr_fiels to Dublin Core (used by oai)
@@ -38,7 +39,7 @@ class SolrDocument
       #:contributor,
       #:coverage,
       :creator => 'author_name',
-      #:date,
+      :date => 'published_date_ssi',
       #:description,
       #:format,
       :identifier => 'id',
@@ -50,6 +51,22 @@ class SolrDocument
       #:subject,
       :title => 'work_title_tesim',
       #:type
+
+      # :ese_dataProvider,
+      :ese_isShownAt => 'url_ssi',
+      #:ese_provider,
+      #:ese_rights,
+      #:ese_type,
+      #:ese_country
+  )
+
+  default_semantic_field_values.merge!(
+    :language => 'da',
+    :rights => 'Er muligvis beskyttet af loven om ophavsret',
+    :type => 'Text',
+    :ese_dataProvider => 'The Royal Library: The National Library of Denmark and Copenhagen University Library',
+    :ese_provider => 'Arkiv for Dansk Litteratur',
+    :ese_rights => 'http://creativecommons.org/licenses/by-nc-nd/4.0/',
   )
 
 #begin OAI functions
@@ -59,6 +76,10 @@ class SolrDocument
 
   def to_oai_dc
     export_as('oai_dc_xml')
+  end
+
+  def to_ese
+    export_as('ese_xml')
   end
 #End OAI functions
 
