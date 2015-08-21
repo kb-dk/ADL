@@ -1,12 +1,12 @@
 development:
   snippet_server_url: http://disdev-01.kb.dk/storage/adl/present.xq
   image_server_prefix: http://kb-images.kb.dk/public/
-  feedback_mail: poma@kb.dk
+  feedback_mail: fejlrapportering@adl.dk
 test:
   snippet_server_url: http://disdev-01.kb.dk/storage/adl/present.xq
   image_server_prefix: http://kb-images.kb.dk/public/
-  feedback_mail: poma@kb.dk
+  feedback_mail: fejlrapportering@adl.dk
 production:
   snippet_server_url: xxx
   image_server_prefix: http://kb-images.kb.dk/public/
-  feedback_mail: jamo@kb.dk
+  feedback_mail: fejlrapportering@adl.dk
