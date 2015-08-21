@@ -1,12 +1,13 @@
 
 
+
 // Contains tools for work
 .workNavBar{
   form{
     @extend .pull-right;
   }
   .btn-group{
-    .contentSearcht, .tableOfContent, #emailLink, #citationLink, #feedbackLink{
+    .contentSearch, .tableOfContent, #emailLink, #citationLink, #feedbackLink{
       @extend .btn;
       @extend .btn-default;
       border: none;
@@ -57,11 +58,83 @@
   ul{
     border: none;
     padding:0px $grid-gutter-width;
-    li a{
-      border: none!important;
+    li{
+      margin-bottom: 0px;
+       a{
+        border: none!important;
+      }
     }
   }
 }
 
 
+.text-content{
+  padding-left:$grid-gutter-width;
+  padding-right:$grid-gutter-width;
+  padding-bottom:$grid-gutter-width;
 
+  .pageBreak{
+    display: block;
+    border-bottom: 1px dotted $gray-lighter;
+    text-align: right;
+    margin-bottom:$grid-gutter-width/2 ;
+    font-size: $font-size-large;
+    line-height: $line-height-base;
+
+
+
+    a{
+      @extend .text-muted;
+      &:after{
+        font-family: 'Glyphicons Halflings';
+        content:'\e060';
+
+      }
+    }
+  }
+}
+
+.search-query-form{
+  #results-header{
+    @extend .alert;
+    @extend .alert-success;
+
+  }
+
+}
+
+//Gemte søgninger
+span.constraint{
+  display:block;
+}
+
+// bookmark page
+.bookmarksTools{
+  #emailLink{
+    &:before{
+      @extend .glyphicon-envelope;
+      @extend .glyphicon;
+      position: relative;
+      padding-right:4px;
+    }
+  }
+  #citationLink{
+    &:before{
+      @extend .glyphicon-pencil;
+      @extend .glyphicon;
+      position: relative;
+      padding-right:4px;
+    }
+  }
+}
+
+.page_links .page_entries{
+  @extend .h3;
+}
+.alert{
+  margin-bottom:0px;
+}
+
+.container-fluid{
+  margin-bottom:$grid-gutter-width ;
+}

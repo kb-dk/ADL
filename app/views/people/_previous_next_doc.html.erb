@@ -1,5 +1,6 @@
 <% #Using the Bootstrap Pagination class  -%>
 <% #DEPRECATED - using id="previousNextDocument" as a selector is deprecated and will be removed in Blacklight 6.0 %>
+<div class="container">
 <div id='previousNextDocument' class='pagination-search-widgets'>
   <% if @previous_document || @next_document %>
     <div class="page_links">
@@ -17,4 +18,6 @@
       <%=link_to t('blacklight.search.start_over'), root_path,  id: 'startOverLink', class: 'btn' %>
     </div>
   <% end %>
+</div>
+
 </div>

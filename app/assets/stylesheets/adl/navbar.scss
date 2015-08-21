@@ -2,22 +2,55 @@
   font-family: $font-family-nav;
   .navbar-nav{
     @extend .text-uppercase;
-    #bookmarks_nav:before{
-      @extend .glyphicon;
-      @extend .glyphicon-bookmark;
-    }
   }
 }
 
 // Fix for in-page linking in a page with a fixed header.
 // Solution nicked from https://github.com/twbs/bootstrap/issues/1768
 // FIXME: I don't think pseudo-selectors are working in ios safari? Have this tested on an iPhone!
-@media screen and (min-width: 764px) {
-    #content div[id]:before, #content p[id]:before {
-    display: block;
-    content: " ";
-    margin-top: -50px;
-    height: 50px;
-    visibility: hidden;
-  }
+#content .top1cor:before{ // Correcting for the top bar
+  display: block;
+  content: " ";
+  margin-top: -50px;
+  height: 50px;
+  visibility: hidden;
+}
+#content .top2cor:before{ // Correcting for the top bar, the tool bar and the fixed header
+  display: block;
+  content: " ";
+  margin-top: -191px;
+  height: 191px;
+  visibility: hidden;
+}
+
+// We (mis)use the .nav-tab-instance to fill out the gapping space when we reduce the header size when fixing it.
+// By hiding (but not taking it out of the flow!) this bar and give it a huge height, the content wont jump upwards when
+// scrolling down the page and doing the header fixing thing. It's a bit strange hack, but it works!
+.nav-tab-instance.fixedTop{
+  visibility:visible;
+  height:auto;
+}
+.nav-tab-instance.fixedTop{
+  visibility:hidden;
+  height:159px; // This is the acummulated height of the bars we position fix, and the elements we hide.
+}
+
+.workNavbarFixContainer.fixed{
+    position: fixed;
+    top: 50px;
+    right: 0;
+    left: 0;
+    background-color: #fff;
+}
+
+.workHeaderFixContainer.fixed{
+    position: fixed;
+    top: 82px;
+    right: 0;
+    left: 0;
+    padding-bottom: 10px;
+}
+
+body.modal-open .workNavbarFixContainer.fixed, body.modal-open .workHeaderFixContainer.fixed, body.modal-open .navbar-fixed-top{
+    right:15px;
 }

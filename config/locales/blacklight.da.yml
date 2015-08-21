@@ -20,7 +20,7 @@ da:
       next: 'Næste &raquo;'
 
   blacklight:
-    application_name: 'ADL: Arkiv for Dansk Litteratur'
+    application_name: 'Arkiv for Dansk Litteratur'
 
     entry_name:
       default: 'post'
@@ -30,7 +30,7 @@ da:
       logout: 'Log ud'
       bookmarks: 'Bogmærker'
       saved_searches: 'Gemte søgninger'
-      search_history: 'Historik'
+      search_history: 'Søgehistorik'
 
     welcome: 'Welcome!'
     and: 'og'
@@ -80,27 +80,27 @@ da:
         success: 'Din gemte søgning blev slettet.'
         failure: 'Din gemte søgning kunne ikke slettes.'
       clear:
-        action_title: 'Slet gemte søgninger'
-        action_confirm: 'Slet dine gemte søgninger?'
+        action_title: 'Slet alle'
+        action_confirm: 'Slet alle?'
         success: 'Dine gemte søgninger er blevet slettet'
         failure: 'Dine gemte søgninger kunne ikke slettes.'
       title: 'Gemte søgninger'
       need_login: 'Venligst log ind for at se dine gemte søgninger.'
       no_searches: 'Du har ikke nogen gemte søgninger'
       list_title: 'Dine gemte søgninger'
-      delete: 'slet'
+      delete: 'Slet'
 
     search_history:
       clear:
-        action_title: 'Fjern søgehistorik'
+        action_title: 'Slet alle'
         action_confirm: 'Ryd din søgehistorik'
         success: 'Søgehistorik ryddet.'
         failure: 'Din søgehistorik kunne ikke slettes.'
       title: 'Søgehistorik'
       no_history: 'Du har ikke nogen søgehistorik'
       recent: 'Dine seneste søgninger'
-      forget: 'glem'
-      save: 'gem'
+      forget: 'Slet'
+      save: 'Gem'
 
     tools:
       title: 'Værktøjer'
@@ -253,7 +253,7 @@ da:
     from: 'fra '
   catalog:
     show_work:
-      no_text: "Dette værk har ikke nogen scannede tekst"
+      no_text: "Der findes ikke en ren tekstversion af dette værk. Klik på ”Faksimile” for at se de indskannede sider."
 
   people:
     show_person:
