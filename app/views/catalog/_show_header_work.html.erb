@@ -27,17 +27,22 @@
                             <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
                         <% end -%>
                     <% end -%>
+                    <dt>Download</dt>
+                    <dd>
+                      <% unless document_empty %>
+                          <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-primary dlTxt') do %>
+                              <%= bootstrap_glyphicon 'align-left' %>
+                              Teksten
+                          <% end %>
+                      <% end %>
+                      <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-primary dlFaks') do %>
+                          <%= bootstrap_glyphicon 'picture' %>
+                          Billeder
+                      <% end %>
+
+                    </dd>
                 </dl>
-              <% unless document_empty %>
-              <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt') do %>
-                    <%= bootstrap_glyphicon 'align-left' %>
-                        Teksten
-                <% end %>
-              <% end %>
-                <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
-                    <%= bootstrap_glyphicon 'picture' %>
-                        Billeder
-                <% end %>
+
             </div>
         </div>
     </div>

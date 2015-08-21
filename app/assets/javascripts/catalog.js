@@ -156,38 +156,21 @@ $(document).ready(function(){
 
             scrollSniffer: function (e) {
                 ADL.updateBookmarkLink(e);
-
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
                 if ($(window).scrollTop() >= 55) {
-                    $('.workNavbarFixContainer').css({
-                        position: 'fixed',
-                        top: '50px',
-                        right: '0',
-                        left: '0',
-                        backgroundColor: '#fff',
-                        zIndex: '4'
-                    });
-                    $('.workHeaderFixContainer').css({
-                        position: 'fixed',
-                        top: '84px',
-                        right: '0',
-                        left: '0',
-                        paddingBottom: '10px'
-                    });
+                    $('.workNavbarFixContainer, .workHeaderFixContainer').addClass('fixed');
                     $('.workHeader dl').hide();
+                    $('.nav-tab-instance').addClass('fixedTop');
+                    //correct top for all content (to correct top point just under the fixed top bars)
+                    $('#content .workContent div, #content .workContent p').removeClass('top1cor').addClass('top2cor');
+
                 } else {
-                    $('.workNavbarFixContainer').css({
-                        position: 'static',
-                        top: '0',
-                        right: '0'
-                    });
-                    $('.workHeaderFixContainer').css({
-                        position: 'static',
-                        top: '0',
-                        right: '0',
-                        paddingBottom: '30px'
-                    });
+                    $('.workNavbarFixContainer, .workHeaderFixContainer').removeClass('fixed');
                     $('.workHeader dl').show();
+                    $('.nav-tab-instance').removeClass('fixedTop');
+                    //correct top for all content (to correct top point just under the fixed top bars)
+                    $('#content .workContent div, #content .workContent p').removeClass('top2cor').addClass('top1cor');
+
                 }
             },
 
@@ -222,6 +205,18 @@ $(document).ready(function(){
 
     // setup scrollsniffer
     $(window).scroll(ADL.scrollSniffer);
+    // also test the scrollTop from loading (if the page starts scrolled)
+    ADL.scrollSniffer();
+
+    // modal should be closed as soon as one clicks on a in-page link.
+    $('.modal-body').click(function (e) {
+        if (e.target.tagName === 'A' && ((e.target.href.indexOf('#idm') > 0) || (e.target.href.indexOf('#workid') > 0))) {
+            $($(e.target).closest('.modal')).modal('hide');
+        }
+    });
+
+    // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
+    $('.modal').appendTo($('body'));
 
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
