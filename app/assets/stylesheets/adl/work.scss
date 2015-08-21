@@ -108,3 +108,33 @@ span.constraint{
   display:block;
 }
 
+// bookmark page
+.bookmarksTools{
+  #emailLink{
+    &:before{
+      @extend .glyphicon-envelope;
+      @extend .glyphicon;
+      position: relative;
+      padding-right:4px;
+    }
+  }
+  #citationLink{
+    &:before{
+      @extend .glyphicon-pencil;
+      @extend .glyphicon;
+      position: relative;
+      padding-right:4px;
+    }
+  }
+}
+
+.page_links .page_entries{
+  @extend .h3;
+}
+.alert{
+  margin-bottom:0px;
+}
+
+.container-fluid{
+  margin-bottom:$grid-gutter-width ;
+}

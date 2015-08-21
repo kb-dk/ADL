@@ -14,8 +14,9 @@
 
       <p class='section-heading lead'><%= t('blacklight.bookmarks.no_bookmarks') %></p>
     <% else %>
+          <%= render partial: 'tools', locals: { document_list: @document_list } %>
       <%= render 'sort_and_per_page' %>
-      <%= render partial: 'tools', locals: { document_list: @document_list } %>
+
 
       <%= render_document_index %>
       <%= render 'results_pagination' %>
