@@ -5,26 +5,37 @@
         <%= render partial: 'previous_next_doc' %>
         <%= render partial: 'catalog/show_header_work' %>
 
-        <div class="container">
-            <div class="nav-tab-instance">
-                <ul class="nav nav-tabs">
-                  <li role="presentation">
-                    <%= link_to(solr_document_path(document), disabled: document_empty) do %>
-                        <%= bootstrap_glyphicon 'font' %>
-                        Tekst
-                    <% end %>
-                  </li>
-                  <li role="presentation" class="active">
-                    <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-                    <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
-                        <%= bootstrap_glyphicon 'picture' %>
-                        Faksimile
-                    <% end %>
-                  </li>
-                </ul>
+        <div class="container nav-tab-instance-fixContainer">
+          <div class="row">
+            <div class="col-md-12">
+                <div class="nav-tab-instance">
+                    <ul class="nav nav-tabs">
+                      <li role="presentation">
+                        <%= link_to(solr_document_path(document), disabled: document_empty) do %>
+                            <%= bootstrap_glyphicon 'font' %>
+                            Tekst
+                        <% end %>
+                      </li>
+                      <li role="presentation" class="active">
+                        <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
+                        <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
+                            <%= bootstrap_glyphicon 'picture' %>
+                            Faksimile
+                        <% end %>
+                      </li>
+                    </ul>
+                </div>
             </div>
-            <%= FileServer.facsimile(@document.id).html_safe %>
           </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <%= FileServer.facsimile(@document.id).html_safe %>
+                </div>
+            </div>
+        </div>
+
       </div>
 
 
