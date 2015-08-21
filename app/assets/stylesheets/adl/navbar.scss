@@ -23,32 +23,39 @@
   visibility: hidden;
 }
 
-// We (mis)use the .nav-tab-instance to fill out the gapping space when we reduce the header size when fixing it.
-// By hiding (but not taking it out of the flow!) this bar and give it a huge height, the content wont jump upwards when
-// scrolling down the page and doing the header fixing thing. It's a bit strange hack, but it works!
-.nav-tab-instance.fixedTop{
-  visibility:visible;
-  height:auto;
-}
-.nav-tab-instance.fixedTop{
-  visibility:hidden;
-  height:159px; // This is the acummulated height of the bars we position fix, and the elements we hide.
+.workContent.fixedHeader{
+  padding-top:200px; // Our fixed headers height - content should be moved down
 }
 
+// text/faksimile tab bar
+.nav-tab-instance-fixContainer.fixed{ // FIXME: This is not following the nameconvention in the rest of the elements!
+  position:fixed;
+  top:152px;
+  right:0;
+  left:0;
+  z-index:10;
+  padding-bottom: 10px;
+}
+
+// navbar
 .workNavbarFixContainer.fixed{
-    position: fixed;
-    top: 50px;
-    right: 0;
-    left: 0;
-    background-color: #fff;
+  position: fixed;
+  top: 50px;
+  right: 0;
+  left: 0;
+  background-color: #fff;
+  z-index:10;
 }
 
+// header (titlebar)
 .workHeaderFixContainer.fixed{
-    position: fixed;
-    top: 82px;
-    right: 0;
-    left: 0;
-    padding-bottom: 10px;
+  position: fixed;
+  top: 82px;
+  right: 0;
+  left: 0;
+  padding-bottom: 10px;
+  background-color: white;
+  z-index:10;
 }
 
 body.modal-open .workNavbarFixContainer.fixed, body.modal-open .workHeaderFixContainer.fixed, body.modal-open .navbar-fixed-top{

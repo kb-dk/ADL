@@ -2,7 +2,8 @@
 
 <% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
 
- <div class="container">
+ <div class="container nav-tab-instance-fixContainer">
+   <div class="row"><div class="col-md-12">
     <div class="nav-tab-instance">
       <ul class="nav nav-tabs">
         <li role="presentation" class="active">
@@ -19,20 +20,26 @@
           <% end %>
         </li>
       </ul>
+      </div></div>
     </div>
-
-<% if !document_empty %>
-    <div class="text-content workContent">
-      <div class="text">
-        <% text ||= FileServer.render_snippet(document.id) %>
-        <%= text.html_safe %>
-      </div>
-    </div>
-<% else %>
-    <div class="text-content workContent">
-      <div class="text">
-      <%= t '.no_text' %>
-      </div>
-    </div>
-<% end %>
  </div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <% if !document_empty %>
+          <div class="text-content workContent">
+            <div class="text">
+              <% text ||= FileServer.render_snippet(document.id) %>
+              <%= text.html_safe %>
+            </div>
+          </div>
+      <% else %>
+          <div class="text-content workContent">
+            <div class="text">
+            <%= t '.no_text' %>
+            </div>
+          </div>
+      <% end %>
+    </div>
+  </div>
+</div>
