@@ -61,12 +61,13 @@ class SolrDocument
   )
 
   default_semantic_field_values.merge!(
-    :language => 'da',
+    :language => 'dan',
     :rights => 'Er muligvis beskyttet af loven om ophavsret',
     :type => 'Text',
     :ese_dataProvider => 'The Royal Library: The National Library of Denmark and Copenhagen University Library',
     :ese_provider => 'Arkiv for Dansk Litteratur',
     :ese_rights => 'http://creativecommons.org/licenses/by-nc-nd/4.0/',
+    :ese_type => 'TEXT'
   )
 
 #begin OAI functions
