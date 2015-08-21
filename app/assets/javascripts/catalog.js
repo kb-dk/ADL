@@ -139,23 +139,24 @@ $(document).ready(function(){
                 return '';
             },
 
+            /* // FIXME: This shall be incommented if bookmarks should be per paragraph
             updateBookmarkLink: function (e) {
                 // TODO: Somewhere here we need to manipulate the bookmark elements between set and unset!
                 var formElem = $('form.bookmark_toggle'),
                     firstVisibleId = ADL.getFirstVisibleId();
                 if (firstVisibleId.length) {
                     // There is a line id - append it to the bookmark id
-                    formElem.attr('action',
-                    '/bookmarks/' + formElem.attr('data-doc-id') + '%23' + firstVisibleId);
+                    formElem.attr('data-firstVisibleIdm', firstVisibleId);
                 } else {
                     // No line id - set the bookmark to the entire work
-                    formElem.attr('action',
-                        '/bookmarks/' + formElem.attr('data-doc-id'));
+                    formElem.attr('data-firstVisibleIdm', '');
                 }
             },
+            */
 
             scrollSniffer: function (e) {
-                ADL.updateBookmarkLink(e);
+                // ADL.updateBookmarkLink(e); // FIXME: This shall be incommented if bookmarks should be per paragraph
+
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
                 if ($(window).scrollTop() >= 55) {
                     $('.workNavbarFixContainer, .workHeaderFixContainer').addClass('fixed');
