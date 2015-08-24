@@ -1,5 +1,5 @@
 <%# default partial to display solr document fields in catalog index view -%>
-
+<% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
 <dl class="document-metadata dl-horizontal dl-invert">
   <% collapse_id = document['id'].gsub("#", "") %>
 
@@ -16,6 +16,21 @@
           <% end %>
       <% end -%>
   <% end -%>
+  <dt>Download</dt>
+  <dd>
+    <% unless document_empty %>
+        <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-primary dlTxt') do %>
+            <%= bootstrap_glyphicon 'align-left' %>
+            Tekst
+        <% end %>
+    <% end %>
+    <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-primary dlFaks') do %>
+        <%= bootstrap_glyphicon 'picture' %>
+        Faksimilie
+    <% end %>
+
+
+  </dd>
 
   <div class="long_form_collapse collapse" id=<%= collapse_id %>>
     <% collapse_fields.each do |label, value, field_name| %>

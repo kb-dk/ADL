@@ -32,12 +32,12 @@
                       <% unless document_empty %>
                           <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-primary dlTxt') do %>
                               <%= bootstrap_glyphicon 'align-left' %>
-                              Teksten
+                              Tekst
                           <% end %>
                       <% end %>
                       <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-primary dlFaks') do %>
                           <%= bootstrap_glyphicon 'picture' %>
-                          Billeder
+                          Faksimilie
                       <% end %>
 
                     </dd>
