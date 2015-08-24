@@ -109,6 +109,23 @@ $(document).ready(function(){
                 return firstVisibleElement;
             },
 
+            getCurrentPageId: function () {
+                var currentPageIndex,
+                    firstVisibleElement = this.getFirstVisibleElement();
+                if (firstVisibleElement) {
+                    var firstVisibleElementTopPosition = $(firstVisibleElement).position().top,
+                        allPageBreaks = $('.pageBreak');
+                    allPageBreaks.each(function (index, elem) {
+                        if ($(elem).position().top > firstVisibleElementTopPosition) {
+                            currentPageIndex = index - 1; // last page that has not been scrolled out of yet
+                            return false;
+                        }
+                    });
+                    return $(allPageBreaks[currentPageIndex]).attr('id');
+                }
+                return; // no first page was found
+            },
+
             getFirstVisiblePage: function () {
                 var firstVisibleElement = this.getFirstVisibleElement();
                 if (firstVisibleElement.tagName === 'P' || firstVisibleElement.tagName === 'DIV') {
@@ -159,16 +176,16 @@ $(document).ready(function(){
 
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
                 if ($(window).scrollTop() >= 55) {
-                    $('.workNavbarFixContainer, .workHeaderFixContainer').addClass('fixed');
+                    $('.workContent').addClass('fixedHeader');
                     $('.workHeader dl').hide();
-                    $('.nav-tab-instance').addClass('fixedTop');
+                    $('.workNavbarFixContainer, .workHeaderFixContainer, .nav-tab-instance-fixContainer').addClass('fixed');
                     //correct top for all content (to correct top point just under the fixed top bars)
                     $('#content .workContent div, #content .workContent p').removeClass('top1cor').addClass('top2cor');
 
                 } else {
-                    $('.workNavbarFixContainer, .workHeaderFixContainer').removeClass('fixed');
+                    $('.workNavbarFixContainer, .workHeaderFixContainer, .nav-tab-instance-fixContainer').removeClass('fixed');
+                    $('.workContent').removeClass('fixedHeader');
                     $('.workHeader dl').show();
-                    $('.nav-tab-instance').removeClass('fixedTop');
                     //correct top for all content (to correct top point just under the fixed top bars)
                     $('#content .workContent div, #content .workContent p').removeClass('top2cor').addClass('top1cor');
 
@@ -209,6 +226,13 @@ $(document).ready(function(){
     // also test the scrollTop from loading (if the page starts scrolled)
     ADL.scrollSniffer();
 
+    // clicks on nav-tab-instance should correct for scrolling page!
+    $('.nav-tab-instance').click(function (e) {
+        var pageId = ADL.getCurrentPageId();
+        if (pageId && e.target.tagName === 'A') {
+            $(e.target).attr('href', $(e.target).attr('href') + '#' + pageId);
+        }
+    });
     // modal should be closed as soon as one clicks on a in-page link.
     $('.modal-body').click(function (e) {
         if (e.target.tagName === 'A' && ((e.target.href.indexOf('#idm') > 0) || (e.target.href.indexOf('#workid') > 0))) {
