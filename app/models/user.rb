@@ -20,7 +20,7 @@ class User < ActiveRecord::Base
   #NKH       :recoverable, :rememberable, :trackable, :validatable
   devise :cas_authenticatable, :rememberable, :registerable
 
-  # Method added by Blacklight; Blacklight uses #to_s on your
+  # Method added by blacklight; blacklight uses #to_s on your
   # user class to get a user-displayable login/identifier for
   # the account.
   def to_s

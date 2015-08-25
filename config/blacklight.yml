@@ -4,7 +4,7 @@
 # by the rake tasks that start up solr automatically for testing
 # and by rake solr:marc:index.  
 #
-# jetty_path is not used by a running Blacklight application
+# jetty_path is not used by a running blacklight application
 # at all. In general you do NOT need to deploy solr in Jetty, you can deploy it
 # however you want.  
 # jetty_path is only required for rake tasks that need to know

@@ -25,7 +25,7 @@ class CatalogController < ApplicationController
     #config.per_page = [10,20,50,100]
 
     ## Default parameters to send on single-document requests to Solr. These settings are the Blackligt defaults (see SearchHelper#solr_doc_params) or
-    ## parameters included in the Blacklight-jetty document requestHandler.
+    ## parameters included in the blacklight-jetty document requestHandler.
     #
     #config.default_document_solr_params = {
     #  :qt => 'document',
@@ -46,7 +46,7 @@ class CatalogController < ApplicationController
     # solr fields that will be treated as facets by the blacklight application
     #   The ordering of the field names is the order of the display
     #
-    # Setting a limit will trigger Blacklight's 'more' facet values link.
+    # Setting a limit will trigger blacklight's 'more' facet values link.
     # * If left unset, then all facet values returned by solr will be displayed.
     # * If set to an integer, then "f.somefield.facet.limit" will be added to
     # solr request, with actual solr request being +1 your configured limit --
@@ -137,7 +137,7 @@ class CatalogController < ApplicationController
 
     config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
 
-    # This overwrites the default Blacklight sms_mappings so that
+    # This overwrites the default blacklight sms_mappings so that
     # the sms tool is not shown.
     def sms_mappings
       {}
@@ -205,7 +205,7 @@ class CatalogController < ApplicationController
 
 
     # "fielded" search configuration. Used by pulldown among other places.
-    # For supported keys in hash, see rdoc for Blacklight::SearchFields
+    # For supported keys in hash, see rdoc for blacklight::SearchFields
     #
     # Search fields will inherit the :qt solr request handler from
     # config[:default_solr_parameters], OR can specify a different one
