@@ -146,7 +146,7 @@ class CatalogController < ApplicationController
     # Unfortunately the additional_export_formats method was quite difficult t
     # to use for this use case.
     def show
-      @response, @document = fetch params[:id]
+      @response, @document = fetch URI.unescape(params[:id])
       @document_empty = !FileServer.has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
@@ -157,7 +157,7 @@ class CatalogController < ApplicationController
     end
 
     def feedback
-      @response, @document = fetch params[:id]
+      @response, @document = fetch URI.unescape(params[:id])
       @report = ""
       @report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
       @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
@@ -167,7 +167,7 @@ class CatalogController < ApplicationController
     end
 
     def facsimile
-      @response, @document = fetch(params[:id])
+      @response, @document = URI.unescape(params[:id])
       @document_empty = !FileServer.has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
