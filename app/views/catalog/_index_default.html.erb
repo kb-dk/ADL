@@ -1,5 +1,5 @@
 <%# default partial to display solr document fields in catalog index view -%>
-<% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
+<% document_empty  = !FileServer.has_text(document['id']) %>
 <dl class="document-metadata dl-horizontal dl-invert">
   <% collapse_id = document['id'].gsub("#", "") %>
 
@@ -16,7 +16,7 @@
           <% end %>
       <% end -%>
   <% end -%>
-  <dt>Download</dt>
+  <dt>Download <%= document_empty %> <%= document['id'] %></dt>
   <dd>
     <% unless document_empty %>
         <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-primary dlTxt') do %>
