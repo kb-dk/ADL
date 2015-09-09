@@ -87,7 +87,7 @@
       @extend .text-muted;
       &:after{
         font-family: 'Glyphicons Halflings';
-        content:'\e060';
+        content:'\e043';
 
       }
     }
@@ -128,13 +128,16 @@ span.constraint{
   }
 }
 
-.page_links .page_entries{
-  @extend .h3;
-}
+
 .alert{
   margin-bottom:0px;
 }
 
 .container-fluid{
-  margin-bottom:$grid-gutter-width ;
+ // margin-bottom:$grid-gutter-width ;
 }
+
+em.highlight{
+  background: #FFFFCC;
+}
+

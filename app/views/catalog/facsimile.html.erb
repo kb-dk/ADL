@@ -12,14 +12,14 @@
                     <ul class="nav nav-tabs">
                       <li role="presentation">
                         <%= link_to(solr_document_path(document), disabled: document_empty) do %>
-                            <%= bootstrap_glyphicon 'font' %>
+                            <%= bootstrap_glyphicon 'align-left' %>
                             Tekst
                         <% end %>
                       </li>
                       <li role="presentation" class="active">
                         <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
                         <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
-                            <%= bootstrap_glyphicon 'picture' %>
+                            <%= bootstrap_glyphicon 'book' %>
                             Faksimile
                         <% end %>
                       </li>
