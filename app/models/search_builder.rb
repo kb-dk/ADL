@@ -6,7 +6,7 @@ class SearchBuilder < Blacklight::SearchBuilder
       solr_params[:fq] ||= []
       workid = blacklight_params[:workid]
       workid = "#{workid}*" unless workid.include? '*'
-      solr_params[:fq] << "part_of_ssi:#{workid}"
+      solr_params[:fq] << "part_of_ssim:#{workid}"
     end
   end
 
