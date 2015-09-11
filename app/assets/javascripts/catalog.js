@@ -77,6 +77,8 @@ $(document).ready(function(){
        return false;
     });
 
+
+
     /*
      * Get the query from the 'back to search' link and trigger an  automatic document search
      * with that query
@@ -297,5 +299,26 @@ function extractDivId(id){
 
 function getURLParameter(url,name) {
     return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(url)||[,""])[1].replace(/\+/g, '%20'))||null
+}
+
+function index_work_search(workid, target_selector){
+    qselector = $('#q.search_q.q.form-control');
+    q = encodeURIComponent($(qselector).val());
+    $.ajax({
+        type: 'GET',
+        url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+workid,
+        datatype: 'json',
+        success: function(data) {
+            $(target_selector).empty();
+            docs = data.response.docs
+            highlighting = data.response.highlighting;
+            $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' Matches</p></div>');
+            for (i in docs) {
+                $(target_selector).append('<p><a href="/catalog/'+workid+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+            }
+        }
+
+    });
+    return false;
 }
 

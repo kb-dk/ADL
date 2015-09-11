@@ -32,6 +32,8 @@
 
   </dd>
 
+  <div class="search-results" id =<%= document['id'] %> ></div>
+
   <div class="long_form_collapse collapse" id=<%= collapse_id %>>
     <% collapse_fields.each do |label, value, field_name| %>
           <dt class="blacklight-<%= field_name.parameterize %>"><%= label %></dt>
@@ -45,3 +47,10 @@
   <% end %>
 
 </dl>
+
+<%= javascript_tag do %>
+    $(document).ready(
+            function () {
+                index_work_search("<%= document['id'] %>", $('#<%= document['id'] %>'));
+            });
+<% end %>
