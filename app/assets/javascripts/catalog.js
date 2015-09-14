@@ -313,7 +313,8 @@ function index_work_search(workid, target_selector){
             docs = data.response.docs
             highlighting = data.response.highlighting;
             $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' Matches</p></div>');
-            for (i in docs) {
+            for (var i= 0; i in docs && i<3; i++) {
+                console.log(i);
                 $(target_selector).append('<p><a href="/catalog/'+workid+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
             }
         }
