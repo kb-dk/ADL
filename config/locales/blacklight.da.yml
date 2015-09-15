@@ -190,7 +190,7 @@ da:
         submit: 'Søg'
         search:
           placeholder: 'Søg'
-          all_filters: 'Alle Felter'
+          all_filters: 'Fritekst'
           title: 'Titel'
           author: 'Forfatter'
       pagination:
