@@ -183,8 +183,8 @@ da:
         submit: 'sort results'
       form:
         search_field:
-          label: 'Search in'
-          title: 'Targeted search options'
+          label: 'Søg'
+          title: 'Afgrænsning'
           post_label: 'for'
         q: 'Søg...'
         submit: 'Søg'
