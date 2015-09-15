@@ -16,7 +16,7 @@
           <% end %>
       <% end -%>
   <% end -%>
-  <dt>Download <%#= document_empty %> <%#= document['id'] %></dt>
+  <dt>Download</dt>
   <dd>
     <% unless document_empty %>
         <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-default dlTxt') do %>
