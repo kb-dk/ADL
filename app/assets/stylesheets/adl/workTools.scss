@@ -3,7 +3,13 @@
   padding: $grid-gutter-width;
   background:$gray-lighter;
   h1{
+    @extend  .h2;
     margin-top:0px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
   }
   .btn-toolbar{
     display:block;
