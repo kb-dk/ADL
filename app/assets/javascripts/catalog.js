@@ -302,6 +302,7 @@ function getURLParameter(url,name) {
 }
 
 function index_work_search(workid, target_selector){
+    workid = encodeURIComponent(workid);
     qselector = $('#q.search_q.q.form-control');
     q = encodeURIComponent($(qselector).val());
     $.ajax({

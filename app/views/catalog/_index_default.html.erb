@@ -2,6 +2,7 @@
 <% document_empty  = !FileServer.has_text(document['id']) %>
 <dl class="document-metadata dl-horizontal dl-invert">
   <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
+  <% result_id = "result-"+document['id'].gsub("#", "") %>
 
   <% collapse_fields = [] %>
   <% index_fields(document).each do |field_name, field| -%>
@@ -18,9 +19,9 @@
   <% end -%>
 
   <dt>I tekst:</dt>
-  <dd class="search-results" id =<%= document['id'] %> ></dd>
+  <dd class="search-results" id =<%= result_id %> ></dd>
 
-  <dt>Download <%#= document_empty %> <%#= document['id'] %></dt>
+  <dt>Download <%= document_empty %> <%= document['id'] %></dt>
   <dd>
     <% unless document_empty %>
         <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-default dlTxt') do %>
@@ -52,6 +53,6 @@
 <%= javascript_tag do %>
     $(document).ready(
             function () {
-                index_work_search("<%= document['id'] %>", $('#<%= document['id'] %>'));
+                index_work_search("<%= document['id'] %>", $('#<%= result_id %>'));
             });
 <% end %>
