@@ -301,25 +301,31 @@ function getURLParameter(url,name) {
     return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(url)||[,""])[1].replace(/\+/g, '%20'))||null
 }
 
-function index_work_search(workid, target_selector){
+function index_work_search(workid, target_selector, text_label_id){
     workid = encodeURIComponent(workid);
     qselector = $('#q.search_q.q.form-control');
     q = encodeURIComponent($(qselector).val());
-    $.ajax({
-        type: 'GET',
-        url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+workid,
-        datatype: 'json',
-        success: function(data) {
-            $(target_selector).empty();
-            docs = data.response.docs
-            highlighting = data.response.highlighting;
-            $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' Matches</p></div>');
-            for (var i= 0; i in docs && i<3; i++) {
-                $(target_selector).append('<p><a href="/catalog/'+workid+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+    if (!q.trim()){
+        $(text_label_id).hide();
+    }else{
+        $.ajax({
+            type: 'GET',
+            url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+workid,
+            datatype: 'json',
+            success: function(data) {
+                $(target_selector).empty();
+                docs = data.response.docs
+                highlighting = data.response.highlighting;
+                matches_num = data.response.pages.total_count;
+                if (matches_num>0) {
+                    $(target_selector).append('<div id="results-header"><p>'+matches_num+' Matches</p></div>');
+                    for (var i= 0; i in docs && i<3; i++) {
+                        $(target_selector).append('<p><a href="/catalog/'+workid+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                    }
+                }else{$(text_label_id).hide();}
             }
-        }
-
-    });
+        });
+    }
     return false;
 }
 
