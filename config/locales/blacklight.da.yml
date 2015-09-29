@@ -193,6 +193,9 @@ da:
           all_filters: 'Fritekst'
           title: 'Titel'
           author: 'Forfatter'
+        sort:
+          relevance: 'relevans'
+          author: 'forfatter'
       pagination:
         title: 'Results navigation'
       pagination_info:
