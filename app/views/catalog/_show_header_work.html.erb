@@ -7,7 +7,9 @@
         <div class="col-md-12">
             <div class="workNavBar">
                 <div class="btn-group" role="group">
+                  <% unless document_empty %>
                     <%= render :partial => 'show_tools_work' %>
+                  <% end %>
                     <%= render :partial => 'show_tools' %>
                 </div>
             </div>
@@ -37,7 +39,7 @@
                       <% end %>
                       <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default dlFaks') do %>
                           <%= bootstrap_glyphicon 'book' %>
-                          Faksimilie
+                          Faksimile
                       <% end %>
 
                     </dd>
