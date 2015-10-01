@@ -1,9 +1,7 @@
 <%# default partial to display solr document fields in catalog index view -%>
 <% document_empty  = !FileServer.has_text(document['id']) %>
 <dl class="document-metadata dl-horizontal dl-invert">
-  <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
-  <% result_id = "result-"+document['id'].gsub("#", "") %>
-  <% text_label_id = "text-label-"+document['id'].gsub("#", "") %>
+  <% collapse_id = document['id'].gsub("#", "") %>
 
   <% collapse_fields = [] %>
   <% index_fields(document).each do |field_name, field| -%>
@@ -16,7 +14,7 @@
           <% elsif value.present?  %>
               <% collapse_fields << [label, value, field_name] %>
           <% end %>
-<% end -%>
+      <% end -%>
   <% end -%>
 
   <dt id=<%= text_label_id %>>I tekst:</dt>
@@ -34,8 +32,9 @@
         <%= bootstrap_glyphicon 'book' %>
         Faksimilie
     <% end %>
-  </dd>
 
+
+  </dd>
 
   <div class="long_form_collapse collapse" id=<%= collapse_id %>>
     <% collapse_fields.each do |label, value, field_name| %>
