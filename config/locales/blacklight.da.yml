@@ -159,7 +159,7 @@ da:
         carrier:
           blank: 'You must select a carrier'
 
-    back_to_search: 'Tilbage til søgning'
+    back_to_search: 'Tilbage til søgeresultat'
     back_to_bookmarks: 'Tilbage til bogmærker'
 
     search:
@@ -190,7 +190,7 @@ da:
         submit: 'Søg'
         search:
           placeholder: 'Søg'
-          all_filters: 'Alle Felter'
+          all_filters: 'Alt'
           title: 'Titel'
           author: 'Forfatter'
       pagination:
@@ -220,7 +220,7 @@ da:
           remove: '[remove]'
 
       filters:
-        title: 'Du søgte efter:'
+        title: 'Afgrænset til:'
         label: '%{label}:'
         remove:
           value: 'Remove constraint %{value}'
@@ -228,7 +228,7 @@ da:
       librarian_view:
         title: 'Librarian View'
         leader: 'LEADER %{leader}'
-      start_over: 'Start forfra'
+      start_over: 'Ny søgning'
       index:
         label: '%{label}:'
       show:
@@ -259,6 +259,6 @@ da:
     show_person:
       born: "Født:"
       died: "Død:"
-      links: "Links"
+      links: "Relateret"
       potrait: "Forfatterportræt"
-      similar_works:  "Samlede Værker"
+      similar_works:  "Værker i ADL"
