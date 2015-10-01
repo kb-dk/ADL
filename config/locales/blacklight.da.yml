@@ -183,8 +183,8 @@ da:
         submit: 'sort results'
       form:
         search_field:
-          label: 'Search in'
-          title: 'Targeted search options'
+          label: 'Søg'
+          title: 'Afgrænsning'
           post_label: 'for'
         q: 'Søg...'
         submit: 'Søg'
@@ -193,6 +193,9 @@ da:
           all_filters: 'Alt'
           title: 'Titel'
           author: 'Forfatter'
+        sort:
+          relevance: 'relevans'
+          author: 'forfatter'
       pagination:
         title: 'Results navigation'
       pagination_info:
@@ -231,6 +234,11 @@ da:
       start_over: 'Ny søgning'
       index:
         label: '%{label}:'
+        in_text: 'I tekst:'
+        download: 'Download:'
+        text: 'Tekst'
+        facsimile: 'Faksimile'
+        show_more: 'Vis mere'
       show:
         title: '%{document_title} - %{application_name}'
         label: '%{label}:'

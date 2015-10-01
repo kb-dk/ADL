@@ -22,6 +22,10 @@ module ApplicationHelper
     published.html_safe
   end
 
+  def translate_model_names(name)
+    I18n.t("models.#{name}")
+  end
+
   def present_snippets args
     val = args[:value]
     return unless val.present?

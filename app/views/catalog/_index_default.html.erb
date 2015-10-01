@@ -19,24 +19,23 @@
       <% end -%>
   <% end -%>
 
-  <dt id=<%= text_label_id %>>I tekst:</dt>
+  <dt id=<%= text_label_id %>><%= t('blacklight.search.index.in_text') %></dt>
   <dd class="search-results" id =<%= result_id %> ></dd>
 
-  <dt>Download</dt>
+  <dt><%= t('blacklight.search.index.download') %></dt>
   <dd>
     <% unless document_empty %>
         <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-default dlTxt') do %>
             <%= bootstrap_glyphicon 'align-left' %>
-            Tekst
+            <%= t('blacklight.search.index.text') %>
         <% end %>
     <% end %>
     <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default dlFaks') do %>
         <%= bootstrap_glyphicon 'book' %>
-        Faksimilie
+        <%= t('blacklight.search.index.facsimile') %>
     <% end %>
-
-
   </dd>
+
 
   <div class="long_form_collapse collapse" id=<%= collapse_id %>>
     <% collapse_fields.each do |label, value, field_name| %>
@@ -46,7 +45,7 @@
   </div>
   <% unless collapse_fields.empty? %>
       <a class="collapse-button" role="button" data-toggle="collapse" href="#<%= collapse_id %>" aria-expanded="false" aria-controls="<%= collapse_id %>" onclick="changeButtonLabel(this);">
-        Vis mere
+        <%= t('blacklight.search.index.show_more') %>
       </a>
   <% end %>
 
