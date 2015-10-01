@@ -3,6 +3,7 @@
 <dl class="document-metadata dl-horizontal dl-invert">
   <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
   <% result_id = "result-"+document['id'].gsub("#", "") %>
+  <% text_label_id = "text-label-"+document['id'].gsub("#", "") %>
 
   <% collapse_fields = [] %>
   <% index_fields(document).each do |field_name, field| -%>
@@ -15,10 +16,10 @@
           <% elsif value.present?  %>
               <% collapse_fields << [label, value, field_name] %>
           <% end %>
-<% end -%>
+      <% end -%>
   <% end -%>
 
-  <dt><%= t('blacklight.search.index.in_text') %></dt>
+  <dt id=<%= text_label_id %>><%= t('blacklight.search.index.in_text') %></dt>
   <dd class="search-results" id =<%= result_id %> ></dd>
 
   <dt><%= t('blacklight.search.index.download') %></dt>
@@ -53,6 +54,6 @@
 <%= javascript_tag do %>
     $(document).ready(
             function () {
-                index_work_search("<%= document['id'] %>", $('#<%= result_id %>'));
+                index_work_search("<%= document['id'] %>", $('#<%= result_id %>'), $('#<%= text_label_id %>'));
             });
 <% end %>
