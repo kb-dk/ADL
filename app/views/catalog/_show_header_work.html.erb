@@ -19,7 +19,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="workHeader">
-                <%= render_document_heading(document, :tag => :h1) %>
+              <h1><span class="glyphicon glyphicon-book"></span> <%= document['work_title_tesim'].first %></h1>
                 <dl class="dl-horizontal  dl-invert">
                     <% document_show_fields(document).each do |field_name, field| -%>
                         <% if should_render_show_field? document, field %>
