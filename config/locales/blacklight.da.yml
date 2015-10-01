@@ -270,3 +270,8 @@ da:
       links: "Links"
       potrait: "Forfatterportræt"
       similar_works:  "Samlede Værker"
+
+  models:
+    work: 'Værk'
+    person: 'Person'
+    portrait: 'Portræt'
