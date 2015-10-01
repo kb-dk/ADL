@@ -1,7 +1,9 @@
 <%# default partial to display solr document fields in catalog index view -%>
 <% document_empty  = !FileServer.has_text(document['id']) %>
 <dl class="document-metadata dl-horizontal dl-invert">
-  <% collapse_id = document['id'].gsub("#", "") %>
+  <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
+  <% result_id = "result-"+document['id'].gsub("#", "") %>
+  <% text_label_id = "text-label-"+document['id'].gsub("#", "") %>
 
   <% collapse_fields = [] %>
   <% index_fields(document).each do |field_name, field| -%>
