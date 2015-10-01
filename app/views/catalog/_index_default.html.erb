@@ -16,6 +16,10 @@
           <% end %>
       <% end -%>
   <% end -%>
+
+  <dt id=<%= text_label_id %>>I tekst:</dt>
+  <dd class="search-results" id =<%= result_id %> ></dd>
+
   <dt>Download</dt>
   <dd>
     <% unless document_empty %>
@@ -45,3 +49,10 @@
   <% end %>
 
 </dl>
+
+<%= javascript_tag do %>
+    $(document).ready(
+            function () {
+                index_work_search("<%= document['id'] %>", $('#<%= result_id %>'), $('#<%= text_label_id %>'));
+            });
+<% end %>
