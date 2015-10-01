@@ -11,11 +11,14 @@
 
   <h4 class="index_title document-title-heading <%= document_actions.present? ? "col-sm-9 col-lg-10" : "col-md-12" %>">
     <% if counter = document_counter_with_offset(document_counter) %>
-      <span class=" ">
+      <!--span class=" ">
         <%= t('blacklight.search.documents.counter', counter: counter) %>
-      </span>&nbsp;
+      </span-->
     <% end %>
-    <%= link_to_document document, document_show_link_field(document), counter: counter %>
+    <a href="document_show_link_field(document)">
+      <span class="glyphicon glyphicon-book"></span>
+      <%= link_to_document document %>
+    </a>
   </h4>
 
   <%= document_actions %>
