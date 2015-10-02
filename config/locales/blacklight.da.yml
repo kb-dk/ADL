@@ -123,7 +123,10 @@ da:
       form:
         title: 'Email'
         to: 'Email:'
-        message: 'Besked:'
+        work_title: 'Titel:'
+        volume_title: 'Bind:'
+        author: 'Forfatter:'
+        message: 'Ord med fejl i:'
         submit: 'Send'
       text:
         from: 'Fra: %{value}'
