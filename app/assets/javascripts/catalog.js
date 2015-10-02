@@ -85,7 +85,9 @@ $(document).ready(function(){
      */
     var q= $("div.search-widgets a[id!='startoverlink']").attr('href');
     if (q) {
-        q = getURLParameter(q.split('?'), 'q');
+        regexp = new RegExp("[?|&]q=([^&;]+?)(&|#|;|$)");
+        result = regexp.exec(q);
+        q = decodeURIComponent(result[1]).replace('+',' ');
     }
     if (q!= null && q != '') {
         $("#wq").val(q);
