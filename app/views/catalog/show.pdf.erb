@@ -10,7 +10,13 @@
   <%#= wicked_pdf_image_tag 'logo.png' %>
 </div>
 <div id="pdf_content">
-  <%= FileServer.render_snippet(@document.id) %>
+  <% if @document['cat_ssi'] == 'portrait' %>
+      <%= FileServer.render_snippet(@document.id,{c: 'authors'}) %>
+  <% else %>
+      <%= FileServer.render_snippet(@document.id) %>
+  <% end %>
 </div>
 </body>
 </html>
+
+
