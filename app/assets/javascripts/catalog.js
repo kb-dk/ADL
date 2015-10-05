@@ -212,7 +212,7 @@ $(document).ready(function(){
             // this is a feedback request
             var firstVisiblePageId = ADL.getFirstVisiblePageId();
             if (firstVisiblePageId) { // If there is an id, append it to the errormessage
-                var lines = $('textarea#message').html().split(/\n/i);
+                var lines = $('#report')[0].value.split(/\n/i);
                 $.each(lines, function (index, line) {
                     if (line.indexOf('URL') === 0) {
                         line = line.replace('#','%23'); // html encode the # before workId in the link
@@ -220,7 +220,7 @@ $(document).ready(function(){
                         return false;
                     }
                 });
-                $('textarea#message').html(lines.join('\n'));
+                $('#report')[0].value = lines.join('\n');
             }
         }
     });
@@ -247,15 +247,6 @@ $(document).ready(function(){
     // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
     $('.modal').appendTo($('body'));
 
-    $(document).ajaxComplete(function (e, xhr, options) {
-        if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
-            // this is a feedback request
-            var firstVisibleId = ADL.getFirstVisibleId();
-            if (firstVisibleId) { // If there is an id, append it to the errormessage
-                $('textarea#message').html($('textarea#message').html() + 'id: #' + firstVisibleId + '\n');
-            }
-        }
-    });
 });
 
 function cookieTerms(cname, cvalue, exdays) {
