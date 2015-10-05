@@ -126,7 +126,8 @@ da:
         work_title: 'Titel:'
         volume_title: 'Bind:'
         author: 'Forfatter:'
-        message: 'Ord med fejl i:'
+        message: 'Besked:'
+        wrong_words: 'Ord med fejl i:'
         submit: 'Send'
       text:
         from: 'Fra: %{value}'
