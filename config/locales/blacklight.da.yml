@@ -114,9 +114,7 @@ da:
       feedback: "Fejlrapportering"
 
     citation:
-      mla: 'MLA'
-      apa: 'APA'
-      chicago: 'Chicago'
+      apa: ''
 
     email:
       success: "Din besked er blevet sendt."
