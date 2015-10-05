@@ -1,7 +1,7 @@
 <%# default partial to display solr document fields in catalog show view -%>
 
 <% document ||= @document %>
-<% document_empty  = @document_empty || !FileServer.has_text(document.id) %>
+<% document_empty  = @document_empty || !FileServer.doc_has_text(document.id) %>
 
 <% # bookmark/folder functions -%>
 

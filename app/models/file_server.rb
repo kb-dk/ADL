@@ -35,8 +35,17 @@ class FileServer
     FileServer.render_snippet(id, opts)
   end
 
-  def self.has_text(id)
+  def self.author_portrait_has_text(id)
+    text = self.render_snippet(id,{c: 'authors'}).to_str
+    has_text(text)
+  end
+
+  def self.doc_has_text(id)
     text = self.render_snippet(id).to_str
+    has_text(text)
+  end
+
+  def self.has_text(text)
     text = ActionController::Base.helpers.strip_tags(text).delete("\n")
     # check text length excluding pb elements
     text = text.gsub(/[s|S]\. [\w\d]+/,'').delete(' ')
