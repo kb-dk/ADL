@@ -1,5 +1,7 @@
 <%# default partial to display solr document fields in catalog index view -%>
 <% document_empty  = !FileServer.doc_has_text(document['id']) %>
+<% facsimile_empty  = !FileServer.has_facsimile(document.id) %>
+
 <dl class="document-metadata dl-horizontal dl-invert">
   <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
   <% result_id = "result-"+document['id'].gsub("#", "") %>
@@ -30,9 +32,11 @@
             <%= t('blacklight.search.index.text') %>
         <% end %>
     <% end %>
-    <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default dlFaks') do %>
-        <%= bootstrap_glyphicon 'book' %>
-        <%= t('blacklight.search.index.facsimile') %>
+    <% unless facsimile_empty %>
+        <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default dlFaks') do %>
+            <%= bootstrap_glyphicon 'book' %>
+            <%= t('blacklight.search.index.facsimile') %>
+        <% end %>
     <% end %>
   </dd>
 
