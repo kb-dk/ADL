@@ -4,3 +4,10 @@
     margin-right:$grid-gutter-width;
   }
 }
+
+/*Zero result text */
+#sortAndPerPage .page_entries{
+  display:block;
+  @extend .lead;
+  margin-bottom:$grid-gutter-width;
+}
