@@ -160,7 +160,7 @@ class CatalogController < ApplicationController
     def feedback
       @response, @document = fetch URI.unescape(params[:id])
       @report = ""
-      @report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+      #@report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
       @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
       @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
       @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
@@ -294,7 +294,9 @@ class CatalogController < ApplicationController
 
   # Email Action (this will render the appropriate view on GET requests and process the form and send the email on POST requests)
   def email_action documents
-    mail = RecordMailer.email_record(documents, {:to => params[:to], :message => params[:report]+"\n\n"+params[:message]}, url_options)
+    report = params[:report].nil? ? "" : params[:report]
+    report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+    mail = RecordMailer.email_record(documents, {:to => params[:to], :message => report+"\n\n"+params[:message]}, url_options)
     if mail.respond_to? :deliver_now
       mail.deliver_now
     else
