@@ -1,7 +1,7 @@
 <% document ||= @document %>
 <% # bookmark/folder functions -%>
 
-<% document_empty = !FileServer.has_text(document.id) %>
+<% document_empty = !FileServer.doc_has_text(document.id) %>
 
 <!-- Button trigger table of content -->
 <button type="button" class="btn btn-default tableOfContent" data-toggle="modal" data-target="#toc">

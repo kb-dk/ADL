@@ -114,16 +114,18 @@ da:
       feedback: "Fejlrapportering"
 
     citation:
-      mla: 'MLA'
-      apa: 'APA'
-      chicago: 'Chicago'
+      apa: ''
 
     email:
       success: "Din besked er blevet sendt."
       form:
         title: 'Email'
         to: 'Email:'
+        work_title: 'Titel:'
+        volume_title: 'Bind:'
+        author: 'Forfatter:'
         message: 'Besked:'
+        wrong_words: 'Ord med fejl i:'
         submit: 'Send'
       text:
         from: 'Fra: %{value}'

@@ -148,7 +148,7 @@ class CatalogController < ApplicationController
     # to use for this use case.
     def show
       @response, @document = fetch URI.unescape(params[:id])
-      @document_empty = !FileServer.has_text(@document.id)
+      @document_empty = !FileServer.doc_has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
@@ -160,7 +160,7 @@ class CatalogController < ApplicationController
     def feedback
       @response, @document = fetch URI.unescape(params[:id])
       @report = ""
-      @report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+      #@report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
       @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
       @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
       @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
@@ -169,7 +169,7 @@ class CatalogController < ApplicationController
 
     def facsimile
       @response, @document = fetch URI.unescape(params[:id])
-      @document_empty = !FileServer.has_text(@document.id)
+      @document_empty = !FileServer.doc_has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.pdf { send_pdf(@document, 'image') }
@@ -289,5 +289,18 @@ class CatalogController < ApplicationController
 
   def oai_provider
     @oai_provider ||= ::AdlDocumentProvider.new(self)
+  end
+
+
+  # Email Action (this will render the appropriate view on GET requests and process the form and send the email on POST requests)
+  def email_action documents
+    report = params[:report].nil? ? "" : params[:report]
+    report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+    mail = RecordMailer.email_record(documents, {:to => params[:to], :message => report+"\n\n"+params[:message]}, url_options)
+    if mail.respond_to? :deliver_now
+      mail.deliver_now
+    else
+      mail.deliver
+    end
   end
 end 
