@@ -199,7 +199,7 @@ da:
       pagination:
         title: 'Results navigation'
       pagination_info:
-        no_items_found: 'Ingen %{entry_name} fundet'
+        no_items_found: 'Din søgning gav desværre ingen resultater'
         single_item_found: '<strong>1</strong> to <strong>1</strong> af <strong>1</strong>'
         pages:
           one: '<strong>%{start_num}</strong> - <strong>%{end_num}</strong> af <strong>%{total_num}</strong>'
