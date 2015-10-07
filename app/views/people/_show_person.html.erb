@@ -18,6 +18,17 @@
                   <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
               <% end -%>
           <% end -%>
+
+          <% if document['birth_date_ssi'] %>
+              <dt> <%= t '.born' %></dt>
+              <dd><%= document['birth_date_ssi'] %></dd>
+          <%end %>
+
+          <% if document['death_date_ssi'] %>
+              <dt> <%= t '.died' %></dt>
+              <dd><%= document['death_date_ssi'] %></dd>
+          <%end %>
+
           <dt><%= t '.links' %></dt>
           <dd>
             <ul class="list-unstyled">
@@ -42,18 +53,3 @@
   </div>
 </div>
 
-<!--div class="container">
-    <dl class="dl-horizontal  dl-invert" xmlns="http://www.w3.org/1999/html">
-      <% if document['birth_date_ssi'] %>
-          <dt> <%= t '.born' %></dt>
-          <dd><%= document['birth_date_ssi'] %></dd>
-      <%end %>
-
-      <% if document['death_date_ssi'] %>
-          <dt> <%= t '.died' %></dt>
-          <dd><%= document['death_date_ssi'] %></dd>
-      <%end %>
-
-
-    </dl>
-</div-->
