@@ -18,16 +18,26 @@
                   <dd class="blacklight-<%= field_name.parameterize %>"><%= render_document_show_field_value document, field: field_name %></dd>
               <% end -%>
           <% end -%>
+          <dt><%= t '.links' %></dt>
+          <dd>
+            <ul class="list-unstyled">
+              <li>
+                <%= author_portrait_search_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.potrait')) %>
+                <% @genres.each do |key, value| %>
+                    <a href="/?f[author_ssi][]=<%= document['author_name'].first %>&f[genre_ssi][]=<%= key %>"><%= key.to_s.capitalize %> (<%= value %>)</a><br>
+                <%end %>
+              </li>
+              <li>
+                <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>"> <%= t '.similar_works' %></a>
+              </li>
+            </ul>
+
+          </dd>
         </dl>
-        <hr>
-        <h1><small> <%= t '.links' %></small></h1>
-        <%= author_portrait_search_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.potrait')) %>
-        <% @genres.each do |key, value| %>
-            <a href="/?f[author_ssi][]=<%= document['author_name'].first %>&f[genre_ssi][]=<%= key %>"><%= key.to_s.capitalize %> (<%= value %>)</a><br>
-        <%end %>
-        <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>"> <%= t '.similar_works' %></a>
 
       </div>
+      <br>
+      <br>
     </div>
   </div>
 </div>
