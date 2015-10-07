@@ -12,11 +12,16 @@
 
   <dt>Relateret:</dt>
   <dd>
-
-
-    <%= author_portrait_search_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.potrait')) %>
-    <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>&f[cat_ssi][]=work">
-      <%= t 'people.show_person.similar_works' %></a>
+    <ul class="list-unstyled">
+        <li>
+            <%= author_portrait_search_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.potrait')) %>
+        </li>
+        <li>
+            <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>&f[cat_ssi][]=work">
+                <%= t 'people.show_person.similar_works' %>
+            </a>
+        </li>
+    </ul>
   </dd>
 
 </dl>
