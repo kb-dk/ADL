@@ -1,6 +1,7 @@
 <% document ||= @document %>
 <% document_empty  = @document_empty || !FileServer.doc_has_text(document.id) %>
 
+      <% @page_title = @document['work_title_tesim'].first.strip+'- Arkiv for Dansk Litteratur' %>
       <div id="content" class="col-sm-12">
         <%= render partial: 'previous_next_doc' %>
         <%= render partial: 'catalog/show_header_work' %>

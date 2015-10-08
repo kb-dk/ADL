@@ -1,5 +1,7 @@
 <% document ||= @document %>
 <% document_empty  = @document_empty || !FileServer.doc_has_text(document.id) %>
+<% facsimile_empty  = !FileServer.has_facsimile(document.id) %>
+
 
 <% # bookmark/folder functions -%>
 <div class="container workNavbarFixContainer">
@@ -37,9 +39,11 @@
                               Tekst
                           <% end %>
                       <% end %>
-                      <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default dlFaks') do %>
-                          <%= bootstrap_glyphicon 'book' %>
-                          Faksimile
+                      <% unless facsimile_empty %>
+                          <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default dlFaks') do %>
+                              <%= bootstrap_glyphicon 'book' %>
+                              Faksimile
+                          <% end %>
                       <% end %>
 
                     </dd>

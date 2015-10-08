@@ -223,6 +223,7 @@ da:
         more: 'mere »'
         selected:
           remove: '[remove]'
+        more_html: 'Vis alle'
 
       filters:
         title: 'Afgrænset til:'

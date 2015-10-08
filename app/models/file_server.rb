@@ -52,6 +52,12 @@ class FileServer
     text.present?
   end
 
+  def self.has_facsimile(id)
+    html = FileServer.facsimile(id)
+    xml = Nokogiri::HTML(html)
+    return !xml.css('img').empty?
+  end
+
   # return all image links for use in facsimile pdf view
   def self.image_links(id)
     html = FileServer.facsimile(id)
