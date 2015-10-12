@@ -277,7 +277,7 @@ $(document).ready(function(){
     $('.nav-tab-instance').click(function (e) {
         var pageId = ADL.getCurrentPageId();
         if (pageId && e.target.tagName === 'A') {
-            $(e.target).attr('href', $(e.target).attr('href') + '#' + pageId);
+            $(e.target).attr('href', $(e.target).attr('href') + '/#' + pageId);
         }
     });
     // modal should be closed as soon as one clicks on a in-page link.
