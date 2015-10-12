@@ -272,7 +272,7 @@ class CatalogController < ApplicationController
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => (I18n.t'blacklight.search.form.sort.relevance')
     # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
-    config.add_sort_field 'author_ssi asc', :label => (I18n.t'blacklight.search.form.sort.author')
+    config.add_sort_field 'author_sort asc', :label => (I18n.t'blacklight.search.form.sort.author')
     # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
 
     # If there are more than this many search results, no spelling ("did you 
