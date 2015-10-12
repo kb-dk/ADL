@@ -10,6 +10,7 @@ function resizeDiv() {
     vpw = $(window).width();
     vph = $(window).height() - 108;
     $('.tab-pane').css({'height': vph + 'px'});
+    ADL.recalculatePageTopPositions();
 }
 
 
@@ -90,11 +91,67 @@ $(document).ready(function(){
         $("#worksearch_btn").click();
     }
 
+    // --- private helper functions ---
+
+    var getHeightOfFixedHeaders = function () {
+        var fixedHeaders = $('.fixed, .navbar-fixed-top'),
+            allFixedHeaderHeight = 0;
+        $.each(fixedHeaders, function (index, fixedHeader) {
+            allFixedHeaderHeight += $(fixedHeader).height();
+        });
+        return allFixedHeaderHeight;
+    }
+
+    var getPagePositions = function () {
+        var allFixedHeaderHeight = getHeightOfFixedHeaders();
+        return $('.pageBreak, .snippetRoot').map(function (index, pageBreakElem) {
+            pageBreakElem = (pageBreakElem.id) ? pageBreakElem : $(pageBreakElem).parent()[0]; // FIXME: This would not be needed if Sigge also id tagged pageBreaks on faksimili pages!
+            return {
+                page: $(pageBreakElem).attr('id').substr(1),
+                topPos: $(pageBreakElem).position().top,
+                topPosFixed: $(pageBreakElem).position().top + allFixedHeaderHeight - 50, // magic number 50 is to give it a little margin. If the first page only have a few pixels showing, the reader IS on the next page!
+                elem: pageBreakElem
+            }
+        });
+    };
+
     // FIXME: We should wrap all our functions into this object, in order not to polute the global object!
     window.ADL = function (window, $, undefined) {
         return {
+            youAreHere: 0,
+
+            PAGETOPPOSITIONS: getPagePositions(), // This is going to be recalculated in ½ sec. but there has to be some values for the first page calculations!
+
+//            getPagePositions: getPagePositions, // We need to recalculate all page positions after the initial load, because they get outdated after a while
+
+            recalculatePageTopPositions: function () {
+                this.PAGETOPPOSITIONS = getPagePositions();
+            },
+
             /**
-             * Get id of the top most visible text element, used in bookmarking.
+             * Get the page number of the first visible page (or the pagebreak element itself)
+             * @param getElem {boolean} Optional If set the method returns the HTMLElement of the pagebreak, else it returns the pagenumber
+             * @returns {number | HTMLElement}
+             */
+            getPageNumber: function(getElem) { // XXX XXX XXX This is the one that actually works!
+                // noget med document.offset.y eller noget, og sammenligne det med PAGETOPPOSITIONS
+                var scrollTop = $(window).scrollTop();
+//                ADL.youAreHere = (scrollTop > 55) ? scrollTop - 18 : scrollTop; // magic number 188 = correcting for fixed headers 50 + 32 + 106 (-110 for only gd know why :( )
+                ADL.youAreHere = scrollTop + 198; // magic number 188 = correcting for fixed headers 50 + 32 + 106 (-110 for only gd know why :( ) // XXX XXX FIXME: is 198 necessary here??
+                var firstVisiblePage = 1,
+                    i = 0;
+                while(ADL.youAreHere > ADL.PAGETOPPOSITIONS[i].topPosFixed) {
+                    if (i === ADL.PAGETOPPOSITIONS.length - 1) {
+                        return getElem ? ADL.PAGETOPPOSITIONS[i].elem : ADL.PAGETOPPOSITIONS[i].page;
+                    }
+                    i += 1;
+                }
+                i = (i === 0) ? i : i - 1; // The first visible page is the page before youAreHere > ADL.PAGETOPPOSITIONS[i].topPos
+                return getElem ? ADL.PAGETOPPOSITIONS[i].elem : ADL.PAGETOPPOSITIONS[i].page;
+            },
+
+            /**
+             * Get id of the top most visible text element, used in bookmarking. This method operates on all kind of elements div/p/span/em etc.
              * @return {String/id} Id of the text element in top of the visible part of the viewport.
              */
             getFirstVisibleElement: function () {
@@ -110,22 +167,10 @@ $(document).ready(function(){
             },
 
             getCurrentPageId: function () {
-                var currentPageIndex,
-                    firstVisibleElement = this.getFirstVisibleElement();
-                if (firstVisibleElement) {
-                    var firstVisibleElementTopPosition = $(firstVisibleElement).position().top,
-                        allPageBreaks = $('.pageBreak');
-                    allPageBreaks.each(function (index, elem) {
-                        if ($(elem).position().top > firstVisibleElementTopPosition) {
-                            currentPageIndex = index - 1; // last page that has not been scrolled out of yet
-                            return false;
-                        }
-                    });
-                    return $(allPageBreaks[currentPageIndex]).attr('id');
-                }
-                return; // no first page was found
+                return $(this.getPageNumber(true)).attr('id');
             },
 
+            // TODO: We could work the getFirstVisbleElement out of the equation, and use our own pageTopPositions, but for now I'm just gonna keep it in here /HAFE
             getFirstVisiblePage: function () {
                 var firstVisibleElement = this.getFirstVisibleElement();
                 if (firstVisibleElement.tagName === 'P' || firstVisibleElement.tagName === 'DIV') {
@@ -245,6 +290,9 @@ $(document).ready(function(){
     // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
     $('.modal').appendTo($('body'));
 
+    setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 500); // recalculate pageBreak table a couple of times because they changes after a while
+    setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 1000);// and it differs a bit from browser to browser how long it takes to have the right numbers
+    setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 2000);
 });
 
 function cookieTerms(cname, cvalue, exdays) {
