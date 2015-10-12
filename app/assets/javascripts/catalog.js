@@ -2,10 +2,6 @@
  * Created by romc on 7/8/15.
  */
 
-$(document).ready(function(){
-    resizeDiv();
-});
-
 window.onresize = function(event) {
     resizeDiv();
 }
@@ -206,6 +202,8 @@ $(document).ready(function(){
             }
         };
     } (window, jQuery);
+
+    resizeDiv();
 
     $(document).ajaxComplete(function (e, xhr, options) {
         if (options && options.url && options.url.indexOf('/feedback?') >= 0) { // FIXME: Is this really the best way to pick out the feedback responses?
