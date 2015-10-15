@@ -243,19 +243,14 @@ $(document).ready(function(){
 
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
                 if ($(window).scrollTop() >= 55) {
-                    $('.workContent').addClass('fixedHeader');
-                    $('.workHeader dl').hide();
-                    $('.workNavbarFixContainer, .workHeaderFixContainer, .nav-tab-instance-fixContainer').addClass('fixed');
-                    //correct top for all content (to correct top point just under the fixed top bars)
-                    $('#content .workContent div, #content .workContent p').removeClass('top1cor').addClass('top2cor');
+                    $('body').addClass('fixedHeader');
+                    $('.workHeader dl').slideUp(200); // We have a minor animation to let users subliminal understand that we are collapsing the header
+                    $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top1cor').addClass('top2cor');
 
                 } else {
-                    $('.workNavbarFixContainer, .workHeaderFixContainer, .nav-tab-instance-fixContainer').removeClass('fixed');
-                    $('.workContent').removeClass('fixedHeader');
-                    $('.workHeader dl').show();
-                    //correct top for all content (to correct top point just under the fixed top bars)
-                    $('#content .workContent div, #content .workContent p').removeClass('top2cor').addClass('top1cor');
-
+                    $('body').removeClass('fixedHeader');
+                    $('.workHeader dl').slideDown(200);
+                    $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
                 }
             },
 
