@@ -92,7 +92,6 @@ $(document).ready(function(){
     }
 
     // --- private helper functions ---
-
     var getHeightOfFixedHeaders = function () {
         var fixedHeaders = $('.fixed, .navbar-fixed-top'),
             allFixedHeaderHeight = 0;
@@ -123,8 +122,6 @@ $(document).ready(function(){
             youAreHere: 0,
 
             PAGETOPPOSITIONS: getPagePositions(), // This is going to be recalculated in ½ sec. but there has to be some values for the first page calculations!
-
-//            getPagePositions: getPagePositions, // We need to recalculate all page positions after the initial load, because they get outdated after a while
 
             recalculatePageTopPositions: function () {
                 this.PAGETOPPOSITIONS = getPagePositions();
