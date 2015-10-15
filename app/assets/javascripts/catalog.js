@@ -106,8 +106,9 @@ $(document).ready(function(){
         var allFixedHeaderHeight = getHeightOfFixedHeaders();
         return $('.pageBreak, .snippetRoot').map(function (index, pageBreakElem) {
             pageBreakElem = (pageBreakElem.id) ? pageBreakElem : $(pageBreakElem).parent()[0]; // FIXME: This would not be needed if Sigge also id tagged pageBreaks on faksimili pages!
+            pageId = $(pageBreakElem).attr('id');
             return {
-                page: $(pageBreakElem).attr('id').substr(1),
+                page: /^s\d+$/.test(pageId) ? pageId.substr(1) : pageId,
                 topPos: $(pageBreakElem).position().top,
                 topPosFixed: $(pageBreakElem).position().top + allFixedHeaderHeight - 50, // magic number 50 is to give it a little margin. If the first page only have a few pixels showing, the reader IS on the next page!
                 elem: pageBreakElem
