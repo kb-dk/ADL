@@ -119,6 +119,7 @@ $(document).ready(function(){
     // FIXME: We should wrap all our functions into this object, in order not to polute the global object!
     window.ADL = function (window, $, undefined) {
         return {
+            test : false, // remove this to get rid of all kinds of test outputs (the pagenumber in bottom right so far)!
             youAreHere: 0,
 
             PAGETOPPOSITIONS: getPagePositions(), // This is going to be recalculated in ½ sec. but there has to be some values for the first page calculations!
@@ -233,6 +234,16 @@ $(document).ready(function(){
 
             scrollSniffer: function (e) {
                 // ADL.updateBookmarkLink(e); // FIXME: This shall be incommented if bookmarks should be per paragraph
+
+                // Add pagenumber bottom right if test
+                if (ADL.test) {
+                    var pageNumber = $('.showPage');
+                    if (!pageNumber.length) {
+                        pageNumber = $('<div class="showPage" style="position:fixed;z-index:100000;background-color:#fff;color:#000;text-align:center;padding-top:8px;height:32px;min-width:32px;bottom:10px;right:10px;border-radius:5px;border:2px solid #000"></div>');
+                        pageNumber.appendTo('body');
+                    }
+                    $('.showPage').text(ADL.getPageNumber());
+                }
 
                 // FIXME: Set a class instead, and let the stylesheets do the CSS work!
                 if ($(window).scrollTop() >= 55) {
