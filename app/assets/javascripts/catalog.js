@@ -129,6 +129,17 @@ $(document).ready(function(){
                 this.PAGETOPPOSITIONS = getPagePositions();
             },
 
+            pageType: (function () {
+                var snippetRoot = $('.snippetRoot');
+                if (snippetRoot.hasClass('facsimile')) {
+                    return 'facsimile';
+                }
+                if (snippetRoot.hasClass('text')) {
+                    return 'text';
+                }
+                return 'other';
+            })(),
+
             /**
              * Get the page number of the first visible page (or the pagebreak element itself)
              * @param getElem {boolean} Optional If set the method returns the HTMLElement of the pagebreak, else it returns the pagenumber
