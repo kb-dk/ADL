@@ -149,8 +149,7 @@ $(document).ready(function(){
                 }
                 // noget med document.offset.y eller noget, og sammenligne det med PAGETOPPOSITIONS
                 var scrollTop = $(window).scrollTop();
-//                ADL.youAreHere = (scrollTop > 55) ? scrollTop - 18 : scrollTop; // magic number 188 = correcting for fixed headers 50 + 32 + 106 (-110 for only gd know why :( )
-                ADL.youAreHere = scrollTop + 198; // magic number 188 = correcting for fixed headers 50 + 32 + 106 (-110 for only gd know why :( ) // XXX XXX FIXME: is 198 necessary here??
+                ADL.youAreHere = (scrollTop > 55) ? scrollTop + 88 : scrollTop; // magic number 188 = correcting for fixed headers 50 + 32 + 106 (-100 for only God know why :( )
                 var firstVisiblePage = 1,
                     i = 0;
                 while(ADL.youAreHere > ADL.PAGETOPPOSITIONS[i].topPosFixed) {
