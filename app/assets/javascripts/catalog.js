@@ -294,7 +294,7 @@ $(document).ready(function(){
     // setup scrollsniffer
     $(window).scroll(ADL.scrollSniffer);
     // also test the scrollTop from loading (if the page starts scrolled)
-    ADL.scrollSniffer();
+    setTimeout(ADL.scrollSniffer, 1000); // start fetching the pagenumber once after load.
 
     // clicks on nav-tab-instance should correct for scrolling page!
     $('.nav-tab-instance').click(function (e) {
