@@ -310,6 +310,31 @@ $(document).ready(function(){
     setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 500); // recalculate pageBreak table a couple of times because they changes after a while
     setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 1000);// and it differs a bit from browser to browser how long it takes to have the right numbers
     setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 2000);
+
+/*
+    if ($('.facsimile').length) { // This is a facsimile page - do the dirty previousPage thingie! :6 (ask Sigge if you don't know why this is!)
+        $('#tableOfContent').closest('.modal-content').find('.modal-body').click(function (e) {
+            if (e.target.tagName === 'A') {
+                e.preventDefault(); // Hijacking the event completely! :/ FIXME: This is definitely not the right way to do this - it ought to be pointing at the correct page from the server response to begin with!
+console.log('===========\nHijacking a click event ('+ $(e.target).attr('href')+')');
+                var elementHref = $(e.target).attr('href'),
+                    element = $(elementHref);
+                var elementToScrollTo = element;
+                if (element.prev() && element.prev().attr('id')) {
+                    elementToScrollTo = element.prev();
+                    console.log('fetching prev sibling ('+elementToScrollTo.attr('id')+')...');
+                    if (elementToScrollTo.children().length && elementToScrollTo.children().last() && elementToScrollTo.children().last().attr('id')) {
+                        elementToScrollTo = elementToScrollTo.children().last();
+                        console.log('fetching last child of prev sibling ('+elementToScrollTo.attr('id')+')...');
+                    }
+                }
+console.log('scrolling to the element...');
+                $(window).scrollTop(elementToScrollTo.offset().top);
+
+            }
+        });
+    }
+*/
 });
 
 function cookieTerms(cname, cvalue, exdays) {
