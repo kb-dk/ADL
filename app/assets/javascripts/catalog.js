@@ -130,6 +130,9 @@ $(document).ready(function(){
             pageType: (function () {
                 var snippetRoot = $('.snippetRoot');
                 if (snippetRoot.hasClass('facsimile')) {
+                    // This only gets executed on facsimile pages
+                    $('.workNavBar button.contentSearch').attr('disabled', true); // disable page search
+
                     return 'facsimile';
                 }
                 if (snippetRoot.hasClass('text')) {
