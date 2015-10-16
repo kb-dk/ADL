@@ -19,7 +19,7 @@
         <li role="presentation">
           <% unless facsimile_empty %>
               <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-              <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
+              <%= link_to(facsimile_catalog_path(document.id) + "/", data: { no_turbolink: true }) do %>
                   <%= bootstrap_glyphicon 'book' %>
                   Faksimile
               <% end %>
