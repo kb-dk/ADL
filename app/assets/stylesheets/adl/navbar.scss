@@ -8,27 +8,28 @@
 // Fix for in-page linking in a page with a fixed header.
 // Solution nicked from https://github.com/twbs/bootstrap/issues/1768
 // FIXME: I don't think pseudo-selectors are working in ios safari? Have this tested on an iPhone!
-#content .top1cor:before{ // Correcting for the top bar
+body.fixedHeader #content .snippetRoot .top1cor:before{ // Correcting for the top bar
   display: block;
   content: " ";
   margin-top: -50px;
   height: 50px;
   visibility: hidden;
 }
-#content .top2cor:before{ // Correcting for the top bar, the tool bar and the fixed header
-  display: block;
-  content: " ";
-  margin-top: -191px;
-  height: 191px;
-  visibility: hidden;
-}
+body.fixedHeader #content .snippetRoot .top2cor:before{ // Correcting for the top bar, the tool bar and the fixed header
+   display: block;
+   content: " ";
+   margin-top: -195px;
+   height: 195px;
+   visibility: hidden;
+ }
 
-.workContent.fixedHeader{
-  padding-top:200px; // Our fixed headers height - content should be moved down
+
+body.fixedHeader .workContent{
+  padding-top:188px; //400px; // Our fixed headers height - content should be moved down
 }
 
 // text/faksimile tab bar
-.nav-tab-instance-fixContainer.fixed{ // FIXME: This is not following the nameconvention in the rest of the elements!
+body.fixedHeader .nav-tab-instance-fixContainer{ // FIXME: This is not following the nameconvention in the rest of the elements!
   position:fixed;
   top:152px;
   right:0;
@@ -38,7 +39,7 @@
 }
 
 // navbar
-.workNavbarFixContainer.fixed{
+body.fixedHeader .workNavbarFixContainer{
   position: fixed;
   top: 50px;
   right: 0;
@@ -48,7 +49,7 @@
 }
 
 // header (titlebar)
-.workHeaderFixContainer.fixed{
+body.fixedHeader .workHeaderFixContainer{
   position: fixed;
   top: 82px;
   right: 0;
@@ -58,6 +59,6 @@
   z-index:10;
 }
 
-body.modal-open .workNavbarFixContainer.fixed, body.modal-open .workHeaderFixContainer.fixed, body.modal-open .navbar-fixed-top{
+body.fixedHeader.modal-open .workNavbarFixContainer, body.fixedHeader.modal-open .workHeaderFixContainer, body.fixedHeader.modal-open .navbar-fixed-top{
     right:15px;
 }
