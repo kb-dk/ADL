@@ -66,7 +66,7 @@ $(document).ready(function(){
                 highlighting = data.response.highlighting;
                 $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' Matches</p></div>');
                 for (i in docs) {
-                    $(target_selector).append('<p><a href="'+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                    $(target_selector).append('<p><a href="'+(ADL.pageType === 'text' ? extractDivId(docs[i].id) : '#' + docs[i].page_id_ssi)+'">' + highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                 }
             }
 
@@ -130,9 +130,6 @@ $(document).ready(function(){
             pageType: (function () {
                 var snippetRoot = $('.snippetRoot');
                 if (snippetRoot.hasClass('facsimile')) {
-                    // This only gets executed on facsimile pages
-                    $('.workNavBar button.contentSearch').attr('disabled', true); // disable page search
-
                     return 'facsimile';
                 }
                 if (snippetRoot.hasClass('text')) {
@@ -385,6 +382,7 @@ function getURLParameter(url,name) {
     return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(url)||[,""])[1].replace(/\+/g, '%20'))||null
 }
 
+// FIXME: When is this called? If it is debris, it should be cleaned up /HAFE
 function index_work_search(workid, target_selector, text_label_id){
     workid = encodeURIComponent(workid);
     qselector = $('#q.search_q.q.form-control');
@@ -404,7 +402,7 @@ function index_work_search(workid, target_selector, text_label_id){
                 if (matches_num>0) {
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' Matches</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
-                        $(target_selector).append('<p><a href="/catalog/'+workid+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                        $(target_selector).append('<p><a href="/catalog/'+workid+(ADL.pageType === 'text' ? extractDivId(docs[i].id) : '#' + docs[i].page_id_ssi)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                     }
                 }else{$(text_label_id).hide();}
             }
