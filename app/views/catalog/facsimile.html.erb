@@ -1,6 +1,7 @@
 <% document ||= @document %>
 <% document_empty  = @document_empty || !FileServer.doc_has_text(document.id) %>
 
+      <% @page_title = @document['work_title_tesim'].first.strip+'- Arkiv for Dansk Litteratur' %>
       <div id="content" class="col-sm-12">
         <%= render partial: 'previous_next_doc' %>
         <%= render partial: 'catalog/show_header_work' %>
@@ -20,7 +21,7 @@
                       </li>
                       <li role="presentation" class="active">
                         <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-                        <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
+                        <%= link_to(facsimile_catalog_path(document.id) + "/", data: { no_turbolink: true }) do %>
                             <%= bootstrap_glyphicon 'book' %>
                             Faksimile
                         <% end %>

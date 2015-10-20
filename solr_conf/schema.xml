@@ -52,7 +52,7 @@
     <dynamicField name="*_ssi" type="string" stored="true" indexed="true" multiValued="false"/>
     <dynamicField name="*_ssim" type="string" stored="true" indexed="true" multiValued="true"/>
     <dynamicField name="*_ssort" type="alphaSort" stored="false" indexed="true" multiValued="false"/>
-    
+
     <!-- integer (_i...) -->
     <dynamicField name="*_ii" type="int" stored="false" indexed="true" multiValued="false"/>
     <dynamicField name="*_iim" type="int" stored="false" indexed="true" multiValued="true"/>
@@ -157,9 +157,11 @@
     <dynamicField name="*_name" type="name_field" indexed="true" multiValued="true" />
     <!--<field name="authors_prefix" type="AuthorsPrefix" indexed="true" multiValued="true"/>-->
 
+    <field name="author_sort" type="sort_field" stored="true" indexed="true" multiValued="false" required="false"/>
 
     <copyField source="author_name" dest="author_ssi"/>
     <copyField source="work_title_tesim" dest="work_title_ssi"/>
+    <copyField source="author_name" dest="author_sort"/>
 
   </fields>
 
@@ -177,6 +179,14 @@
     <fieldType name="name_field" class="solr.TextField"  positionIncrementGap="100">
       <analyzer>
         <tokenizer class="solr.StandardTokenizerFactory"/>
+        <filter class="solr.LowerCaseFilterFactory" />
+      </analyzer>
+    </fieldType>
+
+    <fieldType name="sort_field" class="solr.TextField"  positionIncrementGap="100">
+      <analyzer>
+        <charFilter class="solr.MappingCharFilterFactory" mapping="mapping-AA.txt"/>
+        <tokenizer class="solr.KeywordTokenizerFactory" />
         <filter class="solr.LowerCaseFilterFactory" />
       </analyzer>
     </fieldType>

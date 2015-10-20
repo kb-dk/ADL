@@ -63,8 +63,8 @@ class CatalogController < ApplicationController
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
     # config.add_facet_field 'type_ssi', :label => 'Format'
-    config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true
-    config.add_facet_field 'cat_ssi', :label => 'Genre', helper_method: :translate_model_names
+    config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true, :limit => 10
+    config.add_facet_field 'cat_ssi', :label => 'Kategori', helper_method: :translate_model_names
 
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -134,7 +134,7 @@ class CatalogController < ApplicationController
     #config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
     #config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
     config.add_show_field 'editor_ssi', :label => 'Redaktør'
-    config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
+    #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
     config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
 
@@ -272,7 +272,7 @@ class CatalogController < ApplicationController
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => (I18n.t'blacklight.search.form.sort.relevance')
     # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
-    config.add_sort_field 'author_ssi asc', :label => (I18n.t'blacklight.search.form.sort.author')
+    config.add_sort_field 'author_sort asc', :label => (I18n.t'blacklight.search.form.sort.author')
     # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
 
     # If there are more than this many search results, no spelling ("did you 

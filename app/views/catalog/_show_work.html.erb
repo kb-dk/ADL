@@ -1,6 +1,8 @@
 <%# default partial to display solr document fields in catalog show view -%>
 
 <% document_empty  = @document_empty || !FileServer.doc_has_text(document.id) %>
+<% facsimile_empty  = !FileServer.has_facsimile(document.id) %>
+
 
  <div class="container nav-tab-instance-fixContainer">
    <div class="row"><div class="col-md-12">
@@ -15,10 +17,12 @@
           <% end %>
         </li>
         <li role="presentation">
-          <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-          <%= link_to(facsimile_catalog_path(document.id), data: { no_turbolink: true }) do %>
-              <%= bootstrap_glyphicon 'book' %>
-              Faksimile
+          <% unless facsimile_empty %>
+              <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
+              <%= link_to(facsimile_catalog_path(document.id) + "/", data: { no_turbolink: true }) do %>
+                  <%= bootstrap_glyphicon 'book' %>
+                  Faksimile
+              <% end %>
           <% end %>
         </li>
       </ul>
