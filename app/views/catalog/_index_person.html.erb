@@ -17,9 +17,7 @@
             <%= author_portrait_search_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.potrait')) %>
         </li>
         <li>
-            <a href="/catalog/?f[author_ssi][]=<%= document['author_name'].first %>&f[cat_ssi][]=work">
-                <%= t 'people.show_person.similar_works' %>
-            </a>
+           <%= author_work_facet_link(document[:given_name_ssi],document[:family_name_ssi],t('people.show_person.similar_works')) %>
         </li>
     </ul>
   </dd>
