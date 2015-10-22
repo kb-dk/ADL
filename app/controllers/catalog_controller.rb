@@ -90,12 +90,14 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
+    #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
+    config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
+    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
+    config.add_index_field 'published_date_ssi', :label => 'Udgivelsesdato', short_form: true
 
     # this adds basic highlighting to index results
     #config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
     config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    #config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted'
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
@@ -128,11 +130,12 @@ class CatalogController < ApplicationController
 
     # Work show fields
     config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
-    config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
+    #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
+    config.add_show_field 'publisher_ssi', :label => 'Udgiver'
+    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
+    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
     # don't show the volume field if we're on the landing page for that volume!
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    #config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
-    #config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
     config.add_show_field 'editor_ssi', :label => 'Redaktør'
     #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
