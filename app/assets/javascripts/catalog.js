@@ -241,16 +241,24 @@ $(document).ready(function(){
                     $('.showPage').text(ADL.getPageNumber());
                 }
 
-                // FIXME: Set a class instead, and let the stylesheets do the CSS work!
-                if ($(window).scrollTop() >= 55) {
-                    $('body').addClass('fixedHeader');
-                    $('.workHeader dl').slideUp(200); // We have a minor animation to let users subliminal understand that we are collapsing the header
-                    $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top1cor').addClass('top2cor');
+                var bodyHeightMinusWindowHeight = $('body').height() - $(window).height();
+                if ((bodyHeightMinusWindowHeight > 192 ) || $('body').hasClass('fixedHeader') ) { // FIXME: The 192 and 126 magic numbers are heights in the header, and they should be meassured at pageload, instead of just hardcoded!!
+                    if ($(window).scrollTop() >= 55) {
+                        $('body').addClass('fixedHeader');
+                        $('.workHeader dl').slideUp(200); // We have a minor animation to let users subliminal understand that we are collapsing the header
+                        $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top1cor').addClass('top2cor');
 
+                    } else {
+                        $('body').removeClass('fixedHeader');
+                        $('.workHeader dl').slideDown(200);
+                        $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
+                    }
                 } else {
-                    $('body').removeClass('fixedHeader');
-                    $('.workHeader dl').slideDown(200);
-                    $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
+                    if ($('body').hasClass('fixedHeader') && bodyHeightMinusWindowHeight < (192 - 126)) { // 188px is the header height 126px is the collapsible header part
+                        $('body').removeClass('fixedHeader'); // This is duplicateCode - make a function!
+                        $('.workHeader dl').slideDown(200);
+                        $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
+                    }
                 }
             },
 
