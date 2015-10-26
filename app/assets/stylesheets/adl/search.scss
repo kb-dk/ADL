@@ -6,8 +6,23 @@
 }
 
 /*Zero result text */
-#sortAndPerPage .page_entries{
+#sortAndPerPage .page_entries .lead{
   display:block;
-  @extend .lead;
-  margin-bottom:$grid-gutter-width;
+
+}
+
+/*Search history*/
+table.search_history{
+  .constraint{
+    text-indent: none !important;
+  }
+  .filterName {
+    padding-right:$grid-gutter-width/2;
+    display:inline-block;
+    min-width:100px;
+
+  }
+  td{
+    vertical-align: middle !important;
+  }
 }

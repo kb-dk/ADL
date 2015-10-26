@@ -43,7 +43,7 @@ da:
       title: 'Bogmærker'
       no_bookmarks: 'Du har ingen bogmærker'
       add:
-        button: 'Føj til Bogmærker'
+        button: 'Tilføj til bogmærker'
         success:
           one: 'Dit bogmærke er blevet gemt.'
           other: 'Dine bogmærker er blevet gemt.'
@@ -85,7 +85,7 @@ da:
         success: 'Dine gemte søgninger er blevet slettet'
         failure: 'Dine gemte søgninger kunne ikke slettes.'
       title: 'Gemte søgninger'
-      need_login: 'Venligst log ind for at se dine gemte søgninger.'
+      need_login: 'Log venligst ind for at se dine gemte søgninger.'
       no_searches: 'Du har ikke nogen gemte søgninger'
       list_title: 'Dine gemte søgninger'
       delete: 'Slet'
@@ -107,7 +107,7 @@ da:
       cite: 'Citer'
       endnote: 'Eksporter til EndNote'
       refworks: 'Eksporter til Refworks'
-      email: 'Email'
+      email: 'E-mail'
       sms: 'SMS This'
       librarian_view: 'Librarian View'
       clear: 'Clear'
@@ -119,8 +119,8 @@ da:
     email:
       success: "Din besked er blevet sendt."
       form:
-        title: 'Email'
-        to: 'Email:'
+        title: 'E-mail'
+        to: 'E-mail:'
         work_title: 'Titel:'
         volume_title: 'Bind:'
         author: 'Forfatter:'
@@ -138,10 +138,10 @@ da:
           other: 'Mail fra ADL'
         url: 'URL: %{url}'
         message: 'Besked: %{message}'
-      success: "Email sendt"
+      success: "E-mail sendt"
       errors:
         to:
-          invalid: 'Du skal indtaste en valid email adresse'
+          invalid: 'Du skal indtaste en korrekt e-mailadresse'
           blank: 'Du skal indtaste en modtager for at sende beskeden'
     sms:
       form:
@@ -166,8 +166,8 @@ da:
 
     search:
       bookmarks:
-          present: "i Bogmærker"
-          absent: "Føj til Bogmærker"
+          present: "I bogmærker"
+          absent: "Tilføj til bogmærker"
           inprogress: "Gemmer..."
       title: '%{application_name} søgeresultater'
       search_results_header: 'Søg'
@@ -181,7 +181,7 @@ da:
         title: 'Number of results to display per page'
         submit: 'Update'
       sort:
-        label: 'Sorter efter %{field}'
+        label: 'Sorter efter: %{field}'
         submit: 'sort results'
       form:
         search_field:
@@ -196,12 +196,12 @@ da:
           title: 'Titel'
           author: 'Forfatter'
         sort:
-          relevance: 'relevans'
-          author: 'forfatter'
+          relevance: 'Relevans'
+          author: 'Forfatter'
       pagination:
         title: 'Results navigation'
       pagination_info:
-        no_items_found: 'Din søgning gav desværre ingen resultater'
+        no_items_found: '<span class="lead">Din søgning gav desværre ingen resultater</span>'
         single_item_found: '<strong>1</strong> to <strong>1</strong> af <strong>1</strong>'
         pages:
           one: '<strong>%{start_num}</strong> - <strong>%{end_num}</strong> af <strong>%{total_num}</strong>'
@@ -270,7 +270,7 @@ da:
     show_person:
       born: "Født:"
       died: "Død:"
-      links: "Relateret"
+      links: "Relateret:"
       potrait: "Forfatterportræt"
       similar_works:  "Værker i ADL"
 

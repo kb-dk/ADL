@@ -67,7 +67,7 @@ $(document).ready(function(){
                 $(target_selector).empty();
                 docs = data.response.docs
                 highlighting = data.response.highlighting;
-                $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' Matches</p></div>');
+                $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' match</p></div>');
                 for (i in docs) {
                     $(target_selector).append('<p><a href="'+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                 }
@@ -311,7 +311,7 @@ function index_work_search(workid, target_selector, text_label_id){
                 highlighting = data.response.highlighting;
                 matches_num = data.response.pages.total_count;
                 if (matches_num>0) {
-                    $(target_selector).append('<div id="results-header"><p>'+matches_num+' Matches</p></div>');
+                    $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
                         $(target_selector).append('<p><a href="/catalog/'+workid+extractDivId(docs[i].id)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                     }

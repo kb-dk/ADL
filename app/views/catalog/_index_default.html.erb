@@ -27,13 +27,13 @@
   <dt><%= t('blacklight.search.index.download') %></dt>
   <dd>
     <% unless document_empty %>
-        <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-default dlTxt') do %>
+        <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt') do %>
             <%= bootstrap_glyphicon 'align-left' %>
             <%= t('blacklight.search.index.text') %>
         <% end %>
     <% end %>
     <% unless facsimile_empty %>
-        <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'btn btn-default dlFaks') do %>
+        <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
             <%= bootstrap_glyphicon 'book' %>
             <%= t('blacklight.search.index.facsimile') %>
         <% end %>

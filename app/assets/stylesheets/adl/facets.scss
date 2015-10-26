@@ -57,6 +57,12 @@
     }
   }
 
+a.more_facets_link{
+  @extend .btn;
+  @extend .btn-sm;
+  @extend .btn-default;
+}
+
 
 
 

@@ -66,12 +66,10 @@
     }
   }
 }
- .workHeader, .document-metadata{
+ .workHeader, .document-metadata .blacklight-author_ssi,
+ .workHeader, .document-metadata .blacklight-volume_title_tesim{
    a{
      text-decoration: underline;
-   }
-   a.btn{
-     text-decoration: none;
    }
  }
 
@@ -166,4 +164,12 @@ em.highlight{
     color: $gray;
   }
 }
+
+.dlTxt, dlFaks{
+  padding-right:$grid-gutter-width/2;
+
+}
+
+
+
 
