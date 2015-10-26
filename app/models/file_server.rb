@@ -35,6 +35,11 @@ class FileServer
     FileServer.render_snippet(id, opts)
   end
 
+  def self.toc_facsimile(id,opts={})
+    opts[:op] = 'toc-facsimile'
+    FileServer.render_snippet(id, opts)
+  end
+
   def self.author_portrait_has_text(id)
     text = self.render_snippet(id,{c: 'authors'}).to_str
     has_text(text)

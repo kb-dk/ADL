@@ -30,7 +30,11 @@
         <% if document['cat_ssi'] == 'portrait' %>
             <%= FileServer.toc(document.id,{c: 'authors'}) %>
         <% else %>
-            <%= FileServer.toc(document.id) %>
+	   <% if request.url =~ /facsimile/ %>
+              <%= FileServer.toc_facsimile(document.id) %>
+           <% else %>
+              <%= FileServer.toc(document.id) %>
+           <% end %>
         <% end %>
       </div>
       <div class="modal-footer">

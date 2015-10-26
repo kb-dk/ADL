@@ -49,6 +49,14 @@ module ApplicationHelper
     link_to label, "/?f[cat_ssi][]=portrait&search_field=Alle+Felter&q=#{firstname}+#{lastname}"
   end
 
+  def author_work_facet_link(firstname,lastname,label)
+    name = ''
+    name += lastname if lastname.present?
+    name += ', ' if name.present?
+    name += firstname if firstname.present?
+    link_to label, "/?f[author_ssi][]=#{URI.escape(name)}"
+  end
+
   module Blacklight::UrlHelperBehavior
   ##
   # Extension point for downstream applications

@@ -64,7 +64,7 @@ class CatalogController < ApplicationController
     # facet bar
     # config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true, :limit => 10
-    config.add_facet_field 'cat_ssi', :label => 'Genre', helper_method: :translate_model_names
+    config.add_facet_field 'cat_ssi', :label => 'Kategori', helper_method: :translate_model_names
 
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -90,12 +90,14 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
+    #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
+    config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
+    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
+    config.add_index_field 'published_date_ssi', :label => 'Udgivelsesdato', short_form: true
 
     # this adds basic highlighting to index results
     #config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
     config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    #config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted'
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
@@ -128,11 +130,12 @@ class CatalogController < ApplicationController
 
     # Work show fields
     config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
-    config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
+    #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
+    config.add_show_field 'publisher_ssi', :label => 'Udgiver'
+    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
+    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
     # don't show the volume field if we're on the landing page for that volume!
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    #config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato', itemprop: :datePublished
-    #config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
     config.add_show_field 'editor_ssi', :label => 'Redaktør'
     #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
@@ -272,7 +275,7 @@ class CatalogController < ApplicationController
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => (I18n.t'blacklight.search.form.sort.relevance')
     # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
-    config.add_sort_field 'author_ssi asc', :label => (I18n.t'blacklight.search.form.sort.author')
+    config.add_sort_field 'author_sort asc', :label => (I18n.t'blacklight.search.form.sort.author')
     # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
 
     # If there are more than this many search results, no spelling ("did you 

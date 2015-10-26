@@ -217,8 +217,8 @@ da:
         facet_fulltext: 'Fuldtekst'
         facet_title: 'Titel'
         sort:
-          count: 'Numerical Sort'
-          index: 'A-Z Sort'
+          count: 'Antal hits'
+          index: 'Alfabetisk'
         count: '%{number}'
         more: 'mere »'
         selected:
