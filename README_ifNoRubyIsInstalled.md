@@ -10,3 +10,8 @@ If you have no Ruby installed, please do following steps before following the RE
 * \curl -sSL https://get.rvm.io | bash -s stable --ruby
 
 And then follow the instructions in the README.md file.
+
+If bundle nags about your Ruby version being to old, it might be because you have a global ruby that is too old. Try:
+* which rvm
+and then
+* source [path to you rvm]
