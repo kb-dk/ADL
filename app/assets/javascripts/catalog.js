@@ -10,6 +10,8 @@ function resizeDiv() {
     vpw = $(window).width();
     vph = $(window).height() - 108;
     $('.tab-pane').css({'height': vph + 'px'});
+    setTimeout(ADL.recalculatePageTopPositions, 500); // XXX XXX FIXME: This sucks!
+    setTimeout(ADL.recalculatePageTopPositions, 1500);
     ADL.recalculatePageTopPositions();
 }
 
@@ -35,9 +37,6 @@ $(document).ready(function(){
         return false;
     });
 
-
-    // Uses jQuery unveil library for lazyloading facsimile images
-    $("img").unveil();
 
     // generic function to allow buttons with data-function="toggle" to
     // show and hide elements defined in their data-target attribute
@@ -118,12 +117,13 @@ $(document).ready(function(){
     // FIXME: We should wrap all our functions into this object, in order not to polute the global object!
     window.ADL = function (window, $, undefined) {
         return {
-            test : false, // remove this to get rid of all kinds of test outputs (the pagenumber in bottom right so far)!
+            test : true, // remove this to get rid of all kinds of test outputs (the pagenumber in bottom right so far)!
             youAreHere: 0,
 
             PAGETOPPOSITIONS: getPagePositions(), // This is going to be recalculated in ½ sec. but there has to be some values for the first page calculations!
 
             recalculatePageTopPositions: function () {
+console.log('ADL.recalculatePageTopPositions called...');
                 this.PAGETOPPOSITIONS = getPagePositions();
             },
 
@@ -246,20 +246,42 @@ $(document).ready(function(){
                     if ($(window).scrollTop() >= 55) {
                         $('body').addClass('fixedHeader');
                         $('.workHeader dl').slideUp(200); // We have a minor animation to let users subliminal understand that we are collapsing the header
-                        $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top1cor').addClass('top2cor');
-
+                        //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top1cor').addClass('top2cor');
                     } else {
                         $('body').removeClass('fixedHeader');
                         $('.workHeader dl').slideDown(200);
-                        $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
+                        //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
                     }
                 } else {
                     if ($('body').hasClass('fixedHeader') && bodyHeightMinusWindowHeight < (192 - 126)) { // 188px is the header height 126px is the collapsible header part
                         $('body').removeClass('fixedHeader'); // This is duplicateCode - make a function!
                         $('.workHeader dl').slideDown(200);
-                        $('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
+                        //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
                     }
                 }
+            },
+
+            contentIsPositionedCorrect: function () {
+                var fragmentId = location.hash;
+                if (fragmentId.length) {
+                    var scrollTop = $(window).scrollTop(),
+                        elem = $(fragmentId), // NOTE: If we ever will use the fragment identifier to anything else than mere id's, this has got to change!
+                        elemTop = elem.position().top,
+                        headerHeight = ADL.getHeaderHeight() + 13;
+                    debugger;
+                    return scrollTop === elemTop - headerHeight;
+                }
+                return true; // if there is no fragmentIdentifier, anywhere in the document will be right
+            },
+
+            ajustForHeader: function () {
+                console.log('ADL.ajustForHeader called...');
+                if ($('body').hasClass('fixedHeader') && !ADL.contentIsPositionedCorrect()) {
+                    var headerHeight = ADL.getHeaderHeight() + 13; // Magic number 13 just a little padding to push everything nice down the header
+                    $(window).scrollTop($(window).scrollTop() - headerHeight); // scroll a bit down to get top into view (under the fixed header)
+                    return headerHeight;
+                }
+                return 0;
             },
 
             goto: function (idm) {
@@ -269,9 +291,41 @@ $(document).ready(function(){
                     return true;
                 }
                 return false;
+            },
+
+            checkAndFixHeaderProblem: function () {
+                var idToBeAt = location.hash;
+                if (idToBeAt.length) {
+                    var elem = $(idToBeAt),
+                        elemTop = elem.position().top,
+                        scrollTop = $(window).scrollTop(),
+                        headerHeight = ADL.getHeaderHeight();
+                    //debugger;
+                    $(window).scrollTop(elemTop - 80); // XXX XXX XXX Hvad fanden er det for 80 her? :-O
+                    //$(window).scrollTop($(window).scrollTop() - ADL.getHeaderHeight());
+                    //debugger
+                }
             }
         };
     } (window, jQuery);
+
+    window.ADL.scrollSniffer();
+
+    // Uses jQuery unveil library for lazyloading facsimile images
+    $("img").unveil(200/*, function () { setTimeout(ADL.recalculatePageTopPositions, 5000); }*/);
+
+    if (window.ADL.test) {
+        window.ADL.toggleHeaders = function () {
+            if ($('.navbar-fixed-top').css('opacity') === '1') {
+                $('.navbar-fixed-top, .workNavbarFixContainer, .workHeaderFixContainer, .nav-tab-instance-fixContainer').css('opacity', '0.5');
+            } else {
+                $('.navbar-fixed-top, .workNavbarFixContainer, .workHeaderFixContainer, .nav-tab-instance-fixContainer').css('opacity', '1');
+            }
+        };
+        window.ADL.getHeaderHeight = function () {
+            return $('.navbar-fixed-top').height() + $('.workNavbarFixContainer').height() + $('.workHeaderFixContainer').height();
+        };
+    }
 
     resizeDiv();
 
@@ -295,30 +349,84 @@ $(document).ready(function(){
 
     // setup scrollsniffer
     $(window).scroll(ADL.scrollSniffer);
+    $(window).on('hashchange', ADL.ajustForHeader);
+
     // also test the scrollTop from loading (if the page starts scrolled)
-    setTimeout(ADL.scrollSniffer, 1000); // start fetching the pagenumber once after load.
+    // // XXX XXX XXX used to be here: setTimeout(ADL.scrollSniffer, 1000); // start fetching the pagenumber once after load.
 
     // clicks on nav-tab-instance should correct for scrolling page!
     $('.nav-tab-instance').click(function (e) {
         var pageId = ADL.getCurrentPageId();
         if (pageId && e.target.tagName === 'A') {
-            $(e.target).attr('href', $(e.target).attr('href') + '/#' + pageId);
+            var origHref = $(e.target).attr('href');
+            if (origHref.charAt(origHref.length - 1) !== '/') { // append slash if it isn't there already
+                origHref = origHref + '/';
+            }
+            if (origHref.indexOf('#') < 0) {
+if (ADL.test) console.log('appending #' + pageId + ' to link ' + origHref);
+                $(e.target).attr('href', origHref + '#' + pageId);
+            }
+            e.preventDefault();
+if (ADL.test) console.log('Going in...');
+            location.href = $(e.target).attr('href');
+            return false;
         }
     });
+
+    //$('#toc .modal-body').click(function () { setTimeout(ADL.ajustForHeader, 0); });
+
     // modal should be closed as soon as one clicks on a in-page link.
     $('.modal-body').click(function (e) {
-        if (e.target.tagName === 'A' && ((e.target.href.indexOf('#idm') > 0) || (e.target.href.indexOf('#workid') > 0))) {
+        var theATag = $(e.target).closest('a');
+        if (theATag.length && theATag.attr('href').charAt(0) === '#') { // If user pressed an a tag or anything inside an a tag, and that tags href starts with a '#' (eg. it's a local link)
             $($(e.target).closest('.modal')).modal('hide');
+            setTimeout(ADL.ajustForHeader, 200);
         }
     });
 
     // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
     $('.modal').appendTo($('body'));
-
+/*
     setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 500); // recalculate pageBreak table a couple of times because they changes after a while
     setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 1000);// and it differs a bit from browser to browser how long it takes to have the right numbers
     setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 2000);
+*/
+/*
+window.scrollerCounter = 0;
+window.oldScrollTop = $(window).scrollTop();
+window.scrollChangeDoneListener = function () {
+    if (window.scrollerCounter < 20) {
+        var newScrollTop = $(window).scrollTop();
+        if (newScrollTop === oldScrollTop) {
+            window.scrollerCounter += 1;
+console.log('still not bang... ' + window.oldScrollTop);
+        } else {
+            window.scrollerCounter = 0;
+            window.oldScrollTop = newScrollTop;
+        }
+        window.requestAnimationFrame(window.scrollChangeDoneListener);
+    } else {
+        console.log('Bang - nu er siden loaded! (' + window.oldScrollTop + ')');
 
+ADL.recalculatePageTopPositions();
+setTimeout(function () {
+    if ($(window).scrollTop() > 55) {
+        setTimeout(function () { console.log('Ajusting for headers...' + ADL.ajustForHeader()); }, 200);
+    }
+}, 200);
+
+
+    }
+}
+window.requestAnimationFrame(window.scrollChangeDoneListener);
+*/
+/*
+setTimeout(function () {
+    if ($(window).scrollTop() > 55) {
+        setTimeout(function () { console.log('Ajusting for headers...' + ADL.ajustForHeader()); }, 200);
+    }
+}, 200);
+*/
 /*
     if ($('.facsimile').length) { // This is a facsimile page - do the dirty previousPage thingie! :6 (ask Sigge if you don't know why this is!)
         $('#tableOfContent').closest('.modal-content').find('.modal-body').click(function (e) {
@@ -343,6 +451,7 @@ console.log('scrolling to the element...');
         });
     }
 */
+    setTimeout(ADL.checkAndFixHeaderProblem, 500);
 });
 
 function cookieTerms(cname, cvalue, exdays) {
