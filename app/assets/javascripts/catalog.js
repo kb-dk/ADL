@@ -430,6 +430,10 @@ $(document).ready(function(){
     // also test the scrollTop from loading (if the page starts scrolled)
     // // XXX XXX XXX used to be here: setTimeout(ADL.scrollSniffer, 1000); // start fetching the pagenumber once after load.
 
+    setTimeout(ADL.ajustForHeader, 100); // ajust on document.ready FIXME: This sucks big time, but ADL.ajustForHeader is idempotent so it doesn't screw things up badly
+    setTimeout(ADL.ajustForHeader, 500);
+    setTimeout(ADL.ajustForHeader, 1500);
+
     // clicks on nav-tab-instance should correct for scrolling page!
     $('.nav-tab-instance').click(function (e) {
         var pageId = ADL.getCurrentPageId();
@@ -461,6 +465,8 @@ $(document).ready(function(){
     // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
     $('.modal').appendTo($('body'));
 
+    //setTimeout(ADL.checkAndFixHeaderProblem, 500);
+    setTimeout(ADL.ajustForHeader, 500);
 });
 
 function cookieTerms(cname, cvalue, exdays) {
