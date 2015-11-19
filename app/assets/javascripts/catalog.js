@@ -120,7 +120,7 @@ $(document).ready(function(){
     // FIXME: We should wrap all our functions into this object, in order not to polute the global object!
     window.ADL = function (window, $, undefined) {
         return {
-            test : true, // remove this to get rid of all kinds of test outputs (the pagenumber in bottom right so far)!
+            test : false, // remove this to get rid of all kinds of test outputs (the pagenumber in bottom right so far)!
             youAreHere: 0,
 
             thisIsAnOldIE: !!ieVersion ? ieVersion < 10 : false,
