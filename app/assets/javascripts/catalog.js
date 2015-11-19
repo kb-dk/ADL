@@ -114,17 +114,75 @@ $(document).ready(function(){
         });
     };
 
+    // Detect if this is an old IE (FIXME: this sucks, but we are running out of time!)
+    var ieVersion = parseInt(navigator.userAgent.split('MSIE')[1],10);
+
     // FIXME: We should wrap all our functions into this object, in order not to polute the global object!
     window.ADL = function (window, $, undefined) {
         return {
             test : true, // remove this to get rid of all kinds of test outputs (the pagenumber in bottom right so far)!
             youAreHere: 0,
 
+            thisIsAnOldIE: !!ieVersion ? ieVersion < 10 : false,
             PAGETOPPOSITIONS: getPagePositions(), // This is going to be recalculated in ½ sec. but there has to be some values for the first page calculations!
 
             recalculatePageTopPositions: function () {
 console.log('ADL.recalculatePageTopPositions called...');
                 this.PAGETOPPOSITIONS = getPagePositions();
+            },
+
+            _ie9SetFixedHeaders: function () {
+                $('.workNavbarFixContainer').css({
+                    'position': 'fixed',
+                    'top': '50px',
+                    'right': 0,
+                    'left': 0,
+                    'background-color': '#fff',
+                    'z-index': 10
+                });
+                $('.workHeaderFixContainer').css({
+                    'position': 'fixed',
+                    'top': '82px',
+                    'right': 0,
+                    'left': 0,
+                    'background-color': '#fff',
+                    'z-index': 10
+                });
+                $('.nav-tab-instance-fixContainer').css({
+                    'position': 'fixed',
+                    'top': '147px',
+                    'right': 0,
+                    'left': 0,
+                    'background-color': '#fff',
+                    'z-index': 10
+                });
+            },
+
+            _ie9RemoveFixedHeaders: function () {
+                $('.workNavbarFixContainer').css({
+                    'position': 'static',
+                    'top': 'auto',
+                    'right': 'auto',
+                    'left': 'auto',
+                    'background-color': '#fff',
+                    'z-index': 'auto'
+                });
+                $('.workHeaderFixContainer').css({
+                    'position': 'static',
+                    'top': 'auto',
+                    'right': 'auto',
+                    'left': 'auto',
+                    'background-color': '#fff',
+                    'z-index': 'auto'
+                });
+                $('.nav-tab-instance-fixContainer').css({
+                    'position': 'static',
+                    'top': 'auto',
+                    'right': 'auto',
+                    'left': 'auto',
+                    'background-color': '#fff',
+                    'z-index': 'auto'
+                });
             },
 
             pageType: (function () {
@@ -245,16 +303,28 @@ console.log('ADL.recalculatePageTopPositions called...');
                 if ((bodyHeightMinusWindowHeight > 192 ) || $('body').hasClass('fixedHeader') ) { // FIXME: The 192 and 126 magic numbers are heights in the header, and they should be meassured at pageload, instead of just hardcoded!!
                     if ($(window).scrollTop() >= 55) {
                         $('body').addClass('fixedHeader');
+                        if (ADL.thisIsAnOldIE) {
+                            // Apparently the css does not work in IE9, so now we do the header fixing "by hand" // FIXME: This ought not to be necessary!
+                            ADL._ie9SetFixedHeaders();
+                        }
                         $('.workHeader dl').slideUp(200); // We have a minor animation to let users subliminal understand that we are collapsing the header
                         //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top1cor').addClass('top2cor');
                     } else {
                         $('body').removeClass('fixedHeader');
+                        if (ADL.thisIsAnOldIE) {
+                            // Apparently the css does not work in IE9, so now we do the header fixing "by hand" // FIXME: This ought not to be necessary!
+                            ADL._ie9RemoveFixedHeaders();
+                        }
                         $('.workHeader dl').slideDown(200);
                         //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
                     }
                 } else {
                     if ($('body').hasClass('fixedHeader') && bodyHeightMinusWindowHeight < (192 - 126)) { // 188px is the header height 126px is the collapsible header part
                         $('body').removeClass('fixedHeader'); // This is duplicateCode - make a function!
+                        if (ADL.thisIsAnOldIE) {
+                            // Apparently the css does not work in IE9, so now we do the header fixing "by hand" // FIXME: This ought not to be necessary!
+                            ADL._ie9RemoveFixedHeaders();
+                        }
                         $('.workHeader dl').slideDown(200);
                         //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
                     }
