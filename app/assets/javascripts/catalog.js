@@ -327,25 +327,30 @@ $(document).ready(function(){
                 }
             },
 
-            contentIsPositionedCorrect: function () {
+            getHeaderHeight: function () {
+                return $('.navbar-fixed-top').height() + $('.workNavbarFixContainer').height() + $('.workHeaderFixContainer').height();
+            },
+
+            calculateDesiredScrollTop: function () {
                 var fragmentId = location.hash;
                 if (fragmentId.length) {
-                    var scrollTop = $(window).scrollTop(),
-                        elem = $(fragmentId), // NOTE: If we ever will use the fragment identifier to anything else than mere id's, this has got to change!
-                        elemTop = elem.position().top,
-                        headerHeight = ADL.getHeaderHeight() + 13;
-                    debugger;
-                    return scrollTop === elemTop - headerHeight;
+                    var elem = $(fragmentId), // NOTE: If we ever will use the fragment identifier to anything else than mere id's, this has got to change!
+                        elemTop = elem.length ? elem.position().top : null,
+                        headerHeight = ADL.getHeaderHeight();
+                    var result = $.isNumeric(elemTop) ? elemTop - headerHeight + 107 : null;
+                    result = result < 0 ? 0 : result; // IE breaks on top positions less than zero.
+                    return result;
                 }
-                return true; // if there is no fragmentIdentifier, anywhere in the document will be right
+                return; // if there is no fragmentIdentifier, anywhere in the document will be right
             },
 
             ajustForHeader: function () {
-                console.log('ADL.ajustForHeader called...');
-                if ($('body').hasClass('fixedHeader') && !ADL.contentIsPositionedCorrect()) {
-                    var headerHeight = ADL.getHeaderHeight() + 13; // Magic number 13 just a little padding to push everything nice down the header
-                    $(window).scrollTop($(window).scrollTop() - headerHeight); // scroll a bit down to get top into view (under the fixed header)
-                    return headerHeight;
+                ADL.recalculatePageTopPositions();
+                var supposedToBeAtPos = ADL.calculateDesiredScrollTop();
+                if ($('body').hasClass('fixedHeader') && $.isNumeric(supposedToBeAtPos)) {
+                    if ($(window).scrollTop() !== supposedToBeAtPos) {
+                        $(window).scrollTop(supposedToBeAtPos);
+                    }
                 }
                 return 0;
             },
