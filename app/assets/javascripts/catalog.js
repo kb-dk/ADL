@@ -127,7 +127,6 @@ $(document).ready(function(){
             PAGETOPPOSITIONS: getPagePositions(), // This is going to be recalculated in ½ sec. but there has to be some values for the first page calculations!
 
             recalculatePageTopPositions: function () {
-console.log('ADL.recalculatePageTopPositions called...');
                 this.PAGETOPPOSITIONS = getPagePositions();
             },
 
@@ -308,7 +307,6 @@ console.log('ADL.recalculatePageTopPositions called...');
                             ADL._ie9SetFixedHeaders();
                         }
                         $('.workHeader dl').slideUp(200); // We have a minor animation to let users subliminal understand that we are collapsing the header
-                        //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top1cor').addClass('top2cor');
                     } else {
                         $('body').removeClass('fixedHeader');
                         if (ADL.thisIsAnOldIE) {
@@ -316,7 +314,6 @@ console.log('ADL.recalculatePageTopPositions called...');
                             ADL._ie9RemoveFixedHeaders();
                         }
                         $('.workHeader dl').slideDown(200);
-                        //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
                     }
                 } else {
                     if ($('body').hasClass('fixedHeader') && bodyHeightMinusWindowHeight < (192 - 126)) { // 188px is the header height 126px is the collapsible header part
@@ -326,7 +323,6 @@ console.log('ADL.recalculatePageTopPositions called...');
                             ADL._ie9RemoveFixedHeaders();
                         }
                         $('.workHeader dl').slideDown(200);
-                        //$('#content .snippetRoot div, #content .snippetRoot p, #content .snippetRoot .pageBreak, #content .snippetRoot img').removeClass('top2cor').addClass('top1cor');
                     }
                 }
             },
@@ -370,10 +366,15 @@ console.log('ADL.recalculatePageTopPositions called...');
                         elemTop = elem.position().top,
                         scrollTop = $(window).scrollTop(),
                         headerHeight = ADL.getHeaderHeight();
-                    //debugger;
                     $(window).scrollTop(elemTop - 80); // XXX XXX XXX Hvad fanden er det for 80 her? :-O
-                    //$(window).scrollTop($(window).scrollTop() - ADL.getHeaderHeight());
-                    //debugger
+                }
+            },
+
+            console: {
+                log: function (msg) {
+                    if ('undefined' !== typeof window.console) {
+                        window.console.log(msg);
+                    }
                 }
             }
         };
@@ -382,7 +383,7 @@ console.log('ADL.recalculatePageTopPositions called...');
     window.ADL.scrollSniffer();
 
     // Uses jQuery unveil library for lazyloading facsimile images
-    $("img").unveil(200/*, function () { setTimeout(ADL.recalculatePageTopPositions, 5000); }*/);
+    $("img").unveil(200);
 
     if (window.ADL.test) {
         window.ADL.toggleHeaders = function () {
@@ -433,11 +434,9 @@ console.log('ADL.recalculatePageTopPositions called...');
                 origHref = origHref + '/';
             }
             if (origHref.indexOf('#') < 0) {
-if (ADL.test) console.log('appending #' + pageId + ' to link ' + origHref);
                 $(e.target).attr('href', origHref + '#' + pageId);
             }
             e.preventDefault();
-if (ADL.test) console.log('Going in...');
             location.href = $(e.target).attr('href');
             return false;
         }
@@ -456,72 +455,7 @@ if (ADL.test) console.log('Going in...');
 
     // Some of our modal dialogs are nested in bars that get fixed. They all should be mounted directly to body.
     $('.modal').appendTo($('body'));
-/*
-    setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 500); // recalculate pageBreak table a couple of times because they changes after a while
-    setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 1000);// and it differs a bit from browser to browser how long it takes to have the right numbers
-    setTimeout(function () { ADL.PAGETOPPOSITIONS = getPagePositions(); }, 2000);
-*/
-/*
-window.scrollerCounter = 0;
-window.oldScrollTop = $(window).scrollTop();
-window.scrollChangeDoneListener = function () {
-    if (window.scrollerCounter < 20) {
-        var newScrollTop = $(window).scrollTop();
-        if (newScrollTop === oldScrollTop) {
-            window.scrollerCounter += 1;
-console.log('still not bang... ' + window.oldScrollTop);
-        } else {
-            window.scrollerCounter = 0;
-            window.oldScrollTop = newScrollTop;
-        }
-        window.requestAnimationFrame(window.scrollChangeDoneListener);
-    } else {
-        console.log('Bang - nu er siden loaded! (' + window.oldScrollTop + ')');
 
-ADL.recalculatePageTopPositions();
-setTimeout(function () {
-    if ($(window).scrollTop() > 55) {
-        setTimeout(function () { console.log('Ajusting for headers...' + ADL.ajustForHeader()); }, 200);
-    }
-}, 200);
-
-
-    }
-}
-window.requestAnimationFrame(window.scrollChangeDoneListener);
-*/
-/*
-setTimeout(function () {
-    if ($(window).scrollTop() > 55) {
-        setTimeout(function () { console.log('Ajusting for headers...' + ADL.ajustForHeader()); }, 200);
-    }
-}, 200);
-*/
-/*
-    if ($('.facsimile').length) { // This is a facsimile page - do the dirty previousPage thingie! :6 (ask Sigge if you don't know why this is!)
-        $('#tableOfContent').closest('.modal-content').find('.modal-body').click(function (e) {
-            if (e.target.tagName === 'A') {
-                e.preventDefault(); // Hijacking the event completely! :/ FIXME: This is definitely not the right way to do this - it ought to be pointing at the correct page from the server response to begin with!
-console.log('===========\nHijacking a click event ('+ $(e.target).attr('href')+')');
-                var elementHref = $(e.target).attr('href'),
-                    element = $(elementHref);
-                var elementToScrollTo = element;
-                if (element.prev() && element.prev().attr('id')) {
-                    elementToScrollTo = element.prev();
-                    console.log('fetching prev sibling ('+elementToScrollTo.attr('id')+')...');
-                    if (elementToScrollTo.children().length && elementToScrollTo.children().last() && elementToScrollTo.children().last().attr('id')) {
-                        elementToScrollTo = elementToScrollTo.children().last();
-                        console.log('fetching last child of prev sibling ('+elementToScrollTo.attr('id')+')...');
-                    }
-                }
-console.log('scrolling to the element...');
-                $(window).scrollTop(elementToScrollTo.offset().top);
-
-            }
-        });
-    }
-*/
-    setTimeout(ADL.checkAndFixHeaderProblem, 500);
 });
 
 function cookieTerms(cname, cvalue, exdays) {
@@ -545,7 +479,7 @@ function getCookie(cname) {
 function checkCookie() {
     var cookie = getCookie("terms");
     if (cookie != "") {
-//        console.log("cookie: "+ cookie);
+//        ADL.console.log("cookie: "+ cookie);
 //        document.getElementById("cookie-button").style.display="none";
     } else {
         document.getElementById("cookie-button").style.display="block";
