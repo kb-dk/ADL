@@ -25,14 +25,6 @@
     <field name="type_ssi">trunk</field>
   </doc>
   <doc>
-    <field name="work_title_tesim">Andersen, Jens Kr.</field>
-    <field name="author_name">Andersen, Jens Kr.</field>
-    <field name="family_name_ssi">Andersen</field>
-    <field name="id">Andersen,%20Jens%20Kr.</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
     <field name="work_title_tesim">Andersen, Jens Kristian</field>
     <field name="author_name">Andersen, Jens Kristian</field>
     <field name="family_name_ssi">Andersen</field>
@@ -137,14 +129,6 @@
     <field name="type_ssi">trunk</field>
   </doc>
   <doc>
-    <field name="work_title_tesim">Biehl, Charlotte Dorothea</field>
-    <field name="author_name">Biehl, Charlotte Dorothea</field>
-    <field name="family_name_ssi">Biehl</field>
-    <field name="id">Biehl,%20Charlotte%20Dorothea</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
     <field name="work_title_tesim">Blicher, Henrik</field>
     <field name="author_name">Blicher, Henrik</field>
     <field name="family_name_ssi">Blicher</field>
@@ -177,14 +161,6 @@
     <field name="type_ssi">trunk</field>
   </doc>
   <doc>
-    <field name="work_title_tesim">BORDING, ANDERS</field>
-    <field name="author_name">BORDING, ANDERS</field>
-    <field name="family_name_ssi">BORDING</field>
-    <field name="id">BORDING,%20ANDERS</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
     <field name="work_title_tesim">Brahe, Tycho</field>
     <field name="author_name">Brahe, Tycho</field>
     <field name="family_name_ssi">Brahe</field>
@@ -205,14 +181,6 @@
     <field name="author_name">Brandes, Georg</field>
     <field name="family_name_ssi">Brandes</field>
     <field name="id">Brandes,%20Georg</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
-    <field name="work_title_tesim">Brøndted, Mogens</field>
-    <field name="author_name">Brøndted, Mogens</field>
-    <field name="family_name_ssi">Brøndted</field>
-    <field name="id">Br%C3%B8ndted,%20Mogens</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
   </doc>
@@ -305,14 +273,6 @@
     <field name="type_ssi">trunk</field>
   </doc>
   <doc>
-    <field name="work_title_tesim">EWALD, JOHANNES</field>
-    <field name="author_name">EWALD, JOHANNES</field>
-    <field name="family_name_ssi">EWALD</field>
-    <field name="id">EWALD,%20JOHANNES</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
     <field name="work_title_tesim">Falster, Christian</field>
     <field name="author_name">Falster, Christian</field>
     <field name="family_name_ssi">Falster</field>
@@ -357,22 +317,6 @@
     <field name="author_name">Goldschmidt, M. A.</field>
     <field name="family_name_ssi">Goldschmidt</field>
     <field name="id">Goldschmidt,%20M.%20A.</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
-    <field name="work_title_tesim">Goldschmidt, M.</field>
-    <field name="author_name">Goldschmidt, M.</field>
-    <field name="family_name_ssi">Goldschmidt</field>
-    <field name="id">Goldschmidt,%20M.</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
-    <field name="work_title_tesim">GOLDSCHMIDT, M.</field>
-    <field name="author_name">GOLDSCHMIDT, M.</field>
-    <field name="family_name_ssi">GOLDSCHMIDT</field>
-    <field name="id">GOLDSCHMIDT,%20M.</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
   </doc>
@@ -621,14 +565,6 @@
     <field name="author_name">Larsen, Karl</field>
     <field name="family_name_ssi">Larsen</field>
     <field name="id">Larsen,%20Karl</field>
-    <field name="cat_ssi">person</field>
-    <field name="type_ssi">trunk</field>
-  </doc>
-  <doc>
-    <field name="work_title_tesim">LARSEN, KARL</field>
-    <field name="author_name">LARSEN, KARL</field>
-    <field name="family_name_ssi">LARSEN</field>
-    <field name="id">LARSEN,%20KARL</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
   </doc>
