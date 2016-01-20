@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="id">tycho06tom</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140418389968688</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">In ... Nicolai Copernici Instrumentum Parallaticum ...</field>
+    <field name="id">tycho06tom#workid54243</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54243</field>
+    <field name="page_ssi">266</field>
+    <field name="page_id_ssi">n266</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">96</field>
+    <field name="text_tesim">      </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">In Cl. Ptolemaei Alexandrini effifiem</field>
+    <field name="id">tycho06tom#workid54282</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54282</field>
+    <field name="page_ssi">269</field>
+    <field name="page_id_ssi">n269</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">110</field>
+    <field name="text_tesim">    </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">In D. Nicolai Copernici ... effigiem ...</field>
+    <field name="id">tycho06tom#workid54300</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54300</field>
+    <field name="page_ssi">270</field>
+    <field name="page_id_ssi">n270</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">120</field>
+    <field name="text_tesim">      </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Urania hæc... [Indskrift på Stjerneborg]</field>
+    <field name="id">tycho06tom#workid54337</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54337</field>
+    <field name="page_ssi">273</field>
+    <field name="page_id_ssi">n273</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">134</field>
+    <field name="text_tesim">    </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">8 epigrammer under portrætter på Stjerneborg</field>
+    <field name="id">tycho06tom#workid54355</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54355</field>
+    <field name="page_ssi">274</field>
+    <field name="page_id_ssi">n274</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">144</field>
+    <field name="text_tesim">     </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Tempora circuitu ... [Indskrift på et ur på Stjerneborg]</field>
+    <field name="id">tycho06tom#workid54384</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54384</field>
+    <field name="page_ssi">276</field>
+    <field name="page_id_ssi">n276</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">156</field>
+    <field name="text_tesim">    </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Inclyte Mavriti ... [Epiram til Moritz af Hessen]</field>
+    <field name="id">tycho06tom#workid54403</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54403</field>
+    <field name="page_ssi">277</field>
+    <field name="page_id_ssi">n277</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">166</field>
+    <field name="text_tesim">    </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Magni Herois ... [Digt i anledningen af Wilhelm af Hessens død]</field>
+    <field name="id">tycho06tom#workid54422</field>
+    <field name="volume_id_ssi">tycho06tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho06tom#workid54422</field>
+    <field name="page_ssi">278</field>
+    <field name="page_id_ssi">n278</field>
+    <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
+    <field name="author_name">Brahe, Tycho</field>
+    <field name="author_id_ssi">Brahe,%20Tycho</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1913-29</field>
+    <field name="published_place_ssi">Hauniæ</field>
+    <field name="position_isi">176</field>
+    <field name="text_tesim">    </field>
+  </doc>
+</add>

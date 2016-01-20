@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">sibb-p-val</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452812192</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452812192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">58</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den danske litteraturhistoriker Vilhelm Andersen har et sted gengivet en lidt uelskværdig bemærkning fra guldalderens København: "Naar man raaber i Skoven, saa svarer Professor Sibbern". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452811408</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452811408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">61</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Der er det rigtige i ytringen, at Sibbern altid var parat til at give en replik. Hvad enten det var til en personligt nærtstående eller til samtiden mere generelt, var han ivrig efter at ytre sig, så han blev forstået. Det blev til et af 1800-tallets store forfatterskaber, der især omfatter faglige skrifter inden for filosofi og psykologi. Også som journalist og politisk utopiker var han aktiv til sin død som 87-årig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452810160</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452810160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">64</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men navnlig huskes han i dag som skønlitterær forfatter, for sine to romaner om Gabrielis - den første, Efterladte Breve af Gabrielis , 1826, om en ung, ulykkeligt forelsket student i sit livs krise, den anden, Udaf Gabrielis's Breve til og fra Hjemmet , 1850, om hvordan helten falder til ro i præstekald og ægteskab. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452807824</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452807824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">73</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et problem for Sibbern var, at den første roman spejlede hans egen ungdoms kærlighedshistorie. Han var ikke forelsket i hvem som helst, men i en af tidens fejrede kvinder, Sophie Ørsted, til hvem han havde et åndeligt forhold af den slags, tiden var så rig på. Forbindelsen mellem Sibbern og fru Ørsted var almindelig kendt, og da hans første roman udkom et par år efter hendes død, var tiden - og eftertiden - indstillet på at læse den som en nøgleroman om tidens fashionable selskab. Det er synd, for mere end en sladderbog er Efterladte Breve en stærk og gennemfølt skildring af, hvordan en sjælekrise overvindes, skrevet med skyldig hensyntagen til tidens moderne litteratur, specielt Goethes berømte roman om den ulykkelige elsker Werther ( Die Leiden des jungen Werthers, 1774, da. Den unge Werthers Lidelser , 1832); herom mere senere. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452804144</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452804144</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">85</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De to Gabrielis-romaner er som titlerne siger formet som en række breve, skrevet af en teolog. Den første foregår i vinteren 1813-1814, hvor den unge student, nær færdig som kandidat, gennemlever en kærlighedskrise, samtidig med at fædrelandet gennemgår sine ulykkesår med krig og fallit. Denne roman ender med, at den unge mand formentlig går i krig, i hvert fald forsvinder han brat ud af bogens verden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452803008</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452803008</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">88</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den anden roman foregår ti år senere, hvor den ugifte teolog og huslærer Gabrielis et par sommermåneder vandrer rundt på Sydfyn. I handlingens løb opnår han at få præstekald og kone - for så formodentlig at falde til ro. De to romaner har ofte været opfattet som to dele af det samme værk, men det var næppe Sibberns mening, da han skrev det første bind, at det skulle følges af endnu nogle breve. Der er dog tale om den sammenhæng, at det andet bind forudsætter det første, for så vidt som det i glimt giver nogle træk af den kærlighedshistorie, der bragte student Gabrielis ud i krise. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452801952</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452801952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">91</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Genstanden for Sibberns egen forelskelse var altså Sophie Ørsted (1782-1818), digteren Adam Oehlenschlægers (1779-1850) søster, gift med juristen og statsmanden Anders Sandøe Ørsted (1778-1860). Da hun døde, var manuskriptet til den første roman stort set færdig, de sidste dele kom på plads kort før udgivelsen otte år senere. Men inden hun døde, havde Sibbern, sådan som hans biograf Jens Himmelstrup fortæller det, læst store dele af manuskriptet højt for hende. Han havde åbenbart ønsket, at hun skulle have svar på de spørgsmål sværmeriet havde rejst, og kende skildringen af oplevelserne med hende, inden de blev offentligt tilgængelige. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452799168</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452799168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">105</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Frederik Christian Sibbern var søn af en læge i København, Frederik Gabriel Gottlieb Sibbern og hans hustru Charlotte Amalia Frederica Lovisa f. Wilcken. Begge forældre var af holstensk slægt, og deres hjemmesprog var tysk, hvilket ikke var ualmindeligt i datidens København, der var hovedstaden i det dansk-norsk-tyske fællesmonarki. De kom begge i den tyskinspirerede, pietistiske brødremenighed, som også Søren Kierkegaards familie følte sig knyttet til. Doktor Gabriels søn (på latin Gabrielis) gik i den tyske Skt. Petri skole. Efter faderens tidlige død blev den begavede dreng optaget som elev på Herlufsholm skole ved Næstved. Hvor det før var den tyske kultur og det tyske sprog, der havde præget ham, bliver han nu dansk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452797200</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452797200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">108</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibbern var en mønsterelev. Han blev student 1802, juridisk kandidat 1810 og det følgende år dr.phil. på en afhandling om retsfilosofi. I studieårene læste han desuden matematik og naturvidenskab, og han vandt tre gange universitetets guldmedalje i filosofiske spørgsmål. Efter disputatsen fulgte den for perioden almindelige udlandsrejse, hvorunder han blev kaldet til professor i jura ved det netop oprettede universitet i Christiania/Oslo, men han ønskede ikke at overtage stillingen. I 1813 tog han mod embedet som professor i filosofi i København. Den i tiden berømte og aldrende digter Jens Baggesen, der følte sig hensat til provinsen i sit professorat i Kiel, ville også gerne have haft stillingen, men så sig med nogen fortrydelse slået af den kun 28-årige doktor (og duksedreng, som han syntes) - også som sjæleven med den fejrede og åndfulde Sophie Ørsted kom Sibbern før Baggesen, idet denne efterfulgte Sibbern som Sophie Ørsteds åndelige tilbeder. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452794912</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452794912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">111</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da Sibbern blev kaldet til professor, var han stadig i udlandet på sin dannelsesrejse. Han var sparsommelig og landet fattigt, så han vandrede ad Tysklands landeveje fra filosof til filosof. Han opsøgte bl.a. den senere dominerende romantiske filosof G.W.F. Hegel (1770-1831), der dengang var gymnasierektor i Nürnberg, ja, han traf endog den tyske nationaldigter J.W. von Goethe (1749-1832), der kom til at betyde så meget for bl.a. de to Gabrielis-romaner. Goethe var ikke hjemme i sit Weimar, men på ferie i Karlsbad, så Sibbern travede til det nuværende Tjekkiet for at møde den store mand en eftermiddag i kurparken. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452793776</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452793776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">114</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Af stor betydning blev mødet med Heinrich Steffens (1773-1845), hvem Sibbern havde hørt tidligere ved de berømte forelæsninger på Ehlers kollegium i København vinteren 1802-1803, som han overværede sammen med bl.a. Adam Oehlenschlæger, N.F.S. Grundtvig, St. St. Blicher og Schack von Staffeldt, uden at det dengang gjorde det store indtryk på ham. Størst betydning for den vandrende filosof fik dog F.W.J. Schelling (1775-1854), hvis romantiske forestillinger om identiteten mellem ånd og materie påvirkede Sibbern varigt. Også den romantiske filosofis stærke vægtlæggen på kunsten, ikke mindst digtningen, som erkendelseskilde på linie med naturiagttagelse og rationel spekulation tiltalte Sibbern, som selv i sit virke udover psykologi og metafysisk tænkning beskæftigede sig med æstetiske problemer, bl.a. i den tid hvor han arbejdede med den første Gabrielis-roman ("Om Poesiens Indflydelse paa Dannelsen og paa Sindets Oplivelse. Fragmenter af en Poetik", afhandling i tidsskriftet Iris , 1819). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452869952</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452869952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">120</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibbern holdt ud på Københavns Universitet til 1870. 57 års akademiske borgere i København, deriblandt Poul Martin Møller og Søren Kierkegaard, er præget af hans forelæsninger og bøger til indføring i filosofien og studierne. Denne påvirkning var meget bred. I sine første år som professor i filosofi tog han faget op fra grunden. Samtidig med elementær undervisning i bl.a. logik tog han meget hurtigt den filosofiske disciplin psykologi op og viklede den ud af tidligere tiders spekulation og grundede en mere empirisk orienteret sjælelære. I sit hovedværk i denne disciplin, (I Menneskets aandelige Natur og Væsen , 1819 og II Psychologisk Patologi 1820, optrykt mange gange frem til 1885, som Læren om de menneskelige Følelser og Lidenskaber) udvikler han en følelseslivets psykologi, der bygger på iagttagelse og eksempler fra både virkeligheden og poesien. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452866448</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452866448</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">132</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibberns filosofi er optimistisk. Han når med årene til den opfattelse, at alting i kosmos styres af en "alintelligent" ideel-religiøs magt, der både er en personlig guddom og en verdensstyrelse, der i kraft af sit væsen lader sig forstå af det menneskelige intellekt. Med sin baggrund i den fromme brødremenighed lagde Sibbern kristendommen til grund for sin tænkning, men efterhånden gled de elementer i religionen, der ikke lod sig bringe på begreber, i baggrunden. Hans overvejelser faldt mere og mere i tråd med den romantiske og spekulative filosofi og teologi, der gennemgående prægede universitetsmiljøet. Hans elev Søren Kierkegaard lærte meget i dette miljø - men han gjorde også voldsomt op med tidens harmonisøgende religiøse tænkning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452864416</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452864416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">135</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne indsats er nu stort set glemt. Han huskes blot for to sine romaner om Gabrielis, skønt han havde været et af det nittende århundredes mest indflydelsesrige mennesker i det intellektuelle Danmark. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452756272</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452756272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">240</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibbern var alsidigt dannet og belæst. Men skal man med kun ét navn angive inspirationskilden til hans Gabrielis-projekt, dets form og åndelige gehalt, må svaret blive den tyske digter og universalgeni Goethe. Denne udsendte som nævnt i 1774 en lille brevroman om en kærlighedskrise. Livets rigdom åbner sig i den grad for den elskende Werther, at han må tage sit eget liv i sorg over ikke at kunne realisere lykken med sin elskede Lotte, der er bundet til anden side. Bogen dannede skole over hele Europa, litterært og eksistentielt, for en række unge ulykkeligt elskende selvmordere. Det blev drevet så vidt, at unge mænd, der ville tilkæmpe sig et følsomt åndsliv, måtte finde sig en kvinde at tilbede ulykkeligt, eller i hvert fald platonisk, så de kunne omsætte de opstemmede kærlige følelser i digt og æstetik. Det var bl.a. et sådant projekt, Sibbern havde for med Sophie Ørsted, på linje med hendes efterfølgende åndelige tilbeder, Jens Baggesen, der direkte flyttede ind i familien Ørsteds dagligstue med sin sjælelige kærlighed og sine kufferter, mens Anders Sandøe Ørsted var henvist til at skrive sine forelæsninger i køkkenet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452753936</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452753936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">243</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Når man ser bort fra de mere groteske udslag af Werther-feberen (bl.a. dens faste uniform: gule bukser og blå jakke), står man tilbage med den tanke, at det var gennem kærligheden, at det enkelte menneske opnåede et følelsesmæssigt gennembrud til livets rigdom. Over for samfundets normer og kulturens traditioner sættes det enkelte individs personlige erfaringer som autoritet. Kærligheden skulle have sin ret - den var så vigtig, at Goethes Werther skød sig, fordi han ikke kunne få sin elskede Lotte. Det oprindelige og autentiske: naturen, den barnlige leg og folkedigtningen skulle erstatte stive konventioner og samfundsformer. I stedet for den klassiske tradition fra den latinske oldtid satte Werther læsningen af den græske digter Homer, hvis Iliaden og Odysseen for os stadig i høj grad erstatter tidligere tiders dyrkelse af den romerske digtning. Det danske gymnasium har den dag i dag et fag til denne Homer-læsning på modersmålet med rod hos Goethe: oldtidskundskab. Werther dyrkede også den nordeuropæiske, oprindelige digtning i ireren Macphersons bearbejdelser og gendigtninger af gamle skotske ballader om den mytiske gæliske sanger Ossian, der hyldede oldtidens følsomme helte. Macphersons udgivelser i 1760'erne førte i vor egen litteratur til den dyrkelse af den nordiske fortid, som man ser f.eks. hos Johs. Ewald fra 1770'erne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452749936</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452749936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">252</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den første Gabrielis-roman har en række træk fælles med Goethes Den unge Werthers Lidelser : brevformen, heltens tilbagetrækning, den lidenskabelige optagethed af litteratur - her Bibelen og den schweiziske pædagogiske forfatter Johann Heinrich Pestalozzi (1746-1827) i stedet for Homer og Ossian. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452748256</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452748256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">258</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men på ét væsentligt punkt afviger romanen fra forbilledet: Helten vælger til slut anderledes end den ulykkelige Werther. Gabrielis kommer gennem krisen ved at vælge livet i en større sags tjeneste fremfor at gå til grunde i sin egen private ildebrand. Sibbern har henlagt handlingen i Efterladte Breve til vinteren 1813-1814, nationens skæbneår, og ikke til den tid nogle år tidligere, hvor en række af de faktiske breve fra Sibbern til Sophie Ørsted blev skrevet. For i sin krise kaldte det lemlæstede danske samfund alle sine virksomme sønner i arbejde, så Gabrielis vælger den samme vej frem, som Goethe personligt valgte, da han var i krise: at gå ind i livet i et embede. Hvilket embede, han vælger, er ikke så vigtigt som dét, at han træder i karakter og besinder sig. Her foregriber Sibbern på en måde den store vægt, Søren Kierkegaards kom til at lægge på det eksistentielle valg. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452744896</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452744896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">267</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Således bliver Efterladte Breve en lille roman, om hvordan man danner sig som samfundsborger fra at have været en vingeskudt, ulykkelig yngling, og om at blive sig selv bevidst i en større sammenhæng end sin egen lille historie. Det er et dybt alment og samtidig personligt tema, en god, sluttet romanhandling, som ikke behøver nogen fortsættelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452743120</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452743120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">273</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men nu foreligger altså også Udaf Gabrielis's Breve til og fra Hjemmet . Den kom et kvart århundrede efter den første Gabrielis-roman, og den giver nogle (få) træk fra den oprindelige kærlighedshistorie. Men i denne sammenhæng er det nok så vigtigt, at også den er stærkt præget af Goethe. Han skød sig jo ikke som sin helt Werther, men besindede sig og blev embedsmand i Weimar, hvor han ledede finanser, krigsvæsen, bjergværksdrift og teater i den lille stat - ud over at han skabte mange bind verdenslitteratur. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452741280</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452741280</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">279</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som Goethes Werther dannede en mennesketype, gjorde hans følgende store romanværk om helten Wilhelm Meister ( Wilhelm Meisters Lehrjahre , 1795-1796, da. Wilhelm Meisters Læreaar , 1801-1802, og Wilhelm Meisters Wanderjahre , 1821-1829, da. Wilhelm Meisters Vandreaar , 1834) det også: Det er mennesket, der udfolder og danner sig i livets skole, bliver sig selv i løbet af en proces i den livsperiode, der ligger mellem barndommens hjemme og modenhedens hjem . Denne dannelsesfase er ofte skildret som en rejse eller et ophold borte fra hjemmet - den unge er i perioden hjemløs , som et kendt dansk eksempel på denne litteratur hedder, skrevet 1853-1857 af Meïr Aron Goldschmidt (1819-1887). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452734384</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452734384</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">305</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">På sin rejse, fodvandringen på Sydfyn sommeren 1824, møder Gabrielis en række mennesker og tilskikkelser, der bringer skred i hans liv, der er gået i stå efter at han er blevet huslærer på en herregård. Han føres nu ind på den livsbane, der hele tiden har ligget som hans, men som han blot ikke var beredt på at realisere: Gabrielis bliver bofast præst og ægtemand. Den hjemløse vandrer kan komme til sit eget hjem - og så slutter historien som regel, så sandt som bondedrengen i det rigtige eventyr efter udstandne prøvelser vinder prinsessen og det halve kongerige, fejrer bryllup en hel uge - og hvis de to ægtefolk ikke er døde, så lever de endnu, men det kommer ikke historien det mindste ved. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452731824</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452731824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">311</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne fortælleform og menneskebetragtning er skabt af Goethe og overtaget bredt af romantikken. Men Goethe havde endnu et udtræk på sin harmonika: Wilhelm Meisters hjemkomst og bryllup slutter blot første del af det store romanværk. I den anden del, Wilhelm Meisters Vandreaar, træder Wilhelm som privatperson tilbage for skildringen af det virke i verden, som følger af hans dannelse som individuel personlighed. Det hører vi jo ikke om Gabrielis, men hvis vi træder et skridt tilbage og ser på Sibberns eget livsprojekt, er linien klar: Efter den wertherianske ungdomskrise følger en borgerlig og ægteskabelig etablering (som i den anden Gabrielis-roman) - og en vældig udfoldelse som lærer og forfatter. Sibbern bliver hurtigt optaget af sine fag, og opdyrker dem på dansk. Han skrev filosofiske lærebøger og kastede sig ud i debatten om teologiske og politiske forhold. Kort sagt: Som en anden Wilhelm Meister var han utrætteligt aktiv til sin død som 87-årig i 1872. Goetheaner i sit liv som i sin digtning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452710832</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452710832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">340</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Her fortælles dels om en lang tilblivelsesproces, dels om en stærkt strukturerende inspiration. Begge dele bekræftes af de bevarede manuskriptdele. Der er ikke overleveret noget fuldstændigt trykmanuskript, blot en række brudstykker fra forskellige faser af arbejdet. De er skrevet på mange forskellige slags papir og med forskelligt blæk; ca. halvdelen er skrevet på dansk, resten på tysk. Sibbern har brugt sine to sprog side om side, men den endelige version er på dansk, og det er også her dateringen af de enkelte breve er sat ind. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452709808</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452709808</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">343</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Interessant i denne forbindelse er en lille billet i manuskriptpakken. Det er en indkaldelse til møde i Det Skandinaviske Litteraturselskab 5. juni 1816. På forsiden og bagsiden er hastigt nedkradset en tysk tekst, meget svært læselig. Med hjælp fra forskere er teksten tydet som en version af Gabrielis' brev dateret 28/11 1813, der således synes født i ét stykke på det sprog, der på den tid var Sibberns arbejdssprog. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452708608</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452708608</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">346</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et morsomt vidnesbyrd om tidens knaphed på alt og om Sibberns økonomiske sans udgør et kollegiehefte med Sibberns navn skrevet mange gange kalligrafisk på omslaget med tilføjelse af "Alumne paa Valkendorf". Her står græske gloser og talrækker - det er altså et hefte fra studietiden, der her, mange år senere, er blevet brugt op. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452707520</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452707520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">349</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En ændring, der er sket undervejs i skriveprocessen, er, at en gammel amtmandindes beretning om sit livs og sin kærligheds historie er blevet bearbejdet i flere trin. Oprindeligt var den lagt i pennen på Gabrielis som referater efter hans besøg hos den gamle dame. Sikkert efter mønster fra Goethes Wilhelm Meisters Læreaar , bog seks ("En skøn Sjæls Bekendelser") er fortællingen til slut lagt i damens egen hånd, og følelsesudtrykkene er dæmpet ganske meget. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452700512</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452700512</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">377</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efterladte Breve af Gabrielis består af 91 daterede afsnit, der skal være skrevet i perioden 4. oktober 1813 til 30. januar 1814. Dertil kommer som et forord en gennemgang af værket, signeret af J.P. Mynster, formet som en fiktiv anmeldelse af romanen i tidsskriftet Dansk Litteratur-Tidende . Forrest står Sibberns egen "Fortale", dateret 1825. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452698128</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452698128</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">385</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De to sidstnævnte tekster forbinder den egentlige tekst med Sibberns samtid og offentligheden. Fortalens ord om, at han med sin bog "vil fremme den Aandsopretning og Aandsopklarelse, hvortil vi alle trænge", peger på tidens aktuelle strid om den rette forståelse af kristendommen mellem den teologiske professor H.N. Clausen (1793-1877) og N.F.S. Grundtvig (1783-1872). Debatten hvirvlede hele grundlaget for at være kristen i tidens Danmark op. Skal kirkens lære, tekst og sakramenter tros bogstaveligt eller opleves friere, som udtryk for en poetisk livsstemning, sådan som mange i tiden, ikke mindst digterne, lagde op til? Herunder også Sibbern. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452696352</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452696352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">388</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Teologen J.P. Mynsters "anmeldelse" har den funktion at understrege, at bogen handler om Gabrielis, en ung mand i krise. Og det er en krise af samme art som Werthers, men med en ganske anden udgang. Anderledes sagt: I situationen skal Mynster med sin autoritet vise væk fra forståelsen af Efterladte Breve som nøgleroman, en udlevering af konkrete og for læseverdenen kendte personer, og hen på det almene, på det, det hele betyder, ikke på hvad det måske i sin oprindelse er. Således skal dette afsnit være et skjold holdt op mod den nyfigenhed, der anede den skandale og indiskretion, som har båret væsentlige dele af interessen for værket lige siden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452694048</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452694048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">394</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvis man ser alene på de breve, der tillægges Gabrielis, skildrer de hans ophold en vinter på hans gamle skole, oprettet på klostret i skoven, nær en købstad. Det er ikke svært at genkende Herlufsholm ved Næstved, Sibberns egen gamle skole som model, men det er for en moderne læser uden særlig betydning, for forfatterens private bindinger til sted og personer behøver man ikke at kende for at få udbytte af læsningen - snarere tværtimod. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452693008</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452693008</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">397</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den historie, der fortælles i disse breve, handler om, hvordan en ung student gennemlever en eksistentiel krise. Den er forårsaget af, at den unge kvinde, som han i længere tid har været forelsket i og bygget alle sine livsforhåbninger på, ikke har været i stand til at give ham noget håb. Dette slag driver ham ud af byen til nyvurdering af hele sin situation i ensomhed. Han søger at komme frem til en ny eksistens ad flere veje, dog sært uoverbevisende: Skal han tage en pædagogisk gerning op og undervise på skolen et par timer om ugen? Skal han blive religiøs og søge kristendommens trøst, og måske blive præst? Eller arbejde med sin krop, som Gabrielis tænker, da han ser nogle snekastere, glade opslugt af deres hårde fysiske arbejde. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452691024</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452691024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">400</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det bliver en udefra kommende begivenhed, der afslutter hans tøven. Den periode, romanen omspænder, er nationens dybeste krisetid, årene hvor Danmark tabte pengene, krigen og Norge, og hvor man kaldte på alle gode, opbyggende kræfter. Litteraturhistorikeren Hans Brix har redegjort for en række tiltag i tiden til en mobilisering af studenterne, og han har forestillet sig, at Gabrielis er gået i krig i Norge. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452689888</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452689888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">403</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den centrale dato i verden uden for bogen er således 14. januar 1814, dagen for fredsslutningen i Kiel, hvor Danmark bl.a. mistede Norge. Det er begivenheden, der bringer Gabrielis til at bryde op og træde i karakter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452689040</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452689040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">406</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Brevformen i begge Gabrielis-romanerne er rent litterær. Der kommer ingen breve den anden vej, så fra én kant betragtet kunne dagbogen lige så godt være valgt som ramme. Men brevformens grundsituation: At brevskriveren gør sig sine overvejelser helt klart, så modtageren kan følge ham, udtaler det måske ellers uudtalte og får mellemregningerne med, det er fordelen ved brevformen, der jo desuden fastholder brevskriverens subjektive vinkel på historien. Derved ligner situationen over for læseren den bodssøgendes i det katolske skriftemål, som Gabrielis flere steder er optaget af. Men her får man svar i form af tilgivelse inden for en meningsfuld og etableret ydre orden, mens Gabrielis selv må finde de afgørende svar, dog hjulpet godt på vej af al den litterære og bibelske læsning, han undervejs hengiver sig til. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452686832</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452686832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">409</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvor formen bliver for snærende, indfører Sibbern parallelle historier såsom afskrifter af andres breve eller redegørelser, i et enkelt tilfælde som korte beretninger om en sygehistorie. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452686048</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452686048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">412</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For at tage det sidste først: Der fortælles flere steder om en ung pige, der er blevet vanvittig af ulykkelig kærlighed. Hun er bogstavelig talt gået op i sin mentale limning, idet hendes associationer, sindets grundelementer efter tidens psykologi, har mistet deres sammenbindende moralske forankring. Så galt kan det gå i elskovssager. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452684992</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452684992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">415</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Knap så galt går det den gamle amtmandinde, hvis historie beretter om, hvordan man kan leve et liv i ægteskab med en anden end den, man elsker. Denne gamle dame, der meget pudsigt egentlig elsker fortællerens farbroder, som han ligner på en prik, har udviklet en nok følsom, men også entreprenant livsduelighed. Så selvom Gabrielis ikke antager hendes kærlighedsmåde, så nyder han godt af hendes forbindelser til indflydelsesrige myndighedspersoner på sin videre vej. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452683968</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452683968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">418</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Landsbydegnens historie handler om, hvordan en velsitueret og velforlovet ung jurist pludselig falder over en pædagogisk roman, der var meget læst i tiden, schweizeren Johann Heinrich Pestalozzis (1746-1827) Lienhard und Gertrud (1781-1787) (bearbejdet og forkortet af Rasmus Nyerup som Herremanden Brahe og Bønderne i Ørby , 2. udg. 1798). Ved læsningen af romanen føler han sig kaldet til at blive en nyttig landsbylærer og folkeopdrager, en slags præst i den nye rationalistiske og nationale vækkelse, der var sat ind i Danmark kort før 1800, bl.a. med de kendte landboreformer i 1780'erne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452681040</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452681040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">427</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gabrielis falder heller ikke for denne løsning, men de tre beretninger er sat ind for at spejle sider af hans problem: Hvordan vinde en ny livsmening i en total nulpunkts- og vintersituation som den, han gennemlever? </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452680208</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452680208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">430</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Løsningen på krisen bliver tydelig i bogens titel, der fuldender kompositionens bevægelse. Efterladte antyder død, og i det sidste brev lover han et næste, om hvor han er taget hen, men det kommer ikke. Denne slutning har været et kors for mange, men løsningen er nok, som Jens Anker Jørgensen nævner i sin tolkning af Gabrielis-romanerne, at den brevskrivende person ikke er mere efter sidste brev. Han dør ganske rigtigt på sin post, det kan være hurtigt i krigen, som han måske melder sig til, eller sent i en præstegård, hvad den følgende roman antyder. Det er bare ikke interessant netop her, for han dør som sædekornet; han går ud af sin krise og sin uvirkeligheds vinter og opgiver sig selv for at gå ind under en større vilje - ligesom Kristus, der i Getsemane Have ifølge Markusevangeliet (14,36) beder: "Abba, fader, alt er muligt for dig. Tag dette bæger fra mig. Dog, ikke hvad jeg vil, men hvad du vil." </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452677216</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452677216</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">436</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Komposition og titel i romanen tjener således til at synliggøre bogens tema og tydeliggøre løsningen på dens eksistentielle problem. Nok lyder det kristeligt med de mange Jesus-allusioner til slut, men bogens svar på Werthers problem er i videre forstand goethesk. Som Wilhelm Meister i slutningen af Læreaarene opgiver sin egen vilje, giver sig ind under et logeagtigt "tårnselskab" og vinder et nyt liv i verden, kan Gabrielis' beslutning og afrejse fra bogens univers ses som en symbolsk død med forventet genopstandelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452675056</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452675056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Genre og Komposition</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">442</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den genopstandne behøver strengt taget ikke at være den magelige teolog, der vandrer rundt på Sydfyn ti år senere og sender Breve til og fra Hjemmet. Men taget tilsammen tegner Sibbern med den senere brug af sin figur en klar goethesk sammenhæng mellem de to romaner, en sammenhæng, der bliver komplet, når man indføjer de to romaner i Sibberns totale livsprojekt, nemlig at få et gyldigt liv som borger i såvel staten som i ideernes verden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452668656</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452668656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">470</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Der er fra samtiden registreret to anmeldelser af Efterladte Breve . Chr. Molbech (1783-1857) skrev i sin store artikel i tidens førende litterære tidsskrift, Dansk Litteratur-Tidende , (nr. 23 og 24 fra 1826), at Sibbern ikke slog til i sit forsøg på at behandle Werthers problem. Dels er bogen ikke så dansk, som man kunne ønske, men præget af tysk sprog og litteratur, dels er det ikke en poetisk gennemarbejdet fortælling, men altfor meget et historisk uddrag af en slap elskers biografi, der bygger på personlige oplevelser. Den nødvendige objektivering af stoffet har ikke fundet sted - bogen er ikke blevet en idédigtning om kampen mellem livet og nødvendigheden, men blot jammer og klage fra en umandig elsker med lidt pigeproblemer. Han går tydeligvis som katten om den varme grød: han siger næsten , at Efterladte Breve er en nøgleroman, men han vogter alligevel sin mund for ordet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452664320</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452664320</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">485</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I den anden samtidige anmeldelse, af Thorkild Baden (1765-1849) i Conversationsblad fra 18. april 1826, får man at vide, at bogen er for de indviede - dvs. dem, der der dels kender den virkelige historie, dels kan læse tysk. Og så følger en række sider med angivelse af skruede og ikke-danske sproglige vendinger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452662688</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452662688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">491</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibbern skrev selv i et brev til en ven, at det ikke så meget var de offentlige forsøg på at skandalisere ham og hans bog, der plagede ham, derimod visse private reaktioner, idet en række brevskrivere havde udtalt sig kritisk om bogens forhold til den formodede virkelighedsbaggrund. Dog må et brev fra Norge have glædet ham. Forfatterinden, der i udgaven af brevene til og fra Sibbern kaldes "En Dame af hans Familie", skrev 10/7 1826, at familiens unge har diskuteret Werther (som faderen havde låst inde i sit chatol, men ungdommen vidst at få fat i alligevel) over for Gabrielis - de har endog skriftligt disputeret om selvmord! Den unge Lydia "forfegtede Gabrielis's ædle Sjælekamp mod Werthers egoistiske Kjerlighed". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452660688</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452660688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">494</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">St. St. Blicher skriver 6/2 1827 til B.S. Ingemann: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452651152</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452651152</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelse</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">542</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibbern skriver nogle år efter udgivelsen af Udaf Gabrielis's Breve til og fra Hjemmet , at stoffet til bogen har ligger i hans tanker nogen tid, men han har haft meget travlt, så først en pause i arbejdslivet forårsaget af en alvorlig sygdom i vinteren 1849-1850 har givet ham rum til at formulere værket. I arkivpakken på Det kongelige Bibliotek ligger et renskrevet trykmanuskript, så der er ikke nogen egentlig teksthistorie at berette, som det var tilfældet med den første Gabrielis-roman. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452649136</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452649136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelse</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">548</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det er ikke uden betydning, at begge romaner er tilegnet J. P. Mynster. I 1824 er denne en lovende ung landsbypræst og litteraturanmelder, i 1850 "Deres Excellence Biskop J. P. Mynster". Både Sibbern og Mynster har fået magt og indflydelse i de mellemliggende år. Som den første roman ville skabe "Aandsklarhed" i en brydningstid, vil den anden det også. Denne gang er stridens genstand Søren Kierkegaard og hans hævdelse af, at kristendommen er tro på paradokset, dvs. at den ikke kan tænkes filosofisk, men kun leves i lidenskab. I den strid og det røre, der stod om Søren Kierkegaard, indtog J.P. Mynster en væsentlig rolle som den etablerede kirkes førstemand. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452647904</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452647904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelse</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">551</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibbern, som havde været Kierkegaards lærer i filosofi fra hans studietids begyndelse og senere hans spadsereven (og bedømmer af hans disputats), havde udviklet en kristendomsforståelse af en ganske anden art. For ham blev religionen som tidligere nævnt indoptaget i filosofien som et givet grundlag, og hvad der modsatte sig begrebsliggørelse, gled for ham efterhånden i baggrunden. Og hvor Kierkegaard mente - og senere råbte fra tagene i sin kirkekamp-periode - at kristendommen slet ikke var til eller var mulig som livsform for embedsmænd, dér opfattede Sibbern religionen som en livs- og kulturform, der var højst mulig og virkelig. Udaf Gabrielis's Breve til og fra Hjemmet kan således læses som et indlæg i denne strid formet som fiktion, og uden at Sibbern her lægger nye tanker og indsigter frem. Jens Himmelstrup mener, at han snarere trivialiserer sin religionsfilosofi i skildringen af det magelige sydfynske præstegårdsliv, der - læst i dag, hvor vi også kender Søren Kierkegaards lidenskabelige angreb på statskirken - kan siges flere steder at balancere på grænsen til det parodiske. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452643360</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452643360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematik</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">565</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bogens titel er misvisende - den rummer kun breve til hjemmet. De er skrevet under en fodvandring rundt på Sydfyn i perioden 21. maj til 8. juli 1824. Vandringen slutter med, at Gabrielis opnår at få et hjem selv i det præstekald, han kaldes til, og med den hustru, som han vinder i slutningen af romanen. Men titlen giver mening alligevel, for i følge Sibberns fortale til bogen ville han skrive to romaner om Gabrielis ud over Efterladte Breve . Den ene skulle skildre Gabrielis på rejse og rumme hans breve hjem - hvor det så måtte være. Den tredje og sidste roman skulle rumme hans breve fra en periode, hvor han er kommet hjem til sig selv i det meningsfulde liv i præstegården. Men de to planer er altså løbet sammen i denne bog, og den sidste roman er blot overlevet som en urealiseret plan. Men det skema, Sibbern skitserer, falder fint i tråd med forestillingen om et gyldigt dannelsesforløb i den goetheske udgave, som er grundigt omtalt ovenfor: ungdomskrise - etablering i ægteskab og embede - manddomsvirke. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452640768</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452640768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematik</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">571</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udaf Gabrielis's Breve til og fra Hjemmet er i hovedtræk komponeret på samme måde som Efterladte Breve : En række, gennemgående længere, breve med indlagte beretninger om skæbneforløb og diskussioner, bl.a. af mulighederne for sjælens udødelighed. Handlingen fører Gabrielis sammen med en række gamle bekendte, især præster, men også til en vis ædel enkegrevinde, der ejer kaldsret til en række kirker, og som sluttelig kalder Gabrielis til sognepræst, så han kan frigøre sig fra sit foreløbige arbejde som huslærer på et nordfynsk gods og falde til ro, komme hjem. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452638240</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452638240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematik</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">579</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne roman når ikke den første i intensitet i det sproglige udtryk eller i henseende til komposition og samlethed omkring et enkelt tema: den unge students krise. Udaf Gabrielis's Breve til og fra Hjemmet er bred, svarende til at den vandrende teolog giver sig god tid. Det er vist kun som et signalement af præstelivet som livsform, præget af tidens teologiske diskussioner, men også af prælaternes huslige glæder og bekymringer, at man kan sige at der er helhed i tematikken. I denne atmosfære falder Gabrielis' skæbne på plads næsten af sig selv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452636048</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452636048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematik</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">585</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lidt grinagtige er et par udslag af den præstelige fromhed, der kan "smage Herrens Venlighed i Champignonerne" (side 244) , og som har "sine Tanker hos Herren", fordi man for en "treven Underlivsnatur" kan tage "smaatskaaret Rhabarber" (side 253) . Borte er lidenskabens forblæste vinterskove i de Efterladte Breve , her råder den midsommerlige naturidyl og præstegårdshygge. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452632672</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452632672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematik</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">597</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Interessantest er kærlighedshistorierne. Der er flere i romanen, og de skal ikke optage os her, bortset fra Gabrielis's egen historie, der rummer dels den endelige afsked med den nu afdøde ungdomselskede, der voldte ham kvaler i den første roman, dels hans nye kærlighed, der fører til ægteskab: Historien med den blinde skovriderdatter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452631632</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452631632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematik</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">600</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den psykologiske forudsætning for, at Gabrielis' liv til slut går op, er, at han ophører med at begære nogen ting. For man kan efter Sibberns opfattelse ikke vinde den sande lyksalighed i livet, hvis det afhænger af ydre, tilfældige omstændigheder, om ens begær stilles eller ej - som Jens Anker Jørgensen i sit tidligere nævnte essay formulerer tankegangen. Her hvor han har opgivet alle jordiske ambitioner, kommer tilværelsen ham i møde. Embedet får han af grevinden, fordi hun kan lide hans måde at prædike på, pigen vinder han, efter at han ved sin afsked med den første elskede har sagt farvel til den begærende kærlighed overhovedet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452629840</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452629840</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematik</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">603</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den unge skovriderdatter, Florentine, er blevet blind et års tid før Gabrielis møder hende. Hun er i begyndelsen dybt ulykkelig og finder tilværelsen uudholdelig. Hun går i rette med Gud, men finder efterhånden ro i den opfattelse, at hun skal vende sin vredes kræfter mod sin sjælelige vækst. Efter at have resigneret over for alle lykkemuligheder i den ydre verden, vinder hun så stor åndelig rigdom. at Gabrielis som en medfølende sjæl kan forenes med hende i et, forstår man, nok så stilfærdigt ægteskab. Hun kan - blid og glad - mod slutningen takke for "den uendelige Lyksalighed, Herren har skjænket mig gennem min Blindhed" (side 387) . For livspoesien, den sande lyksalighed, kan vindes selv under de mest ulykkelige forhold. Det er altså ikke sådan, at Florentines blindhed hæves ved kærligheden, men hun får ligesom Gabrielis åbnet et indre øje, der skuer de store sammenhænge i livet, selvom de ydre øjne er ramt af den sorte stær. Og så kan han jo se i verden for dem begge. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452622656</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452622656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">631</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvor Efterladte Breve af Gabrielis var en kontroversiel bog og ikke rigtig blev anerkendt af kritikken som det, den gerne ville være, nemlig en Werther-roman, men af alle blev regnet for en pikant og sensationel nøgleroman, gled den anden roman langt mere ind i litteraturens hovedstrøm. Den store Sibbern blev anset for en lidt naiv, "tusmørkereligiøs" tænker (M.A. Goldschmidt i tidens førende tidsskrift Nord og Syd ). Han taler videre om Sibberns "Livspoesie" og om hans uendelighedsfølelse samtidig med, at han "dvæler ... saa omhyggeligt ved Jordelivets Skjønhed, ved Menneskelivets og Naturens Herlighed, Poesiens "hellige Vande", der kommer fra Gud og gaar tilbage til Gud". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452618944</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452618944</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">642</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En sådan mand kan man jo ikke komme efter. En anden af tidens anmeldere, P.L. Møller (1814-1865) skriver i et privatbrev til Sibbern, at godt nok er han ikke enig med ham i de religiøse anskuelser, men da han, Møller, har sans for "Alt Skjønt og Godt" og har været opbygget ved læsningen af bogen, takker han skyldigst. I øvrigt finder han den nye bog langt bedre end den første samling breve. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452615632</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452615632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
+						</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">658</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En særstilling i Sibberns meget omfattende forfatterskab indtager hans store, men ufuldendte alderdomsbog (1858 - 1872), Meddelelser af Indholdet af et Skrivt fra Aaret 2135 , hvor han under direkte sammenligning med Platons store værk Staten skildrer verdens politiske muligheder. Utopiens sted ligger i fremtiden, hvor der skildres en række samfundstyper, der udfolder tendenser i Sibberns egen samtid: kapitalismen, den sociale velfærdsstat og endelig anarkismen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452612976</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452612976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
+						</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">667</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibberns eget standpunkt ligger ikke fjernt fra den samtidige Karl Marx' (1818-1883), som han i lighed med tidens førende teologiske forfatter H.L. Martensen (1808-1884) først og fremmest ser som kritiker af borgerskabets egoistiske og uetiske udnyttelse af ejendomsretten. Men hvor Marx i sin tænkning var rettet fremad mod en revolution af det bestående samfund gennem klassekampen, søgte både Sibbern og Martensen i virkeligheden tilbage til et ældre samfundstrin, hvor harmonien rådede i enevoldsstaten med stænderforsamlinger til at rådgive monarken. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452611744</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452611744</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
+						</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">670</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I dette store værk - over 1000 sider - skildrer Sibbern i sin fremskrivning af det historiske forløb fra samtiden til 2135 en krise i de bestående europæiske samfund, der kulminerer omkring 1900 med kvindernes ligestilling og sociale frisættelse. Gennem deres kamp med mændene om det begrænsede arbejde går staten i opløsning, indtil i fremtiden den social-liberale velfærdsstat slår igennem. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452610704</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452610704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
+						</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">673</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bogen rummer som alle utopier fiktive træk, ikke mindst den vidtløftige fortælling om hvordan udgiveren (sådan betegner Sibbern sig selv i værket) er kommet i besiddelse af manuskriptet. Fremstillingen af de forskellige samfundsudviklinger og -forhold er skildret systematisk, så en egentlig romanhandling, som f.eks. kan findes i en anden dansk utopisk skildring, Ludvig Holbergs (1684-1754) Niels Klims underjordiske Reise (latin 1742, dansk 1742), mangler. Der er tale om en sværtlæst, men for den udholdende interessant monstrøs filosofisk traktat, og den er derfor ikke medtaget blandt Sibberns fiktive værker i ADL , men bør dog nævnes som tegn på hans stadigt søgende sind, der gav sig udtryk i hans omfattende forfatterskab, der udover faglige bøger og afhandlinger også rummer aktuel journalistik. Sibbern lod sig hele livet udfordre af tidens spørgsmål, og han var altid parat til at give svar - også i sit otteogfirsindstyvende år. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452605584</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452605584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">692</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sibberns forfatterskab ligger sent i perioden, romantikken, og hans værker er til dels efterklang, hvorfor de ikke har virket som inspirationskilde for senere digtere. Men den åndsstrømning, der bærer de to Gabrielis-romaner, indflydelsen fra Goethe, er et hovedelement i vort åndelige klima i hele perioden fra lidt før 1800 til modernismen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452604480</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452604480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">695</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den rent litterære opfattelse af især Efterladte Breve af Gabrielis er egentlig ret ny. Professor Julius Paludan har i et stort essay fra 1921 påvist nedslaget i dansk litteratur af Goethes Den unge Werthers Lidelser ("Fra Goethes Werther til Sibberns Gabrielis's Breve"). I det store standardværk om Sibbern, Jens Himmelstrups Sibbern. En Monografi (1934) gives et fyldigt udblik over liv og værk med citater af hovedværkerne. Han er ikke særlig imponeret af den første Gabrielis-roman, idet han finder den unge elsker for pjevset, mens han roser naturskildringerne i den anden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452600896</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452600896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">707</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Heller ikke professor Hans Brix finder i sine Analyser og Problemer II (1935), at den unge student er nogen livsduelig person. Efter hans mening var det Sibberns hensigt at tegne et ironisk portræt af en fantast, der faldt i en krig i Norge, der slet ikke fandt sted. Brix har som nævnt en del oplysninger om studentermobiliseringen i årene 1813-1814. Hakon Stangerup følger Brix i sit essay "Livspoesiens Roman" i Litteraturen rundt (1935). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452598320</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452598320</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">716</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Først med Jens Anker Jørgensen (i essayet "Mennesket og verden hos Sibbern", i Den erindrende faun , 1968) har Sibbern fundet en forstående kritiker. Han behandler begge Gabrielis-romanerne og sætter dem i forhold til hovedtræk af Sibberns psykologiske tænkning. Hans tolkning af Efterladte Breve giver en tilfredsstillende forklaring på en række at de spørgsmål, der har optaget de tidligere kritikere, specielt om heltens mulige død og om forholdet mellem de to romaner. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452595600</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452595600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">725</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En letlæst biografisk skildring af Sibberns forhold til Sophie Ørsted (og bl.a. til Grundtvig) finder man i Børge Ørsteds bog fra 1983 Erindrer De, det var i Kongens Have . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452594160</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452594160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">731</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om Meddelelser af Indholdet af et Skrivt fra Aaret 2135 kan man læse hos F.J. Billeskov Jansen i hans essaysamling Grundtvig og Kierkegaard (1996), der tager tråden op fra Knud Bjarne Gjesings korte artikel i Samvirke , februar 1981 ("Vor tids krise set fra år 1850"). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452591216</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452591216</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">743</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Joakim Garff tegner i sin Kierkegaard-biografi (SAK , 2000) et tæt billede af det intellektuelle miljø i København omkring midten af 1800-tallet, hvori Sibbern spillede en væsentlig rolle. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452589776</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452589776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">749</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I øvrigt henvises til Dansk Biografisk Leksikon , (flere udgaver), samt den litteraturhistoriske håndbogslitteratur. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452587056</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452587056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstkritiske oplysninger</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">763</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Teksten til Efterladte Breve af Gabrielis anføres efter udgaven i serien Danske Klassikere , (Det Danske Sprog- og Litteraturselskab, 1997), der følger 1. udgave, mens Udaf Gabrielis's Breve til og fra Hjemmet følger Poul Tuxens udgave (Holbergselskabet, 1927), der optrykker 2. udgave, 1851. Der er ikke i forhold til disse udgaver foretaget tekstrettelser i nærværende version. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452582512</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452582512</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">783</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452578544</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452578544</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">806</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Udgaver  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452577760</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452577760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">812</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F.C. Sibbern: Efterladte Breve af Gabrielis , København, 1826 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452576592</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452576592</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">818</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F.C. Sibbern: Udaf Gabrielis's Breve til og fra Hjemmet , København, 1850 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452575408</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452575408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">824</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F.C. Sibbern: Gabrielis' Breve , udgivet af Poul Tuxen, Holbergselskabet, København, 1927. (Rummer begge G.-romaner). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452574112</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452574112</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">830</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F. C. Sibbern: Efterladte Breve af Gabrielis , udgivet af Henrik Schovsbo, Det Danske Sprog- og Litteraturselskab/Borgen, København, 1997 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452572784</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452572784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">836</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Breve til og fra F.C. Sibbern , Udgivne af C.L.N. Mynster, København, 1866 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452570880</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452570880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">843</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Behandlinger  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452570096</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452570096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">849</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Julius Paludan: Mellem Semestrene. Anden Samling , København, 1921 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452568928</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452568928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">855</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Himmelstrup: Sibbern. En Monografi , København, 1934 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452567776</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452567776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">861</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Brix: Analyser og Problemer II, København 1935 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452566608</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452566608</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">867</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hakon Stangerup: Litteraturen rundt , København, 1935 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452565456</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452565456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">873</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Anker Jørgensen: "F.C. Sibbern. Mennesket og verdenhos Sibbern" i Aage Henriksen m.fl. (red.): Den erindrende faun, København, 1968 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452564112</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452564112</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">879</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Børge Ørsted: Erindrer De, det var i Kongens Have , København, 1983 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452562928</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452562928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">885</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F. J. Billeskov Jansen: Grundtvig og Kierkegaard , København, 1996. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sibb-p-val#idm140103452561744</field>
+    <field name="volume_id_ssi">sibb-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452561744</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> Henrik Schovsbo</field>
+    <field name="author_id_ssi">%20Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">891</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Joakim Garff: SAK. Søren Aabye Kierkegaartd. En biografi , København 2000 </field>
+  </doc>
+</add>

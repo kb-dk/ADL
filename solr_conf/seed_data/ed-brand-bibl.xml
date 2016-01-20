@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">ed-brand-bibl</field>
+    <field name="volume_id_ssi">ed-brand-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ed-brand-bibl#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">ed-brand-bibl#idm140655453191776</field>
+    <field name="volume_id_ssi">ed-brand-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ed-brand-bibl#idm140655453191776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">44</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Indtil videre findes kun en bibliografi for Edvard Brandes. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">ed-brand-bibl#idm140655453190272</field>
+    <field name="volume_id_ssi">ed-brand-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ed-brand-bibl#idm140655453190272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">53</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">ed-brand-bibl#idm140655453189376</field>
+    <field name="volume_id_ssi">ed-brand-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ed-brand-bibl#idm140655453189376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">59</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">  Hvidt, Kristian, Edvard Brandes. Portræt af en radikal blæksprutte . 3. reviderede udg. 2005. 523 s. (Med nyt kap., “Eftertanker”, s. 463-77.) (1. udg., 1987; 2. udg., 1992.)  Jørgensen, John Chr: Det danske anmelderis historie , 1994, s. 233-48  Kruse-Blinkenberg, Lars, “Edvard Brandes som oversætter af Den jødiske Bibel”. I: Egon Keck, m.fl. (red.), Living Waters. Scandinavian Orientalistic Studies. Presented to Professor Dr. Frede Løkkegaard on His Seventy-Fifth Birthday, January 27th 1990 . 1990. S. 181-205.  Hvidt, Kristian, "Edvard og Georg Brandes' opfattelse af deres jødiske herkomst". NORDISK TIDSKRIFT FÖR VETENSKAP, KONST OCH INDUSTRI , LXIII, 1987, s. 23-34.  Hvidt, Kristian, EDVARD BRANDES. PORTRÆT AF EN RADIKAL BLÆKSPRUTTE . 1987. 510 s., 16 pl. (Anm.: Leif Longum, EDDA, LXXXVIII, 1988, s. 285-86; Flemming Lundgreen-Nielsen, DANSKE STUDIER, 1988, s. 178-82.)  Schacke, Lene Tybjærg, »Edvard Brandes og Amalie Skram. Til belysning af 'gennembrudsmændenes' vurdering af kvindelige forfatterskaber. 'En højtbegavet Kvindes mandigste Værk'«. Edda , LXXXIV, 1984, s. 257-73.  Bramsen, Bo: Politikens historie 1884-1984 1-2, 1983-84 s. 35-39. 110-13 osv  Smedmark, Carl Reinhold, »Edvard Brandes and August Strindberg. Encounter between Critic and Artist«. I: Structures of Influence. A Comparative Approach to August Strindberg . Chapel Hill, 1981. S. 165-82.  Andersen, Richard, »Aristokratisk radikalisme«. I: Humanitet og eksistens . 1976. S. 159-72.  Andersen, Richard, »Edvard Brandes«. Dansk Udsyn , LIV, 1974, s. 242-61.  Edvard og Georg Brandes' brevveksling 1866-1877 . Et udvalg. Udg. af Eva Seibæk. 1972. 135 s. (Cf. hertil Jørgen Bukdahl, »Et gennembruds forudsætninger. Breve fra Georg og Edvard Brandes' ungdom«. I hans: *Tordenvejret og gentagelsen. 1974. S. 118-33. [ Højskolebladet , 1973, s. 151-57.])&gt;  Langsted, Jørn, Edvard Brandes' skuespillerportrætter. Ledende tanker og metode . 1972. 77 s.  Thorsen, Svend, »Da Edvard Brandes gjorde synden tiltrækkende«. Pressehistorisk årbog , 1970, s. 111-16. (Om EB's anmeldelse -aftrykt s. 113-16 - af Georges Feydeaus farce »Damen fra Natcafeen«.)  Marker, Frederick J., »Negation in the Blond Kingdom. The Theatre Criticism of Edvard Brandes«. Educational Theatre Journal , XX, 1969, s. 506-15.  Brandes, Edvard, Litterære Tendenser. Artikler og Anmeldelser . Udg. af Carl Bergstrøm-Nielsen. 1968. 268 s. (Indledning s. 7-30, - hvortil noter s. 262-68.)  Schyberg, Fr.: Dansk Theaterkritik indtil 1914 , 1937, s. 268-321  Neiiendam, Robert: Det kgl theaters Historie 1-3, 1921. s. 133ff.   </field>
+  </doc>
+</add>

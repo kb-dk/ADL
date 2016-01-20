@@ -3,101 +3,111 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim"> Skuespil : Livet Paa
-      Hegnsgaard; Ulvens Søn, Naar Bønder Elsker ; Himmelbjærgpræsten. - 1918</field>
+    <field name="work_title_tesim"> Skuespil : Livet paa
+      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</field>
     <field name="id">aakjaer03tom</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
-    <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer03tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm140159138698864</field>
-    <field name="volume_title_tesim"> Skuespil : Livet Paa
-      Hegnsgaard; Ulvens Søn, Naar Bønder Elsker ; Himmelbjærgpræsten. - 1918</field>
+    <field name="volume_title_tesim"> Skuespil : Livet paa
+      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</field>
     <field name="author_name">Aakjær, Jeppe</field>
-    <field name="author_id_ssi">91/44/3c/d2/91443cd2-a97d-425f-b2fc-c9f7327e2127</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="author_id_ssi">Aakj%C3%A6r,%20Jeppe</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
-    <field name="published_place_ssi">["Kbh.Kristiania"]</field>
+    <field name="published_date_ssi">1918-19</field>
+    <field name="published_place_ssi">Kbh.; Kristiania</field>
+    <field name="position_isi">0</field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Livet paa Hegnsgaard </field>
+    <field name="work_title_tesim">Livet paa Hegnsgaard</field>
     <field name="id">aakjaer03tom#workid54268</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
-    <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid54268</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer03tom#workid54268</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
-    <field name="volume_title_tesim"> Skuespil : Livet Paa
-      Hegnsgaard; Ulvens Søn, Naar Bønder Elsker ; Himmelbjærgpræsten. - 1918</field>
+    <field name="volume_title_tesim"> Skuespil : Livet paa
+      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</field>
     <field name="author_name">Aakjær, Jeppe</field>
-    <field name="author_id_ssi">91/44/3c/d2/91443cd2-a97d-425f-b2fc-c9f7327e2127</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="author_id_ssi">Aakj%C3%A6r,%20Jeppe</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
-    <field name="published_place_ssi">["Kbh.Kristiania"]</field>
+    <field name="published_date_ssi">1918-19</field>
+    <field name="published_place_ssi">Kbh.; Kristiania</field>
+    <field name="position_isi">91</field>
     <field name="text_tesim">                                                                                           </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Ulvens Søn </field>
+    <field name="work_title_tesim">Ulvens Søn</field>
     <field name="id">aakjaer03tom#workid55272</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
-    <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid55272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer03tom#workid55272</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">n89</field>
-    <field name="volume_title_tesim"> Skuespil : Livet Paa
-      Hegnsgaard; Ulvens Søn, Naar Bønder Elsker ; Himmelbjærgpræsten. - 1918</field>
+    <field name="volume_title_tesim"> Skuespil : Livet paa
+      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</field>
     <field name="author_name">Aakjær, Jeppe</field>
-    <field name="author_id_ssi">91/44/3c/d2/91443cd2-a97d-425f-b2fc-c9f7327e2127</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="author_id_ssi">Aakj%C3%A6r,%20Jeppe</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
-    <field name="published_place_ssi">["Kbh.Kristiania"]</field>
+    <field name="published_date_ssi">1918-19</field>
+    <field name="published_place_ssi">Kbh.; Kristiania</field>
+    <field name="position_isi">275</field>
     <field name="text_tesim">                                                                                                       </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Naar Bønder elsker </field>
+    <field name="work_title_tesim">Naar Bønder elsker</field>
     <field name="id">aakjaer03tom#workid56306</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
-    <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid56306</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer03tom#workid56306</field>
     <field name="page_ssi">189</field>
     <field name="page_id_ssi">n189</field>
-    <field name="volume_title_tesim"> Skuespil : Livet Paa
-      Hegnsgaard; Ulvens Søn, Naar Bønder Elsker ; Himmelbjærgpræsten. - 1918</field>
+    <field name="volume_title_tesim"> Skuespil : Livet paa
+      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</field>
     <field name="author_name">Aakjær, Jeppe</field>
-    <field name="author_id_ssi">91/44/3c/d2/91443cd2-a97d-425f-b2fc-c9f7327e2127</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="author_id_ssi">Aakj%C3%A6r,%20Jeppe</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
-    <field name="published_place_ssi">["Kbh.Kristiania"]</field>
+    <field name="published_date_ssi">1918-19</field>
+    <field name="published_place_ssi">Kbh.; Kristiania</field>
+    <field name="position_isi">483</field>
     <field name="text_tesim">                                                                                         </field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Himmelbjærgpræsten </field>
+    <field name="work_title_tesim">Himmelbjærgpræsten</field>
     <field name="id">aakjaer03tom#workid54294</field>
     <field name="volume_id_ssi">aakjaer03tom</field>
-    <field name="url_ssi">http://adl.kb.dk/aakjaer03tom#workid54294</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer03tom#workid54294</field>
     <field name="page_ssi">275</field>
     <field name="page_id_ssi">n275</field>
-    <field name="volume_title_tesim"> Skuespil : Livet Paa
-      Hegnsgaard; Ulvens Søn, Naar Bønder Elsker ; Himmelbjærgpræsten. - 1918</field>
+    <field name="volume_title_tesim"> Skuespil : Livet paa
+      Hegnsgaard; Ulvens Søn, Naar Bønder elsker ; Himmelbjærgpræsten. - 1918</field>
     <field name="author_name">Aakjær, Jeppe</field>
-    <field name="author_id_ssi">91/44/3c/d2/91443cd2-a97d-425f-b2fc-c9f7327e2127</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="author_id_ssi">Aakj%C3%A6r,%20Jeppe</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
-    <field name="published_place_ssi">["Kbh.Kristiania"]</field>
+    <field name="published_date_ssi">1918-19</field>
+    <field name="published_place_ssi">Kbh.; Kristiania</field>
+    <field name="position_isi">663</field>
     <field name="text_tesim">                                                                                       </field>
   </doc>
 </add>

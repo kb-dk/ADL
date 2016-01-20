@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim"/>
+    <field name="id">tycho-02-uraniahaec</field>
+    <field name="volume_id_ssi">tycho-02-uraniahaec</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-02-uraniahaec#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm139816228887456</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-02-uraniahaec#idm139816228881840</field>
+    <field name="volume_id_ssi">tycho-02-uraniahaec</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-02-uraniahaec#idm139816228881840</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm139816228883328</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Urania hæc</field>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">76</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">When Urania, looking down from the sky, saw these earthly caves, </field>
+    <field name="text_tesim">she said: "What new art is to be performed below the earth!" </field>
+    <field name="text_tesim">She let herself glide down and entered. Again she spoke: "Why do I hide the stars of the sky? </field>
+    <field name="text_tesim">Now the earth flies towards my shrine! </field>
+    <field name="text_tesim">Here, in the depths of the earth, all that Olympus keeps to itself </field>
+    <field name="text_tesim">is revealed. No stars can hide from these recesses. </field>
+    <field name="text_tesim">What reason is there for the skies to be so far removed, </field>
+    <field name="text_tesim">why do I turn the heavens with so many hidden wheels, </field>
+    <field name="text_tesim">if lowly caverns have the power to penetrate into my lofty theatres, </field>
+    <field name="text_tesim">and the deep earth can be the way to the stars?" </field>
+  </doc>
+</add>

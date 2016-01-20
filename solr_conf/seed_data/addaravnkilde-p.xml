@@ -3,15 +3,1741 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">portrait</field>
-    <field name="work_title_tesim">Adda Ravnkilde</field>
+    <field name="work_title_tesim"/>
     <field name="id">addaravnkilde-p</field>
     <field name="volume_id_ssi">addaravnkilde-p</field>
-    <field name="url_ssi">http://adl.kb.dk/addaravnkilde-p#</field>
-    <field name="volume_title_tesim">Adda Ravnkilde</field>
-    <field name="author_name">Hjordt-Vetlesen, Inger-Lise</field>
-    <field name="author_id_ssi">56/1f/66/d2/561f66d2-22c8-46ea-9cee-a4fbc7af09f1</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705709004016</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705709004016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">49</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Adda Ravnkildes lille forfatterskab har rod i Det moderne Gennembrud. Det var Georg Brandes' aktualisering af oplysningsprojektet - fri tanke, fri tro og fri kærlighed - der ansporede unge kvinder som Adda Ravnkilde til at blive forfattere. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705709003120</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705709003120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">52</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De unge kvinder blev grebet af fremskridtstroen og knyttede især an til den kritisk-idealistiske side af Brandes' tanker. Derimod var de mere i tvivl om det naturalistiske og materialistiske budskab. Tendensen til at biologisere kønnet og erotikken svarede simpelt hen ikke til deres selvopfattelse, og de kvindelige forfattere var for det meste skeptiske over for den såkaldte 'fri kærlighed'. Det betød ikke, at de slet og ret afskrev den. Blot så de spørgsmålet om kønnet og kvindefrigørelsen som uendeligt mere kompliceret, end parolerne sagde det. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705709002000</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705709002000</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">55</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I deres værker afsøgte de misforholdet mellem romantisk kvindebillede og psykisk virkelighed på den ene side og gabet mellem mandlige kvindebilleder og egne erfaringer på den anden. Et genkommende tema er derfor sammenstødet mellem de eksisterende rammer for kvindelig udfoldelse - rollerne som mor, datter, hustru - og de længsler mod individiduel frigørelse, som moderniteten åbnede for. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705709000976</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705709000976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">58</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Også i Adda Ravnkildes forfatterskab er disse temaer fremherskende. Men hun adskiller sig fra størstedelen af de kvindelige forfattere på to punkter. Dels er hendes formsprog usædvanligt brudfyldt - sine steder ligger det i direkte forlængelse af en klassisk realistisk tradition med generaliserende fortællerkommentarer, mens det andre steder bliver ekstremt subjektivt og nærmer sig en fænomenologisk impressionisme. Dels er selve det at skrive, det at skabe kunst, et tema, der uløseligt er viklet sammen med erotikken. I den henseende er Adda Ravnkilde en af det moderne gennembruds mest dybtborende psykologiske realister. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708998208</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708998208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">67</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Adda Ravnkilde, døbt Adele Marie, fik ikke nogen lang løbebane. Hun tog sit eget liv, da hun var 21 år. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708997584</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708997584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">70</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Der er ikke noget, der peger på, at hun skulle have haft en særligt udsat eller ulykkelig barndom. Vel tværtimod. Hun blev født på Lolland den 30. juli 1862 som den ældste af en søskendeflok på fem. Faderen, Christian Claudius Ravnkilde, var by- og herredsfuldmægtig i Sakskøbing, mens moderen, Margrethe Catinka Vilhelmine født Bruun, tog sig af hjemmet og familien. Som de fleste borgerlige pigebørn gik Adda Ravnkilde først i en mindre pigeskole, men dertil fik hun noget undervisning hjemme af en engelsk privatlærerinde. Noget tyder på, at faderen har udvist en ualmindelig opmærksomhed over for sine børn. I hvert fald havde han blik for sin ældste datters boglige begavelse, og trods familiens beskedne indtægter bekostede han derefter et toårigt ophold (1874-1876) for datteren på Nathalie Zahles fagligt velrenommerede skole i København. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708995312</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708995312</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">73</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sideløbende med skolearbejdet her begav den unge pige sig ud i et vidtstrakt selvstudium inden for filosofi, historie og litteratur. Og så skete det uundgåeligt, at Adda Ravnkilde stødte på bøger, som gav hende ideer, der var mere radikale end skolens. Henrik Ibsen, Herman Bang, J.P. Jacobsen og de andre gennembrudsforfattere gav hende indblik i tidens forkætrede naturalisme, og da hun efter endt skolegang kom tilbage til hjemmet og dér kastede sig over et studium af Charles Darwins Om Arternes Oprindelse (overs. 1872), blev forældrene åbenbart urolige. Derfor blev Adda Ravnkilde for en periode (1880-1881) sendt til Snoldelev som huslærerinde i et indremissionsk hjem. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708993200</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708993200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">79</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men dét intellektuelle begær, som en gang var blevet vakt, forsvandt selvfølgelig ikke ved at blive gemt væk. Mens hun opholdt sig i Snoldelev, forskaffede hun sig John Stuart Mills værk Kvindernes Underkuelse ( On the Subjection of Women ), som var blevet oversat af Brandes allerede i udgivelsesåret 1869. Og der er ingen tvivl om, at netop denne bog, for Adda Ravnkilde som for utallige andre af gennembruddets kvinder, blev et vendepunkt. Uden at gå på akkord med hverken de borgerlige frihedsidealer eller med de moderne naturvidenskabelige tanker insisterede Mill på, at der ikke var nogen som helst, der kunne udtale sig om kvindens 'natur', før kvinderne havde fået lejlighed til at udvikle sig på samme betingelser som mænd. Desuden hævdede han, at ægteskabet burde være et valgslægtskab, der bundede i gensidig kærlighed og frihed under ansvar. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708990224</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708990224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">88</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Disse tanker, som lå helt på linje med det forord, Brandes havde forsynet bogen med, virkede som en brand på Adda Ravnkilde. I sin sparsomme fritid gik hun i gang med at skrive det værk, der siden skulle udkomme under titlen En Pyrrhussejr . Da hun vendte hjem til forældrene, der i mellemtiden var flyttet til Sæby, hvor faderen var avanceret til borgmester og herredsfoged, fortsatte hun med sine mere eller mindre hemmelige skriverier. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708988224</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708988224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">94</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men midt i det hele blev hun i 1881 viklet ind i et erotisk spil med en godsejer på egnen, den 35-årige Peter Brønnum Scavenius til Voergaard ved Dronninglund. Adda Ravnkilde blev lidenskabeligt forelsket, men forholdet var aldeles udsigtsløst. Ikke på grund af ydre forhindringer, men fordi Adda Ravnkildes idealistiske og godsejerens aristokratiske erotik på ingen måder kunne samstemmes. Om forholdets egentlige art kan vi kun gisne, men sikkert er det, at kærlighedsoplevelsen satte sig dybe spor i de to værker, som hun skrev, mens det stod på og i perioden derefter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708987056</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708987056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">97</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I efteråret 1883 tog hun igen til København. Denne gang for at læse til almueskolelærerinde på Zahles Seminarium, hvor hun dog aldrig indskrev sig. I bagagen havde hun nemlig sine skriverier, og hendes egentlige ærinde var nok at blive forfatter. Derfor opsøgte hun Brandes, som dels kommenterede hendes sidstskrevne manuskript, og dels rådede hende til at læse til student og henviste hende til privatmanuduktion hos cand.phil. Julius Trier. Vi ved, at hun begyndte at læse hos Trier, og vi ved også, at hun overværede nogle af Brandes' universitetsforelæsninger, alt imens hun ventede på hans mening om de øvrige manuskripter, som hun havde overdraget ham. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708986672</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708986672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">100</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men hvad der ellers skete op til selvmordet, er der ingen, der ved. Måske fortvivlede hun over Brandes' foreløbige tavshed, fordi hun glemte, at Brandes var en meget travl mand, der ikke på en studs kunne afse tid til at læse hendes manuskripter. Måske har de høje idealer om lighed og frihed og personligt selveje stået i alt for skærende kontrast til den virkelighed, som hun befandt sig i? Blev hun knust af, at kvindesynet i det radikale miljø nok gav sig andre udtryk, men i bund og grund byggede på den samme kvindeforagt, som gennemsyrede det borgerligt patriarkalske miljø? Eller var det de erotiske bindinger, som alligevel strammede til? Under alle omstændigheder levnede hendes desperate handling ingen mulighed for fortrydelse. Den 29. november gik hun radikalt til værks på sit pensionatsværelse. Først tog hun gift, så skar hun pulsåren over, og derefter skød hun sig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705709060160</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705709060160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">103</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Adda Ravnkildes bratte død blev den direkte årsag til, at hendes bøger så hurtigt kom i trykken. For nu fik Brandes sporenstregs læst hendes manuskripter, og i begyndelsen af 1884 stod han for udgivelsen af romanen Judith Fürste . Senere på året udgav forfatteren Erik Skram de to øvrige manuskripter En Pyrrhussejr og Tantaluskvaler i ét samlet værk med titlen To Fortællinger . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705709056256</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705709056256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">118</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Imidlertid er alle skrifterne stærkt korrigeret og beskåret. Journalist og redaktør M. Galschiøt stod for forkortelsen af Judith Fürste , mens forfatterne Erik og Amalie Skram foretog ændringerne i de to fortællinger. Hvor meget, der egentlig er skåret væk, er uvist, men om To Fortællinger vides det, at manuskripterne oprindeligt har fyldt omkring 500 sider, mens den endelige udgivelse begrænser sig til små 200 sider. Der er altså tale om radikale beskæringer, og da originalmanuskripterne åbenbart er gået tabt, er det klart, at enhver læsning må medtænke dette iboende tekstproblem. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708967584</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708967584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">127</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ikke desto mindre er der i de foreliggende udgivelser tydelige spor af den samme kunstneriske energi, de samme motiviske grundmønstre. Derfor lader det sig trods alt gøre at læse værkerne som Adda Ravnkildes. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708958592</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708958592</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">172</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Forfatterskabet kom altså til at omfatte tre værker, som, uanset deres varierende omfang, må karakteriseres som romaner. Fælles for de tre skildringer er, at de er lagt an som udviklingsforløb, hvor det i alle tre tilfælde drejer sig om en ung kvinde, der på den ene eller den anden måde bevæger sig væk fra hjemmet og ud i verden. På forskellig vis stræber de efter at blive "noget stort og godt, noget der svarer til den Kraft, jeg føler i mig" ( To Fortællinger , s. 3 ), som det formuleres af hovedpersonen i En Pyrrhussejr . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708954848</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708954848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">185</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fælles for de tre udviklingsforløb er endvidere, at den kvindelige dannelsesrejse standser, da der kommer en mand i vejen. Men skildringerne af de magtkampe, som herefter udvikler sig mellem parterne, er meget forskellige. Hvor den tidligst skrevne roman, der forekommer mest beskåret og torsoagtig, vægter den ydre kvindeundertrykkelse og problemdebatten, dér drejer de efterfølgende romaner sig i langt højere grad om den indre proces i det kvindelige individ. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708939328</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708939328</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">I fremskridtets tjeneste - En Pyrrhussejr
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">197</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En Pyrrhussejr , som er skrevet i 1880, bærer i den udgivne form præg af at være et 'restprodukt' af en større roman, der har rummet en vifte af personer og handlingsstrenge. Som romanen fremtræder, koncentrerer den sig fortrinsvis om den unge provstedatter Elisabeth, der sammen med sin storesøster, Astrid, drager til København for at få fjernet sine mandler. Og dér klapper fælden både for Elisabeth og Astrid. Elisabeth overrumples af en ældre og erfaren professors frieri, og Astrid falder for en charmerende, studentikos fløs, der spinder hende ind i romantisk retorik. Begge er de fyldt af håb, da de gifter sig, og begge må de efter en årrække sande, at de er blevet forrådt af deres ægtemænd. Sandsynligvis har det oprindelige manuskript rummet en detaljeret beskrivelse af det lange stræk i begge ægteskaber, men som værket fremstår nu, er skildringen af Astrids ægteskab begrænset til nogle få episoder, hvor manden under mere og mere groteske former afslører sig som den slapsvans, han hele tiden har været. Astrids tålmodighed er dog stor, troligt bekræfter hun ham i alle hans luftkasteller lige indtil det punkt, hvor han forsøger at være hende utro. Så får hun endelig åbnet øjnene og belaver sig på at forlade ham. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708936336</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708936336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">I fremskridtets tjeneste - En Pyrrhussejr
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">202</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Over for denne handlingsstreng står den langt mere udfoldede historie om Elisabeth og professor Bang. Han er læge og videnskabsmand og fremtræder i Elisabeths øjne som en faderlig autoritet, hun tillidsfuldt kan give sig ind under. Men beregnende og kynisk, trin for trin, stækker han da efterhånden alle hendes håbefulde og ivrige forsøg på 'at blive til noget'. Han forhindrer hende ikke i at skrive, men han forhindrer hende i at få udgivet det skrevne. Efter denne skuffelse, som hun dog energisk arbejder sig ud over, går det slag i slag. Han forhindrer hende i at omgås unge mennesker, i at blive mor, i at drive velgørende arbejde i byens slum, i at tage sin gamle enligtblevne mor i huset og endelig - i at give sin ulykkelige søster husly. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708934256</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708934256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">I fremskridtets tjeneste - En Pyrrhussejr
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">205</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lige fra deres første møde har han så at sige kunnet styre hende med sit skarpe blik. Hver gang han har begrænset hendes virkerum, har hun underkastet sig hans myndighed og veget for hans blik. Men ved denne lejlighed, hvor han åbenlyst tilkendegiver, at en hustru qua hustru under alle omstændigheder må bøje sig for selv den mest uduelige mand, brister tilliden. Her kommer Bang nemlig til at røbe, hvilken plan han hele tiden har haft med hende: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708929344</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708929344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">I fremskridtets tjeneste - En Pyrrhussejr
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">225</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I erkendelsen af, at den faderlige omsorg i virkeligheden har dækket over ren og skær manipulation, bliver hun i stand til at løsrive sig. Ikke ved at bryde ud af ægteskabet, for hun indser øjeblikkeligt, at hun som kvinde ikke har andre muligheder end at blive, men ved at bekræfte den kolde kontraktlige forbindelse - gennem sit blik. Denne gang viger hendes blik ikke for hans: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708924688</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708924688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">I fremskridtets tjeneste - En Pyrrhussejr
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">244</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Romanen ender således med, at både Elisabeth og Astrid foreløbig må resignere og blive på deres respektive kvindepladser. Som sådan er den båret af både indignation og tro på, at kvindekampen med tiden vil bære frugt. For som Elisabeth siger til søsteren, er de forløbere i fremskridtets hær: "Men kan den simple Soldat i Slaget trøste sig ved sin Død, naar kun hans Land maa sejre, - saa kan vi to det vel ogsaa." ( To Fortællinger , s. 82 ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708921824</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708921824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">I fremskridtets tjeneste - En Pyrrhussejr
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">254</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ud over det kønspolitiske sigte, som blev overset i samtiden, men til gengæld voldsomt fremhævet i forbindelse med 1970'ernes nylæsning af det moderne gennembruds kvindelige forfattere, er det bærende i romanen dog dens skildring af erotikkens og magtens sammenfiltring. Midt i de romantiske efterklange og den noget skematiske figurtegning er der således glimt af en sårbarhedstilstand, der hidrører lige så meget fra det moderne kvindelige individs indre højspænding som fra det ydre pres. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708920800</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708920800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">I fremskridtets tjeneste - En Pyrrhussejr
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">257</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I de efterfølgende romaner er det denne iboende konflikt i kvindeligheden, som vægtes. I Judith Fürste , som er skrevet i 1882, fremtræder den psykiske spænding mellem sårbarhed og blaserthed således som en grundlæggende dynamik i det skildrede ægteskabsforløb. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708917040</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708917040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">274</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mens Adda Ravnkilde i En Pyrrhussejr forsøgte sig med skildringer af studenterliv og bakkanaler, der mest af alt lyder som genklange af scener fra En dansk Students Eventyr af Poul Martin Møller (1843), er hun i Judith Fürste helt fortrolig med det skildrede miljø. Her udspiller handlingen sig dels i provinsbylivet med dets bornertheder, hyklerier og trivialiteter, dels i det landlige aristokrati med de veludstyrede gemakker, store vidder og høviske omgangsformer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708913632</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708913632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">286</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Romanens hovedperson er Judith, der som voksen datter i et både pekuniært og kulturelt småtskåret sagførerhjem befinder sig i en udsigtsløs situation. Enten kan hun forblive i sit hjem, hvor stedfaren systematisk, men lovligt er i gang med at tiltuske sig hendes fædrenearv - eller hun kan gifte sig. Og da enhver udsigt til at komme væk og lære noget, der gør hende i stand til at forsørge sig selv, lukker til, vælger hun i desperation det sidste. Netop som hun er allermest fortvivlet over sin situation, bliver hun overrumplet af et uformodet frieri - og hun giver grev Johan Banner sit ja. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708912512</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708912512</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">289</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Når egnens feterede greve finder på at fri til Judith, er det, fordi hun ægger ham. Hendes sociale omstændigheder står i skærende kontrast til den kulde og stolthed, hun udviser. Han vil nedbryde hendes stolthed, triumfere over hende - derfor frier han. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708911568</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708911568</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">292</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Johan Banner ligner i flere henseender en forfinet udgave af pjalten i den første roman. Han er således yderst utilbøjelig til at træde i et ansvarligt forhold til sin omverden, og for det meste befinder han sig i "den fortvivlede Kasus, Kierkegaard beskriver - han gad slet ikke" ( Judith Fürste , s. 79 ). Men hvad angår sensibilitet og ærgerrighed, ligner han snarere Judith. Og med hende gider han: "Det æggede Banner at finde en Blaserthed, som kunde maale sig med hans egen, det irriterede ham, han vilde af med den, vække nyt Liv og Varme hos hende, ja, og Kærlighed" ( Judith Fürste , s. 104 ).  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708906304</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708906304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">309</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men Judiths stolthed kan han ikke knække. Hvad der yderligere ægger ham. Derfor bliver ægteskabet en "nervøs, aandeløs, anspændt" udmattelseskrig ( Judith Fürste , s. 108 ). Ethvert udspil fra den ene bliver straks af den anden tolket som et angreb, der pareres med et modangreb osv. Krigsmetaforerne fyger hen over siderne, og med spotten som våben holder de hinanden i skak i en opslidende kamp uden udvikling. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708903280</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708903280</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">319</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det paradoksale og moderne ved romanens personskildring er imidlertid, at Johan Banner nok er en blasert - og krænket - forfører, men han er lige netop manden for Judith. Det selverobringsprojekt, som hun til stadighed har higet efter, må nemlig inkludere de erotiske veje og vildveje. Kun i et rum, der for så vidt er løsgjort fra historiske og sociale bindinger, kan det erotiske fremstå som en integreret del af den kvindelige subjektivitet. Her er romanen trods dens sine steder altmodische stemmeføring på højde med sin tid. Med sikkerhed afsøger den det erotiske spejlkabinet, som Judith befinder sig i, for det er lige præcis her - hinsides både de overleverede myndighedsstrukturer og de moderne emancipationsidealer - at kvinden skal personliggøre sit eget begær. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708902048</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708902048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">322</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Romanens realpsykologiske begrundelse for, at Judith bliver sig selv bevidst, er, at Banner på et bestemt tidspunkt kommer til at blotte sig. Gennem længere tid har han trukket sin opmærksomhed tilbage fra Judith og i stedet rettet alle sine energier mod deres fælles barn. I barnet øjner han den sidste mulighed for at bryde ud af ugideligheden og give sit liv historisk betydning. Da barnet så dør, forsøger han i sin momentane svaghed at nærme sig Judith ud fra en vag forhåbning om, at de kunne være "to om Tabet" ( Judith Fürste , s. 162 ). Det er Judiths afvisning af denne tilnærmelse, som befordrer en begyndende ændring i hendes holdning. Hun erkender, at hun ved denne umenneskelige afvisning har svigtet, og den gryende skyldbevidsthed gør hende samtidig i stand til at træde i et refleksivt forhold til sig selv. Men idet hun ser på sig selv, ser hun samtidig sit eget begær - hun begærer sin mand! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708898336</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708898336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">332</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kunstnerisk kulminerer romanen i en scene, hvor Judith forsøger at tale sig igennem spejlbillederne og sprogliggøre sin skyld og sin kærlighed. Judith og Banner er på vej hjem fra et besøg hos nogle bekendte, og de befinder sig her i det lukkede vognrum: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708887840</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708887840</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">378</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Judith får ikke talt - da ikke her! Men teksten får fortalt om betingelserne for og vanskelighederne ved den personlige proces, som Judith er i gang med. Her er ikke et traditionelt fællesskab, hvor ordene har en bestemt, traderet betydning, her er ingen ritualer, som kan forankre den enkelte i en større sammenhæng. Ja, her er knap nok en mand og en kvinde, men blot glimt af ansigter og gestus. Judith er alene om sin følelse, og hendes mand er i den forstand et uvidende objekt for hendes begær, ligesom hun omvendt er fuldstændig uvidende om, hvad der vil ske, når hun får ordene sagt. Det er på hendes indre scene det foregår. Lydene, bevægelserne, lysglimtene, de 'flossede' talestumper, som diskontinuerligt river hul i tekstvævet, signalerer, hvad der er på spil: en til det ulidelige voksende spænding mellem driften mod at gå i ét med dette imaginære rum, og driften mod at sprænge det og komme til syne som sig selv. Lader Judith sig opsuge i momentet, får hun ingen egen-eksistens; taler hun, får hun sprogliggjort og historiseret sin person, men derved gør hun sig også åben og sårbar over for sin omverden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708885600</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708885600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">381</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det, Adda Ravnkilde fremstiller her, er en moderne tilstand, som ikke tidligere er skildret så sensibelt og nærværende: tilstanden på grænsen mellem før og nu, mellem subjekt og objekt, mellem selvtab og selvbemægtigelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708884720</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708884720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Overrumplingen - Judith Fürste
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">384</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I lyset af sådanne tekstsekvenser forekommer slutningen af romanen noget romantiseret og tam - Judith får omsider erklæret sig, og Banner ender med at hylde hende som en slags Madonna. Sandsynligvis har Adda Ravnkilde selv følt, at denne slutning var utilfredsstillende, for allerede året efter, i slutningen af 1883, tog hun trådene fra Judith Fürste op igen i manuskriptet til Tantaluskvaler . Og her fandt hun frem til et fortættet formsprog, hvor alle tekstens registre spiller sammen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708879920</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708879920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">404</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tantaluskvaler er en kærlighedsroman. Lidenskabelig og grum! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708878736</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708878736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">409</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvad angår miljøtegning og personskildring har romanen træk tilfælles med Judith Fürste , dog med den forskel, at fortællerens sarkasme over for det indelukkede og småborgerlige provinsbymiljø er blevet en del skarpere, ligesom afdækningen af den erotiske komponent i personlighedsdannelsen er mere konsekvent. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708876976</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708876976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">415</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Elisabeth, som også denne hovedperson hedder (jf. En Pyrrhussejr ), er en fattig pige, der har høje mål - hun vil være forfatter. Men foreløbig må hun klare sig på samme måde som hundredevis af fattige borgerlige kvinder på dette tidspunkt ved at tjene til dagen og vejen som en mellemting mellem privatlærerinde og tyende. Hun får ansættelse hos byens opblæste lægefamilie, der ved hendes ankomst bedømmer hende som en "net men noget ubetydelig ung Dame" ( To Fortællinger , s. 88 ). En fejlbedømmelse, som fortælleren straks, og handlingen efterfølgende korrekser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708873088</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708873088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">428</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Elisabeth Due er nemlig som alle Adda Ravnkildes hovedpersoner et idealistisk viljesmenneske. Hun har en ungdommelig tro på kaldet og på det personlige ansvar, og hun er optimistisk gået ud i verden for at blive samfundsborger. Men de høje idealer og de store ord har ikke noget modsvar i levede erfaringer - og det er denne smertelige erfaringstilegnelse, som romanen drejer sig om. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708871856</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708871856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">431</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Grev Høegh er lillebyens ubestridte midtpunkt. Som libertiner og pengemand er han et oplagt emne for både forargelse og snobberi, og forargelsen får nok at gøre, da han kaster sine øjne på Elisabeth. Ligesom Johan Banner i Judith Fürste er han en træt Don Juan, der kun kan flamme op, hvis han får modstand. Og det får han hos Elisabeth! Henrykt hvirvler han hende ind i et verbalt ping-pong, hvor hendes naive alvor støder mod hans elegante paradokser. Et spil med begreber, som Elisabeth på den ene side udmærket kan gennemskue, men som hun på den anden side ikke kan gardere sig mod. Hun forelsker sig nemlig uhjælpeligt, og de forskellige faser i denne proces er skildret med lydhør og fintfølende opmærksomhed. Fra den helt tidlige, ubevidste opladthed, der skærper sanserne og opfattelsen af betydningsnuancer, over den endnu førbevidste beruselse ved at danse i hans arme, til en bevidst kærlighed, hvor hun gang på gang kastes "fra den dybeste Ydmygelse til den højeste Selvfølelse" ( To Fortællinger , s. 155-56 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708866736</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708866736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">444</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Elisabeth er ramt. Selv om hun er en målbevidst kvinde, der tror på den frie vilje, så viser det sig, at hun står viljesløs, når hendes erotiske længsler vækkes. Og gabet mellem hendes idealer og hendes lyst bliver større og større. Jo ivrigere hun kaster sig ind i hans ordspil, jo brattere falder hun ud i det tomme intet. For dér, hvor hun troede at finde et menneske, er det ord og fiktioner, hun er oppe mod. Følgelig mister hun efterhånden sin fornemmelse af personlig kontinuitet, og det er de skiftende nedbrydninger og genopbygninger af hendes kropsbillede - hendes begreber om sig selv - der udgør romanens nerve. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708865664</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708865664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">447</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kærlighedshistorien spalter sig i to strenge. Netop fordi hendes selvbillede går i stykker, konfronteres hun pinefuldt med sine egne erotiske fantasier, som hun bliver nødt til at vedkende sig, hvis hun vil holde på sig selv. I erkendelse af sit eget begær træder hun da ved slutningen frem som en kvinde, der er parat til at hengive sig til den mand, der har vakt begæret. Og mens hun således venter på ham, hvisker hun for sig selv: ""Jeg er fortabt" med en Angst og en Salighed, hun aldrig havde anet kunde føles" ( To Fortællinger , s. 191 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708862832</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708862832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">457</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Omvendt er det den samme erkendelse, der i sidste øjeblik får hende til at foretage et for ham - og hende selv - uventet træk. I ét nu ved hun, at i samme moment, hun hengiver sig, vil hun have mistet ham. For kærlighedens skyld opgiver hun kærligheden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708861888</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708861888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">460</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Her tematiserer romanen på sin egen radikale måde det samme skisma, som var oppe at vende i tidens såkaldte sædelighedsfejde. Mens fronterne dér var delt mellem Brandes-radikalismen, der hævdede den fri kærligheds ret over for den lovformelige, og Bjørnsons 'handskemoral', der modsat krævede, at mænd ligesom kvinder skulle holde sig seksuelt 'rene' indtil ægteskabet, dementerer Adda Ravnkildes Elisabeth relevansen af både det ene og det andet budskab. Frontdannelsen er falsk, fordi hengivelse og selvbemægtigelse er sider af samme sag. Derfor kan driften til at skabe, til at selvstændiggøre sit liv, heller ikke tænkes uden om det erotiske kompleks. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708860016</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708860016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">463</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Deraf den anden tråd i forløbet. Viklet ind i kærlighedshistorien fortælles der om tilblivelsen af en forfatter. Også her svinger Elisabeth fra overbevisningen om, at "naar hun en Gang stod æret og stor, vilde han staa som en udlevet, lidet kendt og lidet æret gammel Mand" ( To Fortællinger , s. 162 ) til en afvisning af sine skriverier som "den tommeste og latterligste Ting af Verden" ( To Fortællinger , s. 129 ). Men det ejendommelige er, at hun hver gang, hun er kastet tilbage i fortvivlelse og selvtab, alligevel finder tilbage til sine skriblerier og skabertrangen: "Trangen til at finde Ord for at udtrykke en Stemning - skrive sig ud af det hele" ( To Fortællinger , s. 139 ). I perioder skriver hun da som i en rus, "nynnede i Kraft af en ren fysisk Tilfredsstillelse ved Arbejdet" ( To Fortællinger , s. 140 ). Således fremstilles kroppen som lystfyldt forbundet med skriften. Skriften er nemlig hendes - hendes selvfremstilling. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708851088</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708851088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">494</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Af nøjagtig de samme grunde er skriften derfor også belagt med skam. Gennem hele forløbet vægrer hun sig følgelig ved at sætte ord på deres forhold - det "vilde gøre det hele modbydeligt i hans Øjne" ( To Fortællinger , s. 178 ) - ligesom hun ved slutningen finder tanken om det værk, som hun faktisk har fået skabt, "modbydelig" ( To Fortællinger , s. 186 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708846464</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708846464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">511</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det er et stærkt ord, og hendes parathed til at destruere værket, da hun betages af "en Angst og en Salighed" ( To Fortællinger , s. 191 ), viser igen, hvordan krop og skrift er sider af samme sag. Elisabeth skriver på det erotiske løft, samtidig med at hun skriver sig fri fra det, idet hun gør fantasien til form uden for sig selv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708843600</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708843600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Angst og salighed - Tantaluskvaler
+	    </field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">521</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De to sammenfiltrede handlingstråde, der ikke lader sig skille, er et kunstnerisk udtryk for den kvindelige forfatters eksistentielle kamp for "at blive til noget" i en opbrudstid. De udtrykker, at "noget" er blevet til et subjektivt valg, der ikke blot drejer sig om social identitet, men lige så vel drejer sig om at kunne udholde sin egen eksistens i krydsfeltet mellem salighed og modbydelighed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708840992</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708840992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematisk sammenfatning. En moderne forfatter</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">532</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Skønt der er mange romantiske efterklange i Adda Ravnkildes romaner, er de i visse henseender aldeles moderne. Sammenfiltringen af krop og skrift er et træk, der sprænger rammerne for både den traditionelle og den realistiske kærlighedsroman, ligesom stilen heller ikke slet og ret kan karakteriseres som hverken idealistisk eller realistisk. Sine steder i forfatterskabet er sproget nemlig selv blevet til stof. Synsindtryk, sats, tomheden omkring talestumperne, den hakkende og brudte rytme er meningen. En mening, der ikke kan oversættes, men er ét med det foranderlige, flertydige i det moderne værensrum, som gennembrudskvinderne skulle skabe sig selv i. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708838992</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708838992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tematisk sammenfatning. En moderne forfatter</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">538</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I den forstand er Adda Ravnkildes lille forfatterskab af litteraturhistorisk betydning. Det knytter kunstneriske tråde mellem Det moderne Gennembrud og det 20. århundredes mangfoldige afsøgninger af forholdet mellem sprog og virkelighed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708836448</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708836448</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">552</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da Adda Ravnkilde debuterede posthumt i begyndelsen af 1884 vakte det stor opmærksomhed i offentligheden - ikke mindst på grund af, at selveste Georg Brandes stod bag udgivelsen af Judith Fürste , som han havde forsynet med et indsigtsfuldt forord. Her gjorde han rede for, hvordan Adda Ravnkilde havde opsøgt ham, og hvordan han havde oplevet hende fra sit kateder, den selvsamme dag, som hun om aftenen begik selvmord: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708830832</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708830832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">574</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I forordet karakteriserer han Adda Ravnkilde som: "En stræbende Aand, for hvem en stor Forhaabning var bristet, og der ligesom bar Mærker af et flereaarigt Tryk; (...) i høj Grad moderne i sit Anlæg, skjønt endnu noget konventionel i sin Fremstillingsform; ærgærrig ganske vist, men med en Ærgærrighed, som daglig maatte kjæmpe med Tungsindet" ( Judith Fürste , s. V ). Angående det oprindelige udkast til Tantaluskvaler , som han havde læst inden mødet, fremhæver han det oprindelige og ægte i "Skildringen af den unge Piges forgjæves nedkjæmpede, kvalfulde og frydefulde Kjærlighed", mens han kritiserer slutningen for at være"paaklæbet" og emnet "en Forfatterindes Dannelsesproces" for at være fortærsket" ( Judith Fürste , s. IV-V ). Når det derfor i første omgang er Judith Fürste , han har valgt at udgive, begrunder han det med, at denne roman er det "blandt hendes Arbejder, som hviler paa de skarpeste Iagttagelser, og hvor Handlingen er bedst gjennemført" ( Judith Fürste , s. VII ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708821760</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708821760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">604</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georg Brandes forord er som helhed overordentligt velafbalanceret. Nænsomhed over for den afdøde går hånd i hånd med en seriøs kritik og en sikker fornemmelse for de kunstneriske styrker og svagheder. Da han formentlig ikke ville have sat sig i bevægelse for at udgive et hvilket som helst manuskript, blot fordi forfatterinden havde taget sit liv, må hans gestus opfattes som en usædvanlig 'god anmeldelse' af et debutværk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708820624</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708820624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">607</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Generelt blev både Judith Fürste og To Fortællinger modtaget som litterære sensationer, hvad der dog ikke forhindrede, at de blev sagligt anmeldt. Flere kritikere - heriblandt forfatterne Herman Bang (1857-1912) og Olivia Levison (1847-1894) - fremhævede Adda Ravnkildes enestående evne til at fremstille smerten og lidelsen i kærligheden (i henholdsvis Nationaltidende 18.12. 1884 og Kvinden og Samfundet 1, 1885), og i det hele taget var det forfatterskabets dybdepsykologiske realisme, som anmelderne hæftede sig ved. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708816416</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708816416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">622</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Færre havde blik for Adda Ravnkildes nybrydende formsprog. En undtagelse var den svenske forfatter Ola Hansson (1860-1925), der (i Litterära silhuetter bd. I (1885), 1920, s. 64) fokuserede på Adda Ravnkildes "skickliga konstnärshänder" og hendes evne til at sprogliggøre "detta virrvarr" af bevidste og førbevidste impulser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708814640</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708814640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">628</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter den sensationelle debut svandt interessen for forfatterskabet imidlertid hurtigt. Mens Judith Fürste udkom i to oplag, kom To Fortællinger kun i et, og bortset fra korte og sporadiske omtaler i leksika og litteraturhistorier blev der stille omkring forfatterskabet. Heller ikke Vilhelm Andersens skoledannende værk Dansk Litteraturhistorie bd. I-IV (1924-34) ændrede på dette. Vilhelm Andersen var generelt meget nedladende over for det moderne gennembruds kvindelige forfattere; således bliver 1880'ernes kvindelige forfattere, Erna Juel-Hansen, Illa Christensen, Christine Mønster og Adda Ravnkilde, afhandlet på 3 1/2 side, hvoraf Erna Juel-Hansen tildeles de 2. Den halve side, der omhandler Adda Ravnkilde, drejer sig for det meste om biografien og om værktitlerne, som han mener er Topsøe-plagiater. Én ting tilkender han dog Adda Ravnkilde: "Ved at indmelde sig i Litteraturen under sit familiære Navn - det er det Navn, sagde hun til Georg Brandes, som jeg gerne en Gang vil gøre bekendt - har Adda Ravnkilde stiftet Skole. Efter Anonymernes og Pseudonymernes Periode ("Forfatteren til en Hverdagshistorie"; Clara Raphael) kom den Tid, da kvindelige Forfattere skrev under deres borgerlige" (bd. IV, s. 505). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708809712</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708809712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">640</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gennem det meste af det 20. århundrede var Adda Ravnkildes forfatterskab altså stort set glemt. Denne glemsomhed ramte dog de fleste af de kvindelige forfattere fra Det moderne Gennembrud. Dels fordi de kunstnerisk næppe var på højde med de mest nybrydende af Det moderne Gennembruds mænd - J.P. Jacobsen, Herman Bang, Henrik Pontoppidan - dels fordi både det emancipatoriske sigte og de originale kunstneriske ansatser, som faktisk fandtes hos en Adda Ravnkilde, blev overset. Problemdebatten i samtiden blev jo mere slagkraftigt varetaget af de fremvoksende kvindebevægelser, og det fænomenologisk-impressive formsprog var der ikke rigtigt øre for før langt hen i 1890'erne. Og da var nye, unge digtere kommet i vælten. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708807728</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708807728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">643</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Først med den nye kvindebevægelse i 1970'erne blev opmærksomheden igen rettet mod de glemte gennembrudskvinder. På universiterne begyndte man efter en periode med politisk teoretisering at genlæse de gamle forfatterskaber - først med henblik på en kønspolitisk rehabilitering af værkerne, senere ud fra en mere litterær afsøgning af det kvindelige formsprog. Det resulterede på litteratur- og danskstudierne i et væld af specialeafhandlinger, hvor en stor del af de kvindelige forfatterskaber blev analyseret og fortolket, heriblandt Adda Ravnkildes. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708806720</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708806720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">646</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efterhånden udmøntedes denne kvindeforskning i en række udgivelser. I første omgang var det dog forfatteren Anne Marie Løn, der brød glemslen om Adda Ravnkilde og skrev den fine biografi: Adda Ravnkilde , der udkom 1980. Her læses liv og værk sammen, og på denne måde får Anne Marie Løn vægtet både det kønspolitiske og det eksistentielle motiv i værkerne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708804880</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708804880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">652</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ellers var det fortrinsvis i den litteraturhistoriske nyskrivning, at forskningen blev formidlet. I 1980 udgav Anne-Marie Mai og Stig Dalager pionerværket Danske kvindelige forfattere bd. I-II, hvor Adda Ravnkildes forfatterskab på linje med de øvrige gennembrudskvinders karakteriseres ud fra et tidstypisk tematisk fællesskab. Således fremhæves det, at "De kvindelige gennembrudsforfattere er præcise skildrere af, hvorfor den kvindelige seksualitet ender i masochisme. De betragter med en indsigt, der forbløffer, seksualiteten som præget og formet af miljømæssige og sociale omstændigheder til forskel fra J.P. Jacobsen, der i sit ofte berømmede kvindeportræt i romanen Fru Marie Grubbe (1876) beskriver den seksuelle masochisme som instinkt og natur" (bd. II, s. 23). Som et prototypisk udtryk for den seksuelle masochisme fremhæves bl.a. frierscenen i En Pyrrhussejr , hvor Dr. Bang angiveligt skulle aftvinge Elisabeth et ja til sit ægteskabstilbud (bd. II, s. 20-21). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708800752</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708800752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">664</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne beskrivelse er relevant, idet den rammer nogle fællestræk blandt de kvindelige forfattere, men den får ikke fat i det særegne ved Adda Ravnkildes kunstneriske udtryk, der netop er mest fremtrædende i forfatterskabets frierscener. Det er ikke tvangen, men spændingen mellem den receptive åbenhed og tilfældets overrumplende indbrud i et tidløst, vegetativt nærvær, som Adda Ravnkilde fanger i sit formsprog. I det hele taget er Danske kvindelige forfattere mere optaget af, hvad romanerne handler om, end hvad der gør dem til kunst. Et forhold, der i øvrigt overalt gør sig gældende i denne tidlige fase af kvindeforskningen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708798560</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708798560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">670</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En lignende kritik kunne til dels rettes mod Dansk litteraturhistorie bd. I-IX, der udkom 1982-86. Denne litteraturhistorie blev skrevet af en række unge forskere, der, med baggrund i det teoretiske og materialhistoriske nybrud i årene forinden, havde sat sig som mål at beskrive hele den danske litteratur i dens samspil med social- og kulturhistorien. Ud fra et udvidet tekstbegreb er det derfor ikke alene de kanoniserede kunstneriske værker, men overhovedet de tekster, som til enhver tid havde betydet noget for bevidsthedsdannelsen, der er emnet. Følgelig bliver også det kvindelige gennembrud, som kulturelt betegnede et opgør med den traditionelle kvindelighed, udførligt behandlet af Lise Busk-Jensen. Hendes artikel om Adda Ravnkilde har synspunkter tilfælles med Mai/Dalager (jf. ovenfor), men hendes analyse af de kvindelige hovedpersoners såkaldte masochisme går dybere. Således mener hun nok, at lidelsen er til stede i Tantaluskvaler , men: "Lysten er dog langt mere fremtrædende! Elisabeths seksualitet har masochistiske træk, men hun er ikke et større offer for sine følelser, end at hun kan bruge dem litterært" (bd. VI, s. 451). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708794272</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708794272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">679</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Grundlæggende anskuer Lise Busk-Jensen både Adda Ravnkilde og de andre kvindelige forfattere ud fra 1880'ernes brydning mellem inderliggjort romantisk kvindelighed og de moderne individualistiske emancipationsforestillinger. Derfor har hun også en noget anden forklaring på Adda Ravnkildes selvmord end den gængse i 1970'erne, hvor handlingen blev fortolket som en desperat konsekvens af kvindernes manglende samfundsmæssige muligheder. Lise Busk-Jensen mener tværtimod, at det var "kvindelighedens nedskrivning til et nulpunkt", der gjorde udslaget: "Ravnkilde forkastede ikke livet, fordi kvinderne manglede mændenes muligheder, men tværtimod fordi de fremover syntes henvist til dem" (bd. VI, s. 451-452). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708792368</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708792368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">682</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som et monument over den samlede litterære kvindeforskning i slutningen af 70'erne og begyndelsen af 80'erne kom Pil Dahlerups doktorafhandling Det moderne gennembruds kvinder i 1983. Her undersøger hun de ca. 70 kvindelige forfattere, som debuterede i perioden mellem 1871 og 1891. De kvindelige forfattere bliver anskuet ud fra deres placering i den patriarkalske familiestruktur, hvorfor de kategoriseres som henholdsvis 'sønner', 'døtre', 'emanciperede', 'mødre' og 'hustruer'. Adda Ravnkilde omhandles i kapitlet "De emanciperede", men det er uklart, om placeringen skyldes fremherskende træk i forfatterskabet eller i forfatteren selv. Lidt mere indlysende er det, hvorfor hun yderligere placeres under delrubrikken "Kunstnerne". Pil Dahlerups overordnede betragtning er nemlig, at Adda Ravnkilde var en af de få, der selvbevidst identificerede sig som kunstner og i forlængelse heraf gjorde kunsten til et hovedtema i forfatterskabet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708789296</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708789296</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">688</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Pil Dahlerups læsning af Adda Ravnkildes liv og værk repræsenterer i denne sammenhæng et brud på de gængse litteraturhistoriske analysestrategier. Som en af de første lægger Pil Dahlerup lige så meget vægt på det kunstneriske formsprog som på de kulturelle og kvindepolitiske tendenser, og hun argumenterer overbevisende for den kunstneriske udvikling, som forfatterskabet opviser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708788272</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708788272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">691</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I det sidste større litteraturhistoriske fremstød, Nordisk kvindelitteraturhistorie bd. I-V, 1993-1998, brydes mange holdninger og litteratursyn. Værket er skrevet af henved 100 kvinder fra fem nordiske lande, og det er selvsagt præget af en vis pluralisme. Afsnittet om Det moderne Gennembrud, som jeg selv har stået for (sm. m. Birgit Mortensen), ligger naturligt nok i forlængelse af anskuelserne i Dansk litteraturhistorie og Det moderne gennembruds kvinder . Dog vægter jeg både i den brede indledningsartikel "Modernitetens kvindelige tekst" og i artiklen om Adda Ravnkilde, "Modernitetens vendepunkt", det æstetisk nybrydende i forfatterskabet. Adda Ravnkilde betragtes i lyset af den omsiggribende storbycivilisation, hvor den fremadrettede udvikling ledsages af "fiktionalisering og tilfældiggørelse". I lighed med Lise Busk-Jensen betragter jeg det erotiske som et centralt aspekt i teksterne, men spørger endvidere til sproget og den særegne sensibilitetsæstetik, der fanger tidens dobbelthed af emancipation og anonymisering. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708784304</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708784304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">703</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I forlængelse af min forskning i den kvindelitterære historie har jeg i øvrigt udgivet artiklen "Overrumplingens Æstetik - om Adda Ravnkildes forfatterskab", Edda 4, 1990, hvor relationen mellem forføreren i den Søren Kierkegaard'ske udgave og forførerne i Adda Ravnkildes romaner undersøges. Således aflæser jeg Forførerens Dagbog (fra Enten-Eller , 1843) som en undertekst, der til stadighed gendrives og genskrives i Tantaluskvaler . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708780320</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708780320</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">718</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den nyere tids forskningsindsats har desuden resulteret i nogle genudgivelser. I 1980 udsendte forlaget Hønsetryk samlingen Anebilleder. En antologi om otte kvindelige forfattere , redigeret af Kirsten Hofstätter, Mette Müllerts og Karen Pontoppidan. Heri findes der et genoptryk af En Pyrrhussejr ledsaget af en introducerende redaktionel artikel, der kort og præcist redegør for de relevante biografiske omstændigheder. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708777712</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708777712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">727</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efterfølgende fulgte forlaget op på den store interesse for Adda Ravnkilde med flere genudgivelser. I 1981 kom Judith Fürste med et efterskrift af Anne Marie Løn, og i 1983 kom Tantaluskvaler med et kort efterskrift af Vibeke Blaksteen, der overvejende anskuer forfatterskabet ud fra en biografisk og socialpsykologisk vinkel. I alle Hønsetryks udgivelser er teksterne ændret i overensstemmelse med moderne retskrivning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708774064</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708774064</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">742</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tekstkritik </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708773648</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708773648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">745</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Teksterne er sat efter førsteudgaverne: Judith Fürste . En Fortælling , Gyldendalske Boghandels Forlag, Kbh. 1884, udgivet med et forord af Georg Brandes, forkortet af M. Galschiøt, samt To Fortællinger , Gyldendalske Boghandels Forlag, Kbh. 1884, udgivet og forkortet af Erik Skram. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708769632</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708769632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">763</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708764688</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708764688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">af Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">790</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Judith Fürste.  En Fortælling (med forord af Georg Brandes, forkortet af M. Galschiøt), 1884. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708762688</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708762688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">af Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">799</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- To Fortællinger (udgivet og forkortet af Erik Skram), 1884. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708761536</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708761536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">af Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">805</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- En Pyrrhussejr , i: Anebilleder. En antologi om otte kvindelige forfattere (sat med moderne retskrivning og forsynet med introducerende redaktionel artikel om Adda Ravnkildes biografi), red. Kirsten Hofstätter, Mette Müllerts, Karen Pontoppidan, Hønsetryk 1980. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708759280</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708759280</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">af Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">814</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Judith Fürste (sat med moderne retskrivning og forsynet med et efterskrift af Anne Marie Løn),Hønsetryk 1981. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708757968</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708757968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">af Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">820</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Tantaluskvaler (sat med moderne retskrivning og forsynet med efterskrift af Vibeke Blaksteen), Hønsetryk 1983. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708756672</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708756672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">af Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">826</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Privatarkiv i Byhistorisk Arkiv, Sæby. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708754768</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708754768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">837</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Andersen, Vilhelm: Illustreret Dansk Litteraturhistorie bd. IV, Kjøbenhavn, London, Berlin 1925, s. 504-505. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708753520</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708753520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">843</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Løn, Anne-Marie: Adda Ravnkilde , 1978. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708752368</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708752368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">849</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Schwanbom, Per: "Adda Ravnkilde - dansk författerpionjär" i: Horisont XXVII:1, 1980, s. 57-60. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708751104</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708751104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">855</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dalager, Stig/ Anne-Marie Mai: Danske kvindelige forfattere bd. II, 1982, s. 9-35. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708749936</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708749936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">861</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dahlerup, Pil: Det moderne gennembruds kvinder , 1983, s. 304-321. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708748784</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708748784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">867</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Busk-Jensen, Lise: "Adda Ravnkilde - en forløber" i: Dansk litteraturhistorie bd. VI, red. Lise Busk-Jensen m.fl., 1985, s.448-452. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708747488</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708747488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">873</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hjordt-Vetlesen, Inger-Lise: "Overrumplingens æstetik - om tale og tavshed i Adda Ravnkildes forforfatterskab" i: Edda 4, 1990, s. 298-312. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708746128</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708746128</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">879</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hjordt-Vetlesen, Inger-Lise: "Modernitetens kvindelige tekst" i: Nordisk kvindelitteraturhistorie bd. II, red. Inger-Lise Hjordt-Vetlesen m.fl., 1993, s. 330-353. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708744880</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708744880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">885</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hjordt-Vetlesen, Inger-Lise/ Birgit Mortensen: "Modernitetens vendepunkt. Om Adda Ravnkilde" i: Nordisk kvindelitteraturhistorie bd. II, red. Inger-Lise Hjordt-Vetlesen m.fl., 1993, s. 385-390. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708743040</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708743040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">om Adda Ravnkilde:</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">893</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mortensen, Birgit: "Adda Ravnkilde" i: Dansk kvindebiografisk leksikon bd. 3, red. Jytte Larsen, 2001, s. 163-164. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">addaravnkilde-p#idm140705708740704</field>
+    <field name="volume_id_ssi">addaravnkilde-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/addaravnkilde-p#idm140705708740704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
+    <field name="author_id_ssi">Inger-Lise%20Hjordt-Vetlesen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">907</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">f. 1942 cand.mag. i dansk og historie lektor i dansk litteratur ved Syddansk Universitet  </field>
   </doc>
 </add>

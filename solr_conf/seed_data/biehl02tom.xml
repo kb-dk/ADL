@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Den listige Optrækkerske</field>
+    <field name="id">biehl02tom</field>
+    <field name="volume_id_ssi">biehl02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl02tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Den listige Optrækkerske</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1765</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Den listige Optrækkerske</field>
+    <field name="id">biehl02tom#workid54231</field>
+    <field name="volume_id_ssi">biehl02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl02tom#workid54231</field>
+    <field name="page_ssi">3</field>
+    <field name="page_id_ssi">n3</field>
+    <field name="volume_title_tesim">Den listige Optrækkerske</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1765</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">64</field>
+    <field name="text_tesim">                                                                                                                       </field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="id">goldschmidt05tom</field>
+    <field name="volume_id_ssi">goldschmidt05tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt05tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm139806182010496</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">En Jøde</field>
+    <field name="id">goldschmidt05tom#workid54158</field>
+    <field name="volume_id_ssi">goldschmidt05tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt05tom#workid54158</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm139806182087856</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">81</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                               </field>
+  </doc>
+</add>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">skjold-bibl</field>
+    <field name="volume_id_ssi">skjold-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold-bibl#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">skjold-bibl#idm140663831846336</field>
+    <field name="volume_id_ssi">skjold-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold-bibl#idm140663831846336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">44</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For Johan Skjoldborg findes der indtil videre kun en bibliografi. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">skjold-bibl#idm140663831844864</field>
+    <field name="volume_id_ssi">skjold-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold-bibl#idm140663831844864</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">53</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Aage Jørgensen, Dansk litteraturhistorisk bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">skjold-bibl#idm140663831843888</field>
+    <field name="volume_id_ssi">skjold-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold-bibl#idm140663831843888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">59</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Internet-version af den bibliografi dækkende 1967-1986, som Dansklærerforeningen udgav i 1989, og de supplerings-hæfter, som er udkommet årligt siden. Gleerup, Jørgen, »'Nolens - niks - pst - færdig!' - om 'et fattigt Folk's umulige utopi. Johan Skjoldborg: 'Gyldholm'«. I: * Læsninger i dansk litteratur 1900-1940 . 1997. S. 27-44. Gregersen, Ellen Amtoft og Ingvard Jakobsen, Hannæs. Folk og egn . 1995. S. 409-20 (“Johan Skjoldborg”). Sørensen, Knud, Op over den lave jord. En bog om Johan Skjoldborg og hans tid . 1990. 263 s. Skjoldborg. Husmand og fortæller . Et udvalg ved Stig O. Carlsen og Steen Piper. 1986. 184 s. (Indledning s. 7-33.) Mayfarth, Antje, »'Und der Sozialismus ist seine Religion'. Zur Herausbildung des proletarischen Bewusstseins in der dänischen Literatur am Beispiel von Johan Skjoldborgs Roman 'Gyldholm'«. Augias , nr. 19, 1985, s. 30-36. Mathiesen, Hanne, m.fl. (red.), Johan Skjoldborg. Hannæsbo, stridsmand og digter . 1984. 77 s. (Essay af HM om JS og Hannæs s. 43-57.) Jensen, Troels Boeberg og Jes Jessen, »Det blinde stræb. Johan Skjoldborg: 'Slid'«. I: *Drift og socialitet. 1983. S. 121-30.Thorsen, Sven, »'Mod en levende personlighed, kan ingen højgraver stå sig'. En tekstcollage om Johan Skjoldborgs agitation mod højødelæggelserne i december 1899«. Antikvariske studier , VI, 1983, s. 51-67. Gleerup, Jørgen, »Dannelsesromanen og de ikke-borgerlige klasser«. I: * Udviklingsromanen . 1982. S. 336-51 (+ diskussionsreferat s. 351-54). (Om Johan Skjoldborgs romaner s. 339-43, om Martin Andersen Nexøs »Pelle Erobreren« s. 343-50.)Larsen, Tove Hedegaard, Pia Højer Mølbæk og Birthe Ørum Pedersen, Johan Skjoldborg. En bibliografi . 1982. iv, 215 s. (Udg. af Museet for Thy og Vester Hanherred, Thisted.) Christensen, Hans Jørn, Gyldholm . 1981. 43 s. (GMT-arbejdsmappe offentliggjort s.m. ny udg. af Johan Skjoldborgs roman, 141 s.)Gleerup, Jørgen, »Johan Skjoldborgs forsøg på en historisk adækvat forvaltning af det grundtvigske«. I: * Det grundtvigske bondemiljø . 1981. S. 247-55. Andersen, Richard, »Ad Johan Skjoldborgs nordjyske veje«. Dansk Udsyn , LX, 1980, s. 75-80. Gleerup, Jørgen, Utopi og sanselighed. Dannelsestemaet i Johan Skjoldborgs forfatterskab . 1980. 123 s. (Dansk kulturhistorie og bevidsthedsdannelse 1880-1920, 8.) Høbye, Lars, Ulrik Lehrmann og Poul Pedersen, Udstykning. Johan Skjoldborgs forfatterskab i relation til strategier for landproletariatets og husmændenes emancipation . 1977. iv, 283 s. (Duplikeret.) Olsen, Per, »Gammelt og nyt i Johan Skjoldborgs 'En Stridsmand'«. Tidens Skole , LXXV, 1973, s. 230-34. Tabor, Peder, »Johan Skjoldborg«. I hans: * Situationer og profiler . 1967. S. 110-31. Richardt Glandrup i: Danske Samfundsromaner (red. Helga Vang Lauridsen), 1946 s. 35-47 Eva Hemmer Hansen: Digter og Samfund , 1939, s. 89-115 August F. Schmidt: Skjoldborg. Nogle Oplysninger om hans forfatterskab , 1938 K.K. Nicolaisen: Skjoldborg. En lille Bibliografi og Karakterisktik , 1918  </field>
+  </doc>
+</add>

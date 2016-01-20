@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="id">holberg08</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140586845490256</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Første Samtale mellem tvende Handelsmænd</field>
+    <field name="id">holberg08#workid54198</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid54198</field>
+    <field name="page_ssi">13</field>
+    <field name="page_id_ssi">idm140586845459936</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">127</field>
+    <field name="text_tesim">               </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Anden Samtale mellem tvende Kiøbmænd</field>
+    <field name="id">holberg08#workid53727</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid53727</field>
+    <field name="page_ssi">25</field>
+    <field name="page_id_ssi">idm140586845449120</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">159</field>
+    <field name="text_tesim">                               </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Betænkning over den nu regieredende Qvæg-Syge</field>
+    <field name="id">holberg08#workid54634</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid54634</field>
+    <field name="page_ssi">51</field>
+    <field name="page_id_ssi">idm140586845427168</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">222</field>
+    <field name="text_tesim">                                 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Af Dannemarks Riges Historie</field>
+    <field name="id">holberg08#workid54835</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid54835</field>
+    <field name="page_ssi">80</field>
+    <field name="page_id_ssi">idm140586845402464</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">294</field>
+    <field name="text_tesim">                                  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Af Kirke-Historie</field>
+    <field name="id">holberg08#workid55055</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid55055</field>
+    <field name="page_ssi">113</field>
+    <field name="page_id_ssi">idm140586845375072</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">371</field>
+    <field name="text_tesim">                                                                   </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Af Helte-Historier</field>
+    <field name="id">holberg08#workid55475</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid55475</field>
+    <field name="page_ssi">176</field>
+    <field name="page_id_ssi">idm140586845319904</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">508</field>
+    <field name="text_tesim">                                                                                                      </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Af Heltinde-Historier</field>
+    <field name="id">holberg08#workid56170</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid56170</field>
+    <field name="page_ssi">276</field>
+    <field name="page_id_ssi">idm140586845239760</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">719</field>
+    <field name="text_tesim">          </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Af Jødiske Historie</field>
+    <field name="id">holberg08#workid56235</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid56235</field>
+    <field name="page_ssi">284</field>
+    <field name="page_id_ssi">idm140586845231328</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">746</field>
+    <field name="text_tesim">                </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Om Aarsagen til Roms umaadelige Tilvæxt</field>
+    <field name="id">holberg08#workid56352</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid56352</field>
+    <field name="page_ssi">300</field>
+    <field name="page_id_ssi">idm140586845216704</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">789</field>
+    <field name="text_tesim">                        </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Baccalaurprogram</field>
+    <field name="id">holberg08#workid56507</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid56507</field>
+    <field name="page_ssi">322</field>
+    <field name="page_id_ssi">idm140586845197376</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">844</field>
+    <field name="text_tesim">            </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Rektortale</field>
+    <field name="id">holberg08#workid56585</field>
+    <field name="volume_id_ssi">holberg08</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg08#workid56585</field>
+    <field name="page_ssi">332</field>
+    <field name="page_id_ssi">idm140586845187360</field>
+    <field name="volume_title_tesim">Værker i tolv bind; 8: Økonomi og historie</field>
+    <field name="author_name">Holberg, Ludvig</field>
+    <field name="author_id_ssi">Holberg,%20Ludvig</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Rosenkilde og Bagger</field>
+    <field name="published_date_ssi">1969-1971</field>
+    <field name="published_place_ssi">[Kbh.]</field>
+    <field name="position_isi">875</field>
+    <field name="text_tesim">                  </field>
+  </doc>
+</add>

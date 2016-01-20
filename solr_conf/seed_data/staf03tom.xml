@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Samlede digte</field>
+    <field name="id">staf03tom</field>
+    <field name="volume_id_ssi">staf03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/staf03tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140100023345376</field>
+    <field name="volume_title_tesim">Samlede digte</field>
+    <field name="author_name">Staffeldt, A. W. Schack von</field>
+    <field name="author_id_ssi">Staffeldt,%20A.%20W.%20Schack%20von</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det danske Sprog- og Litteraturselskab; C.A. Reitzel</field>
+    <field name="published_date_ssi">2001</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+</add>

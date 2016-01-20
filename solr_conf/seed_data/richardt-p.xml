@@ -1,0 +1,2787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">richardt-p</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413269232</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413269232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning.Perioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">48</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inspireret af Julirevolutionen 1830 i Frankrig begyndte en politisk debat at gøre sig gældende i det danske samfund, som i det følgende tiår resulterede i en stadigt voksende liberal opposition især blandt borgere og studenter. Samtidigt blev stemmerne, der krævede enevælden afskaffet og ny forfatning, stadigt kraftigere ikke mindst under indtryk af Oktoberrevolutionen i Frankrig 1848, og efter Frederik VII's tronbestigelse i januar samme år blev disse krav nogle måneder senere indfriede under langt fredeligere forhold end i så mange andre europæiske lande og førte året efter, 1849, til Grundlovens indførelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413268080</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413268080</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning.Perioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">51</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1840'erne øgedes også uroen i Slesvig-Holsten, hvis befolkning krævede en fri forfatning for begge hertugdømmer, uafhængighed fra Danmark og optagelse i Tyske Forbund. Disse krav blev i marts 1848 konkret formuleret af en delegation af tysksindede stænderdeputerede, men afvist af de liberale politikere i København, der nu havde samlet sig i bevægelsen De Nationalliberale. Disse henvendte sig til kongen, krævede en ny nationalliberal regering og en fri forfatning, men kun for Danmark og Slesvig, og dette blev imødekommet af kongen den 22.3. Hermed var den skæbnesvangre Ejderpolitik indledt, slesvigholstenerne gjorde med Prøjsens støtte oprør, og allerede den 12.4. anerkendte Tyske Forbund den provisoriske regering i Kiel. Krigen, den såkaldte Treårskrig, fortsatte - kun afbrudt af en våbenstilstand i efteråret og den tidlige vinter 1848-49 - frem til freden i 1850, der blev sluttet efter det blodige, men sejrrige slag ved Isted. Det blev den stædige fastholden ved Ejderpolitikken, der førte til en genoptagelse af krigen i 1864, denne gang mod stormagterne Prøjsen og Østrig, der endte med et knusende dansk nederlag. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413265824</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413265824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning.Perioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">54</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Disse års voldsomme patriotisme, der efter slaget ved Isted blev ledsaget af en tilsvarende optimisme vedrørende landets fremtid, styrkede utvivlsomt romantikkens drøm om en ny storhedstid for Danmark. Den blev suppleret af en pan-skandinavisk bevægelse, den såkaldte skandinavisme, en ren akademisk bevægelse, som også de unge nationalliberale politikere tog del i. I skandinavismens navn arrangeredes en lang række uhyre populære og velbesøgte studentermøder i Danmark og Sverige. Man forfulgte et virkelighedsfjernt mål, et forenet Norden under en fælles konge, og skandinavismen manifesterede sig første gang politisk, da en række frivillige fra de to andre nordiske lande i 1848 sluttede sig til den danske hær. Men den led sit afgørende nederlag i 1864, da en norsk-svensk militær bistand ikke blev ført ud i livet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413263728</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413263728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning.Perioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">57</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I litteraturen resulterede patriotismen og skandinavismen i et væld af tidsbundne og nu glemte fædrelandssange og studenterviser med Carl Ploug som en hovedskikkelse. Det er ikke i disse romantiske genrer, man finder den øgede virkelighedserkendelse, der kendetegner perioden. Men det er alligevel karakteristisk, at netop studenterdigteren Ploug ikke desto mindre engagerede sig journalistisk med sine polemiske artikler i det nationalliberale dagblad Fædrelandet og politisk som medlem af Folketinget og Landstinget i lange perioder. Forfatteren Meïr Aron Goldschmidt skrev i midten af 1840'erne romanen En Jøde og et bind Fortællinger , der indeholder realistiske tidsbilleder fra København og provinsen samt nogle af de mest dybtgående psykologiske portrætter i dansk litteratur overhovedet - og også han var journalist. I 1840 grundlagde Goldschmidt således det berømt-berygtede ugeskrift Corsaren ,  der med satirisk vid angreb magthaverne, dvs. den enevældige konge og den konservative statsadministration; i dets seksårige levetid blev bladet beslaglagt 40 gange! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413257824</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413257824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning.Perioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">75</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nederlaget i 1864 førte til en brat og smertefuld opvågnen til en realpolitisk virkelighed, en opvågnen, der til en vis grad allerede var foregrebet af litteraturen i de foregående årtier, og som nu førte til en skærpet og voldsom filosofisk debat om forholdet mellem idé og virkelighed, mellem en konservativ idealisme og en i stigende grad radikal realisme, som allerede havde været foregrebet af Frederik Paludan-Müllers og Søren Kierkegaards strenge krav om et betingelsesløst og personligt henholdsvis etisk og religiøst engagement. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413256784</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413256784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning.Perioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">78</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Erobringen af den ydre virkelighed var allerede begyndt i 1820'erne med Steen Steensen Blichers noveller og videreført i det næste tiår af Carl Baggers og H.C. Andersens romaner, hvis handlinger alle udspilles i et samtidsmiljø og dermed danner et skarpt skel til B.S. Ingemanns historiske værker. I 1840'erne trådte imidlertid en ny generation af forfattere frem, der - og dette er en nyorientering i dansk litteratur - på det filosofiske plan gjorde oprør mod den romantiske idealisme og på det litterære plan mod den poetiske realisme, der blev beskyldt for en bevidst idyllisering af den ydre verden. I modsætning hertil orienterede disse forfattere sig mod den nye sociale og politiske virkelighed og indførte en mere realistisk og kritisk beskrivelse af hverdagen. Poul Chievitz inddrog med sine ungdomsværker, især romanen Fra Gaden (1848), som den første danske forfatter sypigen og fabriksarbejderen i litteraturen, og rettede sit skyts mod et hyklerisk og bornert samfund, hvor moralen blev målt med forskellig alen; Hans Egede Schack - i sine unge år en ivrig tilhænger af skandinavismen - afdækkede i sin roman Phantasterne (1857) de tragiske resultater af overdreven fantasteri og romantisk drømmesyge, mens Vilhelm Bergsøe i sin roman Fra den gamle Fabrik (1869) gav nye og fascinerende indblik i arbejdermiljøet i industrialismens tidlige år. Det er betegnende for disse forfattere, at de alle bevidst har valgt prosagenren. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413251200</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413251200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning.Perioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">90</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I modsætning til disse forfattere fortsatte lyrikerne omkring 1850-60 den romantiske tradition fra århundredets begyndelse. De lod sig først og fremmest inspirere af Adam Oehlenschläger og så sig endog som hans arvtagere - dette gælder både Ploug, Richardt og den unge Hans Vilhelm Kaalund - men alligevel ville det være ukorrekt at betragte dem som rene epigoner. Selvom deres kunstneriske formsprog og udtryksmåde er traditionel og tydeligvis en videreførelse af romantikkens stil og metrik, er deres digtning ikke uberørt af kampen mellem romantikkens idealisme og en ny tids krav om politisk og social engagement. De fleste af disse digtere holdt endnu fast ved en metafysisk livsanskuelse og afviste den naturalisme og materialisme, der brød igennem, mens de endnu var aktive som forfattere. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413324880</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413324880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">101</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ernst Christian Richardt blev født i København den 25.5.1831. Slægten på fædrene side var indvandret fra England over Tyskland til Danmark og havde i flere generationer været beskæftiget i skovvæsnet på Gisselfeldt. Hans fader var handelsbetjent, senere varemægler Andreas Emanuel Richardt (1799-1873) og moderen, Elisa Margrethe, født Christensen (1791-1855). Fra faderen, der var en ivrig teater- og operagænger og selv skrev viser, arvede Richardt sin musikalitet, og han lærte som barn at spille klaver. Senere blev han en habil pianist, hvis repertoire rakte fra Bach til H.C. Lumbyes dansemelodier. Moderens fromme og stille sind prægede hans religiøse holdning, og også hendes svagelige helbred skulle han arve. I moderens familie var der tungsind, som Richardt selv undertiden led under; hans søster og broder blev begge sindslidende. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413322688</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413322688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">104</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt, der voksede op i byens centrum tæt ved Højbroplads, blev som seksårig sat i Borgerdydskolen på Christianshavn. Han kom under indflydelse af skolens to navnkundige rektorer, først den klassiske filolog Niels B. Krarup og dernæst litteraturhistorikeren Martin Hammerich, hans tilkommende svigerfader. De introducerede ham henholdsvis til den antikke og den danske lyrik. Richardt selv blev skolens poet, og hans kammerat og senere nære ven Peter Heise satte dengang som senere musik til teksterne, der blev opført i skolegården. Andre livsvarige venner fra skoletiden var de to brødre Gotfred og Vilhelm Rode, den første pædagog og literaturhistoriker og fader til digteren Helge Rode, den anden en kendt studenterpolitiker og ledende skikkelse inden for skandinavismen. Det ældste bevarede digt af Richardt er dateret den 11.8.1837 og er rettet til moderen (Carlsen: Christian Richardt , s. 46): </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413319456</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413319456</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">111</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Lille gode Moder </field>
+    <field name="text_tesim">En af dine Poder </field>
+    <field name="text_tesim">her dig skriver til </field>
+    <field name="text_tesim">ønsker at du længe </field>
+    <field name="text_tesim">her med dine Drenge </field>
+    <field name="text_tesim">i bestandig Sundhed leve vil. </field>
+    <field name="text_tesim">Din Christian. 6 Aar </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413230768</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413230768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">137</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt blev student i oktober 1848, under våbenstilstanden i Treårskrigen, og kunne naturligvis ikke undgå at blive smittet af den patriotiske stemning, der herskede. Allerede da efterretningen om nederlaget ved Slesvig den 23.4. samme år - en begivenhed, der fik sit forløsende udtryk i Plougs kendte sang "Paaskeklokken kimed mildt" - havde nået København, havde den unge gymnasiast skrevet et lille digt "Den 27de April 1848" (Carlsen: Christian Richardt , s. 49) med åbningslinierne: "Barsk er Vaaren, skarpe Vinde fare over Søen hen" som blev trykt anonymt i Berlingske Tidende den 4.5. Efter overstået studentereksamen bestemte Richardt sig til at studere teologi, men foreløbigt lagde tidens nationale interesser mest beslag på ham. Desuden meldte han sig omgående ind i Studenterforeningen og deltog begejstret i dens sammenkomster. Generelt herskede der efter fredsslutningen i 1850 en lys og optimistisk stemning, som Richardt rammer vel i sit digt "Danmark": </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413227152</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413227152</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">147</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">Freds-Svalen hænger under Taget </field>
+    <field name="text_tesim">og kvidrer efter Tordenbraget: </field>
+    <field name="text_tesim">Staa fast mit gamle danske Hus! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413223024</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413223024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">172</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Allerede i 1849 var Richardt blevet medlem af Studentersangforeningen, og da Treårskrigen havde skabt en voldsom uvilje mod at anvende de tidligere så populære tyske sangtekster, blev Richardt bedt om at skrive danske sange, og dette var han den rette til. Inden længe havde sangforeningen en række af hans digte på repertoiret: "Studentersang" ("Vi er et lystigt Folkefærd"), "Det er Efteraar" ("Jeg fryser, siger den Lærke graa"), "Tøvejr" ("Hør, hør hvor det tøer!") og "I Gadedøren" ("Den Aften gik jo nydelig"). Og senere, i 1863, skrev han til indvielsen af den nye Studenterforeningsbygning kantaten "Vi hilse Dig, vort nye Hjem" med musik af J.P.E. Hartmann; fra 1858-64 var Richardt ovenikøbet meddirektør for Studentersangforeningen og dens ledende dirigent. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413220800</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413220800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">178</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt var således stærkt involveret i tidens blomstrende studenterliv, og disse år var hans lykkeligste tid. Ud over Studenterforeningen blev han også medlem af en privat studenterforening, Oasen, stiftet 1850. Dens medlemmer var næsten alle studenter fra 1848, og dens kerne var en kreds af klassekammerater fra Borgerdydskolen. Ved de månedlige møder holdtes foredrag, læstes komedier højt, musiceredes og fejredes punchegilder. Richardt var frem til Oasens lukning i 1856 foreningens pianist og hoveddigter med en række uudgivne viser; men det sted, hvor han for alvor kom til at udfolde sine digteriske evner som forfatter til studenterviser og nordiske sange, var Studenterforeningen. I 1852 blev han indvalgt i senioratet. I disse år skrev han også - under påvirkning af Carl Ploug og Jens Chr. Hostrup, som han begge sluttede venskab med - to studenterkomedier, Declarationen og Kong Rosmer , der begge er vittige og har dramatiske kvaliteter. Declarationen , skrevet i efteråret 1851, blev opført tre gange på Hofteatret i maj 1852 sammen med Plougs komedie Et Besøg , og alle tre forestillinger blev overværet af kongen, Frederik VII, der skal have moret sig kosteligt. Kong Rosmer , der er overgiven parodi, blev opført til karnevallet i Studenterforeningen 1857. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413214432</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413214432</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">196</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ligesom Martin Hammerich og brødrene Rode, var også Richardt en ivrig tilhænger af skandinavismen. I 1856 deltog han således i studentermødet i Uppsala, hvortil han digtede både en "Rejsesang" ( SD I 10 ) med begyndelseslinierne: "Paa mægtige Vinger mod Norden det gaar,/ og det er en Rejse fra Vaar og til Vaar" og en hjemkomstsang, og på selve rejsen både skrev og foredrog han et par lystige viser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413211888</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413211888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">204</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Alle disse aktiviteter betød, at Richardt først i januar 1857 blev teologisk kandidat med en uhyre beskeden eksamen. Til julen 1860 udkom hans første digtsamling, Smaadigte - den fordringsløse titel er karakteristisk for den beskedne digter - der indeholder en række af hans kendteste tekster. Foreløbig ernærede Richardt sig som lærer på drenge- og pigeskoler, i vinteren 1860-61 og igen i 1863 og 1865 således på Natalie Zahles skole og seminarium. Han underviste dels børn, dels voksne i religion, dansk, historie, geografi og sang. Ved siden af sin skolegerning plejede han også andre interesser. I begyndelsen af 1865 hjalp han således teologen og politikeren D.G. Monrad med at oversætte nogle gammeltestamentlige skrifter. Og ved årets slutning blev Richardt tillige anonym musik- og teateranmelder ved Dagbladet . Under dette arbejde trådte han i forbindelse med den ti år yngre Georg Brandes, som han havde stiftet bekendtskab med i begyndelsen af 1860'erne, og selv om man livsanskuelsesmæssigt dårligt kan tænke sig en større modsætning end mellem den unge radikale kritiker og den studentikose teolog med rod i den nationalliberale bevægelse, udviklede der sig et varmt og hengivent venskab, der skulle vare lige til digterens død. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413207776</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413207776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">213</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1861 tildeltes han for Smaadigte det Anckerske Legat, et rejsestipendium, der gjorde det muligt for ham om efteråret at begive sig ud på en større udenlandsrejse, der ad Rhinen først gik til Svejts og Italien. Efter et længere ophold i Rom, hvor Richardt tilbragte vinteren og færdedes i den danske kunstnerkoloni, og her var sammen med Heise og sin gamle rektor Martin Hammerich med familie, hvis datter Marie han straks forelskede sig i, fortsatte han den 29.3. til sit egentlige mål, Palæstina, og ankom i Jerusalem på Palmesøndag 1862. Richardt blev omtrent en måned i "den hellige Stad" ( Det hellige Land , s. 40) og påbegyndte hjemrejsen i begyndelsen af juli over Beirut, Konstantinopel og Athen til Italien - her blev han uden for Rom forlovet med Marie Hammerich. Det kunstneriske resultat af rejsen blev en bog i prosa og vers, Det hellige Land . Straks efter sin hjemkomst i foråret 1863 skrev Richardt sin Studenterforenings-kantate, og da der i maj blev holdt et stort studentermøde i anledning af Polens frihedskamp, var han mødets første taler. I september fik han antaget en oversættelse af J.L. Runebergs skuespil Kan ej fra 1862 til Det Kgl. Teater, og samtidig gik han efter alvorlige overvejelser om at gå ind i en præstegerning i gang med forberedelserne til sin dimisprædiken, som han holdt den 15.11. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413202352</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413202352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">228</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da krigen udbrød i 1864 overvejede Richardt at melde sig som frivillig, men blev af sine venner på grund af sit skrøbelige helbred talt fra denne tanke. Det må have været vanskeligt at træffe denne beslutning for den patriotiske digter, hvis fædrelandskærlighed ikke blot blev styrket af nederlaget, men også af de mange rejser han gennem årene foretog i udlandet, hvilket især digtet "Hjemvee", med dets diskrete henvisning i første strofe til Oehlenschlägers kendte digt med samme titel, vidner om: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413201072</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413201072</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">232</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Aftenvind, med dine svale, </field>
+    <field name="text_tesim">vædesvangre, friske Pust, </field>
+    <field name="text_tesim">naar igjen fra Sarons Dale </field>
+    <field name="text_tesim">hjem Du vender, sødt berust, </field>
+    <field name="text_tesim">tag en Hilsen med i Følge </field>
+    <field name="text_tesim">over Middelhavets Bølge! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413195760</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413195760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">266</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Selve krigen gav Richardt inspiration til en række følelsesladede fædrelandsdigte, der blev trykt i Nyere Digte fra 1864. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413194464</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413194464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">272</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1865 blev Richardt gift med Marie Koës, født Hammerich (1842-1900), som nævnt datter af hans tidligere lærer og rektor Matin Hammerich. Ægteskabet var yderst lykkeligt, og parret fik tre børn. Gennem ægteskabet introduceredes Richardt til det højere borgerskab; desuden var svigerfaderen godsejer, og i hans hjem i København færdedes tidens kendteste kulturpersonligheder. Den spredte virksomhed som oversætter, lærer, anmelder og udgiver af egne og andres digte - alene udgav Richardt i 1866 Vintergrønt , der indeholder skandinaviske fortællinger og digte og i 1867 antologien Fra danske Forfattere. Digte og Skizzer , og sammen med Gotfred Rode udgav han 1866 Fortællinger og Vers for Store og Smaa og 1868 En Billedbog. Fortællinger og Vers - var i længden ikke tilfredsstillende, og i 1867 tog Richardt imod tilbuddet om at blive forstander på den nyoprettede Tune Højskole ved Køge. Imidlertid havde han - upraktisk og noget åndsfraværende som han var - ingen succes hverken som administrator eller lærer; han følte sig heller ikke forbundet med grundtvigianismen eller bondestanden. Som følge af disse forhold gik skolen ikke godt. I året 1870-71, Richardts sidste år på skolen, var der således kun 11 elever, og i 1871 blev den omdannet til et landbrugsinstitut. Fra denne periode stammer Texter og Toner (1868), hvor Richardt fortsætter det foregående binds naturlyrik. Men bindet indeholder også en række andre lyriske genrer og indeholder ligeledes hans velnok mest kendte sang, "Altid freidig, naar du gaar". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413188464</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413188464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">290</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da Richardt forlod Tune i 1871, søgte han præstekald. I 1872 udnævntes han til kapellan i Store Heddinge; 1876 blev han sognepræst i Ørsted ved Årup på Vestfyn og 1886 præst ved Vemmetofte Kloster. På en måde betød forflyttelsen til Vemmetofte en hjemvenden til barndommen, hvor han ofte havde været gæst i brødrene Rodes hjem i Vallø. Richardt skal have været en god og pligtopfyldende sjælesørger, men digteren, der havde det skrevne ord i sin magt, synes ikke at have været en fængslende prædikant; til gengæld var han letbevægelig og skal ofte på prædikestolen have haft svært ved at dæmpe sin bevægelse og holde tårerne tilbage. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413187392</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413187392</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">293</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med årene blev Richardts helbred stadigt dårligere. Allerede i Tune led han af en generende øjensygdom, i Store Heddinge fik han i vinteren 1873 en ubehagelig knælidelse og senere ramtes han af et lettere slagtilfælde. Richardt rejste næsten hver sommer på rekreation til udlandet, til Norge, Svejts eller Tyrol. Hans produktivitet nærmest øgedes med årene - nævnes bør også hans fine gendigtninger i 1876 af Nikolaus Lenaus episke digt Savonarola og i 1889 af Johan Olof Wallins salmer Dødens Engel - og han udsendte en række digtsamlinger frem til det sidste bind Blandede Digte (1891). Det følgende år gik det stærkt ned ad bakke med Richardts helbred. Han blev om foråret indlagt på Kommunehospitalet og tilbragte sommeren på Refsnæs Kysthospital. Om efteråret var han igen hjemme i Vemmetofte, hvor han stille sov ind den 18.12.1892. Richardt blev begravet i det Hammerichske familiegravsted på Ørslev Kirkegård ved Vordingborg. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413183456</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413183456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi.Studenterdigter, højskolelærer og præst</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">305</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georg Brandes sluttede sin nekrolog over Richardt med disse ord: "Kærnen i hans Væsen var Samvittighedsfuldhed. Han var samvittighedsfuld som Menneske, samvittighedsfuld som Kunstner" (Brandes: Samlede Skrifter , bd. 2, s. 490). Brandes har hermed tydeligvis kun indfanget én side af Richardts væsen og intet nævnt om et livssyn, der selv var ham fjernt. Dette religiøse og harmoniske livsyn kommer derimod som i et koncentrat til udtryk i digterens egne ord på indersiden af titelbladet til Halvhundrede Digte (1878), der bygger på glæden ved det dennesidige og glæden ved det hinsidige: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413180256</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413180256</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">315</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Glæden ved Guds grønne Jord, </field>
+    <field name="text_tesim">Glæden ved Guds Naade-Ord, </field>
+    <field name="text_tesim">de vil ikke kriges; </field>
+    <field name="text_tesim">Lærkesang og Klokkeklang, </field>
+    <field name="text_tesim">de kan godt forliges. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413170992</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413170992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">380</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Omkring julen 1860 (med 1861 på titelbladet) udkom Richardts første digtsamling, Smaadigte , med flere af hans kendteste digte, viser og sange. Populære i tiden var ikke mindst de muntre studentersange, den forelskede hyldest "For Danmark", forårsvisen "Ved Løvspring" og digtene om "Nordens Eenhed", "Nordens Kvinder" og "Danmarks Frihed" (med førstelinien: "Frihed! Du Nordens kjække Mø"), der alle tager udgangspunkt i skandinavismens ønske om et forenet Norden. Eftertiden husker snarere "Vuggevise" ("Sov mit Barn, sov længe"), det religiøse digt "Lær mig" (med førstelinien: "Lær mig Nattens Stjerne") - begge skrevet i den samme dalende trokæiske rytme, der var hans yndlingsversemål - og fablen om hønen "Tulte". Således introducerer bindet forfatterskabets forskellige temaer: sange til Danmark og Norden, natur- og tankedigte, religiøs lyrik og fortællende digte. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413168016</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413168016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">386</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter den store udlandsrejse til Palæstina i 1861-62 skrev Richardt rejsebogen i prosa og vers Det hellige Land. Dagbog og Digte . Et uddrag blev trykt 1863 i Nordisk Universitets-Tidsskrift under titlen Dagbogsblade fra det hellige Land i Paasken 1862 , og først i 1870 udkom værket i bogform. Bogen er velskrevet, omend dens prosa er noget omstændelig, mens digtene her - og det gælder også de øvrige rejsedigte, som Richardt samlede i Nyere Digte (1864) - har betydelige dramatiske og plastiske kvaliteter, hvis det ikke direkte er en buste eller statue Richardt besynger som i digtet fra Italien "Santa Rosalia": </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413163696</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413163696</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">402</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">I sin Grotte højt paa Fjeldet, </field>
+    <field name="text_tesim">i det hvide Marmor skaaret, </field>
+    <field name="text_tesim">slumrer Helgenindens Billed </field>
+    <field name="text_tesim">med en Rosenkrans om Haaret: </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413159296</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413159296</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">430</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At Richardt er en religiøs, kristen digter kommer igen og igen til udtryk ikke mindst i digtene fra Orienten. Iagttagelsen bliver til et rent symbol på en religiøs erfaring eller oplevelse. Således formår han i digtet "Sophia-Moskeen" ( SD I 73-74 ) umærkeligt at vende læserens opmærksomhed fra de opstigende Minareter og "Profetens brune, turbanklædte Sønner" mod "en Christus-Skikkelse med aabne Arme" og ganske tydeligt bringe Thorvaldsens bekendte Kristusstatue fra 1821 i erindring. Den eneste virkeligt bemærkelsesværdige tekst blandt rejsedigtene er imidlertid det ustrofiske prosadigt "Telegrafen over St. Gotthard", der med dets raske tempo, delvist nøgterne diktion og teknologibegejstring tydeligt peger frem mod Johannes V. Jensen. Digtets dristige billedsprog og voldsomme energi kommer frem allerede i optakten: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413156208</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413156208</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">439</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Over Alperne, </field>
+    <field name="text_tesim">Jordens Ribbeen, </field>
+    <field name="text_tesim">af hvis ene Italien blev skabt, </field>
+    <field name="text_tesim">den dejlige Eva! </field>
+    <field name="text_tesim">vinder sig Traaden, </field>
+    <field name="text_tesim">den altid tause </field>
+    <field name="text_tesim">dog talende. </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413150704</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413150704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">476</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En række af disse rejsedigte dominerer sammen med fædrelandsdigte, inspireret af krigen 1864 og samlet i den store digtkreds "Et Aar", og en række lejlighedsdigte, samlingen Nyere Digte , der udkom ved juletid 1864. "Et Aar", der indeholder nogle af Richardts mest følelsesladede digte, inpireret af øjeblikkets begivenheder, begynder med et mindedigt fra 1863 om den netop afdøde Frederik VII. Det følges af digtet "Mørke" om sorgen og de bange anelser, dødsfaldet medfører: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413148432</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413148432</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">483</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">I Syd, af gridske Fjender en lynsvanger Sky; </field>
+    <field name="text_tesim">i Nord, hos vore Frænder kun Taage til Ly; </field>
+    <field name="text_tesim">i Øster og i Vester knagende, knugende Is - </field>
+    <field name="text_tesim">hvor skal dog vor lille Baad gaa fri for Forlis? </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413143504</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413143504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">514</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I digt efter digt, der tilhører det vægtigste, der overhovedet er skrevet om krigen 1864, skildres nu Dannevirkes rømning, Slesvigs besættelse, slaget ved Helgoland og endelig nederlaget. Hurtigt bliver Richardt klar over Danmarks underlegenhed, og han søger i kirkekantaten, skrevet i anledning af Dybbølskansernes belejring, "I Nød og Fare" trøst i Guds magt og retfærdighed: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413142192</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413142192</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">518</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">O lad det mærkes, </field>
+    <field name="text_tesim">meer end de Stærkes </field>
+    <field name="text_tesim">er Du de Svages </field>
+    <field name="text_tesim">vældige Gud! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413137440</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413137440</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">549</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Skånselsløst gør Richardt i det afsluttende digt "Ved Løvfald" op med fortiden og dens nationalromantiske drømme: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413136544</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413136544</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">553</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">Ja lad ramle </field>
+    <field name="text_tesim">af det Gamle </field>
+    <field name="text_tesim">Alt hvad kun er vissent Løv, </field>
+    <field name="text_tesim">skjøre Planer </field>
+    <field name="text_tesim">gustne Faner </field>
+    <field name="text_tesim">vejres hen og vorde Støv! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413130928</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413130928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">590</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men oprejsningen vil komme, og digtkredsen ender med at udtrykke et trøstigt håb og manende opfordre til i fællesskab at arbejde for landets genopbygning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413130208</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413130208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">593</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Texter og Toner (1868), hvis titel egentlig er dækkende for Richardts samlede produktion, genoptager både debutsamlingens naturlyrik og fabeldigtning. Bindet indeholder også en række kantater og mindedigte, nye genrer, som Richardt skulle komme til at beherske med sandt mesterskab, og endelig det længere eventyrdigt "Tornerose", der i 1873 opførtes med musik af Peter Heise. Ridderen, der befrier Tornerose, erkender, at ikke magt, men troen kan udrette alt, hvilket han udtrykker i sin sang "Altid frejdig, naar du gaar" ( SD I 239 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413127232</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413127232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">603</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardts produktivitet øgedes med årene med en række digtsamlinger, hvoraf de væsentligste er Billeder og Sange (1874), med den kendte, medrivende "Sommervise": "Naar Egene knoppes" ( SD I 330 ), det farveprægtige og sansemættede bibelske heltedigt "Judith" og en lang række lejlighedsdigte, Halvhundrede Digte (1878), operalibrettoen Drot og Marsk (1878), Billedtexter, gamle og ny (1879), Kantater og Digte (1880), Vaar og Høst (1884) og endelig Blandede Digte (1891). De tre sidste bind udmærker sig især ved talrige, dybtfølte mindedigte bl.a. til vennerne Gotfred Rode og Peter Heise fra henholdsvis 1878 og 1879 og fint tegnede portrætter af komponisterne J.P.E. Hartmann og Niels W. Gade fra henholdsvis 1885 og 1887. Fremhæves bør endvidere de indtrængende religiøse tekster fra Richardts sidste leveår, der afslutter samlingen fra 1891, og vidner om digterens dybe religiøsitet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413105616</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413105616</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker for scenen</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">638</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Studenterkomedien i én akt, Declarationen , der er noget så sjældent som en jysk vaudeville, blev skrevet i efteråret 1851 og opført tre gange på Hofteatret i maj 1852. Ni år senere blev den opført i noget forkortet skikkelse på Det Kgl. Teater og holdt sig i repertoiret frem til ca. 1900 med flere end 80 opførelser. Derimod blev den først trykt i 1869 efter at have verseret i mangfoldige afskrifter og opført utallige gange rundt omkring i landet af mindre teatergrupper. Hostrup skal have hjulpet Richardt med udarbejdelsen, anden inspiration fandt denne i Molières debutkomedie, Les femmes savantes (1672, da. overs. 1863). Og som denne er Richardts komedie en dramatisk bagatel. Stykket er uhyre løst sammenføjet og lever alene i kraft af dets noget studentikose lystighed, de glimrende, indlagte sange og dets komiske figurer, hvoraf den pedantiske adjunkt Stang i lige linie nedstammer fra Poul Martin Møllers Licentiat-skikkelse i En dansk Students Eventyr (ca. 1824, udg. 1843), men også er tydeligt beslægtet med Søren Torp i Hostrups Gjenboerne (1844), og måske endda kan ses som en mild karikatur af Søren Kierkegaard. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413099872</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413099872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker for scenen</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">656</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den ultrakorte, syv sider lange komedie Kong Rosmer blev opført i 1857 til Studenterforeningens karneval i Casino-teatret med stor succes, der ikke mindst skyldtes et formidabelt spil af Karl Mantzius i titelrollen. Dens fulde titel lyder: Romantisk nationalt Karnevals-Drama i 3 Akter, med Sang, Dands og Mord ; musikken var komponeret af Christian Julius Hansen. Undertitlens løfte om et nationalt element tilgodeses af en lang række satiriske hentydninger til den aktuelle politiske spænding mellem Danmark og hertugdømmerne, og det romantiske aspekt leveres ved at parodiere den ophøjede patetiske stil, som den kendes fra Oehlenschlägers tragedier samt ved et overdrevent brug af folkeviseudtryk, således i skakvisen mellem Rosmer og dennes sanger Erling: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413096592</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413096592</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">666</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Erling (spiller Skak, leger paa Harpen og sjunger): </field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">Det lysted hannem at stride </field>
+    <field name="text_tesim">Med arge Jettekuld, - </field>
+    <field name="text_tesim">(taler) Skak! </field>
+    <field name="text_tesim">Tog han saa sin Sølver-Hjelm </field>
+    <field name="text_tesim">Alt af hin røden Guld. </field>
+    <field name="text_tesim">Men aldrig jeg glemmer Mester Erik! </field>
+    <field name="text_tesim">(taler) Mat! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413091088</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413091088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker for scenen</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">704</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter dette nederlag myrdes Erling af Rosmer, og dennes datter Hedvig - rimer på "det veed vi!" (smst., s. 4) - besvimer prompte. Dog viser det sig, at Erling ikke blev ganske myrdet, han finder kongens forsvundne søn og kan forenes med sin elskede. Richardt har her skrevet en grinagtig parodi på alt og alle, der ender i den rene absurditet, som i denne dansevise: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413089600</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413089600</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">708</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Ullen dullen dof </field>
+    <field name="text_tesim">Fingen fangen fof </field>
+    <field name="text_tesim">fof for alle Mærkepander </field>
+    <field name="text_tesim">æ bæ ba bof, </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413086560</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413086560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker for scenen</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">731</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ligger Declarationen i forlængelse af traditionen fra Plougs og Hostrups syngespil, er Kong Rosmer , der er musikalsk gennemarbejdet ned til den mindste detalje, mere beslægtet med den samtidige Erik Bøgh og dennes slagkraftige revyagtige tekster. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413084304</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413084304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker for scenen</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">740</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Først i 1878 vendte Richardt tilbage til teatret, denne gang med en operalibretto, Drot og Marsk med undertitlen Tragisk Sangdrama , hvortil hans ven Peter Heise skrev musik. Emnet, der kendes fra folkevisen, var tidligere blevet udformet dramatisk både af Oehlenschläger ( Erik Glipping , 1844) og Carsten Hauch ( Marsk Stig , 1850). Netop til Hauchs drama havde Heise i 1856 skrevet en ouverture, og i 1875 besluttede han at komponere en opera over emnet og henvendte sig til Richardt, der ganske vist anvendte Hauchs tekst som sit udgangspunkt, men i øvrigt skrev en yderst original libretto, måske den fineste i Danmark. Denne blev indleveret til antagelse til Det Kgl. Teater allerede i december 1875. Teatrets censor Chr. K.F. Molbech skrev i sin indstilling: "At Stykket ved Siden af sin specielle musikalske Brugbarhed tillige er en smuk Digtning, hvori en hjemlig Sprogtone med Klang af Folkevisen er heldig anslaaet og gennemført, giver det forhøjet Værd" (Carlsen: Christian Richardt , s. 203). Næsten to år senere blev så musikken antaget. Teksten blev udgivet i bogform i marts 1878, operaen havde premiere den 25.9. samme år, og da forelå librettoen allerede i andet oplag. Frem til 1885 opførtes Drot og Marsk 22 gange, og den har holdt sig på Det Kgl. Teaters repertoire frem til vore dage. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413077504</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413077504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker for scenen</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">761</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Skildringen af den farlige Don Juan-figur Erik Glipping: "han har et Kast i sit Øje, som gjør al Troskab kold" ( Drot og Marsk , s. 27) og hans forførelse af kulsvierpigen Aase og derefter af den lidenskab, kongen formår at tænde i Marsk Stigs hustru, Ingeborg, giver indblik i skjulte lag i menneskesindets erotiske og dæmoniske lag, og viser en side af Richardt, han ellers holder godt skjult i sit øvrige forfatterskab. Hertil kommer karakterstudiet af Rane, kongens kammersvend, der lokker Glipping i baghold drevet af et afgrundsdybt had, der skyldes hans forelskelse i Aase, men også at han er blevet vraget af kongen som ægtemand til dennes søster Hedevig, og ikke mindst at han har måttet føle kongens pisk: "Jeg sanket har mit Nag fra de tusind Naalesting, - min Hævn skal komme bagfra som Lossens, Spring i Spring!" (smst., s. 37). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413072672</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413072672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Viser og Sange</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">778</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt blev i 1850'erne studenternes digter, som Ploug havde været det 10 år før. Studentersangen, skrevet til foreningen Oasen, "Vi er et lystigt Folkefærd" ( SD I 3-4 ) med dens modstilling af det frie studenterliv og den indsnævrende, materialistiske filisterverden, viser, at Carl Ploug ikke har levet forgæves. Denne hyldes ovenikøbet direkte i "Studentervise" ( SD I 11-12 ), der også gennem sit skandinaviske tema: "Vi er Eet med dem, der bo/ ved Mälaren og Mjøsen", viser hen til Ploug. Skandinavismen som bevægelse er genstand for "Rejsesang" ( SD I 10 ) skrevet i anledning af studentertoget til Uppsala i 1856. Digtet viser tydeligt Richardts digteriske egenart. Det er et udpræget stemningsdigt, kunstnerisk gennemarbejdet med gennemført alliteration - "Og Tonen er Tankens bevingede Tolk" - uden, i modsætning til Plougs beslægtede digte, at udtrykke et politisk program: Frihedskravet hos Ploug er ikke mere aktuelt for den yngre Richardt. Skålsangen forenes med patriotisme og skandinavisme i det bedre kendte digt, "For Sverrig og Norge" ( SD I 5-6 ), "En Skaal for det blinkende Søernes Baand" fra 1860, hvori det kommende opgør, der vil sætte brodersindet på en prøve, forudanes. Netop krigen 1864 - men ikke udelukkende denne - fremkalder en række patriotiske sange. Således er allerede debutsamlingens åbningsdigt, "Danmark", skrevet lige efter Treårskrigen til en nordisk fest i Studenterforeningen, et typisk richardtsk fædrelandsdigt - lavmælt og melodiøst og uden al martialsk brovten: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413064032</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413064032</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">802</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Mit fagre Hjem, hvor Bølgen blaa </field>
+    <field name="text_tesim">har nynnet Takten for min Vugge! </field>
+    <field name="text_tesim">Havfruer, som af Dybet dukke, </field>
+    <field name="text_tesim">vaarfriske Krans af Øer smaa! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413061440</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413061440</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Viser og Sange</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">822</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">men dog ikke uden stolthed over bedrifterne i krigen: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413060736</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413060736</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">826</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Staa fast mit gamle danske Hus, </field>
+    <field name="text_tesim">hvis Væg den friske Laure klæder; </field>
+    <field name="text_tesim">Sværdodden var en Lynafleder, </field>
+    <field name="text_tesim">dit søndre Taarn sank ej i Grus; </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413055920</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413055920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Viser og Sange</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">854</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lige så lidt som fædrelandsdigtene er begrænset til en enkelt eller enkelte historiske begivenheder, lige så lidt er studenterviserne og de nordiske sange begrænset til Richardts ungdomsperiode. Billeder og Sange fra 1874 indeholder således "En Drikkevise ( SD I 307-309 ) til studenternes rusgilde 1871, og i Halvhundrede Digte fra 1878 findes under fællestitlen "Fra Upsala-Toget" tre hyldestdigte til Norden i anledning af et studentermøde i juni 1875. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413052048</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413052048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Viser og Sange</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">868</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tiden er løbet fra mange af Richardts viser og sange, men pudsigt nok er han én af de danske digtere, der virkelig er blevet populær i folketraditionen både i den mundtlige overlevering og i skillingstryk. Det gælder digtene "Savoyarddrengens Sang" med musik af Heise og "To i Baaden" med musik af A. Ditmer. Mens digtet "To i Baaden" med indledningslinierne: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413050768</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413050768</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">872</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Hør Ellen, hør ifald Du vil! </field>
+    <field name="text_tesim">Stig ud paa Tømmerflaaden. </field>
+    <field name="text_tesim">Saa lægger jeg med Baaden til, </field>
+    <field name="text_tesim">og saa gaar Du i Baaden! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413048032</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413048032</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Viser og Sange</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">892</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">og afslutningen, efter at frieriet er lykkeligt overstået: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413047264</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413047264</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">896</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">ved hver en Vending, kan Du tro, </field>
+    <field name="text_tesim">naar gode Raad er dyre, </field>
+    <field name="text_tesim">skal jeg nok slide, stage, ro, </field>
+    <field name="text_tesim">og Du kan gjerne styre! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413042208</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413042208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Viser og Sange</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">927</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">således beretter om lykkelig kærlighed, appellerer længselsdigtet "Savoyarddrengens Sang" direkte til de sentimentale følelser: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413040624</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413040624</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">934</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Jeg danser og drejer paa min Lire saa fro, </field>
+    <field name="text_tesim">og min lodne Ven gaar paa Fire og paa To; </field>
+    <field name="text_tesim">men ej kan jeg glemme </field>
+    <field name="text_tesim">de Bjerge derhjemme </field>
+    <field name="text_tesim">og Køerne, som kjendte min Stemme. </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413034464</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413034464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Digte om og til børn</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">973</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt skal have været en strålende fader, han elskede børn og skrev småvers direkte til dem. Til sin yngste datter, Magda, skrev han således denne strofe (Carlsen: Christian  Richardt , s. 35): </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413032080</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413032080</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">983</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Den lille Magda med Hagesmækken, </field>
+    <field name="text_tesim">hun kender alt paa Tallerkenrækken: </field>
+    <field name="text_tesim">sin lille Gaffel, sin lille Ske, </field>
+    <field name="text_tesim">hvormed hun ta'r Frikadellerne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413029760</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413029760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Digte om og til børn</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1000</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Frem for alt var han optaget af barnets friske, naturlige væsen som i digtet "Børn": </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413028928</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413028928</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1004</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Hvor er et Barn dog Demokrat </field>
+    <field name="text_tesim">i baade Ord og Hu! </field>
+    <field name="text_tesim">Baron og Malkepige </field>
+    <field name="text_tesim">faaer samme jævne Du! </field>
+    <field name="text_tesim">Den Simple med den Fine </field>
+    <field name="text_tesim">er lige nær til Ven, </field>
+    <field name="text_tesim">faaer samme glade Øjekast, </field>
+    <field name="text_tesim">faaer samme Kys og Skjænd. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413023232</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413023232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Digte om og til børn</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1041</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og endelig er det karakteristisk for Richardt, at han næsten overalt har en skælm bag øret, når han færdes i barnets verden. Selv et så alvorligt emne som barnets opvækst behandles med lune som i digtet "Naar jeg bli'r stor": </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413022112</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413022112</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1045</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Naar jeg bli'r stor, </field>
+    <field name="text_tesim">saa vil jeg selv være Far og Mor! </field>
+    <field name="text_tesim">saa vil jeg ikke sidde paa Skjødet, </field>
+    <field name="text_tesim">saa vil jeg selv komme Smør paa Brødet, </field>
+    <field name="text_tesim">ha' Lov at gjøre alt, hvad jeg vil, </field>
+    <field name="text_tesim">og ha' Lov at grise mig rigtig til! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413017168</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413017168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Digte om og til børn</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1076</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardts omsorg for alle børn, både raske og syge, kommer til udtryk i et projekt, han udførte i 1887. I en smuk kantate, som han i 1875 skrev i anledning af indvielsen af Kysthospitalet på Refsnæs, "Ved Kysthospitalets Indvielse", forekommer disse linier: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413015344</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413015344</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1083</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Men for Alting Bølger blaa, </field>
+    <field name="text_tesim">bringer Sundhed vore Smaa! </field>
+    <field name="text_tesim">Tag dem moderligt i Favn! </field>
+    <field name="text_tesim">Kvæg dem, styrk dem, gjør dem Gavn! </field>
+    <field name="text_tesim">Rul dem Liv og Karskhed ind, </field>
+    <field name="text_tesim">rødn den lille blege Kind! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413010016</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413010016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Digte om og til børn</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1117</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og netop til børnehospitalet på Refsnæs havde maleren Carl Møller i 1887 over hver dør i gangene malet billeder med motiver fra fuglelivet til opmuntring af de små patienter. Richardt blev bedt om at skrive passende tekster dertil, fjorten korte strofer, der blev anbragt under hvert billede. Samme år blev en gengivelse af såvel billeder som tekster udgivet i en bog, Fra Kysthospitalet paa Refsnæs , der solgtes til fordel for hospitalet. Det festlige digt til "Hanen" er et godt eksempel på Richardts evne til i sine børnedigte koncist og med humor at indfange en karakteristisk situation, der appellerer til et ungt publikum: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413007552</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413007552</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1124</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Naar Solen stiger af Bølgesale, </field>
+    <field name="text_tesim">begynder Hr. Hane strax at gale: </field>
+    <field name="text_tesim">Herud af Sengen, I dovne Ka'le! </field>
+    <field name="text_tesim">- Ja han kommer nemt af Dynen op, </field>
+    <field name="text_tesim">han svøber blot Dynen om sin Krop! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707413002416</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707413002416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Digte om og til børn</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1155</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For et blandet publikum af børn og voksne skrev Richardt sine dyrefabler, en specialitet, hvori han skulle komme til at kappes med H.V. Kaalund, men uden at udtrykke den af genren forventede direkte belæring. De to første, "Tulte" og "Hr. Mikkel", bragtes allerede i Smaadigte fra 1860. I digtet om "Tulte" skabes den kunstneriske spænding ved, at digterens grænseløse beundring for den smukke høne, der ender som oldemor og dronning, fuldstændigt sprænger tekstens dimensioner, og alligevel skaber det formelle mesterskab en acceptabel struktur. Igen er den anvendte alliteration benyttet med yderst kunstnerisk smag. Indledningsstrofen er et perfekt portræt: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412999824</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412999824</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1162</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Tulte var en Høne, </field>
+    <field name="text_tesim">saa skjøn, saa skjøn af Krop: </field>
+    <field name="text_tesim">Sorte Fjer med søgrønt Stænk </field>
+    <field name="text_tesim">og snehvid Hovedtop. </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412995408</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412995408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Digte om og til børn</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1190</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Digtet om Tulte var i mange år en læsebogsklassiker, og Richardt fortsatte med at dyrke genren med versfortællingerne om "Et romersk Æsel" (1845), "Dragonhesten" (1868) og "Overraskelse", hvis optakt er et flot eksempel på Richardts virtuose rimbehandling: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412993568</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412993568</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1197</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Herr Andrik og hans Viv Andrikke </field>
+    <field name="text_tesim">paa vante Viis mod Dammen vrikke </field>
+    <field name="text_tesim">en kold November-Morgenstund. </field>
+    <field name="text_tesim">Det var forbi med deres Blund; </field>
+    <field name="text_tesim">at det er Dag, det mærkes ikke, </field>
+    <field name="text_tesim">men Hanen galte som besat, </field>
+    <field name="text_tesim">at det var ikke længer Nat, </field>
+    <field name="text_tesim">saa, heller Morgendrammen drikke </field>
+    <field name="text_tesim">end ligge! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412985680</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412985680</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Religiøse digte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1248</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det er karakteristisk, at de fleste af Richardts talrige mindedigte indeholder et religiøst perspektiv. Et glimrende eksempel er digtet i anledning af Peter Heises begravelse den 12.9.1879, hvor Richardt evner at skabe en næsten umærkelig overgang i midterstrofen fra musikken til metafysikken i tredie og sidste strofe: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412984384</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412984384</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1252</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">Men Støvets dybe Drømme </field>
+    <field name="text_tesim">om Fred og Naadebud, </field>
+    <field name="text_tesim">de bundne Tonestrømme, </field>
+    <field name="text_tesim">de løses kun af Gud; </field>
+    <field name="text_tesim">og først maa Hjertet stemmes </field>
+    <field name="text_tesim">til hellig Harmoni, </field>
+    <field name="text_tesim">og Egenviljen tæmmes, </field>
+    <field name="text_tesim">før Sjælen vorder fri. </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412977296</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412977296</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Religiøse digte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1297</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Samme indirekte religiøse tilgang findes i digtene i anledning af Treårskrigen. Når hæren er i bekneb, opildnes den ikke med patriotiske tilråb, men med påkaldelsen af Gud eller rettere af Guds nåde. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412976480</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412976480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Religiøse digte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1300</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt skrev aldrig egentlige menighedssalmer og benyttede selv som angivelse for denne del af forfatterskabet betegnelsen "Religiøse Digte", således i indholdsfortegnelsen til Kantater og Digte . Hans kristendom var ikke dogmatisk - han kan endda formulere sig rent økumenisk: "(...) det ægte Christelige er baade luthersk og katholsk" ( Det hellige Land , s. 65), og er her et særsyn i sin tid - men bestemt af samvittigheden og en dyb tro på det evige liv, på en forløsning i Kristus. Richardt forsøgte at forstå i stedet for at moralisere, og ligesom han afviste en dogmatisk forkyndelse, afviste han også enhver æstetisering af religionen - dette var måske også én af årsagerne til, at hans prædikener ikke var de store retoriske oplevelser - og foretrak en stilfærdig og jævn, men dog fyndig forkyndelse som i "Altid frejdig, naar du gaar" med linierne: "Kæmp for Alt hvad du har kjært, dø om saa det gjælder" eller i digtet "Hvad hjalp det mig -" fra 1880: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412972304</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412972304</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1313</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Hvad hjalp det mig, om Stjernerne jeg kjendte </field>
+    <field name="text_tesim">og kunde deres Afstand regne ud, </field>
+    <field name="text_tesim">om ej den Afstand mig i Hjertet brændte, </field>
+    <field name="text_tesim">som skiller mig fra Hellighedens Gud! </field>
+    <field name="text_tesim">Om ej jeg sørged og blev ved at sørge, </field>
+    <field name="text_tesim">om ej jeg spurgte og blev ved at spørge, </field>
+    <field name="text_tesim">til Svar jeg fandt i Julens Frydebud! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412965760</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412965760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Religiøse digte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1353</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mismodet kunne ramme den sygelige digter, ikke mindst i de senere år: Således begynder hans sidste digt, en suite skrevet seks uger før hans død, "Vignetter", med disse linier, der har overskriften "Tunge Tider": </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412964672</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412964672</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1357</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Lange Dage, lange Nætter </field>
+    <field name="text_tesim">er min Sygdoms dunkle Væv; </field>
+    <field name="text_tesim">Kjærlighed sin Islet fletter </field>
+    <field name="text_tesim">hyller mig i Blomster-Svæv - </field>
+    <field name="text_tesim">men i vaagne Nattetimer, </field>
+    <field name="text_tesim">under Feberhedens Kvalm, </field>
+    <field name="text_tesim">Mismod om mit Leje kimer </field>
+    <field name="text_tesim">som en rusten Klokkemalm </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412960224</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412960224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Religiøse digte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1389</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men så følger vendingen med overskriften "Tak og Jubel" og hermed trøsten for den dybt troende digter: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412959360</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412959360</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1393</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Du som bøjed mig i Støvet </field>
+    <field name="text_tesim">Tak for Haab og Tak for Trøst! </field>
+    <field name="text_tesim">var jeg allermest bedrøvet </field>
+    <field name="text_tesim">lød det fra din Faderrøst: </field>
+    <field name="text_tesim">hvad der syntes Vee og Vaade </field>
+    <field name="text_tesim">var kun Skjul for idel Naade! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412952896</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412952896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Naturdigte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1435</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Foråret og skoven havde Richardts kærlighed mere end nogen anden årstid og del af den danske natur. Allerede hans første rene naturdigt i debutsamlingen, "Ved Løvspring", er karakteristisk for hans natursyn: Med en bevidst naivitet, der kan minde om H.C. Andersen, menneskeliggør han naturen, klæder den på og befolker den med store og især små dyr. Der beskrives ikke tilstande, men handlinger, og overalt bemærkes aktiviteten og livet i naturen: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412951632</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412951632</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1439</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">Skovbunden blinker blaat og hvidt, </field>
+    <field name="text_tesim">hvor Bien gjør en vims Visit </field>
+    <field name="text_tesim">hos Myren og hos Billen; </field>
+    <field name="text_tesim">og Sivet staar </field>
+    <field name="text_tesim">og nejer for </field>
+    <field name="text_tesim">sin unge Moder, Kilden. </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412946160</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412946160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Naturdigte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1476</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne personifikation må ikke forveksles med romantikkens besjæling af naturen. Tværtimod er Richardts tilgang strengt realistisk - højst benytter han naturen til from belæring som i "Lær mig" ( SD I 45-46 ), og hermed sætter han et tydeligt og vigtigt skel i litteraturhistorien. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412943872</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412943872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Naturdigte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1484</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Undertiden dominerer detaljen på bekostning af helheden, men Richardt er dog også i stand til, som i det sene digt fra 1884 "Vaarens Fylde", at skabe hele billeder og fylde dem med en sanselighed og realisme, der fører tanken hen på Ludvig Holstein: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412942080</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412942080</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1491</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Nu drysser det med fine Dun, </field>
+    <field name="text_tesim">og Luften er saa lind og lun, </field>
+    <field name="text_tesim">og Kabelejen skinner; </field>
+    <field name="text_tesim">Kastanien har sin Blomstertop, </field>
+    <field name="text_tesim">selv Asken graa er vaagnet op, </field>
+    <field name="text_tesim">og Kransens Sløjfe binder! </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412938560</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412938560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Naturdigte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1517</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og helt sin egen underfundigt-humoristiske tone finder Richardt i den næstsidste strofe: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412937728</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412937728</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1521</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">Og nu er Frøen heel komplet, </field>
+    <field name="text_tesim">den gi'er sit Kvæk, og gjør sit Sæt, </field>
+    <field name="text_tesim">emancipért fra Halen; </field>
+    <field name="text_tesim">og Dagen er saa dejlig lang, </field>
+    <field name="text_tesim">og Luften fuld af Sol og Sang </field>
+    <field name="text_tesim">fra Lærken ned til Svalen. </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412931968</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412931968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Naturdigte</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1558</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt kan se på skoven med et barns øjne, men generelt er det bymennesket Richardt, der beskriver og oplever skoven, ikke den vilde skov, men den dyrkede, kultiverede natur. Han fortaber sig aldrig i sentimentalitet og er helt på det rene med, at naturen ikke udelukkende er venlig og idyllisk, men også kan rumme ondskab og kamp, som skildret i form af et helt mikrokosmos i det vemodige digt, der slutter med en ren naturalistisk iagttagelse af tilværelseskampen, "Den gamle Skovvej" fra 1868: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412930672</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412930672</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1562</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">Thi bag Skarntydens kniplede Skjærm </field>
+    <field name="text_tesim">og mellem de Dværgkonvaller, </field>
+    <field name="text_tesim">den Edderkop spinder flink og ferm </field>
+    <field name="text_tesim">og krummer de lange Kraller. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412928096</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412928096</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1580</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Der boer saa mangt et stridigt Folk </field>
+    <field name="text_tesim">alt under den grønne Skræppe, </field>
+    <field name="text_tesim">der myrdes baade med Gift og Dolk </field>
+    <field name="text_tesim">bag Løvets fugtige Tæppe. </field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412922416</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412922416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1616</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Der er ingen tvivl om, at Richardt i perioden 1860-80 ikke blot var den mest produktive, men også den populæreste lyriker. I dag er han overvejende gået i glemmebogen, men enkelte af hans digte huskes endnu, således vuggevisen "Sov mit Barn, sov længe", måske "Lær mig" (med førstelinien: "Lær mig Nattens Stjerne") og naturligvis sangen "Altid frejdig, naar Du gaar", der ikke mindst under besættelsen 1940-45 blev uhyre populær. Han skrev i de fleste traditionelle genrer, men det var især som børnenes og dyrenes digter, som naturlyriker og som åndelig digter, at Richardt har gjort sig fortjent. Endvidere blev han en hyppigt søgt lejligheds- og kantatedigter, der altid formåede at gå ud over den givne situation og tilføje et nyt perspektiv, ofte med et religiøst indhold - Richardt lod sjældent sin læser glemme, at han var teolog. Derimod udmærkede han sig aldrig som erotisk digter, og det er sjældent at finde en bekendende jeg-lyrik i hans samlinger. Han skildrer og reflekterer over hvad han ser , men sjældent over, hvad der foregår i hans indre. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412918992</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412918992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1622</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardts digte har ikke nået udødelighedens status, men til gengæld har han heller ikke skrevet mange direkte ringe tekster. Ledet af en sikker smag, et exceptionelt versifikatorisk talent og en musikalitet - som Brandes allerede i 1865 gjorde opmærksom på - der gjorde ham til den danske digter, der oftest er blevet sat i musik. Således arbejdede han og barndomsvennen Peter Heise lige til dennes død i 1879 sammen på sange, mindedigte, kantater og ikke mindst operaen Drot og Marsk . Det lykkedes ham i en periode, der var domineret af prosa, at gøre lyrikken til en populær genre og endvidere forny den lyriske diktion. Richardt undgik med succes romantiske klicheer, anvendte et nøgternt billedsprog og nærmede sig talesproget. Han må således ikke karakteriseres som epigon, men som en digter der peger fremad. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412916560</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412916560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1628</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richardt har sin begrænsning som digter. Han brød ikke nye veje, han skabte ikke nye metaforer og tænkte ikke banebrydende nye tanker. Med stor effekt og talent udnyttede han den danske lyriske tradition fra Jens Baggesen til Johan Ludvig Heiberg og føjede til denne sin helt egen inderlige, afdæmpede og yderst melodiøse tone. Inden for sin begrænsning er han oprindelig og ægte, og hans versbehandling er enestående i sin sikkerhed og fylde. Richardts sans for det faste og sluttede udtryk, der undgik bredden og gentagelsen, er enestående. Som motto over hans forfatterskab kan man sætte disse linier fra hans egen "Foraarsvise" fra 1874 med disse linier: "Intet er vissent og Intet er vammelt, Alt er saa nyt og saa glædelig gammelt" ( SD I 329-330 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412912240</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412912240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1644</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georg Brandes forventede i sin anmeldelse af Declarationen fra 1869, at Richardt skulle drive det videre som dramatiker. Dette ønske gik dog ikke i opfyldelse med undtagelse af Richardts libretto til Drot og Marsk , der ved siden af Vilhelm Andersens libretto til Carl Nielsens Maskarade må anses for dansk operas fineste, og som herigennem har sikret Richardts navn inden for dansk musikhistorie. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412909104</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412909104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1656</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det var lyrikken, der gjorde Richardt kendt, og det var debutsamlingen Smaadigte fra 1860, der umiddelbart gjorde ham til publikums yndling. Bogen kom i løbet af to år i fem oplag og frem til 1882 i ni oplag. Den blev ved sin fremkomst karakteriseret således af Christian Winther i et brev af 20.12.1860 til digteren: "Formen er saa fuldendt og saa enig med Indholdet, og intetsteds sporer man, at De har været i Knibe, trods de rige Riimslyngninger og de kjække Rythmer! At der lever Musik i Deres Hjærte, det klinger Een imøde fra hver en Linie!" (Carlsen: Christian Richardt , s. 184). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412906464</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412906464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1665</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nyere Digte fra 1864 - måske Richardts fineste bog - udkom året efter i tredie oplag og frem til 1875 i femte oplag, og endnu større succes havde det tynde bind Vort Land. Et geografisk Digt fra 1889 med den kendte optakt "Venner, seer paa Danmarks Kort", der i 1949 kom i 10. oplag; operaen Drot og Marsk kom i 1940 i 8. oplag. Nyere Digte blev af Bjørnstjerne Bjørnson i et brev til forlagsboghandler Frederik Hegel af den 12.1.1864 karakteriseret således: "De maa hilse Richardt fra mig, at jeg finder megen Fremgang i hans senere Digte og en Lyrik saa skjøn, saa skjøn, at jeg maa læse op igjen og op igjen" (Carlsen: Christian Richardt , s. 184-185). Samme bind blev også anmeldt af Georg Brandes i 1865, og kritikken af den treogtyveårige Brandes vil givetvis blive stående som den mest dækkende, der er skrevet. Selve digtene bedømmes ligesom hos Winther især ud fra formen: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412899712</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412899712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1688</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">og generelt om Richardts lyrik sammenfatter Brandes: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412896032</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412896032</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1706</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og det er til dels samme fokusering på Richardts kunstneriske teknik og ikke mindst de musikalske kvaliteter i hans digte, hvortil kommer et smukt portræt af mennesket Richardt, der står i centrum af Brandes' nekrolog ved digterens død 1892 (Brandes : Samlede Skrifter , bd. 2, s. 483): </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412891904</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412891904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1718</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I litteraturhistorien har Richardt sikret sig en plads i anden række, som en noget spinkel sølvalderdigter efter romantikkens guldalderdigtning. I 3. bind af Illustreret dansk Litteraturhistorie (1924) tegner Vilhelm Andersen et smukt og anerkendende, men noget rodet portræt af digteren med hovedvægten lagt på hans metriske mesterskab. F.J. Billeskov Jansen anbringer i 3. bind af Danmarks Digtekunst (1958) Richardt under den intetsigende overskrift "Folkelig Romantik og Romantisme" - i et opsummerende afsnit om den lyriske kunst - anbragt i selskab med H.V. Kaalund, Chr. K.F. Molbech og Johannes Helms, hvis fællestræk er en sans for versets korrekte velklang og ellers - hvilket ikke er ganske korrekt - en større interesse for det "kønne end det karakteristiske". Særlig opmærksomhed vies dog Richardts "Krigsdigte" og digte for børn. Også Uffe Andreasen behandler i 3. bind af Dansk litteraturhistorie (1976) Richardt sammen med Molbech og Kaalund, men giver en engageret skildring af digteren, ikke som en romantisk eftersnakker, men som en kunstner, der med sin hverdagstone peger fremad. Nævnes må endvidere Paul V. Rubows brillante og vidende portræt i hans essaysamling Epigonerne fra 1956, den sidste separate videnskabelige beskæftigelse med Richardt. I udenlandske behandlinger af den danske litteratur omtales Richardt kun sjældent og da kun sporadisk, og selv i Hanne Marie og Werner Svendsens omfangsrige Geschichte der dänischen Literatur (1964) nævnes blot Richardts musikalitet og humor, men også - fejlagtigt - digtenes manglende personlige indhold. De nyere danske oversigtsværker Litteraturhåndbogen (1981), Litteraturens Veje (1996) og Gads Danske Forfatterleksikon: Litteraturens Stemmer (1999) omtaler ham slet ikke, mens Dansk forfatterleksikon (2001) indeholder en kort artikel om ham. Digteren Christian Richardt er som person stort set glemt i dag; endnu i 1965 indeholdt Folkehøjskolens sangbog 19 af hans digte, i 1989 var der kun syv, og i dag huskes blot nogle få, men flere havde fortjent at blive husket og sunget. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412879856</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412879856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1757</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den udgave, der er anvendt i ADL, og som der henvises til i dette portræt, er Samlede  Digte 1-3, (u. udg.), 1895. (Forkortes i ADL SD ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412877200</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412877200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1769</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ét digt,"Glæden ved Guds grønne Jord", er sat efter indersiden af titelbladet til Halvhundrede Digte (1878); enkelte utrykte digte er sat efter J.Kj. Carlsen: Christian Richardt. Hans Liv og Digtning , 1928. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412875200</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412875200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1778</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Citatet fra Drot og Marsk. Tragisk Sangdrama er efter 1. udg., 1878, og citaterne fra studenterkomedien Kong Rosmer. Romantisk nationalt Karnevals-Drama i 3 Akter, med Sang, Dands og Mord stammer fra 1. udg., trykt i Vrøvleblade , Nr. 3, Manuskript for Studenterforeningen, 1859. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412871488</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412871488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1796</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412867504</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412867504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1823</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Listen er delt i tre afdelinger: værker, senere tekstudgaver og en selektiv liste over litteraturhistoriske behandlinger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412865648</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412865648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1832</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I. Værker: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412865232</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412865232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1835</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kong Rosmer. Romantisk nationalt Karnevals-Drama i 3 Akter, med Sang, Dands og Mord , trykt i Vrøvleblade , Nr. 3, Manuskript for Studenterforeningen, 1859 (opført 1857). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412863344</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412863344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1843</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Smaadigte , 1861. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412862368</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412862368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1848</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ved Indvielsen af Studenterforenings-Bygningen d. 17. Apr. 1863 , 1863. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412861344</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412861344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1853</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nyere Digte , 1864. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412860368</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412860368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1858</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Texter og Toner , 1868. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412859392</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412859392</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1863</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Declarationen. Vaudeville , 1869 (opført 1852). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412858368</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412858368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1868</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det hellige Land. Dagbog og Digte , 1870. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412857376</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412857376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1873</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Billeder og Sange , 1874. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412856400</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412856400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1878</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Judith , 1874. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412855424</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412855424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1883</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Halvhundrede Digte , 1878. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412854448</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412854448</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1888</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Drot og Marsk. Tragisk Sangdrama , 1878. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412853456</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412853456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1893</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Billedtexter, gamle og ny , [1879]. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412852464</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412852464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1898</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kantater og Digte , 1880. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412851488</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412851488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1903</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vaar og Høst , 1884. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412850496</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412850496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1908</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra Kysthospitalet paa Refsnæs , tegningerne af Carl Møller, 1887. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412849408</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412849408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1913</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vort Land. Et geografisk Digt , 1889. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412848416</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412848416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1918</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fadervor , billeder af Carl Thomsen, 1891. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412847424</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412847424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Barndom og ungdom</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1923</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Blandede Digte , 1891. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412845104</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412845104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1936</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Samlede Digte 1-3, (u. udg.), 1895. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412843040</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412843040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1944</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Solsange. Hundrede bibelske Digte, Kvad og aandelige Sange , samlede og udgivne af I.M. Hansen, Blair, Nebraska, 1899. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412841968</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412841968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1949</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udvalgte Digte , (u. udg.), 1905. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412840992</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412840992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1954</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Digte for Børn. Til Tegninger af danske Kunstnere , 1908. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412839936</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412839936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1959</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dyrebilleder. Tekster til Tegninger af danske Kunstnere , 1909. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412838928</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412838928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1964</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fortællende Digte i Udvalg , udg. af Dansklærerforeningen ved Alfred Ipsen, 1912. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412837824</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412837824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1969</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Digte i Udvalg 1-2, (u. udg.), 1914. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412835488</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412835488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1982</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georg Brandes: "Christian Richardt (1830-1892)", i: Samlede Skrifter , bd. 2, 1899, s. 469-490. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412834336</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412834336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1988</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Emma Kraft: "Nogle Minder om Christian Richardt", i: Brogede Blade , 1905, s. 262-273. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412833168</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412833168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1994</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F.L. Østrup: " Christian Richardt som Psalmedigter", i: Danske Salmedigtere , 1905, s. 112-136. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412831936</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412831936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">2000</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">J.Kj. Carlsen: Christian Richardt. Hans Liv og Digtning , 1928. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412830768</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412830768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">2006</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Brix: Danmarks Digtere , 3. udg., 1951, s. 387-393. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412829616</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412829616</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">2012</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Paul V. Rubow: "Chr. Richardts Digtning og Livsskæbne", i: Epigonerne. Afhandlinger og Portrætter , 1956, s. 44-53. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">richardt-p#idm140707412827232</field>
+    <field name="volume_id_ssi">richardt-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/richardt-p#idm140707412827232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sven H. Rossel</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">2026</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sven H. Rossel (f. 1943) er professor i nyere skandinavisk litteratur ved Universität Wien. </field>
+  </doc>
+</add>

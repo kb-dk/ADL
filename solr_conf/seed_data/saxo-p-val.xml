@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">saxo-p-val</field>
+    <field name="volume_id_ssi">saxo-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p-val#idm140020983661280</field>
+    <field name="volume_id_ssi">saxo-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983661280</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">564</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Altid fremad </field>
+    <field name="text_tesim">Floden flyder, </field>
+    <field name="text_tesim">saadan lider </field>
+    <field name="text_tesim">Livets Løb. </field>
+    <field name="text_tesim">Stund, som svandt </field>
+    <field name="text_tesim">for stedse svandt, </field>
+    <field name="text_tesim">og til sidst </field>
+    <field name="text_tesim">er Døden sikker </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p-val#idm140020983657440</field>
+    <field name="volume_id_ssi">saxo-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983657440</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">591</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Gammel mand </field>
+    <field name="text_tesim">har liden Gammen, </field>
+    <field name="text_tesim">dumme Øjne, </field>
+    <field name="text_tesim">døve Øren, </field>
+    <field name="text_tesim">ælde lammer </field>
+    <field name="text_tesim">alle Lemmer, </field>
+    <field name="text_tesim">sløver Vid </field>
+    <field name="text_tesim">og slapper Viljen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p-val#idm140020983652896</field>
+    <field name="volume_id_ssi">saxo-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983652896</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">624</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Som en flod der fører sit vand ustandselig fremad, </field>
+    <field name="text_tesim">sådan er menneskets liv, dets år løber hastigt til ende, </field>
+    <field name="text_tesim">det kommer aldrig igen, stejlt styrter vor vej imod døden, </field>
+    <field name="text_tesim">mod vor alderdoms år, der til sidst gør en ende på alting. </field>
+    <field name="text_tesim">Alderen svækker vort syn, den nedbryder benenes styrke, </field>
+    <field name="text_tesim">frata'r en mand hans tunge, hans sind, fordunkler så sagte </field>
+    <field name="text_tesim">hele hans blændende ry, la'r hver prægtig bedrift gå i glemme, </field>
+    <field name="text_tesim">sætter sig tungt på hvert skrøbeligt lem, gør den stønnende stemme </field>
+    <field name="text_tesim">lydløs og svag, og sløver det sind der før var så opvakt. </field>
+    <field name="text_tesim">Når så hosten ta'r fat, når huden er plaget af kløe, </field>
+    <field name="text_tesim">tænderne fulde af orm, når maven snart intet kan tåle, </field>
+    <field name="text_tesim">øder den ungdommens ynde og glans, da gustner den skindets </field>
+    <field name="text_tesim">friske kulør og breder et net af rynker i huden, </field>
+    <field name="text_tesim">udsletter alt vi har lært, la'r mindet om fortidens helte </field>
+    <field name="text_tesim">smuldre og dø, vore forfædres ry fortæres af ilden. </field>
+    <field name="text_tesim">Rigdomme vejrer den bort, alt mod og den løn det har høstet, </field>
+    <field name="text_tesim">røver den grådigt, i alt bringer alderen rod og forvirring. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p-val#idm140020983632960</field>
+    <field name="volume_id_ssi">saxo-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983632960</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">716</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Ret som den rullende Elv mod Havet ustandselig stunder, </field>
+    <field name="text_tesim">saa er og Menneskets Liv; ti Aarene løber saa fage, </field>
+    <field name="text_tesim">aldrig de kommer igen, men med Il vore Dage udrinder, </field>
+    <field name="text_tesim">Ælde os venter til Slut, og i Hælene Hel hende følger. </field>
+    <field name="text_tesim">Ælde os blinder vort Syn, og Benenes Styrke hun bryder, </field>
+    <field name="text_tesim">Mæle og Mod kan hun røve en Mand, og det straalende Rygte </field>
+    <field name="text_tesim">slukker med Læmpe hun ud, saa hver lysende Id gaar i Glemme. </field>
+    <field name="text_tesim">Lemmer med Lamhed hun slaar, og svart hun for Brystet os stemmer, </field>
+    <field name="text_tesim">knap kan vi Ordet faa frem, og vor Aandskraft med Alderen sløves. </field>
+    <field name="text_tesim">Hoste vor Strube gør hæs, og vor Hud bliver skjoldet og runken, </field>
+    <field name="text_tesim">Tænderne tæres af Orm, og vor Mave kan Føden ej taale, </field>
+    <field name="text_tesim">Ungdommens Huld svinder bort, og vor Lød bliver gusten og blygraa, </field>
+    <field name="text_tesim">furet og rynket vor Kind, og Huden i Folder sig krymper. </field>
+    <field name="text_tesim">Ælde kan sløve den ypperste Id, selv Fædrenes Minder </field>
+    <field name="text_tesim">styrter i Støvet hun ned, og Heltenes Hæder hun øder, </field>
+    <field name="text_tesim">Styrken hun svækker, og Manddommens Løn hun graadig os røver, </field>
+    <field name="text_tesim">spilder vor djærveste Daad, og alting i Virvar hun vælter. </field>
+  </doc>
+</add>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Moralske Fortællinger</field>
+    <field name="id">biehl03tom</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Moralske Fortællinger I</field>
+    <field name="id">biehl03tom#workid54233</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#workid54233</field>
+    <field name="page_ssi">3</field>
+    <field name="page_id_ssi">n3</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">74</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Pebersvenden</field>
+    <field name="id">biehl03tom#workid54257</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#workid54257</field>
+    <field name="page_ssi">5</field>
+    <field name="page_id_ssi">n5</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">80</field>
+    <field name="part_of_ssim">biehl03tom#workid54233</field>
+    <field name="part_of_ssim">biehl03tom</field>
+    <field name="text_tesim">                                                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">biehl03tom#idm140360500911424</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#idm140360500911424</field>
+    <field name="page_ssi">74</field>
+    <field name="page_id_ssi">n74</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">219</field>
+    <field name="part_of_ssim">biehl03tom#workid54257</field>
+    <field name="part_of_ssim">biehl03tom#workid54233</field>
+    <field name="part_of_ssim">biehl03tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">General Dorfan og Grevinden af Orville</field>
+    <field name="id">biehl03tom#workid55086</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#workid55086</field>
+    <field name="page_ssi">75</field>
+    <field name="page_id_ssi">n75</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">225</field>
+    <field name="part_of_ssim">biehl03tom#workid54233</field>
+    <field name="part_of_ssim">biehl03tom</field>
+    <field name="text_tesim">                                                                                                                                               </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">biehl03tom#idm140360500736160</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#idm140360500736160</field>
+    <field name="page_ssi">216</field>
+    <field name="page_id_ssi">n216</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">508</field>
+    <field name="part_of_ssim">biehl03tom#workid55086</field>
+    <field name="part_of_ssim">biehl03tom#workid54233</field>
+    <field name="part_of_ssim">biehl03tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Emilie eller Den Belønnede Standhaftighed</field>
+    <field name="id">biehl03tom#workid56532</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#workid56532</field>
+    <field name="page_ssi">217</field>
+    <field name="page_id_ssi">n217</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">514</field>
+    <field name="part_of_ssim">biehl03tom#workid54233</field>
+    <field name="part_of_ssim">biehl03tom</field>
+    <field name="text_tesim">                                                                                                                                                                                                </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">biehl03tom#idm140360500500000</field>
+    <field name="volume_id_ssi">biehl03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl03tom#idm140360500500000</field>
+    <field name="page_ssi">407</field>
+    <field name="page_id_ssi">n407</field>
+    <field name="volume_title_tesim">Moralske Fortællinger</field>
+    <field name="author_name">Biehl, Charlotta Dorothea</field>
+    <field name="author_id_ssi">Biehl,%20Charlotta%20Dorothea</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1781-82</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">895</field>
+    <field name="part_of_ssim">biehl03tom#workid56532</field>
+    <field name="part_of_ssim">biehl03tom#workid54233</field>
+    <field name="part_of_ssim">biehl03tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+</add>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">samlede skrifter af Forf</field>
+    <field name="id">gyllem02tom</field>
+    <field name="volume_id_ssi">gyllem02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem02tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140374660650784</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Slægtskab og Djævelskab (1830)</field>
+    <field name="id">gyllem02tom#workid54254</field>
+    <field name="volume_id_ssi">gyllem02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem02tom#workid54254</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">85</field>
+    <field name="text_tesim">                                                                                                           </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Den lille Karen (1830)</field>
+    <field name="id">gyllem02tom#workid55446</field>
+    <field name="volume_id_ssi">gyllem02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem02tom#workid55446</field>
+    <field name="page_ssi">105</field>
+    <field name="page_id_ssi">n105</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">301</field>
+    <field name="text_tesim">                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Sproglæreren (1831)</field>
+    <field name="id">gyllem02tom#workid55655</field>
+    <field name="volume_id_ssi">gyllem02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem02tom#workid55655</field>
+    <field name="page_ssi">125</field>
+    <field name="page_id_ssi">n125</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">349</field>
+    <field name="text_tesim">                                                   </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Magt og List (1831)</field>
+    <field name="id">gyllem02tom#workid56143</field>
+    <field name="volume_id_ssi">gyllem02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem02tom#workid56143</field>
+    <field name="page_ssi">173</field>
+    <field name="page_id_ssi">n173</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">453</field>
+    <field name="text_tesim">                                                                                   </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Fregatskibet Svanen (1831)</field>
+    <field name="id">gyllem02tom#workid56948</field>
+    <field name="volume_id_ssi">gyllem02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem02tom#workid56948</field>
+    <field name="page_ssi">253</field>
+    <field name="page_id_ssi">n253</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">621</field>
+    <field name="text_tesim">                                                  </field>
+  </doc>
+</add>

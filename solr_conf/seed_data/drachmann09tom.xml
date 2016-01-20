@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Samlede poetiske Skrifter</field>
+    <field name="id">drachmann09tom</field>
+    <field name="volume_id_ssi">drachmann09tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann09tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140136233394928</field>
+    <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
+    <field name="author_name">Drachmann, Holger</field>
+    <field name="author_id_ssi">Drachmann,%20Holger</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1906-1909</field>
+    <field name="published_place_ssi">Kbh. &amp; Kristiania</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Forskrevet</field>
+    <field name="id">drachmann09tom#workid54134</field>
+    <field name="volume_id_ssi">drachmann09tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann09tom#workid54134</field>
+    <field name="page_ssi">5</field>
+    <field name="page_id_ssi">idm140136233391376</field>
+    <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
+    <field name="author_name">Drachmann, Holger</field>
+    <field name="author_id_ssi">Drachmann,%20Holger</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1906-1909</field>
+    <field name="published_place_ssi">Kbh. &amp; Kristiania</field>
+    <field name="position_isi">69</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </field>
+  </doc>
+</add>

@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">hertz-p</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972658304</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972658304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">46</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Hertz er vor første jødiske forfatter af betydning, men behandlede aldrig problemer i forbindelse med sin afstamning. Han var en fin og stilfærdig lyriker, men frem for nogen har han varieret dramatikkens muligheder i Det Kgl. Teaters blomstringstid inden for perioden 1820-70. Det var inden romankunsten nåede frem til anerkendelse på linje med vers- og scenekunsten, og foruden at udnytte stilarter på vers har han eksperimenteret med de dramatiske genrer. Han yndede litterære forklædninger, lige fra han formummede sig som den nylig afdøde Jens Baggesen i kritiske rimbreve og formede taknemmelige roller for tidsalderens store skuespillere. Hans artikler om skuespilkunst er værdsat af eftertiden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972654080</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972654080</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">55</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Hertz kom fra et uortodokst hjem. Faderen var bagermester, men døde allerede da sønnen var halvandet år, hvorefter moderen drev bageriet videre med stor dygtighed, indtil det brændte under bombardementet 1807. Den læselystne dreng kom i Metropolitanskolen og fik litterært interesserede kammerater; han skrev tidligt følsomme og melankolske vers. Efter moderens død færdedes han i huset hos en ældre kusine, gift med den velhavende grosserer Nathanson, og forelskede sig her i en af døtrene. Men den unge student - han havde trods interesse for teologi valgt det juridiske brødstudium - kunne ikke komme i betragtning som bejler. Og efter den udkårnes forlovelse med en etableret borger kastede han sig over en prisopgave og vandt universitetets guldmedalje (1824). Derefter tog han kandidateksamen, men vendte sig nu til æstetikken og vandt på ny guldmedalje ved at besvare et prisspørgsmål om digternes og nationernes indvirkning på hinanden. I romantikkens ånd hævdede han her digternes betydning for deres folks livssyn og retsopfattelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972651600</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972651600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">58</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dog stod dette høje kald i skærende modsætning til vilkårene i samtiden. Statsbankerotten og tabet af Norge gjorde landet forarmet, Nathanson gik fallit 1820, og specielt var jødernes stilling udsat. Nogle gav dem skylden for bankerotten 1813, hvad der udløste den såkaldte litterære jødefejde - indledt af digteren Thomas Thaarup (1749-1821). Seks år efter kom en bølge af jødeforfølgelser fra Tyskland til Danmark, og det blev til "krystalnat" i hovedstaden, hvor bl.a. et anfald mod Nathansons gård kun afværgedes af hestgarden. Hertz var med familien på dens landsted på Frederiksberg og skrev et fortrøstningsfuldt digt "Vor Gud er trofast, han er stærk". Få måneder efter kom det til nye optøjer, da den unge C.N. David - senere bekendt statsøkonom og politiker - havde oversat et lille fransk lystspil: så skulle jøden pibes ud. Intet under at Hertz indleverede sine første skuespil anonymt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972649328</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972649328</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">61</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mærkeligere kunne det synes at den tungsindige lyriker valgte den sceniske genre med dens køligere objektivitet; måske på grund af dens mange rolleforklædninger. Selv har han henvist til en slægtstradition, hvorefter en hollænderinde skulle være indgiftet på mandssiden, mens kvindesiden stammede fra sefarder (portugisiske jøder), således "at der i mig rumsterer en Spaniers Sjæl ved Siden af en Hollænders, en ubetvingelig Lidenskab og en behersket Kulde" (fra Hertz' studiebøger, her citeret fra Kyrre: Henrik Hertz , tillæg s. 7). Den sidste tendens passede for så vidt til tiden, som den høje patetiske romantik i 1820'erne veg for en jævn eller satirisk hverdagskunst i stil med det nederlandske genrebillede, den såkaldte poetiske realisme. På teatret trådte den oehlenschlägerske tragedie i baggrunden for den heibergske vaudeville; og stor betydning for ham fik ægteparret Heiberg, med hvem han ferierede i sommeren 1832 i Hørsholm. Han lagde sig i sporet af Heibergs æstetiske kritik og dramatiske praksis - fra vaudeviller til romantiske skuespil - og han fattede dyb lidenskab for fru Heiberg og omsatte den i kvinderoller, som han gennemdrøftede med hende. Han havde hurtigt fået succes på teatret, samtidig med at hans litteraturkritik vakte opmærksomhed, så at han i 1832 valgte at træde frem af anonymiteten. Året efter opnåede han et stort rejsestipendium og drog via Tyskland, Schweiz og Østrig til Italien, hvor han blev turistfælle med H.C. Andersen, og tilbage gennem Frankrig: den hævdvundne rute for en kunstnerisk dannelsesfærd (skildret i dagbogen og tredive år efter i bogform Fra en Udlandsreise (1863)). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972645088</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972645088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">70</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Resultatet blev også at hans dramatiske produktion vandt i dybde og farve. 1830'ernes såkaldte romantisme fordrede heftigere passioner og stærkere lokalkolorit; til nutidsskuespillene kom historiedramer, til de hjemlige scenerier kom romanske og orientalske gennem 1840'erne og 1850'erne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972644112</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972644112</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">73</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Samtidig dyrkede han sin lyriske åre i vekslende former, og på ældre dage oplevede han en fornyet inspiration gennem kærligheden. Han havde levet ret isoleret som ungkarl, også på grund af tunghørhed; dog kom han jævnlig sammen med sin familie, nu og da også med sin fordums flamme, Hanna, f. Nathanson. Under et besøg hos hende 1845 traf han hendes femtenårige niece, Louise v. Halle, der efter sin fars død i Stockholm var vendt tilbage med sin mor til København. Der blomstrede en tyst forelskelse op mellem de to trods aldersforskellen, og fire år efter blev de forlovet og året efter gift. På selve bryllupsdagen fik han besked om at rigsdagen havde forhøjet hans statsstøtte, og et nyt teaterregulativ stillede samtidig forfatterne noget gunstigere end før. Men som det er sagt af hans biograf, han måtte stadig "anspænde sin trætte Muse" (smst., s. 176) - det blev i årenes løb til en rekord på 54 skuespil og syngestykker, hvoraf 46 blev opført på Nationalscenen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972641776</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972641776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">76</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hertz følte sig aldrig tiltrukket af den fortællende prosa, som forekom ham "doven, ligesom upoetisk" (smst., tillæg s. 31), medmindre den kunne afspejle flere fortælleres personlighed. Han kunne bruge romanformen som ramme om debatindlæg, hvorigennem tidskritik, politisk og æstetisk, kom til orde. Og ligesom samtidig Goldschmidt benyttede et ugeskrift til at publicere en bred tidsroman ( Hjemløs i Nord og Syd ), udgav Hertz i 1850'erne Ugentlige Blade med romanen Johannes Johnsen (udkommet selvstændigt 1860), foruden en litteraturhistorisk oversigt, "Poesien i Danmark efter 1814 . En Literatur-Skitse" (trykt i nr. 54-60). Heri finder han bl.a. at adskillelsen fra Norge har givet digtningen et særligt dansk præg, "noget hjemligt"; en jødisk iagttagelse for så vidt som hjemmet eller familiekredsen altid har været tilflugtsstedet for det forfulgte folk - og derfor poetisk. Selv oplevede han efter den lange enlighed omsider et familieliv med børn, hvoraf sønnen Poul blev anset læge og efter faderens død - i 1870, på tærskelen til en ny epoke - besørgede udgaver af hans skuespil og breve. Endvidere blev hans studiebøger med skuespiludkast m.v. overgivet til Det Kgl. Bibliotek </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972591744</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972591744</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Prosalystspil</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">220</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Forfatterskabet danner med sit intimt københavnske udspring og stedse udvidede miljøgalleri en tidstypisk del af guldalderlitteraturen - fra biedermeier til romantisme. Han begyndte med prosalystspil i den genre hvormed man på Kongens Nytorv var fortrolig, nemlig den holbergske sædekomedie. I debutstykket Hr. Burchardt og hans Familie (1827) gælder satiren amatørteatermanien. Det buldrende familieoverhoved med det tyskklingende borgernavn svarer til Jeronimus, hans teatergale svigersøn til Leander, den rådsnare og mundrappe tjener til Henrich og den stupide tjenestekarl til Arv. Her er huskonflikter og situationskomik, og som kryptojødisk indslag kan ses en missionsk klædehandler med gammeltestamentligt sprog. I Flyttedagen (1828, udg. 1832) gælder det flyttemanien, som indgår i en mangeleddet forlovelsesintrige med indbyrdes misforståelser og forvekslinger. Forholdet til Holberg er friere, der er stærkere replikindividualisering, bl.a. hos en fransksnobbet charlatan (kaldet Charles Tang!). - I Emma eller Den hemmelige Forlovelse (1831) anlægges for første gang en psykologisk studie: Titelfigurens vanskelige sind komplicerer forholdet til forældrene, så hun hemmeligholder sin ellers acceptable forlovelse, og der antydes farligere konsekvenser som flugt fra hjemmet og endda selvforsørgelse, hvis en datter trues med tvang. Kulminationen i denne række af borgerlige familiestykker er Sparekassen  eller Naar Enden er god, er Alting godt (1836, udg. 1841), en turbulens omkring den huslige økonomi. En reduceret købmand vil sætte en uventet arv i sparekassen, men overtales af familien til mere kortsigtede anvendelser, herunder en lotteriseddel - som kommer ud med en kæmpegevinst. Samtidig vender en tidligere plejesøn hjem fra sømandsfærd som skibsejer, men fortier sin rigdom for at tages imod for sit eget værd. Da det viser sig at gevinsten var falsk alarm, kan han træde frem som velgører og vinde sin barndomsveninde, husets friske datter (en ønskedrøm: at genoprejse det nathansonske hus som svigersøn!). Her er et livagtigt persongalleri og en forbedret sceneteknik, så stykket har af alle Hertz' holdt sig længst på repertoiret. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972583808</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972583808</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Prosalystspil</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">238</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hertz drev genremæssigt vekseldrift og vendte først senere tilbage til den københavnske prosakomedie med Besøget i Kjøbenhavn (1860, opført s.å.), hvor ankomsten af en islandsk huslærer i et dannelsessnobbet overklassehjem skaber forskellig ravage, og En Cuurmethode (1861, udg. 1865), der foregår på det nyåbnede Marienlyst og harcelerer over bourgeoisipatienterne såvel som modelægerne, men i øvrigt rummer en fiks ægteskabsintrige. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972581136</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972581136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Prosalystspil</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">247</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De sidstnævnte stykker har reflekser af henholdsvis Erasmus Montanus og Den indbildt Syge , altså den holberg-molièreske komediesatire. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972577632</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972577632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Vaudeville</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">264</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det andet spor i Hertz' tidlige scenefase lægger sig efter den heibergske vaudeville med indlagte sange. Det lidt ubehjælpsomme førsteforsøg Kjærlighed og Politi (1827, omarbejdet i 7. bd. af Dramatiske Værker 1854) er en bortførelseshistorie: en fynsk proprietærsøn bortfører sin forlovede fra et københavnsk værtshus, hvor hendes formynder har indlogeret sig med hende; de flygtende attakeres af to betjente, men indhentes af formynderen, der dog formildes ved at frieren lover bod og bedring. I Arvingerne (1829, opført s.å.) opstår forviklingerne ved et testamente, der forlanger at seks arvinger skal gifte sig indbyrdes for at formuen tilgavns kan blive i familien. Debatten i Politivennen (opf. 1835, udg. 1836) udgår fra en læserklage i dette blad over en støjende maskine, som giver anledning til misforståelser og polemik. Endelig De Fattiges Dyrehave (udg. 1854, opf. 1859), der foregår på en kendt lokalitet blandt jævne håndværkere med besøgende fra Skåne - en refleks af tidens skandinavisme. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972570336</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972570336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Rimede lystspil</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">290</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En tredje gruppe i Hertz' tidlige dramatik er de rimede lystspil efter fransk mønster, idet aleksandrinerverset erstattes med femfodsjamber i fri variation. Det første, Amors Geniestreger (1830, opført 1830), lever op til titlen ved at de unge udgiver sig for andre end de er, men alligevel forelsker sig i de rette, så at alle til slut tror sig narret uden at nogen er det. Den spirituelle konversationstone i salonen bevæger sig mellem let skæmt, følsomt sværmeri og ikke alt for dybtloddende refleksioner. I En Dag paa Øen Als (1831, opf. 1832) bliver nogle kærlighedsforviklinger opløst så at et barndomskærestepar finder sammen igen, et lige så hyppigt motiv hos Hertz som hos den samtidige H.C. Andersen. En ilter slesvigsk godsejer giver handlingen en vis lokalfarve. I Den eneste Feil (1835, udg. s.å.) bliver en inkarneret ungkarl omvendt til ægteskabet ved at pigen påduttes en "eneste fejl", nemlig amatørdigtning på vers, som trods alt betager ham. Det var på grundlag af disse rimede amorkomedier, at den gedignere St. St. Blicher kaldte heibergianerne for "Formskjærerlauget" (i brev til Ingemann 1836, her citeret fra Steen Steensen Blichers Livs-Tragedie , bd. II, ved Jeppe Aakjær, 1904, s. 271). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972564912</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972564912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Rimede lystspil</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">305</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et par mere seriøse og realistiske skuespil i prosa danner genremæssig overgang til de egentlige dramaer. I sin søgen efter nye græsgange fandt Hertz gennem udvandrerlitteratur frem til den australske straffekoloni New South Wales, hvis sociale lag han skildrer i De Deporterede (1854, opført 1853): arbejdsfangerne med deres flugtplaner, de benådede eller frigivne der stedse bærer pariastempel, enten de forsøger hæderlig levevis eller glider tilbage i kriminaliteten; og endelig de frivilligt udvandrede kolonister. Fælles for alle er den mørke fortid, som fremlægges i lange bogsprogsreplikker og giver handlingen tyngde. Det var en samfundsstudie som vakte opmærksomhed. Fra det følgende år er det psykologiske problemstykke Et Offer (1854, opført 1854), der næsten foregriber Henrik Ibsens nutidsdramatik. En ung kunstnerbegavet kvinde vil udstille et maleri for at overraske sin barndomskæreste og vejleder ved hans tilbagekomst fra udlandet; men da han synes at have tabt interessen både for hende og hendes kunst til fordel for en anden, beslutter hun eksalteret at ofre sig ved at tage gift. Det forhindres, men hendes angrende kæreste må duellere sig ud af det andet forhold - med det udfald at en trofast hund rammes af hans skud. En art stedfortrædende offer, som de højere magter antydes at forlange, og som hos hundens ejer, en lille pige, vækker ægte sorg. Derimod skal kunstnerkaldet ikke ofres på ægteskabets alter - ej heller omvendt som 1850'ernes kvindeemancipation krævede - men kvindens åndelige og huslige gerning bør ideelt kunne forenes. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972558816</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972558816</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiske versdramaer</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">322</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Større publikumssucces fik Hertz med sine historiske versdramer i romantikkens kølvand. De er henlagt til en poetiseret middelalder i Danmark eller det fremmede. Inspireret af de gamle "kæmpeviser", som han havde hørt sin mor synge, var Svend Dyrings Huus (1837, opført 1837). En opfordring til at udgive en visebog medførte et studium af folkeviserne og en sindrigt kombineret handling. Kernen deri er visen om Ridder Stigs fejlslagne runekast. Ridderen vil under et gæstebud hos Svend Dyring kaste elskovsruner på hans datter Regisse, men æblet med runerne havner hos hendes stedsøster Ragnhild, som derfor optændes af lidenskab for Stig. Hun forsøger at forgive Regisse, men skræmmes af hendes mors genfærd (Dyrings første hustru) og ender med at drukne sig. Ragnhilds oprørte mor (Dyrings anden hustru) vil forhindre Stigs forening med Regisse, men bliver talt til rette af genfærdet. Hovedinteressen er samlet om den runeramtes forgæves kamp mod elskovstrylleriet, hvor stolthed og skam står mod passion og skinsyge. Det blev suverænt tolket af fru Heiberg, som var med til at udforme den tragiske karakter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972555456</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972555456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiske versdramaer</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">328</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til succes'en bidrog også de indlagte sange med Rungs musik. Taleverset er et rimet folkevisemetrum blandet med prosa. I sit næste drama sløjfede digteren rimene - bortset fra scene-og aktslutninger - for i de firetoppede verslinjer at finde en mere mundret afløser for det traditionelle blankvers. Det er i det nationalhistoriske Valdemar Atterdag (1848, opført 1839), hvor vægten ligger på rigets brydnings- og genrejsningstid, ikke på intimsfæren (Valdemar nævner kun Tove og Gurre i et par bisætninger!). Det drejer sig om kongens fejde med de jyske stormænd, særlig Niels Bugge på Hald, og hans beskyttelse af bønderne. Men de mange retstrætter og klagemål, som har fængslet juristen Hertz, virker sløvende på scenen, og handlingen mangler anskuelighed og koncentration. Konspirationerne ender i mordet på Bugge, forvoldt af en munkeskurk, så at drotten - modsat i folkevisen - renses for skyld. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972553072</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972553072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiske versdramaer</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">334</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et par år efter blev digteren opfordret til at levere et festspil i anledning af kronprins Frederik (VII)s formæling med en tysk prinsesse 1841. Han valgte et sujet fra 1001 Nat - tidligere genfortalt af Oehlenschläger - om en sylfide der mister sin fjederdragt i et fremmed land. I Svanehammen (1841, opført 1841) er hun en græsk kongedatter, Helene, som til minde om sin afstamning fra Leda ejer et svanelignende slør, hvormed hun ligesom sine søstre flyver til fjerne søer for at forynges og forskønnes. Engang ved Esrom Sø har hertug Volmer tilvendt sig hendes slør så hun måtte blive i Danmark i hans moders gård; nu har de fået hinanden kær og skal giftes. Men moderen kommer under vejr med Volmers list og udleverer sløret til bruden, som nu kan flyve til søen for at gense søstrene. De er imidlertid fløjet tilbage, og hun mister under badningen atter sløret. Hun beskylder med urette Volmer - det bliver fundet af hans tjener - men han ønsker nu at give hende friheden tilbage. Rørt over dette afkald bringer hun da sit offer og brænder sit slør. Hun har valgt hjemland. Det er et stemningsfuldt, lidt stillestående eventyrspil om den i grunden blide og kærlige prinsesse sydfra der søger at føje sig efter de fremmedes religion og sæder. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972548752</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972548752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiske versdramaer</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">343</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kort efter fulgte endnu et lyrisk drama med kvindelig hovedperson, en enakter der foregår i troubadourtidens Frankrig: Kong René's Datter (1845, opført s.å.). Den symbolske handling er koncentreret til den sydfranske kongedatter Jolanthes 16-års fødselsdag. Hun blev som spæd bortlovet til grev Tristan som led i et politisk forlig, men mistede kort efter synet ved en ildebrand. Hendes blindhed blev hemmeligholdt også for hende selv, og hun er vokset op i en utilgængelig dal, Petrarcas Vaucluse. En maurisk læge har spået at hun vil kunne helbredes på denne fødselsdag hvis hun bliver oplyst om sin sygdom og kan føle "en Trang, / En Anelse om Lyset " ( Udvalgte dramatiske Værker V 29 ). Nu trænger Tristan ind i dalen for at få omstødt den vanærende bestemmelse og vækker den sovende jomfru, som med undren hører hans hentydninger til den for hende ukendte synssans. Idet den betagede ridder til afsked udbeder sig en hvid og en rød rose, opdager han hendes blindhed. Da faderen kommer til stede, opklares alt, og han indvier hende i lysets mysterium. Dermed er hun beredt på sin helbredelse - og kan nu se ham i hvis stemme hun har forelsket sig. Den torneroseagtige stemning understøttes af kunstfærdige troubadoursange. Ved sin poetiske ide - at kærligheden gør seende - og sit unationale præg er det lille melodrama nået videst om af Hertz' værker; bl.a. blev det grundlag for Tjajkovskijs opera Jolanthe . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972541776</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972541776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiske versdramaer</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">363</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gruppen af dramaer afrundes det følgende år med den store blankverstragedie Ninon (1848, opført 1848). Han vil denne gang slå franskmændene på et af deres egne felter: kurtisanedramaet, og vælger til tema en anden og tragisk form for sjælelig blindhed: den vistnok uhistoriske tradition om Richelieutidens fejrede Ninon de Lenclos, at hendes egen søn var blandt hendes tilbedere uden at kende slægtskabet. Også her består handlingskatastrofen i at øjnene åbnes, først på hende da hun nødes til at erkende hans kærlighed; så på ham da afsløringen driver ham til selvmord. Begivenhederne der leder hertil, er så slyngede som et rokokoornament, men har en erotisk hovedlinje: Da Ninon afslår at blive den magtfulde Richelieus maitresse, vil han benytte en maskefest til at lade hende bortføre; den unge Chevalier søger at beskytte hende, hun søger at afværge hans tilbedelse, men da de begge må flygte og han ikke vil vige fra hende, må hun røbe sandheden, hvorefter han skyder sig. Det er nemesis fordi hun har villet fornægte sin ungdoms fejltrin - ikke af omsorg for hans rygte og karriere, men for at forlænge sin egen ungdom. På dette ligger den moralske vægt, frem for på sønnens uforskyldte Ødipus-tragik. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972537248</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972537248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romantiske lystspil</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">377</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En sidste gruppe udgøres af de romantiske lystspil fra og med 1840'erne, hvor dramatikeren forsøger at blande komikken og lyrikken til en højere enhed som hos Shakespeare, dog således at det grove og burleske dæmpes af en forfinet smag. De er henlagt til sydlandske miljøer som Italien eller Spanien og har - for at udfolde fru Heibergs talent - kvindelige hovedpersoner ( Amanda 1843, Tonietta 1849, Estrella 1855). Nogle er bygget over italienske renæssancenoveller, men har måttet renses for uanstændigheder. Typisk i så henseende er Tre Dage i Padua (1868, opført 1869, udg. i Dramatiske Værker bd. 17). I Dekameron (novellesamling fra ca. 1350 af den italienske forfatter Giovanni Boccaccio (1313-1375)) berettes om en fornem dame der er utilfreds med den simple ægtemand og foregiver for sin skriftefader at hun efterstræbes af en smuk ung adelig, idet hun beder frateren tage ham dygtigt i skole. Adelsmanden forstår hendes vink og opsøger den længselsfuldt ventende, som således har sikret sig mod at komme i vanry. Hos Hertz foregiver den unge dame blot at være gift - i hele produktionen findes hanrejmotivet knap antydet - og hendes bevæggrund er at forsone en søster med dennes uden årsag jaloux ægtemand. Og på den anden side er ynglingen betænkelig ved at erfare sit kvindeideals alt for jordiske imødekommenhed. Den unge Georg Brandes var netop for nylig blevet anmelder ved Illustreret Tidende og gav sin omtale af stykket den form, at et godt og et slet menneske henholdsvis roste og dadlede premieren (Georg Brandes: Samlede Skrifter bd. 1, 1899, s. 528) Den aldrende digter svarede i et modindlæg lige så ironisk at "Hvis Vorherre vil befri mig for mine Venner, skal jeg nok komme ud af det med mine Uvenner" (fra Hertz' studiebøger, her citeret fra Brøndsted: Henrik Hertzes Teater , s. 150). I en sådan bagatelagtig episode ser man to tidsaldre støde sammen. Året efter døde Hertz på samme dag som Georg Brandes forsvarede sin disputats om den moderne franske æstetik. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972524704</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972524704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Lyrik</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">423</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Forud for og jævnsides med teaterdigtningen ligger den lyriske produktion i skiftende former, som Hertz publicerede rundt om og først samlede 1851-62 i fire bind Digte fra forskjellige Perioder ( Digte ). De ældste fra før 1830 er domineret af hans "spanske" sjæl (jf. afsnittet "Biografi" ovf.), dæmpet passion og tungsind. I "Fristeren" får han forevist alverdens herlighed, men indser at han er "født til Savnets Tornekroner" ( Digte 1 5). Og poesien han da vælger, regner han ikke med forståelse for hos døgnets publikum ("Lovens Tavler. En Mythe"). Et hovedtema heri er den udsigtsløse kærlighed ("Hendes Øine"), der kunne fantasere sig til et elskovsmøde som hos den persiske lyriker Hafiz fra 14. årh. ("Scene fra Østerlandet"). I digtene efter 1830 fortsætter denne linje med bekendende refleksionsdigte som "Silkeormen", hvor den nagende orm i hjertet kan spinde den fineste silke: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972520480</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972520480</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">436</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+    <field name="text_tesim">- En Silkeorm bestandigt </field>
+    <field name="text_tesim">Ved Nat og Dag maa spinde, </field>
+    <field name="text_tesim">At Sommerfuglen siden </field>
+    <field name="text_tesim">Af Svøbet sig kan vinde. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972517904</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972517904</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">454</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Og Ormen i vort Hjerte </field>
+    <field name="text_tesim">Den spinder Nætter, Dage, </field>
+    <field name="text_tesim">At Sommerfuglen Psyche </field>
+    <field name="text_tesim">Af dette Svøb kan drage. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972515792</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972515792</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">469</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972514992</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972514992</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">475</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Thi Spindet er kun Straaler </field>
+    <field name="text_tesim">Af Alt hvad Sjælen skaber. </field>
+    <field name="text_tesim">- Mit Spind er Digtekunsten, </field>
+    <field name="text_tesim">Hvori min Sjæl sig taber. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972512848</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972512848</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">490</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">(...) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972512048</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972512048</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">496</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">- For Silkeormen sætter </field>
+    <field name="text_tesim">Man Blade hen og Stilke, </field>
+    <field name="text_tesim">Og siger til hverandre: </field>
+    <field name="text_tesim">Pas paa, den spinder Silke! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972509936</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972509936</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">511</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Og naar den vel har spundet </field>
+    <field name="text_tesim">Og sidder i sit Fængsel, </field>
+    <field name="text_tesim">Hvor Mange, troer Du, agte </field>
+    <field name="text_tesim">Paa Sommerfuglens Længsel? </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972507792</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972507792</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">526</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">- Og nu, naar jeg af Sorger </field>
+    <field name="text_tesim">Er taus og sluttet inde, </field>
+    <field name="text_tesim">Saa kommer man og venter </field>
+    <field name="text_tesim">Paa hvad jeg nu vil spinde. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972505680</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972505680</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">541</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Man venter Herligheder, </field>
+    <field name="text_tesim">Ak Gud, jeg veed ei hvilke! </field>
+    <field name="text_tesim">Og siger til hverandre: </field>
+    <field name="text_tesim">Pas paa, han spinder Silke! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972501600</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972501600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Lyrik</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">566</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Modsat denne yderst enkle strofeform er "Tungsind" i frie goetheske kortvers; mere kunstfærdigt er "Gubben og Ynglingen", hvor den ældede længes tilbage mod ungdommen. I Erindringer fra Hirschholm fra sommeren 1832, da han ferierede sammen med Heibergerne i Hørsholm og dyrkede den svenske digter C.M. Bellman (1740-95), kalder han sig "den tungsindige Sanger" ( Digte 1 182), men den bellmanske pastiche medfører større livlighed. Efterhånden kom også hans "hollandske" sjæl til udtryk i genrebilleder som "Paa Strandveien", "Paa Volden store Bededag", "Gadescene om Natten" og det lunerige "Skriftemaalet". Det udviklede sig til versfortællinger ("Gjenboen" , "Tretten tilbords") eller ballader, både nationalhistoriske ("Slaget paa Rheden", "Den danske Soldat") og gammelnordiske ("Gefion og Gylfe", "Ægirs Gjæstebud"). En særlig afdeling er epistlerne ("Den glemte Paraply", "Brevposten" og "Martsviolerne" til fru Heiberg). Men hans egentlige force var de små simple sange eller viser, delvis fra skuespillene, hvor han nærmere sig sit poetiske ideal: simpliciteten ("Sommerliv", "Gamle Melodier"). Det kunne være lette gendigtninger efter ældre viser eller Bellman - evt. orientalske efter den tyske digter Friedrich Rückert (1788-1866), som også inspirerede Emil Aarestrup - eller ikke mindst den enkle firlinjede strofe som i Heinrich Heines Buch der Lieder (f.eks. visionen af den elskede som statue i "En Drøm"). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972494064</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972494064</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Rimbreve</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">589</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hertz' store versifikatoriske evne omfattede også som antydet et imitatortalent, og i sin anonyme ungdomsperiode morede han sig med indlæg i tidens æstetiske debat, formet efter den just afdøde Jens Baggesen. Gjengangerbreve eller poetiske Epistler fra Paradis (1830) vakte sensation i den litterære verden ved at reagere mod Heibergs skarpe kritik af Oehlenschläger. Også Baggesen havde fejdet med digterkongen, men nu byder han sin efterfølger at fare med lempe, undlade en "Hængen/I det Correctes Skoleridt" ( Digte 3 73) og en målestok efter filosofisk (dvs. hegeliansk) æstetik. Omvendt angribes Oehlenschlägerianernes "massive" stofbestemte poesi og litterære dilettantisme. Det gælder om at opnå en balance mellem form og indhold, en " streng og critisk " smag ( Digte 3 47). Baggesenbrevene blev fortsat året efter med yderligere epistler samt et langt læredigt i to afdelinger Naturen og Kunsten (1831-32). I samtaleform bliver her en ung videlysten dame belært om at kunsten ikke skal efterligne naturen slavisk, men heller ikke idealisere den, derimod give "Et klarere , men ei forædlet Billed" ( Digte 3 228) af livet og virkeligheden. Det sker bedst ved at udhæve det karakteristiske i samtiden inden for harmoniens ramme - et program for den poetiske realisme. Denne betegner et kompromis fra 1820'erne mellem den ældre romantiks høje idealisme og trangen til genkendelig virkelighed med lokalkolorit og afgrænset komposition. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972481664</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972481664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                De Frifarvede
+              </field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">635</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som nævnt praktiserede Hertz sjældent sit program i prosafortællingens genre. Men efter den store udenlandsrejse fik han smag for fremmedartede og pittoreske miljøer, der passede herfor, og i en lille roman De Frifarvede (1836) vendte han sig til de danskvestindiske øer, hvor racemodsætningen mellem hvid og farvet måtte appellere til hans jødiske erfaringer. Et par år forinden var de "frifarvede", dvs. mulatterne, blevet retsligt ligestillet med andre danske i disse kolonier. Handlingen drejer sig som venteligt om et kærlighedsforhold mellem en hvid plantageejersøn og hans frifarvede kusine; hans viljefaste, norskfødte mor forpurrer giftermålet ved at sende ham på forretningsrejse til Norge og arrangere en forbindelse med en hvid pige. Men i sidste øjeblik angrer han ved synet af et barn som kusinen har født ham. Begivenhederne udvikler sig melodramatisk og sørgeligt, og den hovmodige mor får på langt sigt sin straf ved at miste familieformuen under krigen. Pariamotivet kan have tilskyndet H.C. Andersen til skuespillet Mulatten fra Fransk Vestindien tre år senere. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972475472</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972475472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Stemninger og Tilstande
+              </field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">655</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I det samme år (1839) udsendte Hertz romanen Stemninger og Tilstande ( Stemninger ) med hjemligt emne. Den var påbegyndt før rejsen med titlen "Et Aar i Kjøbenhavn" som et lokalt tidsbillede, men efter tilbagekomsten mærkede han en udtalt politisering af åndslivet efter indførelsen af stænderforsamlingerne, så han indlagde en politikdebatterende klike. Det blev derved den første danske roman med politisk indslag, da enevælden og dens censur ellers lagde en dæmper på oppositionen. Til gengæld kunne handlingen gå i stå, så at modstanderne kaldte bogen "Forstemninger og Stilstande". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972472928</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972472928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Stemninger og Tilstande
+              </field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">664</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den spinkle handlingstråd foregriber mærkeligt Hertz' egen ægteskabshistorie. Jegfortælleren er en midaldrende ejendomsbesidder som rejser til hovedstaden for at opsøge datteren til sin tabte og nu afdøde ungdomselskede. Han finder hende som stuepige i et pensionat og får hende overført til et kultiveret borgerhjem hvor hun kan tilegne sig dannelse og kundskaber. Naturligt nok forelsker han sig i denne genspejling af sin fordums kærlighed, og da pigen også fatter godhed for sin faderlige formynder, bliver "Enden god", som det hed i Sparekassen. Nu har Hertz gjort pensionatet til diskussionssted med deltagere der delvis har virkelighedsmodeller, således translatøren (Søren Kierkegaard) og Amadis (H.C. Andersen). Det er især den gryende liberalisme der må stå for skud, gennem Kjøbenhavnsposten med redaktøren Orla Lehmann. Den skal ikke importeres råt ude fra Europa, men tilpasses den nationale og historiske tradition og indgå i danskheden i dens "stille pralfrie Udvikling" ( Stemninger 441). Altså en lignende moderat middelvej som Hertz valgte i æstetikken. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972466096</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972466096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Johannes Johnsen
+              </field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">689</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den sidste brede tidsroman Johannes Johnsen (I-III 1860) med undertitel Løse Blade af nogle Samtidiges Liv tager i vis måde det politiske tema op fra den forudgående. Selvom undertitlen spreder feltet ud over flere personer i perioden - dvs. 1830-40'erne - er hovedinteressen dog samlet om titelfiguren og hans identitetsproblem, som løses gennem hans nationalpolitiske indsats i treårskrigen. Som spejlfigur optræder hans plejebror Fritz, hvis herkomst opklares i en sidehandling. Han viser sig at være søn af faderens ven og husfælle Crepp, som i sin tid besvangrede en fattig jysk pige, der måtte bortadoptere barnet. Ved romanens begyndelse drager de to midaldrende venner fra København mod Jylland for at opspore Johannes, der er rejst hjemmefra, men de genfinder ved et tilfælde Fritz' mor døende, og Crepp når at udsone og gifte sig med hende inden hun udånder - i Fritz' nærværelse, som således har vundet sin identitet. Johannes' vej er mere bugtet. Han bliver huslærer i et fornemt hjem og forelsker sig håbløst i datteren, opgiver sine studier for hasardspil, flakker senere om som landmåler og - i lighed med Wilhelm Meister i Goethes store dannelsesroman Wilhelm Meisters Lehrjahre (1795) - som medlem af en teatertrup. Men først ved krigen 1848 finder han sin opgave: som løjtnant i kampen for overpersonlige, nationalpolitiske værdier. Gennem sin indsats får han også en samfundsmæssig status, som muliggør at han vinder den elskede. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972461072</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972461072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Johannes Johnsen
+              </field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">701</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Foruden diverse sidehandlinger er der i midterdelen anbragt en ejendommelig mindelse om teaterstykkernes faible for de italienske renæssancenoveller. Da Johnsen senior og Crepp er på vej med skib til Vejle, løjer vinden af, og for at fordrive de flere dages forsinkelse beretter passagererne historier for hinanden, ligesom florentinerne i Dekameron. De otte fortællinger foregår rundt om i Europa og bliver senere hen flettet ind i hovedhandlingen - omtrent som i Vilh. Bergsøes novellecyklus Fra Piazza del Popolo få år efter - således at romanens slutning følger personerne til dørs og tilfredsstiller det episke behov for at vide "hvordan det siden gik". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972457472</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972457472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">717</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hertz ramte ind i 1830'ernes litterære centrum ved sin versificerede kritik omkring Heiberg og Oehlenschläger, og han vandt hurtigt en position som Det Kgl. Teaters husdigter. Hans skuespil udkom både enkeltvis og i samlede rækker. Derimod kunne hans samlede digte kun udgives én gang (i fire bind, hvoraf de to første kom i nyt oplag efter hans død), og en påtænkt udgivelse af </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972456400</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972456400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">720</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">hans samlede prosaværker måtte opgives. Senere skoleudgaver af hans mest yndede skuespil ( Sparekassen , Svend Dyrings Hus , Kong Renés Datter ) afspejler foruden deres anvendelse i under- </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972453616</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972453616</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">732</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">visningen også teatrenes lejlighedsvise interesse for at genoplive dem. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972451984</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972451984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">741</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hertz ville imødekomme sit publikum samtidig med at han ønskede at opdrage det til god smag. Da en ny tid meldte sig med en barskere realisme, fik hans værker svært ved at hævde sig også på teatret. Set under et er hans forfatterskab mindesmærket over en svunden litterær kultur, betegnende for den senere del af guldalderen - generationen efter Oehlenschläger - der snarere var en sølvalder og derfor for størsteparten er blegnet i eftertidens lys. Men hans "spanske" og "hollandske" kunst rummer stadig fine værdier for den tålmodige læser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972449872</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972449872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">750</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tekstgrundlag: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972449408</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972449408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">753</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De udgaver, der er anvendt i ADL, og som der henvises til i dette portræt, er: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972448848</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972448848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">756</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Stemninger og Tilstande , 1839 (i ADL forkortet Stemninger ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972447120</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972447120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">764</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Digte fra forskjellige Perioder , l.-4. Deel, 1851-62 (i ADL forkortet Digte ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972445424</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972445424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">772</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udvalgte dramatiske Værker I-VIII, udgivet af Poul Hertz, 1897 (i ADL forkortet UdV ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972443728</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972443728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">780</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udvalgte dramatiske Værker indeholder 21 kendte og mindre kendte af de i alt 53 stykker der findes i Dramatiske Værker I-XVIII, som også er tekstgrundlaget. Indeholder korte noter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972441680</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972441680</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">788</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Andenudgaven af Digte fra forskjellige Perioder fra 1877 indeholder 1. og 2. del. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972440464</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972440464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger og noter</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">794</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I Udgivelse af danske litterære tekster efter 1800 (Den røde Betænkning) DSL, 1996, gøres der rede for foreliggende udgaver i afsnittet om Henrik Hertz, s. 48-50. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972437200</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972437200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">808</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972431104</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972431104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">841</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Stemninger og Tilstande , 1839. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972430000</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972430000</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">846</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Digte fra forskjellige Perioder , 1.-4. Deel, 1851-62. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972428880</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972428880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">851</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dramatiske Værker I-XVIII, 1854-73. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972427760</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972427760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">856</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Breve fra og til Henrik Hertz , udg. af Poul Hertz, 1895. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972426624</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972426624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">861</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udvalgte dramatiske Værker I-VIII, udg. af Poul Hertz, 1897. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972425472</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972425472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">866</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udvalgte Digte , ved Otto Borchsenius, 1899. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972424352</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972424352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">871</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Posthuset i Hirschholm , m. indl. af Hans Brix, 1923 (Hirschholmdigtene med tilhørende aktstykker). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972423104</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972423104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">876</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Hertz Manuskripter , udg. af Mogens Brøndsted, 1948. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972421936</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972421936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">881</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Stemninger og Tilstande. En litterær nøgleroman fra 1839 , med indledning af Johannes Weltzer, 1948 (udvalgte kapitler). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972420688</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972420688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">886</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et og andet om Skuespillerens Kunst , udg. af Frederik Schyberg, 1948. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972419552</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972419552</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">891</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gubben og Ynglingen og andre digte i udvalg , ved Klaus Rifbjerg, 1960. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972418400</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972418400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Selektiv bibliografi</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">896</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De Frifarvede. Fra Kjærligheds Veie Nytaarsgave 1836 . Indledning og noter af Anne Walbom og Eva Frellesvig, 1998. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972415728</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972415728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelle behandlinger</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">909</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georg Brandes: Æsthetiske Studier , 1868, s. 217-33. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972414592</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972414592</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelle behandlinger</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">915</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vilhelm Andersen: Litteraturbilleder , bd. I, 1903, s. 76-93. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972413440</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972413440</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelle behandlinger</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">921</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Kyrre: Henrik Hertz. Liv og Digtning , med et Tillæg af efterladte Papirer, 1916. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972412208</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972412208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelle behandlinger</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">927</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vilhelm Andersen: Illustreret dansk Litteraturhistorie , bd. III, 1924, s. 434-55. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972411040</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972411040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelle behandlinger</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">933</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Oluf Friis i Dansk litteratur historie , bd. III, 1976, s. 248-71. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972409872</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972409872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelle behandlinger</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">939</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Paul V. Rubow i Dansk biografisk leksikon , bd. VI, 3. udg., 1980.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972406704</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972406704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Enkeltdele af forfatterskabet</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">955</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Paul Rubow: Dansk litterær Kritik i det 19. Aarhundrede indtil 1870 , 1921, s. 177-85 (æstetikken). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972405456</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972405456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Enkeltdele af forfatterskabet</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">961</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mogens Brøndsted: Henrik Hertzes Teater , 1946 (skuespillene). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972404304</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972404304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Enkeltdele af forfatterskabet</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">967</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Finn Hauberg Mortensen: Litteraturfunktion og symbolnorm 1800-1870 , bd. II, 1973, s. 389-405 (romanerne). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972402544</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972402544</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Enkeltdele af forfatterskabet</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">975</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Svend Erik Larsen: "Hyggebelysning" i: Nordica , II, 1985, s. 171-74 ("Gadescene om Natten"). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972401360</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972401360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Enkeltdele af forfatterskabet</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">981</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Torben Hamann Hansen: "Patriotisk dannelse og biedermeieridyl" i: Danske Studier , 1998, s. 152-62 (romanerne). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">hertz-p#idm140135972399024</field>
+    <field name="volume_id_ssi">hertz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz-p#idm140135972399024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mogens Brøndsted</field>
+    <field name="author_name">Mogens Brøndsted</field>
+    <field name="author_id_ssi">Mogens%20Br%C3%B8ndsted</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">995</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Af Mogens Brøndsted f. 1918, cand.mag. 1945 (dansk, latin, græsk kultur), udlandslektor 1946-57, bibliotekar ved Det Kgl. Bibliotek 1957-63, amanuensis ved Københavns universitet 1963-66, professor i nordisk litteratur ved Odense universitet 1966-88. </field>
+  </doc>
+</add>

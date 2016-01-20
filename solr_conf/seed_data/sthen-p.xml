@@ -1,0 +1,3312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">sthen-p</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223309152</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223309152</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">49</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1970'erne boede der i Helsingør en digter, der blev landskendt for sine viser, som især den unge generation tog til sit hjerte. En af viserne, et lille fordringsløst digt, blev næsten en landeplage. Digtet begynder "O, at være en høne!" - det perspektiv må åbenbart have virket tiltrækkende på Frank Jæger - og på hans samtid. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223308096</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223308096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">52</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nøjagtig 400 år tidligere levede i samme by en digter, der også skrev og udgav fordringsløse viser, men af den gudelige slags, for at den opvoksende ungdom gennem rim og rytme og god poesi kunne få indøvelse i kristendommen. Som billede og emblem på hele sin forfattervirksomhed valgte han en hane - en kampberedt, trompetblæsende hane, med kors på ryggen. O! at være en hane! - det var det perspektiv, der lokkede og tvang poesien frem af Hans Christensen Sthens hoved og hjerte. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223305968</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223305968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">58</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sthens morgenduelige hane er god for en vækkende morgensang som "Den mørcke Nat forgangen er, oc Dagen rinder op saa vide..." ( Hans Christensen Sthens Skrifter ( SS ) I 50-52 ), men i øvrigt trompeterer den digterens motto som et udfordrende kykliky ud over Øresund: "Sic et non aliter!" - således og ikke anderledes! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223302928</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223302928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">69</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med hanegal annonceredes en ædel dyst om ny salmedigtning, frembragt ved moddigtning af samtidens elskovsviser og moraliserende viser. Fænomenet moddigtning eller kontrafaktur er velkendt i salmedigtningen både før og efter Sthen. Kort efter reformationen fik lutherske salmedigtere travlt med at moddigte middelalderlige Mariaviser, der ikke længere var teologisk spiselige. Men poesien i middelalderdigtene tog man gerne med over i den unge lutherske kirke, når blot Marias navn udskiftedes med Jesu navn. Ved at klistre skæg på Jomfru Maria blev Mariavisen "Jeg vil mig en jomfru love" ændret til "Jeg vil mig Herren love" ( Den Danske Salmebog 1953 ( DDS ) nr. 56). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223300416</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223300416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">78</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I denne kontrafakturtradition har Sthen indskrevet sit navn med nogle af sine bedste salmer. Under mottoet"sic et non aliter" kanaliserede han værdifulde elementer i samtidens viser ind i sine egne gudelige viser, som han skrev på de verdslige forbilleders metrum og melodi. Resultaterne står den dag i dag at læse i DDS , hvor Sthen er repræsenteret med i alt 16 salmer, og hvoraf "Et trofast hjerte, Herre min", DDS 585, "Guds nåde højt jeg prise vil", DDS 462, og "Du, Herre Krist, min frelser est", DDS 46, er udprægede kontrafakturer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223295232</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223295232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">99</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om Sthens tidligste år vides fra et selvbiografisk fødselsdagsdigt, at "I min Vngdom falt Fader oc Moder mig fra/ Men du HErre monne trolige met mig staa" ( SS I 104,21-22 ). Oplysninger om hans egen overgang til lutherdommen kan muligvis gemme sig i beskrivelsen af "den vnge Theologum Job, der nu vaar afftræden fra sine Fædris Religion, oc vaar kommen til Abrahams oc hans Sæds Hoff oc Tro" ( En liden Trøstscrifft ( Tr ) blad D6r, SS III). I Sthens hjemby Roskilde levede den gamle tro videre længe efter reformationen, så det er vel tænkeligt, at Sthen har haft en katolsk barndom. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223290352</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223290352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">116</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om studietiden vides intet, da Sthen ikke ses at være indskrevet i nogen universitetsmatrikel. Formodentlig har han studeret i København, muligvis også ved en tysk læreanstalt. Eneste vidnesbyrd om et besøg i Tyskland findes i En Ligpredicken ( Lpr ) bl. C5v, SS III), som Sthen holdt den 16. maj 1602, og hvor han fortæller: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223286288</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223286288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">134</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I fødselsdagsdigtet nævnes "gode Venner baade vde oc hiemme/ Som mig til det beste skulle fordre oc fremme" ( SS I 104,33-34 ). Til vennerne hjemme regner Sthen formentlig de velhavende borgerfamilier, der var hans støtter i Helsingør, og de adelige slægter Ulfstand, Sparre og Grubbe, som han plejede omgang med i Malmøtiden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223283888</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223283888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">142</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1565 blev Sthen kaldet til Helsingør for at overtage den ledige stilling som rektor for latinskolen. Formodentlig havde han da allerede gjort tjeneste som hører, dvs. underlærer et par år ved en københavnsk skole. I alt fald kan han i fødselsdagsdigtet fra 1588 skrive, at "i sex oc tive Aar haffuer ieg arbeydet oc tient/ I Skole oc Kircke, som Gud er bekient" ( SS I 106,74 f. ). Allerede året efter denne kaldelse, den 12.7.1566, ombyttedes rektorstillingen med en ansættelse som kapellan ved Skt. Olai. Med dette embede forenede han senere igennem fire år, fra 6.11.1570 til slutningen af november 1574, sin gamle rektorstilling. I 1570 forpligtede han sig til hver lørdag efter middag "at sjunge diskant i koret til aftensang, ungdommen dermed at øve og forbedre" (Helsingørs rådstuebog, Rørdam 1882-84, s. 310). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223280832</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223280832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">150</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da Sthen i 1567 holdt bryllup, fik brudeparret af borgmestre og rådmænd foræret en fed stud til bryllupskost, og parret fik bolig i "S. Olai Kirkes Gaard". Ægteskabet, der varede til hustruens død i 1602, var i 1588, if. førnævnte fødselsdagsdigt ( SS I 105,38 ), blevet velsignet med seksten børn, men en pestepidemi i 1580 gjorde voldsomt indhug i børneflokken, og den 9. september samme år satte Sthen dette gribende epitafium ( SS I 105,42-63 ) over sine døde børn: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223276608</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223276608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">164</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">HEr ligge wi otte Christne Børn smaa, </field>
+    <field name="text_tesim">Paa Dommedag igien skulle wi opstaa, </field>
+    <field name="text_tesim">Vor hellige Daab haffue wi til trøst, </field>
+    <field name="text_tesim">Ved Christi Blod oc Død forløst: </field>
+    <field name="text_tesim">I Verden haffde wi Soet, Angest oc Nød, </field>
+    <field name="text_tesim">Nu sidde wi glade i Christi Skød, (...) </field>
+    <field name="text_tesim">Vore kiere Forældre wi Gud befale, </field>
+    <field name="text_tesim">Hand dennem oc alle Bedrøffuede hussuale, </field>
+    <field name="text_tesim">Wi skildis fra dennem her sørgelig, </field>
+    <field name="text_tesim">Dog ville wi igien findis gladelig, </field>
+    <field name="text_tesim">I Himmerige hoss Guds Børn allesammen, </field>
+    <field name="text_tesim">Huo her omkring gaar, sige der til Amen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223270496</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223270496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">205</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1581 erhvervede Sthen magistergraden ved Københavns Universitet sammen med sin efterfølger som rektor, Albert Hansen, senere biskop i Ålborg. En venskabelig forbindelse mellem de to antydes af, at Sthen i En liden Haandbog indføjede Albert Hansens navn i et akrostikon, dvs. et digt, hvor linjernes begyndelsesbogstaver danner navnet ( SS II, Hb 53) og senere udgav en salme af Albert Hansen ( SS I 71-73, Vb 45 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223265232</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223265232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">225</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den 14.4.1583 kom Malmøs borgmester Jacob Fectil til Helsingør med sit byråds kaldelsesbrev på sognepræsteembedet ved Skt. Petri i Malmø, og Sthen fulgte kaldelsen og blev tillige provst for Oxie Herred. Helsingørs byråd gav ham det bedste skudsmål både som skolemester og sjælesørger og kaldte Gud til vidne på, at de "alle samtlig havde jo heller ganske gjerne set og begjæret, at han fremdeles havde blevet hos os, end her fra at skilles" (Rørdam 1882-84, s. 315). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223264192</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223264192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">228</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At Sthen med ildhu er gået til sin gerning i det nye krævende embede som sognepræst og provst, er der flere vidnesbyrd om. Med et klart blik for den slendrian, der prægede menigheden i Malmø, hvor den evangeliske pionerånd fra 1528 var blevet gammel og havde udartet til skødesløs ligegyldighed, udformede han en Contract om lørdagsprædicken och om messen och altertienisten , dateret 6.12.1586, som hver lørdag eftermiddag efter aftensangen indfører en påmindelsesprædiken for alle dem, der vil gå til undervisning og dagen efter modtage nadveren, "paa det ved saadan underwijszning och formaning den gamble adamiske groffhed och kødelig menniske kunde i nogen maade tuingis och driffuis til undergang" (Weibull 1897, s. 36; Carlquist 1948, s. 26). Vi bliver her mindet om emblemet med den årvågne hane, der kalder til kamp med fanfaren "Sic et non aliter" vel vidende, at kampen har sin pris (korset på ryggen). Samme ildhu lægges for dagen på et møde den 7.3.1595 i borgmester Jørgen Kocks stiftelse fra 1546 - der ifølge fundatsen daglig skulle uddele et brød til hver af byens fattige - hvor det afsløredes, at byrådet havde gjort betydelige lån i stiftelsens midler, uden at renterne var kommet de fattige til gode. Da den nidkære provst gjorde indsigelser, blev han "overfused for raad og ret", og fortørnet spørger han i en længere privat optegnelse, "om det er den tack, mand skal haffue/ for erlig tro tieniste mange aar och daffue"? (Isberg 1895, s. 55 f.; Brandt 1888, s. 67 f.). Endnu et vidnesbyrd om Sthens iver i tjenesten fremgår af en kirkegængers omtale af "den predicken, som mester Hans sogneprest haffuer prediket thil høijmesze, [hvori] hand haffde straffit horerj och andre synder och laster paa det heftigste..." (Malmø bys domsprotokol for 19.3.1596; Weibull, s. 37). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223260416</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223260416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">234</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det er ikke at undres over, at der kunne opstå spændinger mellem den nidkære præst og en by, der lededes af gamle selvbevidste borgerfamilier, der næppe har villet lade sig ret meget sige af en tilflytter med roskildedialekt. I året 1600 synes striden mellem magistrat og provst at kulminere i en hyklerisk bønskrivelse fra magistraten til kongen om at befordre deres sognepræst - som "nu med Svaghed og Alderdom fast belades, og med Tiden vil falde hannem meget besværligt hans Præsteembede og den store Menighed og Almue her udi Byen med tilbørlig Tjeneste at kunne forestaa" - til det netop ledige embede som sognepræst for Tygelsø og Klagstrup uden for Malmø og således tilgodese "hans flittige, lange og tro Tjeneste udi det hellige Prædikeembede ...". Kongen imødekom henvendelsen og bad i en skrivelse af 18.7.1600 lensmand Christian Barnekow på Malmøhus om at foreholde sognemændene i de nævnte sogne kongens "naadigste og alvorlige Villie", så Sthen kunne blive lovlig kaldet dertil (Rørdam 1882-84, s. 317 f.). Der har næppe i forflyttelsen ligget noget krav til Sthen om at flytte ud i landsognet, eftersom den hidtidige sognepræst havde dispensation til at varetage sit embede fra en bolig inde i Malmø. Da der imidlertid ikke kom noget som helst ud af kongebrevet, må vi slutte, at kongen er kommet under vejr med, at Sthen aldrig selv har ønsket denne forflyttelse. "Alderdommens Svaghed" hos den 55-årige provst har heller ikke været mere fremskreden, end at han to år senere, da hans første hustru døde i 1602, giftede sig igen samme år med en datter af den lærde og ansete lundekannik magister Oluf Stisen, sognepræst i Burløv. Med hende fik han fem børn. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223258032</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223258032</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">237</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I modsætning til det spændte, til tider fjendtlige forhold til de gamle etablerede borgerfamilier i Malmø synes Sthen at have stået på god fod med sine foresatte og egnens adelige familier, der har vidst at værdsætte ham. Familien Sparre på Svaneholm Slot lod i 1595 to nye klokker i Skurup Kirke forsyne med lange versificerede indskrifter af Sthen (Carlquist III, s. 600). Året forinden havde han tilegnet familien Sparre sin nye udgave af Avenarius' bønnebog ( SS II). Da fru Mette Ulfstand blev begravet i Bare Kirke den 16.5.1602, blev det Sthen, der under biskop Mogens Madsens sygdom måtte holde ligprædikenen, der siden blev udgivet efter tilskyndelse fra afdødes svigersøn Sivert Grubbe, der netop var tiltrådt som ny lensmand på Malmøhus. Allerede måneden efter gjorde biskoppen igen brug af malmøprovsten, der på landemodet i Lund den 29.6.1602 talte om tiggeri og fattigdom (Brandt 1888, s. 70). Ved samme lejlighed talte biskoppen selv mod jesuitterne og advarede navnlig mod skolen i Braunsberg, hvor jesuitterne ligesom edderkopper havde udspændt deres væv for at fange ubefæstede ynglinge fra Nordens lande! Der har næppe heri været rettet nogen brod specielt imod Sthen, men vist er det, at Sthen i årene 1600-1605 lod sine sønner Hans, Frans og Gabriel studere hos jesuitterne i Braunsberg. Den første var oven i købet indskrevet som pavelig alumne! (Helk 1966, s. 301, 303 f.). Det var formodentlig en gammel interesse for pædagogik, der fik den fhv. rektor til at gøre brug af jesuitternes højt berømmede skolevæsen til sine sønners uddannelse. Sthen kan være blevet bevidst herom gennem sit nære forhold til den jesuitisk sindede Jens Aagesen, der i årene 1596-1605 var en særdeles respekteret rektor for latinskolen i Malmø. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223254048</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223254048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">243</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra Sthens tid som provst i Malmø har Claus Christoffersen Lyschander i sin forfatterbiografi karakteriseret ham som en mand, der færdedes hjemmevant både i teologien og i de verdslige videnskaber, en lysende begavelse, der nød høj agtelse for sine folkelige prædikener, tiltalende af væsen, fornøjelig og venlig i samtale, en glimrende taler og digter, en flittig og heldig oversætter ("Vir in divinis literis et seculari philosophia præclare versatus, in habendis ad populum concionibus magnæ existimationis, ingenio clarus, moribus spectabilis et conversatione festivus ac affabilis, Orator et Poëta insignis, interpres industrius et felix"; Lyschander v. Rørdam 1868, s. 255). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223252192</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223252192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">246</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sthen blev i Malmø en holden mand. Foruden sin årsløn som sognepræst og provst oppebar han honorar som prædikant på Malmøhus. Takket være disse gode indkomster suppleret med indtægterne fra et efterhånden omfattende forfatterskab kunne han etablere sig, først i en gård i Rundelstræde og fra 1585 ganske fornemt i kirkens gård i Degnestræde, som han vederlagsfrit kunne disponere over som embedsbolig, indtil han endelig i 1591 flyttede til det store gårdkompleks ved den lange Adelgade, som han i 1589 havde købt. I boopgørelsen af 13.11.1610 findes en indgående beskrivelse af det smagfulde og rigt udstyrede hjem, hvortil også hørte et stort bibliotek, der af ejeren var vurderet til ikke mindre end 3000 daler (Weibull, s. 33-35; Brandt, s. 74). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223250208</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223250208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">249</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kort før sin anden hustrus død indgav Sthen den 27.3.1607 til Malmø rådstueret sin afskedsbegæring, stilet til kongen, i hvilken han beretter, at han har ladet sig bruge både i skoletjeneste og kirketjeneste nu i fulde 44 år, også i kongens salig faders tid, som jeg "tidt haffuer predicket och giort tieneste faare. Nu er ieg kommen til en stoer suaghed oc skrøbelighed paa min allerdom" og beder om at blive fritaget for tjeneste "som en gammel lantzknect, der har vdtient, er vdtrælit, vdarbedit, der nu icke kand gøre fyllest mere for sin sted, øyene kand intet se, føderne intet bere kroppen, maal, røst, hugkommelse och alting slar mig feil..." (Weibull, s. 38 f.). Om noget fredeligt otium blev der dog ikke tale. Da Sthen i december samme år giftede sig for tredie gang med en ung kone, der også nåede at føde ham et barn, brød der en storm løs, idet sønnerne af hans første ægteskab og slægtninge til deres endnu umyndige halvsøskende havde håbet på at arve udelt bo. De sidste par år af Sthens liv blev et ragnarok af gentagne boopgørelser, ophidsede familieopgør, stævninger, anklager for arvesvig med efterfølgende klækkelige bøder, gensidige beskyldninger og hadefulde injurier. Der blev givetvis pustet til ilden fra en magistrat, som havde en hane at plukke med den gamle nævenyttige provst og nu mente at kunne tage en sød hævn med loven i hånden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223247984</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223247984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">252</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De voldsomme sammenstød mellem far og sønner må have været bitre for den engang så børneglade præst, der om ægteskabet og dets frugter havde skrevet, at " Børn ere alene Guds deylig Gaffue" ( SS II, AV -T19). I En liden Trøstscrifft møder vi sådanne udbrud som "Ah Børn de gaar fra Hiertet, oc gaar igien til Hiertet!" ( SS III, Tr bl. B11r), og om "Naturlig Kierlighed" skriver Sthen i Saligheds Vey ( SS III, SV 38): </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223241104</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223241104</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">280</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">I Naturen haffuer Gud det Plantet saa, </field>
+    <field name="text_tesim">at Blod til Blod rinde maa, </field>
+    <field name="text_tesim">Naturen er saa sterckt it Baand, </field>
+    <field name="text_tesim">Hun drager dem sammen hin anden vel and [dvs. der under hinanden vel]. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223238832</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223238832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">297</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sthen døde i april eller maj 1610 og blev stedt til hvile foran alteret i Skt. Petri Kirke (Weibull, s. 50), men nogen ligsten over ham er ikke kendt endsige bevaret. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223237024</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223237024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">306</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I Helsingørs kæmnerregnskab for 1570-71 findes følgende post: "Item efter Borgmesteres og Raads Befaling haver jeg [givet 36 Mark ud, som blev foræret til] Hr. Hans Christensen, Kapellan og Skolemester her i Helsingør, [fordi] han haver udsat og ladet paa Tryk udgaa Bedebøger og andet nytteligt, siden han hidkom, denne Menighed til Ære" (Rørdam 1882-84, s. 311). Denne kontante påskønnelse gælder åbenbart ikke kun Christelige oc vdkaarne Bøner, for alle Stater, oc for allehaande Nød oc Trang ( AV ), der udkom i 1571, men sigter også til andre i dag ukendte udgivelser fra Sthens hånd. Heller ikke 1. udgaven af Christelige oc vdkaarne Bøner 1571 eksisterer længere, men vi kender denne bønnebog fra en række senere udgaver. Det er en dygtig oversættelse af den bøhmiske teolog Johann Habermanns eller Johannes Avenarius' populære bønnebog Christliche Gebet, für alle Not vnd Stende der gantzen Christenheit, aussgetheilet auff alle Tag inn der Wochen zu sprechen . Sthen har til sin oversættelse gjort brug af både den tyske 1. udgave fra 1565 og den omarbejdede 2. udgave fra 1567. Dispositionen i Avenarius' bønnebog med otte bønner til hver ugedag er efter jesuitisk forbillede, men konceptet lod sig med stor succes overføre på en luthersk bønnebog. Særpræget i Avenarius' bønner er deres biblicitet, idet sproget er ladet med bibelske mindelser i form af metaforer og vendinger og skjulte citater, især fra Psalteren, men næst efter Pauli breve og evangelierne også fra apokryfiske skrifter som Jesu Siraks Bog. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223231488</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223231488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">321</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det tillæg med toogtyve christelige Bøner, for atskillige Personer at læse, vddragne aff nogle besynderlige Lærde Mends Bøger, oc aff fremmede Tungemaal baade Latine oc Tydske, Oc fordanskede, aff Hans Christensen , som ledsagede Sthens 2. udgave fra 1577 af AV , kan vel tænkes at have eksisteret som en tidlig selvstændig bønnebog og kan således sammen med AV 1571 forklare flertalsformen "Bedebøger" i det førnævnte kæmnerregnskab. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223228208</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223228208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">333</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til borgmester Henrik Mogensens bryllup 3.2.1572 digtede Sthen en ny brudesang "Det er baade gaat oc lader vel" ( SS III) til afløsning af den gamle "Mariskjoldvise", hvormed brudefølget i den katolske tid havde påkaldt Maria som skjold i al fare, når bruden blev sunget til sengs. Allerede Peder Palladius havde forsøgt at komme den populære "Mariskjoldvise" til livs med en kontrafaktur, hvor Maria er udskiftet med Jesus, og hvor omkvædet lyder: "Saa vorde io Jesus vor skiold i huerinde vaade", men hverken Palladius' eller Sthens brudevise - med et 32 gange gentaget omkvæd "i tuct oc vdi ære" - slog an. Større held synes Sthen at have haft, når han med sine latinskoleelever opførte "spektakler og lege", dramatiske forestillinger, til jul, fastelavn og pinse. Scenen var enten på rådhuset eller kirkegården. Et bevaret anonymt skuespil Kort Vending antages at være forfattet af Sthen, idet passager herfra går ordret igen i hans læredigt Lyckens Hiul ( SS III) over samme tema: altings omskiftelighed. Stykket har sin ide og centralfigur Kort Vending fra Hans Sachs' Bald-anderst , 1531, og udvikler i øvrigt sit tema gennem en række monologer, lagt i munden på et galleri af tidstypiske personer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223222192</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223222192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">351</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1572 eller 1574 udgav Sthen if. Lyschander en nu tabt levnedsskildring om Johan Hus. Kan dette Vita Johannis Hus måske have været blandt de "spektakler", som Sthen opførte med sine elever? </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223220832</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223220832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">357</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1578 kom En liden Haandbog, som indeholder allehonde nyttige Øffuelser vdi Gudelighed oc smucke trøstelige Bøner oc Loffsange, som mand kand daglige bruge ( Hb ). En del af indholdet er oversættelser eller egne kompilationer, bl.a. fra Avenarius' bønnebog. Af Haandbogens ti sange kendes stadig julesalmen "Nu ville wi siunge oc vere glad" ( SS II, Hb 45, jf. DDS 91). Haandbogen giver anvisninger på fromhedsøvelser, exercitia, under den daglige husandagt og i mange af dagliglivets situationer, og også her aner man katolske forbilleder. Sthens anliggende er at bevare en gammel folkelig fromhed i aftagende og evt. ved nytolkninger transformere den over i den nye tros baner. Sthen har blik for, at ikke alt det gamle er ubrugeligt, men at det stadig giver god mening at indskærpe "gammel brug oc en god christelig seduane, at ... naar mand hører Klocken sla, da oplyffter mand sit Hoffuet, oc siger: Gud giffue oss en salig Stund oc det euige Liff etc. Saadan en god oc gammel skick skal mand icke afflegge, forglemme eller foracte, thi det er dog den nyttigste Bøn mand kand bede" ( SS II, Hb 12). Sthens kilder til de nyere tekster i Haandbogen skønnes i vidt omfang at være tyske skillingstryk, som Sthen formentlig har oversat og udgivet som danske skillingstryk op gennem 1570'erne, indtil han havde stof nok til en hel bog. To lange dialoger mellem Satan og den syge ( Hb 46) og Døden og manden ( Hb 47) kan oprindelig have været separate tryk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223363248</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223363248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">387</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inden udgangen af 1578 blev en af de pestepidemier, der med jævne mellemrum hjemsøgte landet, anledning til udgivelsen af endnu en opbyggelsesbog, En Predicken Cæcilij Cypriani i en suar Pestelentz tid faar 1321 Aar [siden] (Cypr). Den latinske kirkefaders pestprædiken var på Sthens tid overordentlig udbredt i oversættelser på en række europæiske sprog. Sthens oversættelse bygger på superintendenten i Lübeck, Andreas Pouchs nedertyske fra 1577. Dertil føjer han tematisk beslægtet stof af superintendenten i Braunschweig Joachim Mörlin, den fejrede digterpræst i Freistadt Joh. Gigas, den bøhmiske reformator Joh. Mathesius, rostockprofessoren Lucas Bacmeister m.fl. og dedicerer sit skrift til rentemester Christoffer Valkendorf. Året efter tabet af sine otte børn udgav Sthen til sin egen og nogle venners trøst En liden Trøstscrifft. For alle Christelige Forældre, naar deris børn bliffuer siuge eller hensoffuer i Herren ( Tr ). Kernen heri er et tilsvarende skrift Trost der Eltern , 1559, af den meget produktive opbyggelsesforfatter Georg Walther fra Halle. Det er dog i de passager, hvor Sthen slipper sit tyske forlæg og skriver med sit hjerteblod, at hans evner som prosaist lægges for dagen. Gribende er således denne skildring ( SS III, Tr bl. A4r) af en moders omsorg for sine syge børn som kristelig metafor. Vi får dette kik ind i den sygdomshærgede kapellanbolig i Sct. Olai Gade i sensommeren 1580: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223190624</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223190624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">414</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra samme år 1581 stammer læredigtet Lyckens Hiul ( LH ), der muligvis er udkommet tidligere (dedikation 30.11.1579). Temaet er lykkens omskiftelighed, og i 500 knittelvers skildres, hvorledes lykkens hjul løber omkring, så ( SS III; LH 4,5-14) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223186800</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223186800</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">430</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Den ene ophøyis, den anden tryckis ned, </field>
+    <field name="text_tesim">Saa pleyer at vere Verdsens sed, </field>
+    <field name="text_tesim">Somme monne det Lyckelige gange, </field>
+    <field name="text_tesim">Somme igien gaar det fuld bange, </field>
+    <field name="text_tesim">Somme leffue i Fryd oc Glæde, </field>
+    <field name="text_tesim">Baade Dag oc Nat de dantze oc quæde, </field>
+    <field name="text_tesim">Somme sørge oc ynckelige quide, </field>
+    <field name="text_tesim">Græde oc hyle oc ilde lide, </field>
+    <field name="text_tesim">Somme i Verden ere rige oc geffue, </field>
+    <field name="text_tesim">Somme monne oc armelige leffue... </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223181776</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223181776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">465</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Omskifteligheden eksemplificeres med personer fra Bibelen (Moses, Josef, David) og den klassiske oldtid (Croesus, Sesostris, Polycrates og kongerne Cyros og Dionisius). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223181200</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223181200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">468</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Året efter sin tiltræden i Malmø udgav Sthen Saligheds Vey ( SV ) i anledning af brylluppet mellem et tidligere sognebarn fra Helsingør og en borgerdatter fra Malmø og byggede på den måde bro mellem sin gamle og nye menighed. SV rummer en udlægning af Davids 1. salme i spørgsmål og svar. Heri rettes drøje hug mod "den Romerske Paffue oc Wederchrist" og "hans Lemmer, oc synderlige det ny, skadelige, forgifftige Jeswitiske Wkrud", der virker "met list, formedelst den arme Vngdoms forførelse, oc grusomme forledelse" ( SS III, SV bl. C3r og v). Den skarpe tone overrasker i betragtning af, at Sthen nogle år senere betroede sine egne sønner i jesuitternes varetægt i Braunsberg. Men Sthen støtter sig i Saligheds Vey til den ærkelutherske Josva Opitius, der som præst for den evangeliske menighed i Wien 1577-81 havde gjort bitre erfaringer om jesuitterne og udmøntet disse i sin polemiske udlægning af Der erste Psalm Dauids, kurtz vnd einfaltig durch Frage vnd Antwort erkläret , Basel 1582. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223174128</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223174128</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">492</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Formodentlig i begyndelsen af 1589 udkom En liden Vandrebog: Indeholdendis atskillige smucke Bøner oc trøstelige Sange, met nogle nyttige Lifs Regle i artige Rijm befattede ( Vb ). Det er i denne uanselige bog, tænkt som gudelig og opbyggelig tidsfordriv for rejsende, at hovedparten af Sthens åndelige viser findes. Bogens opbygning ligner En liden Haandbog , men prosaen i denne er nu omsat til poesi. Sthen viser her sine billedskabende evner. I en vise om ægteskabets indstiftelse i Paradisets have ( SS I, Vb 40 str. 4-6 ) leverer Sthen en vidunderlig skildring af Adams glade reaktion, da han vågner op efter sin søvn: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223168256</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223168256</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">513</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Der Adam opuaagnede oc sig omsaa, </field>
+    <field name="text_tesim">Den deylige Jomfru for hannem mon staa, </field>
+    <field name="text_tesim">Hans Hierte begynte at brende: </field>
+    <field name="text_tesim">Aff Kierligheds ild, vden sorg oc Harm, </field>
+    <field name="text_tesim">Hand tog sin Kieriste i sin Arm, </field>
+    <field name="text_tesim">Hende for sin Hustru kiende. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223165280</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223165280</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">534</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Her er Been oc Kiød aff mit Kiød oc Been, </field>
+    <field name="text_tesim">derfor siger ieg nu foruden meen, </field>
+    <field name="text_tesim">Oss skal ret ingen atskille: </field>
+    <field name="text_tesim">Min kierist Mandinde hun kaldis maa, </field>
+    <field name="text_tesim">Effterdi Gud haffuer det skicket saa, </field>
+    <field name="text_tesim">Alt effter sin egen Ville. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223162256</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223162256</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">555</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Oc Gud gaff dem til Morgengaffue, </field>
+    <field name="text_tesim">Det beste de i Verden vilde haffue, </field>
+    <field name="text_tesim">Velsignet dem begge tilljge: </field>
+    <field name="text_tesim">Paradjss skulde deris Herresæde være, </field>
+    <field name="text_tesim">Der skulde de leffuet i lyst oc ære, </field>
+    <field name="text_tesim">Om de icke fra hannem vige. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223159056</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223159056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">578</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sthen er sandt at sige vokset nogle alen som digter, siden han sidst - ved sin digterdebut med brudevisen i 1572 ( SS III, epithalamiet str. 6-8) - behandlede det samme motiv således: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223157488</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223157488</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">585</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Der hand [Adam] opuaagnede oc sig omsaa, </field>
+    <field name="text_tesim">i tuct oc vdi ære: </field>
+    <field name="text_tesim">Hans Kiød oc been for hannem mon staa, </field>
+    <field name="text_tesim">i tuct oc vdi ære, </field>
+    <field name="text_tesim">Gud dem velsigne oc nære. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223154864</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223154864</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">603</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">En Mandinde skal hun kaldis ret, </field>
+    <field name="text_tesim">i tuct oc vdi ære: </field>
+    <field name="text_tesim">I kierlighed deris hierte er sæt, </field>
+    <field name="text_tesim">i tuct oc vdi ære, </field>
+    <field name="text_tesim">Gud dem velsigne oc nære. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223152272</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223152272</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">621</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Gud gaff hannem hende ved haanden brat, </field>
+    <field name="text_tesim">i tuct oc vdi ære: </field>
+    <field name="text_tesim">Sætte der met ind den Ectestat, </field>
+    <field name="text_tesim">i tuct oc vdi ære, </field>
+    <field name="text_tesim">Gud dem velsigne oc nære. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223149552</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223149552</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">641</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lige så meget, som Sthen selv er til stede i skildringen af den fyrige brudgom Adam, er han også nærværende i sin tegning af "en Person der suag oc til Alders kommen er", der kommer til orde i "En klagelig oc dog trøstelig Sang oc Vise..." ( SS I, Vb -T40 ), skrevet i folkeviseversemål med de lange linjers melankolske fald og det dobbelte omkvæds monotone sørgmodighed. Man finder ikke smukkere strofer i dansk religiøs digtning før Kingo end disse (Frandsen 107 f.; SS I 165-167 ): </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223144608</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223144608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">658</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">HVem skal ieg klage mit sorgfuld Mod, </field>
+    <field name="text_tesim">HErre Gud trøste dem som bange er, </field>
+    <field name="text_tesim">Jeg klager for Gud, hand kand best raade Bod, </field>
+    <field name="text_tesim">Thi at Sorrigen hun tuinger saa mange. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223142448</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223142448</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">673</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Stor Suaghed haffuer tilslaget mig, </field>
+    <field name="text_tesim">HErre Gud trøste dem som bange er, </field>
+    <field name="text_tesim">Jeg veed ræt ingen tilfluct, vden HErre til dig, </field>
+    <field name="text_tesim">Thi at Sorrigen hun tuinger saa mange. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223140240</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223140240</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">688</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">O HErre, ieg beder vndfald icke mig, </field>
+    <field name="text_tesim">HErre Gud trøste dem som bange ere, </field>
+    <field name="text_tesim">I Liff oc Død forlader ieg mig paa dig, </field>
+    <field name="text_tesim">Thi at Sorrigen hun tuinger saa mange. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223138032</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223138032</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">703</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Mig rinde saa mange Tancker i hu, </field>
+    <field name="text_tesim">HErre Gud trøste dem som bange ere, </field>
+    <field name="text_tesim">Huad fordum tid er skeet, det mindis mig nu, </field>
+    <field name="text_tesim">Thi at Sorrigen hun tuinger saa mange. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223135728</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223135728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">720</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det billede af Sthen, som vi allerede tidligere har mødt: et menneske, der er åbent iagttagende og opmærksom over for signaler i tiden og følger med i den nyeste udenlandske litteratur, udkrystalliserer sig i de poetiske arbejder. Den eskatologiske stemning i anden halvdel af 1500-tallet og især den bekymrede forventning til Annus Mirabilis Octogesimus Octavus, det forunderlige og forskrækkelige år 1588, der var genstand for vidt udbredte profetier, der varslede dommedag og Kristi genkomst, finder i Vandrebogen sit evangeliske svar i den "christelige Supplicatz" (bønskrivelse) "Herre Jesu Christ, Min Frelser du est" ( SS I 66-68, Vb 42 ) og i den dermed åndsbeslægtede "O Gud effter dig mig forlenger" ( SS I 68 f., Vb 43 ). En middelalderlig legende om den himmelske rådslagning mellem Gud og hans fire døtre Justitia, Veritas, Pax og Misericordia, der har fundet sin klassiske form i en af den hellige Bernhards prædikener og blev taget til hjerte i den lutherske kirke i sidste halvdel af 1500-tallet, dukker op i Sthens episke "Vise oc Dict, om Adam oc Eves syndige Afffald fra Gud, Oc deres annammelse igien til Naade, formedelst Christi Foorbøn oc Lydighed" ( SS I 54-59, Vb 39 ). At Sthen har blik for de muligheder, der ligger i samtidige populære elskovsviser som "Sommersens tid jeg prise vil" og den tyske "Es ist auf Erden kein schwerer Leiden", i deres henførende rytme, ordvalg og melodi, som kilde til inspiration for en ny salmedigtning, fremgår af Vb -tillæggets "christeligt forandrede viser", "Guds Naade ieg altid prjse vil" ( SS I 158 f., T-36 ) og "Et trofast Hierte, O Herre min" ( SS I 160 f., T-37 ) og den førnævnte Vb 42. Også samtidens gudelige viser moddigtes - eksempler herpå er Vb 39-40 - efter devisen "non sic, sed aliter". Inspireret af katolske forbilleder er morgensangen "Den mørcke Nat forgangen er" ( SS I 50-52, Vb 37 ), en kombineret dagvise og skabelses sang med én strofe til hver af de seks skabelsesdage, og aften- eller natsangen "Den liuse Dag forgangen er" ( SS I 52 f., Vb 38 ), hvis stof stammer fra den latinske hymne "Christe qui lux es et dies". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223117632</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223117632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">782</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ud over de almindelige eskatologiske forventninger til det forunderlige år 1588 synes Sthen at have haft en tro på tallet 44 som det tal, der skulle bestemme hans skæbne. Født i året (15)44 har han derfor i 1588, hvor han den 25. november kan fejre sin 44-års-fødselsdag, en særlig grund til personlig agtpågivenhed, som bl.a. giver sig udtryk i det lange fødselsdagsdigt Vb 61, der afslutter En liden Vandrebog , og hvori det hedder ( SS I 104,7-9): </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223114816</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223114816</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">792</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">... Denne næruærendis dag paaminder mig </field>
+    <field name="text_tesim">Din Naade at betæncke saa mildelig, </field>
+    <field name="text_tesim">Nu er ieg lige fire oc fyrretiffue Aar ... </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223112896</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223112896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">806</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fascinationen af tallet 44 synes at have fulgt Sthen det meste af livet. Den er til stede allerede i epithalamiet eller brudevisen fra 1572, der kendes i et smukt etbladstryk med noder. Teksten er sat med fraktur, og det falder derfor i øjnene, at to ord i begyndelsen af visens femte strofe er sat med antikva: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223111616</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223111616</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">810</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">DER ADAM soff oc vaar allen, i tuct oc vdi ære: </field>
+    <field name="text_tesim">Skabte Gud en Quinde aff hans been, i tuct oc vdi ære, </field>
+    <field name="text_tesim">Gud dem velsigne oc nære. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223109648</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223109648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">824</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det udhævede DER ADAM må opfattes som et kryptogram, der gemmer digterens identitet. Ikke i form af hans navn, men af hans tal, som fremkommer, når de udhævede bogstaver omsættes til bogstavernes nummer i alfabetet. Idet vi minder om, at der ikke skelnes mellem I og J på den tid, fremkommer dette regnestykke: 4+5+17 + 1+4+1+12 = 44. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223108640</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223108640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">827</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Formentlig har troen på lykketallet 44 fulgt Sthen til det sidste. Det er ingen tilfældighed, at Sthen opsætter sin afskedsansøgning til kongen, indtil han i marts 1607 kan skrive, at "jeg fattig mand haffuer min tid verit en wuerdig Guds ords tienere och haffuer ladit mig bruge baade i skoletieniste oc vdj kirketieniste nu i 44 fulde aar baade i Helschenør oc her i Malmø..." (Weibull, s. 38). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223107600</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223107600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">830</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">På baggrund af denne interesse for tallenes tale får det mærkelige akrostikon HANS ANNO i salmen "Herre Jesu Christ, min Frelser du est", Vb 42, endnu en forklaring. Foruden at ANNO må formodes at spille på det aktuelle "anno mirabile" og derfor må tillægges en prægnant betydning, hvorfor HANS ANNO skal læses "Hans i (det forunderlige) år", kan HANS ANNO også læses specifikt om Sthens personlige skæbne: "i hans (personlige skæbne)år". Både den nævnte salme og fødselsdagsdigtet har karakter af testamente og understreger Vandrebogens eskatologiske karakter. Det kan synes besynderligt, at en luthersk provst har kunnet forene sin kristne tro med troen på en forudbestemt skæbne, der lader sig diktere af tal. I den henseende er Sthen dog barn af sin tid. Også den samtidige Henrik Rantzau var optaget af "klimakteriske år" i et menneskes liv og opfordrer i lægebogen "De conseruanda valetudine" til at give agt på det fjerde år, der ligesom fjerdedagen under en sygdom kan give fingerpeg om sygdommens videre forløb (Lyster i Hymn. Medd. 1980, s. 121 f.). I det lys turde det 44. leveår, hvori indgår to firtaller, indbyde til særlig agtpågivenhed over for fremtiden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223105392</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223105392</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">833</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra de efterfølgende år er bevaret endnu et par småskrifter fra Sthens hånd. I 1592 kom Geistlig Hussraad ( GH ), der er en udlægning af Davids 128. salme, inspireret af superintendenten i Sorau Petrus Streubers "Ehespiegel" Leipzig 1589. Salme 128 betragtes som en bryllupssang til pris for den hellige ægtestand. I GH har Sthen et bemærkelsesværdigt omend ikke imponerende forsøg på, i en gendigtning af Salme 128, at leve op til de nye krav om stavelsestælling og regelret versebygning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223101952</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223101952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">845</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sammen med GH er også trykt En god forfaren Persons trohiertige Formaning oc Sendebreff til en fin vng Person ( SB ). Sendebrevet har et alment indhold, og manglen på konkrete oplysninger om adressatens påståede genvordigheder giver mistanke om, at anledningen til brevet er fingeret og kun tjener det pædagogiske formål at skabe opmærksomhed om den foreliggende traktat, der kan betragtes som en lærebog for tyende. Inddelt som tolv regler beskrives ved udstrakt brug af anekdotisk stof en række laster og dyder, som en tjener bør forholde sig til. Hele udgivelsen, dvs. både GH og SB , er en velkomsthilsen og nytårsgave til den nye lensmand på Malmøhus, Hak Holgersen Ulfstand, krigshelt fra syvårskrigen og nu den unge Christian IV's hovmester. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223096960</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223096960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">863</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra Sthens hånd er fra malmøårene bevaret en række notatsamlinger, der viser hans personlige interesse for den del af pædagogikken, der vedrører formidlingens kunst. Foruden en større ordsprogssamling ( DgO IV, Kbh. 1987) findes også en påbegyndt eksempelsamling med lystige småhistorier ( Danske Studier 1970, s. 5-23), hvoraf Sthen har hentet de fleste fra Jörg Wickrams udskældte folkebog Rollwagenbüchlein og Heinrich Bebels Libri facetiarum . At han også gør brug af hjemligt og mundtligt overleveret fortællestof bevidnes af notatet "Om den quinde der tackede gud at hendis søn, som bleff hengt, kom icke for Riber ræt". Sthen har kendt dette stof som fortælling, hundrede år før Peder Syv i 1688 gjorde brug af det i ordsprogsform ( DgO VII:2 nr. 13145). Sthens interesse for den korte og knappe latinske facetie fremgår også af notater i et eksemplar af den pavelige kancellisekretær Francesco Poggios facetiesamling, erhvervet af Sthen i 1570'erne og nu i UB Uppsala. Sthen har sat paragraftegn ud for lystige facetier og en rektangel ud for de frivole. Med § betegnes således fortællingen om munken, der holdt en prædiken imod hor. For at understrege ægteskabsbruddets syndighed erklærede munken, at han personligt hellere ville ligge hos ti jomfruer end hos en eneste gift kone. Mange i menigheden sagde, at de ville have truffet det samme valg. En anden facetie handler om en ung læge, der blev kaldt ud for at sætte en smuk piges knæ i led. Da han i embeds medfør greb fat om pigens bløde lår, ophidsedes han i den grad, at hans bukser blev ham for snævre. Bagefter spurgte pigen, hvad han skulle have for sin møje. Han svarede: "Vi er kvit! Jeg har rettet et lem ud for dig. Det samme har du gjort for mig!" Sthen noterer hertil: "lige om [dvs. for] lige"! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223089520</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223089520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">881</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Andre af Sthens notatsamlinger er mere omfattende og rummer fyldige uddrag af gamle og nyere forfatterskaber (Seneca, Melanchthon, Hemmingsen m.fl.) af filosofisk og moralsk-religiøs art. En række af Sthens optegnelser er af formal-stilistisk karakter med prædikendispositioner, suppleret med selvstændige refleksioner og aforismer (Frandsen 1932, s. 7-18). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223088400</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223088400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">884</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sthens sidste trykte skrift er En Ligpredicken Aff den 90 Psalme, som er skeet oc holden, vdi Bare Sognekircke her i Skaane, den 16 dag Maij, Anno 1602 ( Lpr ) over fru Mette Vlffstand og tilegnet afdødes svigersøn, den nyligt udnævnte lensmand på Malmøhus Sigvard Grubbe. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223086256</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223086256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">893</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Medens Sthens navn og livshistorie er ukendt for de fleste i dag, hører hans salmer stadig til de hyppigst sungne i vore kirker. Det er bemærkelsesværdigt i betragtning af det vældige åremål, der ligger mellem deres tilblivelse og vor tid. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223085360</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223085360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">896</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tonen i hans salmer er lavmælt. Det er ikke tilfældigt, at de netop ikke føres frem som salmer endsige hymner , men som bønner, anråbelser, bekendelser, klagemål, klageviser, kristelige viser og taksigelser. Hvad de mangler i patos og prunk, har de til gengæld i bønnens inderlighed og i fortroligheden med menneskelivets fald og fornedrelser. Kun i gudsforholdet, i troen på Kristus, er der hjælp at hente, som kan fri mennesket ud af angst og fortvivlelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223082736</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223082736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">905</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Parret med et uomtvisteligt talent for poesien frembragte denne gudstro en betydelig dansk salmedigtning allerede et århundrede inden den Kingo, som vi traditionelt regner for den tidligste af vore tre store salmedigtere. Hvis man tør røre ved det urørlige tretal og rette det til et firtal, vil Sthen med ære kunne indtage fjerdepladsen - eller kronologisk førstepladsen - i dette gode selskab. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223080000</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223080000</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">917</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At dømme efter de påskønnelser i form af gaver og honorarer, som ifølge Helsingørs kæmnerregnskaber tilflød Sthen i hans unge år for hans opførelser af "spektakel og lege" og for de "Bedebøger og andet nytteligt", som han lod udgive, synes hans tidlige udgivelser at være faldet i god jord. Det må ses som en anerkendelse fra biskop Poul Madsens side, at en af Sthens tidligste bønner ( AV -T4) blev optaget i Alterbogen i 1574, hvor den holdt stand indtil Hans Baggers Alterbog 1688. At også andre samtidige straks havde blik for Sthens udgivelser, fremgår af, at bogtrykker Lorentz Benedicht et par år efter indlemmede ikke færre end 31 bønner fra Sthens AV i sin egen samling Nogle merckelige vdkaarne Bøner , ligesom ni af disse bønner gik videre til Jøran Gyltas Nogle deylige skøne Spraag , Kbh. 1578. Slutningen af 1570'erne synes at have været de mest produktive år i Sthens forfatterskab, og det må ses som en anerkendelse af denne forfattervirksomhed, at Sthen i 1581 modtog magistertitlen ved Københavns Universitet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223075648</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223075648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">929</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvad Sthens salmer angår, synes man i Sverige at have været hurtigere til at anerkende dem end i Danmark. Således blev "Hiertelig monne mig glæde" ( Hb 49-50) udgivet i svensk oversættelse allerede i Några Christelighe Psalmer , Rostock 1584. En anden oversættelse af samme salme og tre andre salmer fra Hb optræder i Någre Psalmer, Andelige Wijsor och Lofsonger , Stockholm 1619. Den poetiske morgenbøn "O Gud skee Loff til euig Tid" ( Vb 7) blev oversat af en svensk student i København i 1598, og "Herre Jesu Christ, Min Frelser du est" ( Vb 42) blev i svensk oversættelse optaget som adventssalme i Een liten PSalmbook , Rostock 1602 (J. Lyster: "En liten Psalmbok - en svensk 1600-talstradition", i: Hymn. Medd. 1974, s. 174 f.), elleve år før den fandt vej til nogen dansk salmebog. Det var også via den svenske oversættelse, at denne salme i 1681 blev udgivet på tysk som "Herr Jesu Christ, Mein heyl du bist". Også bordbønnen "Herre Christ wi dig nu prise", Vb 49, blev forsvensket. Det skete i Petrus J. Rudbecks Enchiridion , 1627. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223067728</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223067728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">956</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At meningerne om Sthens åndelige viser har været delt herhjemme fremgår af det bemærkelsesværdige digt "Bogen taler til Læseren" ( Vb -T44), der afslutter de udgaver af Vb , som udkom efter Sthens død. Digtet er formentlig forfattet af sønnen Hans Hansen Sthen ( SS I 171 f. ), der lader Vandrebogen fortælle om sin hidtidige skæbne: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223063744</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223063744</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">971</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">... Jeg vandrer flux om til Land oc Vand, </field>
+    <field name="text_tesim">Jeg findis baade hoss Quinde oc Mand, </field>
+    <field name="text_tesim">Etlich [dvs. nogle] tusind Exemplaria, som du seer, </field>
+    <field name="text_tesim">Ere tryckte aff mig, baade her oc der, </field>
+    <field name="text_tesim">Somme behager det ilde, oc somme vel, </field>
+    <field name="text_tesim">Oc en Part der intet got vil giøre sel, </field>
+    <field name="text_tesim">Oc ingen vil tiene vden dem selff allene, </field>
+    <field name="text_tesim">Huad skader det, om de det spotlig met mig mene? </field>
+    <field name="text_tesim">Oc sige: disse Viser en part met lætferdig stemme gaar, </field>
+    <field name="text_tesim">Lige som det oc icke i Psalmebøger staar, </field>
+    <field name="text_tesim">Etliche Psalmer der brugeligt ere, </field>
+    <field name="text_tesim">Oc aff Verdslige Visers stemme tagen mon være, ... </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223057744</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223057744</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1012</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Almuen tog bogen til sig. Den blev en salgssucces og tryktes allerede i Sthens levetid i en række oplag og i flere tusind eksemplarer. Men Sthens kontrafakturer af "letfærdige" viseforlæg vakte modstand. Kritikken kommer fra "dem som selff ere vijse oc klog", men bogen er slet ikke skrevet til sådanne folk, "Men for den fattige, eenfoldige, gemene Mand/ Hannem til Vilie, vnderuijssning oc forstand..." ( SS I 172 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223054208</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223054208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Efterliv</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1026</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som opbyggelig forfatter fik Sthen ikke kun betydning i sin egen levetid, men flere af hans bøger levede videre i generationer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223053552</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223053552</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Efterliv</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1029</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans oversættelse fra 1571 af Avenarius' bønnebog ( AV ) blev en bestseller og kom i nye oplag i 1577, 1594, 1601, 1605, 1642 og 1643 og vist så sent som i 1663. Op gennem 1600-tallet er der en række eksempler på stort genbrug af Sthens AV -bønner. Anders Rasmussen Gryderup optog i Merckelige Bøner og Psalmer , 1613, 18 AV -bønner, medens V dkaarne Bøner, Til huer Dag i Vgen at bede , Kbh. Sartor u. å. optog 22 AV -bønner, og Joachim Moltkes En skiøn oc saare Nyttelig Bønebog , Kbh. 1639, i alt 37 AV -bønner. Det var især morgen- og aftenbønnerne til hver ugedag, der vandt indpas i mange andre samlinger op gennem 1600-tallet og i alt fald frem til 1763. Sthens ugedagsbønner blev en så stor succes, at de inspirerede andre til at skrive alternative rækker af ugedagsbønner, som efter tohundrede år udkonkurrerede Sthens. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223046128</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223046128</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Efterliv</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1056</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hb fra 1578 blev med sin blanding af prosabønner og salmer vel modtaget og kom i nye oplag i 1584, 1589, 1592, 1609, 1610, 1616, 1625 og 1632. Her var det især salmerne, der holdt skansen. Tre af dem kom med i Kingos salmebog 1699, men forfatteren var glemt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223044560</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223044560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Efterliv</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1061</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vb fra 1589, der kan betegnes som Sthens åndelige sjungekor, er den af andagtsbøgerne, der fik den længste levetid. De elleve oplag, som kendes i dag, det sidste fra 1696, vidner om Vb 's store udbredelse. Salmerne herfra kom først for alvor ind i andre samlinger med Moltkes Aandelig Haandbog , Kbh. 1639, men gled derefter i rigt mål ind i andre salmesamlinger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223041424</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223041424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Efterliv</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1072</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Endelig opnåede også læredigtet Lyckens Hiul ( LH ) at blive trykt i nye oplag så sent som i 1709 og 1737. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223039440</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223039440</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Efterliv</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1081</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med oplysningstiden fik forfatterskabet sin bekomst, og kun "Den liuse Dag forgangen er", Vb 38, blev optaget i Evangelisk-kristelig Psalmebog 1798, nr. 493, omdigtet til ukendelighed. Sthen og hans forfatterskab var således ukendte størrelser, da C.J. Brandt og P.V. Jacobsen opdagede dem i 1840'erne. C.J. Brandt og Ludvig Helweg kunne i Den Danske Psalmedigtning I, Kbh. 1846, nr. 230-267, præsentere 38 af Sthens salmer, hvoraf mange i den følgende tid vandt indpas i en række salmebøger. Historikere i både Danmark og Sverige leverede deres bidrag til Sthens biografi, ligesom litteraturhistorikerne har interesseret sig for Sthen som skuespilforfatter, prosaist, prædikant, salmedigter og ordsprogssamler. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223035760</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223035760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Efterliv</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1093</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvis man vil fremhæve en særlig sammenhæng og kontinuitet i dansk salmetone, bør det nævnes, at Sthen med sin morgensang "Den mørcke Nat forgangen er" er den første, der indføjer en naturlyrisk indgang i en morgensalme. Derved blev han ophavsmand til en fornem dansk tradition, der videreføres af Kingo med "Nu rinder solen op af østerlide", Ingemann med "I østen stiger solen op", Jakob Knudsen med "Se, nu stiger solen" og K.L. Aastrup med "Nu gløder øst i morgenskær". Det er også gennem Sthens morgensang, at fuglene har fået deres særlige plads i den danske morgensangstradition. Når Ingemann lader "de muntre fugle kalde på hverandre", DDS 697, viderefører han Sthens "De Fule de siunge saa blide", idet "blide" på dette sted netop betyder "muntert". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223031600</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223031600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1108</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med SS henvises til teksten i Hans Christensen Sthens Skrifter I-III, udg. af Jens Lyster under medvirken af Jens Højgård. Heraf er bind I med En liden Vandrebog ( Vb ) udkommet i 1994, medens bind II med Avenarius' bønnebog ( AV ) og En liden Haandbog ( Hb ) udkommer i 2003 og bind III med de øvrige skrifter snarest muligt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223025936</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223025936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1132</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bibliografi: Sthens egne udgivelser, medens henvisninger til anden litteratur sker ved hjælp af en korttitel, der finder sin fulde ordlyd under bibliografiens øvrige afsnit. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223024064</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223024064</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1141</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223004272</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223004272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1180</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I det omfang disse er beskrevet i Lauritz Nielsens Dansk Bibliografi 1551-1600 , Kbh. 1931-33, henvises der til deres LN-nummer. Optræder de først i Erik Dals supplement hertil, Kbh. 1996, betegnes de med LN-nummer + bogstav. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223002800</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223002800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1186</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Christelige oc vdkaarne Bøner, for alle Stater, oc for allehaande nød oc trang i den gantske Christenhed, vddelte at bede, paa huer besynderlig dag vdi Vgen, met Tacksigelser, oc Guds paakaldelse, om Velsignelse oc Beuaring Morgen oc Afften . Kbh. Andreas Gutterwitz 1577. 1. udg. 1571 tabt. LN 706; 706a ( AV ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238223000480</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238223000480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1194</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">It smuct Epithalamion , Kbh. Laurentz Benedicht 1572. Etbladstryk. LN 1529a. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222999344</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222999344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1199</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En Liden Haandbog Som indeholder allehonde nyttige Øffuelser vdi Gudelighed, oc smucke trøstelige Bøner oc Loffsange, som mand kand daglige bruge . Kbh. Matz Vingaard 1578. LN 1530; 1530a; 1531; 1532. ( Hb ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222997248</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222997248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1207</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En Predicken Cæcilij Cypriani, Biscop til Carthago vdi Aphrica, sin Kircke til Trøst screffuit oc giort, i en suar Pestelentz tid, faar 1321. Aar. Item, den 91. Dauids Psalme, met en smuck Vdleggelse oc Forklaring, alle Christne i denne farlige næruerendes tid saare nyttelige . Kbh. Andreas Gutteruitz 1578. LN 507. ( Cypr ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222994880</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222994880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1215</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lyckens Hiul. En kaart Vnderuisning, om Lyckens wstadighed, oc Verdens løb . Kbh. Andreas Gutteruitz 1581. Et forord fra 1579 kan antyde en tabt førsteudgave. LN 1533. ( LH ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222992816</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222992816</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1223</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En liden Trøstscrifft. For alle Christelige Forældre, naar deris Børn bliffuer siuge, eller hensoffuer i HErren, Oc for alle andre Guds Børn, som met Dødsens tancker omgaar, i denne skrøbelige tid, oc haaber paa it bedre Liff, end dette . Kbh. Andreas Gutteruitz 1581. LN 1535. ( Tr ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222990560</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222990560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1231</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saligheds Vey. Det er: En kaart oc Enfoldig Forklaring, Offuer den Første Kong Dauids Psalme, vdi huilcken der vduises oc tilkiendegiffuis den rette Vey til Salighed oc al velfert, At hente oc bekomme baade i dette Liff oc i det Euige, ved Spørsmaal oc Giensuar vdlagt oc befattet, alle Guds Børn til Lærdom oc Trøst . Kbh. Matz Vingaard 1584. LN 1536. ( SV ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222988160</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222988160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1239</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En liden Vandrebog: Indeholdendis atskillige smucke Bøner oc trøstelige Sange, met nogle nyttige Lifs Regle, i artige Rijm befattede, som en Christen kand daglig bruge, Gud til Loff, Ære oc Prjss, sig self til trøst oc Salighed, oc at øfue sig i all Gudfryctighed oc Fromhed der met, i huor hand er, til Land eller Vand , [Kbh. Salomon Sartor 1612-15]. Førsteudgaven fra o. 1589 formodes tabt. LN 1535a. ( Vb ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222985600</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222985600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1247</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Geistlig Hussraad, Det er: En Christen liden nyttelig Sermon, Predicken oc Forklaring, offuer Kong Dauids 128. Psalme, vdi huilcken hand priser oc berømmer Ecteskaffs stat, oc siger huilcken herlig Guds gaffue det er, at haffue en frommer Hustru oc gode Børn, oc regner dem for ræt lycksalige Folck at vere, som frycter HERren, oc lyder hans vilie oc Bud, oc vandrer trolige i deris kald, dem skal det gaa vel, baade her oc til euig tid . Kbh. u. år. LN 1534. ( GH ), trykt sammen med </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222982912</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222982912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1255</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En god forfaren Persons trohiertige Formaning oc Sendebreff, til en fin vng Person, som hannem tillydendis vaar, oc Blodforuant, der sig for Armod skyld haffde giffuet fra Skolen til Hofftieniste. I huilcken Scrifft vnge Personer finder megen smuck Vnderuisning oc Beretning, huorledis en Suend oc Tienere skal forholde sig i sin tieniste, hos erlige fromme fremmede Folck, at hand der aff kand haffue fordring, ære oc loff . Kbh. Hans Stockelman 1592. LN 1534. ( SB ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222980304</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222980304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sthens egne udgivelser:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1263</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En Ligpredicken Aff den 90 Psalme, som er skeet oc holden, vdi Bare Sognekircke her i Skaane, den 16 dag Maij, Anno 1602. den Søndag Exaudi offuer Erlig oc Velbyrdig, nu salig met Gud, Fru Mette Vlffstands Ligs begraffuelse, vdi mange Velbyrdige Personers, oc andre gaat Folckis næruerelse, baade aff Geistlig oc Verdslig stat, som da forsamlede vaare . Kbh. Henrich Waldkirch 1603. ( Lpr ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222976368</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222976368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1279</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Carl. J. Brandt og Ludvig Helweg: Den Danske Psalmedigtning. Første Deel, indtil Kingo , 1846, nr. 230-267. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222975152</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222975152</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1285</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Soph. Birket Smith: "Kortvending. Et moralsk-allegorisk Skuespil fra Frederik den Andens Tid", i: Danske Samlinger I, 1865-66, s. 182-288. Revideret separat udgivelse 1866. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222973888</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222973888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1291</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">C. J. Brandt: Udvalg af Hans Chr. Sthens Salmer og aandelige Rim , 1888. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222972720</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222972720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1297</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Christensen Sthenius. Af hans Vandrebog. Udg. ved Carl. S. Petersen med indledning af Hans Brix , 1914. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222971536</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222971536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1302</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anders Malling: Dansk Salmehistorie I-V, 1962-66 passim. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222970400</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222970400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1308</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richard Fangel: Lykkens Hjul, i: Under Guds Ord nr. 145, Skive 1963. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222969248</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222969248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1314</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tidlig dansk dramatik . Hans Christensen Sthen: "Kort Vending. Udgivet med kommentarer og efterskrift af Jens Aage Doctor", Copenhagen 1972. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222968048</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222968048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1319</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Christensen Sthen. Udvalgte Salmer. Tekster til undervisningsbrug , 6. Akademisk Boghandel, Aarhus 1972. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222966880</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222966880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1324</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Richard Fangel: Ugebønner fra Avenarius' bønnebog 1571, i: Under Guds Ord nr. 218, Skive 1976. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222965632</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222965632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1330</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">111 danske salmer, udvalgt og kommenteret af Erik Dal og Ea Dal. Med tegninger af Sven Havsteen-Mikkelsen , 1981, s. 42-46. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222964432</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222964432</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1335</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "It smuct Epithalamion fra 1572", i: Hymnologiske Meddelelser 1982, s. 90-95. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222963248</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222963248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1341</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Niels Werner Frederiksen og John Kousgård Sørensen: "Hans Christensøn Sthens ordsprog", i: Danmarks gamle Ordsprog IV, 1987, s. 231-290. ( DgO IV) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222961232</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222961232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere udgivelser af forfatterskabet:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1350</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Christensen Sthens Skrifter I. En liden Vandrebog , udg. af Jens Lyster under medvirken af Jens Højgård, 1994. ( SS I) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222957792</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222957792</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1366</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Claus Christoffersen Lyschander: "De scriptoribus danicis libellus ordine alphabetico congestus", optrykt i Ernestus Joachimus de Westphalen: Monumenta inedita rerum germanicarum præcipue cimbricarum et megapolensium . Tomus III. Lipsiæ 1743 sp. 470. Optrykt i Holger Fr. Rørdam: Klavs Christoffersen Lyskanders Levned, samt hans Bog om Danske Skribenter , 1868, s. 255. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222955536</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222955536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1375</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Worm: Forsøg til et Lexicon over danske, norske og islandske lærde Mænd , II, 1773, s. 430 f.; III, 1784, s. 741. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222954240</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222954240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1381</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">P.V. Jacobsen: "Om Skuespil og Skuespil-Forfattere i Danmark i det 16de Aarhundrede", i: Hist. Tidsskrift 5. bd., 1844, s. 502-14, 529-34. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222953008</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222953008</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1387</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">P.V. Jacobsen: "Helsingørs Kæmnerregnskab for Aaret 1577 med Bemærkninger", i: Danske Magazin 3. rk. II, 1845, s. 177-229. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222951712</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222951712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1393</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Carl J. Brandt og Ludvig Helweg: "Omrids af Forfatternes Levnetsløb" s. 26 f. i: sammes Den Danske Psalmedigtning I, 1846. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222950400</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222950400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1399</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">S. Cawallin: Lunds Stifts Herdaminne, efter mestadels otryckta källor utarbetadt II, Lund 1855, s. 5-7. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222949136</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222949136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1405</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">A.G. Rudelbach: Om Psalme-Literaturen og Psalmebogs-Sagen , 1856, s. 293-96, 302-10. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222947952</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222947952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1411</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">J.N. Skaar: "Hymnologiske Smuler", i: Theologisk Tidsskrift for den evangelisk-lutherske Kirke i Norge , VII, 1864, s. 208-10, 475-80. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222946736</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222946736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1417</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">J.N. Skaar: Norsk Salmehistorie , I, Bergen 1879, s. 232-235. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222945584</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222945584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1423</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Holger Frederik Rørdam: "Lærere og Præster i Helsingør fra Reformationen til 1617", i: Kirkehistoriske Samlinger 3. rk. IV, 1882-84, s. 305-08 og 309-322. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222944240</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222944240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1429</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">C.J. Brandt: Salmedigteren Hans Christensen Sthen , 1888. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222943088</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222943088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1435</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">J. Paludan: "Bemærkninger til nogle Grupper af reformationstidens Digtning", i: Kirkehistoriske Samlinger 4. Rk. III, 1893-95, s. 697-700. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222941776</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222941776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1441</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">A.U. Isberg: Bidrag till Malmö Stads Historia , I, Malmö 1895, s. 59 f., 66-68. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222940544</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222940544</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1447</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lauritz Weibull: "Anteckningar om salmförfattaren Hans Christensen Sthen i Malmö", i: Skånska Samlingar utgifna af Martin Weibull , 1894-1895. IV,2, Lund 1897, s. 32-52. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222939152</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222939152</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1453</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H.F. Rørdam: "Hans Christensen Sthen", i: Dansk biografisk Leksikon udg. af C. F. Bricka, XVI, 1902, s. 419-422. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222937904</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222937904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1459</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">V. Hostrup-Schultz: Helsingørs Embeds- og Bestillingsmænd. Genealogiske Efterretninger , 1906, 77 f., s. 215. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222936640</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222936640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1465</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">P. Severinsen: "Tillæget til H. Chr. Sthenius' Vandrebog", i: Kirkehistoriske Samlinger V. Rk. IV, 1907-09, s. 513-17. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222935360</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222935360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1471</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georg Christensen: "Hans Christensen Sthens Salmer og Folkeviserne", i: Festskrift til H. F. Feilberg . 1911, s. 101-112. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222934144</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222934144</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1477</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Grüner Nielsen: Danske Viser fra Adelsvisebøger og Flyveblade 1530-1630 , V, Kbh. 1922-27, s. 29, 110 f., 152-54, 355-58, 363-65. VI, Kbh. 1930-31, s. 130, 138, 151. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222932800</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222932800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1483</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Ehrencron-Müller: Forfatterlexikon omfattende Danmark, Norge og Island indtil 1814 , VIII, 1926, s. 40-42. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222931584</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222931584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1489</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Carl S. Petersen: "Fra Folkevandringstiden indtil Holberg", i: Carl S. Petersens og Vilhelm Andersens Illustreret Dansk Litteraturhistorie , I, Kbh. 1929, s. 440-43. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222930336</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222930336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1495</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ernst Frandsen: Hans Christensen Sthen. Studier i det 16. aarhundredes danske litteratur , Aarhus 1932. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222929136</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222929136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1501</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Grüner Nielsen: "Hans Christensen Sthen som Samler og Udgiver af Ordsprog", i: Danske Studier 1932, s. 88-90. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222927856</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222927856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1507</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">O. Walde: "Psalmdiktaren Hans Christensen Sthen och hans Vandrebog", i: Nordisk tidskrift för bok- och biblioteksväsen XXV, 1938, s. 65-72. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222926576</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222926576</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1513</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ernst Frandsen: "Hans Christensen Sthen", i: Dansk biografisk Leksikon , 2. udg., XXII, 1942, s. 591-94. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222925376</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222925376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1519</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F.J. Billeskov Jansen: Danmarks Digtekunst, I. Fra Oldpoesien indtil Klassicismens Gennembrud , 1944, s. 165-67, 209 f. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222924176</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222924176</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1525</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Oluf Friis: Den danske Litteraturs Historie I. Fra Oldtiden indtil Renæssancen , 1945, s. 460-62, 528-41. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222922912</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222922912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1531</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Krister Gierow: Den evangeliska Bönelitteraturen i Danmark 1526-1575 , Lund 1948, s. 361-73. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222921680</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222921680</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1537</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gunnar Carlquist: Lunds Stifts Herdaminne från Reformationen till nyaste Tid . Ser. 2:II Lund 1948, s. 23-32, 393. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222920432</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222920432</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1543</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nils Schiørring: Det 16. og 17. århundredes verdslige danske visesang , I-II, Kbh. 1950, s. 31-37. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222919168</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222919168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1549</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Brix: Danmarks Digtere , 3. udg. 1951, s. 43-45. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222918016</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222918016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1555</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anders Malling: "Sthens Vandrebog", i: Dansk Teologisk Tidsskrift 15. årg. 1952, s. 147-158. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222916800</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222916800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1561</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anders Malling: Dansk Salmehistorie I-V, Kbh. 1962-66, passim. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222915648</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222915648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1567</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Riemann: "Salmedigteren Hans Christensen Sthen", i: Vartovbogen 1964, s. 88-100. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222914464</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222914464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1573</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vello Helk: Laurentius Nicolai Norvegus S. J. En biografi med bidrag til belysning af romerkirkens forsøg på at genvinde Danmark-Norge i tiden fra reformationen til 1622 , ( Kirkehistoriske Studier , 11. rk. nr. 22), Kbh. 1966, s. 295, 301, 303 f., 319, 334 f., 350 f. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222912240</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222912240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1582</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Forlæg og originalitet i Hans Christensen Sthens Trøsteskrift 1581 og Sendebrev 1592", i: Kirkehistoriske Samlinger 1969, s. 78-125. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222910896</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222910896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1588</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Hans Christensen Sthens eksempelsamling", i: Danske Studier 1970, s. 5-23. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222909712</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222909712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1594</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anders Malling: Dansk Salmehistorie VII, 1972, 258-265; VIII, Kbh. 1978, s. 71-76, 182-185. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222908528</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222908528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1600</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Avenarii bønner i Sthens oversættelse. På sporet af den danske bønnebogs 1. udgave 1571", i: Kirkehistoriske Samlinger 1976, s. 67-83. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222907168</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222907168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1606</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Glahn: "Lidt mere om Hans Christensen Sthens melodibrug", i: Musik &amp; Forskning 6, 1980, s. 129-141. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222905952</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222905952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1612</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Hans Christensen Sthen", i: Dansk biografisk Leksikon , 3. udg., 1983, bind 14, s. 107-109. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222904752</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222904752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1618</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">V.E. Brummer: "En liden Vandre-Bog", Hymnologiske Meddelelser 1993, s. 219-229. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222903584</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222903584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1624</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Digteren og udgiveren [Sthen]. Vandrebogen. Vandrebogen - et forskningshistorisk rids. Tillægget", i: Hans Christensen Sthens skrifter I, 1994, s. 179-231. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222902208</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222902208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1630</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Hans Christensen Sthen 1544-1994", i: Vartovbogen 1994, s. 56-73. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222901040</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222901040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1636</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Hvem kender J. N. Skaars eksemplar af Sthens Vandrebog?", i: Hymnologiske Meddelelser 1994, s. 202-205. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222899824</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222899824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1642</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Malmøs betydning for den tidlige lutherske salmedigtning", i: Elbogen, Malmö Fornminnesförenings Årsskrift årgang 63, Malmö 1995, s. 79-106. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222898400</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222898400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1648</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Om Sthens Vandrebog. Festtale i Sct. Olai på Sthens 450 års fødselsdag", i: Hymnologiske Meddelelser 1995, s. 54-65. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222897072</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222897072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1654</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Den glemte salmedigter med de kendte salmer", i: Haderslev Stiftsbog 1995, s. 56-73. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222895888</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222895888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1660</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Hans Christensen Sthen som kontrafakturdigter", i: Dansk Kirkesangs Årsskrift 1997, s. 113-127. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222894672</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222894672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1666</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Johannes Avenarius, Johannes Mathesius und Nicolaus Selnecker als Vorbilder für Hans Christensen Sthen. Vortrag an der Jahrestagung der Johannes Mathesius Gesellschaft in Beratzhausen 1999", i: Erbe und Auftrag der Reformation in den böhmischen Ländern , Jahrgang 35-38, [Hersbruck] 2000, s. 36-49. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222892992</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222892992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografisk og litteraturhistorisk om Sthen:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1672</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Skillingsviser som kilder til Sthens salmer, og Sthens egne salmer som skillingsviser", i: Hymnologiske Meddelelser 2001, s. 229-260. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222890272</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222890272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1686</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">C.J. Brandt: "Hans Chr. Sthen og den gamle Dagvise", i: Dansk Kirketidende 1887, s. 657-63. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222889120</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222889120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1692</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Marius Kristensen: "Den gamle Dagvise", i: Danske Studier 1926, s. 99-102. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222887952</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222887952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1698</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henry Bruun: "Hans Thomissøns og Sthens dagviseform", i: Den middelalderlige Dagvise, Studier fra Sprog- og Oldtidsforskning nr. 257, 1965, s. 51-63. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222886656</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222886656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1704</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Sthen og dagvisen", i: Hans Christensen Sthens Skrifter I, 1994, s. 219-231. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222885488</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222885488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1710</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H.F. Rørdam: "Om Salmen "Du Herre Christ"", i: Kirkehistoriske Samlinger IV. Rk. II, 1891-93, s. 744 f. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222884240</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222884240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1716</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H.F. Rørdam: "En Parallel til Salmen "Du Herre Christ"", i: Kirkehistoriske Samlinger IV. Rk. III, 1893-95, s. 210. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222882960</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222882960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1722</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chr. Ludwigs: "Hr. Hans' Navnesalme", i: Salme og Sang , 1915, s. 23-30. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222881792</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222881792</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1728</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Sthens gådefulde navnesalme. Om Du Herre Krist, dens mærkelige akrostikon og det forunderlige år, hvis lige ikke har været", i: Hymnologiske Meddelelser 1980, s. 71-146. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222880368</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222880368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1734</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Christian Thodberg: "Om "Du, Herre Krist". En kendt salme af Hans Christensen Sthen i en ny bearbejdelse", i: Dansk Kirkesangs Årsskrift 1977-78, Kbh. 1980, s. 35-41. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222879088</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222879088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1740</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Glahn: "Om melodien til "Du, Herre Krist"", i: Dansk Kirkesangs Årsskrift 1977-78, s. 42-46. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222877888</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222877888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1746</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Herlov Brix: "Notat om "Du Herre Krist"", i: Hymnologiske Meddelelser 1988, s. 3-17. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222876704</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222876704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1752</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Det forunderlige år 1588. Om salmen "Du, Herre Krist" og dens tilblivelse", i: Teologisk Forum 12/88. Tillæg til Kristeligt Dagblad mandag den 12. december 1988, s. 6-10. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222874608</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222874608</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1761</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "It smuct Epithalamion fra 1572. Hans Christensen Sthens debut som salmedigter", i: Hymnologiske Meddelelser 1982, s. 90-104. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222873376</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222873376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1767</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Glahn: "Om Hans Christensen Sthens brudesang som musikalsk kilde", i: Hymnologiske Meddelelser 1982, s. 105-110. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222872160</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222872160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1773</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "To gange Johannes til Sct. Olai [om salmen "O Jesus, livsens Herre"]", i: Kunsten og Kaldet. Festskrift til biskop Johannes Johansen 4. marts 1990 , Herning 1990, s. 17-38. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222870864</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222870864</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1779</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Hvem har oversat "Jeg vil din pris udsjunge"?", i: Hymnologiske Meddelelser 1993, s. 193-209. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222869664</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222869664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af enkelte salmer:</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1785</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster: "Synd og nåde i to salmer af Sthen. "Jeg vil din pris udsjunge" og "Guds nåde højt jeg prise vil"", i: Hymnologiske Meddelelser 1997, s. 21-29. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">sthen-p#idm140238222867088</field>
+    <field name="volume_id_ssi">sthen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sthen-p#idm140238222867088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Jens Lyster</field>
+    <field name="author_name">Jens Lyster</field>
+    <field name="author_id_ssi">Jens%20Lyster</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1799</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jens Lyster (f. 1942) er sognepræst, mangeårig redaktør af Hymnologiske Meddelelser og lærer i hymnologi på Pastoralseminariet. Medlem af DSL siden 1978.  </field>
+  </doc>
+</add>

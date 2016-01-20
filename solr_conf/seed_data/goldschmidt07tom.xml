@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="id">goldschmidt07tom</field>
+    <field name="volume_id_ssi">goldschmidt07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt07tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140645424859136</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Hjemløs, En Fortælling (1)</field>
+    <field name="id">goldschmidt07tom#workid54145</field>
+    <field name="volume_id_ssi">goldschmidt07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt07tom#workid54145</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140645424855568</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">83</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Hjemmme</field>
+    <field name="id">goldschmidt07tom#workid54163</field>
+    <field name="volume_id_ssi">goldschmidt07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt07tom#workid54163</field>
+    <field name="page_ssi">3</field>
+    <field name="page_id_ssi">idm140645424938608</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">89</field>
+    <field name="part_of_ssim">goldschmidt07tom#workid54145</field>
+    <field name="part_of_ssim">goldschmidt07tom</field>
+    <field name="text_tesim">                                                                                                                                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">goldschmidt07tom#idm140645424715600</field>
+    <field name="volume_id_ssi">goldschmidt07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt07tom#idm140645424715600</field>
+    <field name="page_ssi">152</field>
+    <field name="page_id_ssi">idm140645424716368</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">388</field>
+    <field name="part_of_ssim">goldschmidt07tom#workid54163</field>
+    <field name="part_of_ssim">goldschmidt07tom#workid54145</field>
+    <field name="part_of_ssim">goldschmidt07tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Hjemløs (Første Bog)</field>
+    <field name="id">goldschmidt07tom#workid55304</field>
+    <field name="volume_id_ssi">goldschmidt07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt07tom#workid55304</field>
+    <field name="page_ssi">153</field>
+    <field name="page_id_ssi">idm140645424715216</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">394</field>
+    <field name="part_of_ssim">goldschmidt07tom#workid54145</field>
+    <field name="part_of_ssim">goldschmidt07tom</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                     </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">goldschmidt07tom#idm140645424417584</field>
+    <field name="volume_id_ssi">goldschmidt07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt07tom#idm140645424417584</field>
+    <field name="page_ssi">524</field>
+    <field name="page_id_ssi">idm140645424418400</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1137</field>
+    <field name="part_of_ssim">goldschmidt07tom#workid55304</field>
+    <field name="part_of_ssim">goldschmidt07tom#workid54145</field>
+    <field name="part_of_ssim">goldschmidt07tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+</add>

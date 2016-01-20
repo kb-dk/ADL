@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Realisme og Realister</field>
+    <field name="id">bang10tom</field>
+    <field name="volume_id_ssi">bang10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bang10tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Realisme og Realister</field>
+    <field name="author_name">Bang, Herman</field>
+    <field name="author_id_ssi">Bang,%20Herman</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det danske Sprog- og Litteraturselskab; Borgen</field>
+    <field name="published_date_ssi">2001</field>
+    <field name="published_place_ssi">[Kbh.]; [Valby]</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Realisme og Realiteter. Portrætstudier og Aforismer</field>
+    <field name="id">bang10tom#workid54262</field>
+    <field name="volume_id_ssi">bang10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bang10tom#workid54262</field>
+    <field name="page_ssi">5</field>
+    <field name="page_id_ssi">n5</field>
+    <field name="volume_title_tesim">Realisme og Realister</field>
+    <field name="author_name">Bang, Herman</field>
+    <field name="author_id_ssi">Bang,%20Herman</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det danske Sprog- og Litteraturselskab; Borgen</field>
+    <field name="published_date_ssi">2001</field>
+    <field name="published_place_ssi">[Kbh.]; [Valby]</field>
+    <field name="position_isi">87</field>
+    <field name="text_tesim">                                                                                                                                                                                                 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Kritiske Studier og Udkast</field>
+    <field name="id">bang10tom#workid56318</field>
+    <field name="volume_id_ssi">bang10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bang10tom#workid56318</field>
+    <field name="page_ssi">195</field>
+    <field name="page_id_ssi">n195</field>
+    <field name="volume_title_tesim">Realisme og Realister</field>
+    <field name="author_name">Bang, Herman</field>
+    <field name="author_id_ssi">Bang,%20Herman</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det danske Sprog- og Litteraturselskab; Borgen</field>
+    <field name="published_date_ssi">2001</field>
+    <field name="published_place_ssi">[Kbh.]; [Valby]</field>
+    <field name="position_isi">475</field>
+    <field name="text_tesim">                                                                                                                                                                                     </field>
+  </doc>
+</add>

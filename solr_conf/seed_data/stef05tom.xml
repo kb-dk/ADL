@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Was ich erlebte</field>
+    <field name="id">stef05tom</field>
+    <field name="volume_id_ssi">stef05tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stef05tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140640442454688</field>
+    <field name="volume_title_tesim">Was ich erlebte</field>
+    <field name="author_name">Steffens, Henrich</field>
+    <field name="author_id_ssi">Steffens,%20Henrich</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Josef Mar</field>
+    <field name="published_date_ssi">1840-44</field>
+    <field name="published_place_ssi">Breslau</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Was ich erlebte. Vierter Band</field>
+    <field name="id">stef05tom#workid54253</field>
+    <field name="volume_id_ssi">stef05tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stef05tom#workid54253</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Was ich erlebte</field>
+    <field name="author_name">Steffens, Henrich</field>
+    <field name="author_id_ssi">Steffens,%20Henrich</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Josef Mar</field>
+    <field name="published_date_ssi">1840-44</field>
+    <field name="published_place_ssi">Breslau</field>
+    <field name="position_isi">75</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                         </field>
+  </doc>
+</add>

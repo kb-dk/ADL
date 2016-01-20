@@ -1,0 +1,3160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">saxo-p</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983834016</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983834016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">56</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Der er kun overleveret ét værk fra Saxos hånd, den latinske danmarkshistorie Gesta Danorum , skrevet omkring 1200 efter ordre fra ærkebiskop Absalon. Om han har skrevet andet vides ikke. Gesta Danorum er et hovedværk såvel i dansk som i europæisk middelalderlitteratur. Det er en danmarkshistorie i 16 afsnit (traditionelt kaldet "bøger"), skrevet på et formfuldendt klassisk latin, der bygger på nøje studier af en række latinske forfattere fra romersk kejsertid. Beretningen er bygget op omkring kongerækken fra den mytiske grundlægger Dan (der ifølge Saxo endnu ikke kaldte sig konge) til Knud 6. på Saxos egen tid. Den sidste begivenhed der omtales, er Pommerns underkastelse i 1185. Værket deles traditionelt i en sagnhistorisk del (bog 1-9) og en historisk del (bog 10-16), men Saxo selv ville nok snarere dele det i en hedensk og en kristen halvdel (bog 1-8 og 9-16, se videre nedenfor). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983830448</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983830448</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">65</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De første ni bøger gengiver en lang række nordiske sagn, såvel gude- som heltesagn. Det er et stort og mangeartet materiale, som Saxo har komponeret sammen til en fortløbende fortælling. Blandt de kendteste er sagnene om Amled, der hævner sin far under dække af at spille tosset, om Vermund og Uffe og tvekampen med sachserne, om Frode Fredegod og den tragiske kærlighedshistorie om Hagbard og Signe. I denne del har han også indskudt et større antal digte. Digtene præsenteres udtrykkelig som folkesproget digtning, som af Saxo er gendigtet på latin. Blandt de kendteste er "Bjarkemål" om Lejres fald og Rolf Krakes død, "Ingjaldskvadet" om den depraverede kong Ingjald, og Starkads dødskvad. I langt de fleste tilfælde er Saxos latinske version vores eneste kilde til disse tekster. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983828432</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983828432</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">68</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De sidste syv bøger omhandler hvad man i dag vil kalde den historiske tid, nemlig de ca. 200 år fra Harald Blåtand til Knud 6. Centralt står her drabene på de to kongelige helgener Knud den Hellige og Knud Lavard, og retfærdighedens sejr i form af Knud Lavards søn Valdemars opstigen til magten og grundlæggelse af et nyt dynasti. I de sidste tre bøger, som i sidetal udgør næsten en tredjedel af det samlede værk, er værkets bestiller, Absalon, den altoverskyggende hovedperson, som rådgiver for Valdemar d. Store og hans søn Knud 6. og ikke mindst som hærfører i de stadige kampe mod venderne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983826160</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983826160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">80</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om personen Saxo vides næsten intet. Den centrale kilde er teksten selv, nærmere bestemt forfatterens fortale, som giver et par holdepunkter. Begyndelsen lyder: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983824224</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983824224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">86</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Værket er altså blevet til på bestilling fra Absalon, og Saxo (som ikke nævner sig selv ved navn) hørte til hans "folk" eller "følge" ( comites ), hvilket må betyde at han var ansat i ærkebiskoppens administration. Senere i fortalen hører vi at Saxos far og farfar begge havde tjent i Valdemar d. Stores følge af krigere, hans hird, som bestod af stormænd. Saxo var altså godsejersøn. Og formentlig var han også sjællænder: Sådan omtales han i senere kilder, og det stemmer godt overens med hans omtale af de forskellige landsdele og deres befolkning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983822208</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983822208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">92</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Endelig gør selve værkets udformning på formfuldendt klassisk latin det klart at han har fået en fornem uddannelse, efter alt at dømme ved en af de store domskoler i Nordfrankrig. En sjællandsk stormandssøn, uddannet i Frankrig og kirkeligt ansat i Danmark - altså grundlæggende samme persontype som Absalon selv, om end ikke på helt samme niveau. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983821184</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983821184</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">95</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tilnavnet Grammaticus stammer fra fortalen til Saxokompendiet / Jyske Krønike (ca. 1340), hvor det ikke er et navn, men en beskrivelse: "en fremragende stilist". Men det har siden vundet hævd som tilnavn. Et egentligt navn er overleveret i Sjællandske Krønike (2. halvdel af 1200-tallet), der omtaler ham som Saxo, cognomine Longus , altså "Sakse Lange" el. lign. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983816736</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983816736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">113</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Heller ikke hans fødsels- og dødsår er kendt. Selv ikke hans værk er præcist dateret, men her har man dog nogle omtrentlige årstal. Absalon døde i 1201 og må altså have givet Saxo opgaven før da. Saxos kollega som historieskriver Sven Aggesen omtaler i sin danmarkshistorie at Saxo er i gang med sin. Men heller ikke Sven Aggesens historie er præcist dateret. Sandsynligheden taler dog for at Sven skrev i anden halvdel af 1180'erne (både han og Saxo slutter deres historier i 1185), så senest 1190 må Saxo vel have været i gang. Saxos værk er dediceret til Absalons efterfølger som ærkebiskop, Anders Sunesen, som sad i embedet fra 1201 til 1222, og til Valdemar Sejr, der regerede 1202-41. Men før 1208 kan han ikke være blevet færdig eftersom fortalen hentyder til begivenheder fra det år. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983814656</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983814656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">116</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I biskop Absalons testamente omtales en clericus ved navn Saxo, som får tilgivet en gæld på 2 ½ mark. Samtidig får han pligt til at aflevere to håndskrifter han har lånt, til Sorø kloster. Der er ingen rimelig tvivl om at dette er vores Saxo, især fordi vi kender de to håndskrifter. Det ene, der indeholder skrifter af den romerske historiker Justinus, findes i dag på Det kongelige Bibliotek, og har ejerpåtegningen: Liber sancte Marie de Sora per manum Absalonis Archiepiscopi ("Tilhører Skt. Marie Kloster i Sorø, gave fra ærkebiskop Absalon"). Det andet, som havde samme påtegning, er nu gået tabt. Det indeholdt skrifter af den romerske forfatter Valerius Maximus. Netop de to forfattere er Saxos vigtigste stilistiske forbilleder. Betegnelsen clericus er ikke meget præcis. Det kan betyde "præst" eller "gejstlig", men bruges ofte i den snævrere betydning "sekretær". Ordet indebærer ikke nødvendigvis at han var præsteviet, men udelukker det altså heller ikke. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983810416</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983810416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">128</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I andre kilder omtales en kannik ved domkapitlet i Lund af samme navn. Det har tidligere i almindelighed været antaget at denne var en anden end historikeren, primært ud fra den tanke at Saxos åbenlyse interesse for krig og kriger-etik og tilsvarende manglende interesse for teologi udelukkede, at han kunne have været præst. Det samme skulle gælde hans til tider ganske frimodige omtale af kønslivet. Så håndfast ser de færreste dog på sagen i dag. Uanset om han var præsteviet eller ej, havde han tydeligvis sin baggrund i et krigermiljø, og en gejstlig position udelukker ikke militære interesser. Det klareste eksempel i den retning er vel netop Saxos egen foresatte, Absalon. Men det er et generelt fænomen i tiden at den højere gejstlighed tilhørte krigerstanden. Og selv om han ikke beskæftiger sig meget med teologi, er han tydeligt interesseret i kirken, fx i ærkesædets ejendomsforhold. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983807968</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983807968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">131</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen har i en artikel fra 1989 foretaget en grundig revurdering af disse forhold og sandsynliggjort at Saxo faktisk var kannik. Kannikerne i Lund levede på dette tidspunkt ikke under klosterlignende forhold. De havde fx deres egne huse i byen. Et præbende - dvs. en indtægt af kirkeligt jordegods - som kannik ville være en naturlig måde for ærkebispen at aflønne sin historieskriver på. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983806208</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983806208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">137</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som medlem af ærkebispens stab må han under alle omstændigheder have haft sin base i Lund. Og Lund var da også det naturlige sted at gennemføre et projekt som Saxos. Ærkebispehoffet var landets vigtigste litterære miljø. Her havde man et righoldigt bibliotek, og her havde man de rette forbindelser i ind- og udland. Lund var i samme periode centrum for en større produktion af annalistisk litteratur, "årbøger". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983782032</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983782032</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Titel</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">211</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Værkets titel er formodentlig Gesta Danorum , "Danskernes bedrifter", eller måske rettere: "hvad danskerne har foretaget sig" (dvs. "Danskernes historie"). Titlen er ikke overleveret sammen med teksten, men kendes tidligst fra en omtale i Sjællandske Krønike fra anden halvdel af det 13. århundrede. Vores hovedkilde til Saxos tekst, den første trykte udgave fra 1514, har titlen Danorum Regum heroumque Historia , "De danske kongers og heltes historie". Denne titel kan meget vel skyldes udgiveren. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983777312</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983777312</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Saxos kilder</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">231</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxo siger ikke selv meget om sine kilder. Selve beretningen er stort set renset for kildehenvisninger, og de få der forekommer, er ikke kilderne til begivenheder, men snarere henvisninger til lærde forgængere i det store udland. Af den slags nævner han tre: Dudo, Beda og Paulus Diaconus (se nedenfor). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983776304</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983776304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Saxos kilder</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">234</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En mere generel beskrivelse af sine kilder giver han i fortalen (Fort. 1.3-5): Her nævner han for det første gamle danske, mundtligt overleverede heltekvad, for det andet islandsk overlevering ("islændernes skatkamre") og for det tredje biskop Absalons beretninger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983774096</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983774096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Absalon</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">243</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At Absalon selv er kilde til meget, især at det han selv har deltaget i, er der ingen tvivl om. Og adskillige steder, også i generationerne før når Absalons forfædre eller mænd fra deres følge træder frem som hovedpersoner i enkeltscener, er det tydeligt at han udnytter Hvideslægtens familietraditioner. Et glimt af den mundtlige overlevering i landets højere kredse får vi i forbindelse med en temmelig vidtløftig skrøne om Harald Hårderåde der kæmper med en drage i et fængsel i Byzans og slår den ihjel med en ragekniv. Saxo bemærker: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983772160</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983772160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Absalon</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">249</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Historien stammer altså fra den mundtlige tradition ved hoffet, som kongen selv bidrog til. Og her får vi den i anden potens i form af andres (Absalons? Saxos fars?) erindringer om kongens omgang med historierne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983771328</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983771328</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Absalon</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">252</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I de store dele af værket hvor Absalon selv optræder, er der ofte gjort meget ud af at skildre begivenhederne fra hans synsvinkel. Det kan være en konstruktion fra Saxos side og er under alle omstændigheder omhyggeligt bearbejdet af ham, men i udgangspunktet skyldes det vel ofte at Absalon er kilden til historien. En scene som blodgildet i Roskilde, hvor kong Sven forsøger at skaffe Knud og Valdemar af vejen, og hvor Absalon historisk set er en bifigur, har hos Saxo reelt karakter af Absalons øjenvidneskildring. Alt ses gennem hans øjne: Knud bliver hugget ned og dør i armene på Absalon - der i første omgang tror det er Valdemar. Valdemar kæmper sig igennem og forsvinder ud af døren, og dermed ud af syne. Først da Absalon redder sig ud, følger vi med ud af kongsgården, rundt i Roskilde og til sidst ud på landet til Fjenneslev, hvor vi igen møder Valdemar. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983769104</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983769104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Absalon</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">255</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det kan vel heller ikke helt udelukkes at Saxo selv har deltaget i nogle af de sidste begivenheder, eller i det mindste som Absalons sekretær har været med rundt til mange af de steder hvor de foregår. Han er fx særdeles vel underrettet om geografien i de vendiske områder. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983766752</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983766752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den islandske overlevering</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">266</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvad der konkret tænkes på med den islandske overlevering, er ikke klart. Det er tydeligt at han i vidt omfang bygger på de samme traditioner som vi ser afspejlet i de islandske fornalder-sagaer. Men som vi kender de sagaer i dag, er de først nedskrevet efter Saxos tid. Udtrykket "islændernes skatkamre" er så vagt at det ikke engang fremgår om han tænker på skriftlig eller mundtlig overlevering. Men i Lund har Saxo under alle omstændigheder haft gode muligheder for kontakt med både islændere og nordmænd. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983765712</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983765712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den islandske overlevering</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">269</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om folkesprogsdigtningen skriver han: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983763600</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983763600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den islandske overlevering</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">275</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De mange digte der optræder spredt ud over hele den sagnhistoriske del af værket, er altså ifølge forfatteren latinske oversættelser af mundtligt overleveret folkesprogslitteratur. Om det faktisk gælder alle digtene, kan vi ikke sige. Men i enkelte tilfælde er der i andre sammenhænge bevaret rester af de tekster der har tjent som forlæg. Der er kun tale om få og små fragmenter, men det lidt der er (fx de første strofer af Bjarkemålet), modsiger ikke Saxos beskrivelse: I disse få tilfælde er det klart at Saxos version er en gengivelse af den folkesprogede tekst - men vel at mærke en oversættelse der flytter teksten til et helt andet medium, fra korte stavrimede strofer til gennemretoriseret, svulmende latinsk poesi. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983761472</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983761472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den islandske overlevering</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">281</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At den slags digte skulle være blevet nedskrevet i runeindskrifter, har til gengæld ikke noget på sig. Det må først og fremmest tages som et udtryk for Saxos behov for at kunne henvise til skriftlige kilder fra "oldtiden" - selv om han nok selv har troet på at den slags fandtes. Han nævner selv Runamo-indkriften i Blekinge, som vi nu ved er en samling tilfældige ridser i klippen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983759120</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983759120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Skriftlige kilder</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">292</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvad Saxo slet ikke nævner, er de faktiske skriftlige kilder: tidligere historieskrivning, arkivalier osv. Det betyder dog ikke at han ikke har benyttet den form for forlæg. Ikke mindst Curt Weibulls forskning har gjort det klart at Saxo har gjort udstrakt brug af en lang række af den slags tekster, såvel danske som Roskildekrøniken, Sven Aggesens danmarkshistorie og helgenlitteraturen om Knud den Hellige og Knud Lavard, som udenlandske såsom Adam af Bremens værk om de hamborgske ærkebisper. På samme måde udnytter han fx lovstof som den såkaldte Vederlov, dvs. loven for den kongelige hirds medlemmer, og egentlige arkivalier som fx Knud den Helliges Gavebrev. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983757312</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983757312</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Skriftlige kilder</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">295</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxos beskrivelse af værkets kilder er altså ganske selektiv. Og det udvalg han foretager, svarer nøje til den beskrivelse han giver af sit projekt i begyndelsen af fortalen: Absalon har ønsket at hans land ligesom andre lande skulle forherliges i et nationalt historieværk. Og da ingen andre ville, har Saxo følt sig "tvunget til at lægge mine uøvede skuldre under en byrde som ingen af tidligere tiders forfattere havde bundet an med _" (Fortale 1.1). Ordene er omhyggeligt valgt, for selv om hans værk ikke var den første danmarkshistorie, så var det med sit ambitionsniveau en "byrde" som ingen tidligere havde bundet an med. Og denne skildring understreges af kildebeskrivelsen, der holder værket fri af den hidtidige lokale tradition for historisk litteratur ved ikke at nævne den, og i stedet indsætter det som Danmarks bidrag til den europæiske historiske litteratur, nemlig den række af andre nationers nationale storværker han udtrykkeligt nævner: Dudos normannerhistorie (ca. 1020), Bedas engelske kirkehistorie (731) og Paulus Diaconus' longobarderhistorie (omkring 780). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983753760</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983753760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sprog og stil</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">308</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Disse ambitioner kommer også til udtryk i værkets sprog og stil. Gesta Danorum er et karakteristisk udtryk for den litterære bevægelse man han kaldt "det tolvte århundredes renæssance". Det var tidens store mode i lærde kredse, især centreret i Nordfrankrig: En litterær klassicisme der nøje efterligner romernes latinske litteratur. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983752000</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983752000</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sprog og stil</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">314</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et af de centrale værker i den bevægelse er Gautier de Châtillons Alexandreis , et heltedigt om Aleksander den Store, som blev færdigt i 1180'erne. Det ved vi at Saxo har kendt, for han citerer det et enkelt sted. Men formodentlig har han selv været en del af miljøet nede i det franske område. Hans sprog og stil er så formfuldendt at han dårligt kan have lært det andre steder. Det er slet ikke umuligt at han har kendt Gautier personligt. Under alle omstændigheder er det påfaldende at han har kendt Gautiers værk stort set straks efter at det blev færdigt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983750048</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983750048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sprog og stil</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">320</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hos Saxo er det først og fremmest kejsertidens romerske prosaister som Valerius Maximus og Justinus der efterlignes. Og han gør det grundigt. Han bruger af princip kun ord der forekommer i den klassiske litteratur (Der er naturligvis smuttet enkelte ikke-klassiske ord med, men det er forsvindende få). Dermed har han udelukket store dele af sin egen tids fagsprog fra politik og religion, som jo ikke kan findes i den klassiske litteratur. For at kunne skrive om sin egen tid, og sin egen del af verden, må han derfor i stedet omtolke antikke begreber: en ærkebiskop bliver til en ypperstepræst ( pontifex maximus ), en kirke bliver til et tempel, en trold bliver til en satyr, dødsguden Hel bliver til Persephone osv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983748096</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983748096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sprog og stil</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">326</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Også stilen er omhyggeligt klassisk - og særdeles ambitiøs. Digtene følger antikkens metrik og er skrevet i en lang række forskellige versemål. Helt præcis 24 forskellige, hvilket de færreste middelalderlige forfattere kan gøre ham efter. Prosaen er gennemført retorisk i en voldsom og blomstrende stil med udstrakt anvendelse af klassiske figurer som parallelisme, antitese, variation og ophobning af synonymer. Variation er et helt centralt begreb, som i det følgende kendte eksempel, hvor kong Frode har boret hul i russernes skibe: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983744752</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983744752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sprog og stil</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">332</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som det ses, er hver ny variation over temaet i sig selv retorisk udsmykket, ofte i Saxos yndlingsfigur, parallelismen: "når de bekæmpede vandet, bekæmpede våbnene dem". Undertiden kondenseres sådanne variationer til rækker af ordspil som i skildringen af skjoldmøerne: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983741888</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983741888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sprog og stil</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">341</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">På et punkt er klassicismen dog ikke gennemført. Hvor hans klassiske forbilleder afslutter deres sætningskonstruktioner rytmisk efter de klassiske principper byggende på stavelseslængde, holder Saxo sig konsekvent til sin egne tids såkaldte "cursus", der bygger på ordenes tryk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983740912</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983740912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sprog og stil</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">344</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxo er en virtuos latinsk sprogkunstner. Og særligt virtuos er måske den måde han forener det latinsk/romerske med sit stof, der jo tilhører en helt anden verden. For hundrede år siden var det almindeligt at betragte det nordiske og det latinske hos Saxo som to adskilte sfærer - og dermed i realiteten at betragte den latinske som noget udvendigt og overfladisk, en lidt forstyrrende fernis der var lagt hen over det egentlige, nemlig det nordiske sagnstof og den danske historie. Men i de seneste årtier har forskningen lagt stadig større vægt på den latinske Saxo. Hans latinske stil er blevet en pointe i sig selv, som vi skal se om et øjeblik. Og i dag ser man først og fremmest hans værk som en syntese af europæisk/latinsk og nordisk middelalder. Man har ganske rammende talt om Saxos Janus-hoved (Nanna Damsholt). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983737408</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983737408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">355</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da kildekritikken gik sin sejrsgang i begyndelsen af det 20. århundrede havde det vigtige konsekvenser for opfattelsen af Saxo. Før da kunne man betragte Saxo som den helt centrale kilde til tidlig dansk historie. Men ikke mindst gennem Curt Weibulls forskning blev der sat store spørgsmålstegn ved hans kildeværdi. Saxo var Absalons historieskriver. Hans skildring af begivenhederne er Absalons og Valdemarernes version af historien. Den er tendentiøs, og dermed en problematisk kilde til de begivenheder den skildrer. Til gengæld er den en fremragende kilde til det den selv er udtryk for: holdninger og kultur i de herskende kredse i Danmark omkring 1200. Jo mere Saxos værk har mistet i kildeværdi, jo mere har det vundet som levn, dvs. som litteratur. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983735344</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983735344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">358</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Holdningen er blevet nuanceret en hel del i løbet af det 20. århundrede. Men det er i dag klart de litterære aspekter der står i centrum af Saxoforskningen. De enkelte dele af Saxos beretning må ses som led i en overordnet plan, en yderst bevidst litterær konstruktion. Derfor har ikke mindst analyser af værkets opbygning og komposition stået centralt i den nyeste Saxoforskning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983734256</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983734256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">361</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inddelingen i bøger følger kongerne i den forstand at en ny bog stort set altid begynder ved en ny konges tiltrædelse. Der er to undtagelser. Den ene er overgangen mellem tredje og fjerde bog, midt i fortællingen om Amled, hvor den egentlige kongerække, Lejre-kongerne, er gledet i baggrunden, og skiftet sker ved underkongen Amleds magtovertagelse i Jylland. Den anden er mere markant. Det er bog 15, der begynder ved Absalons tiltrædelse som ærkebiskop. Det er naturligvis et tegn på Absalons ganske særlige stilling i værket, men mere betydningsfuldt er det nok at også de to foregående ærkebisper, Asser og Eskil, i realiteten har en bog hver. De sidste fire bøger er bygget op over de første tre ærkebisper, og den sidste fjerdedel af værket er dermed det danske ærkebispedømmes historie. Og ser man nærmere efter, er dét kun en del af et større system. Historikeren Inge Skovgaard-Petersen ser hele værket som struktureret over kristendommens historie i fire gange fire bøger: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983731984</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983731984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">364</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De første fire bøger er den hedenske periode. I bog fem, i forbindelse med Frode Fredegod, hører vi at Kristus bliver født, hvilket står så meget desto mere markant eftersom der ellers stort set ingen præcise dateringer findes i værket. Ved enden af bog 8 når kristendommen Danmarks grænser i form af Karl den Stores erobring af Sachsen. Derpå følger fire bøger hvor kristendommen gradvist får fodfæste i landet indtil den endelige triumf ved overgangen mellem 12. og 13. bog: Ærkebispedømmets oprettelse, der betyder at Danmark bliver en selvstændig kirkeprovins. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983730976</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983730976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">367</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I hele den første halvdel er de hedenske guder til stede i handlingen. Især Odin deltager ofte i begivenhederne. I Saxos version er guderne naturligvis ikke virkelige guder men mennesker med særlige, magiske evner. I realiteten er det i hans opfattelse en dæmon der har besat dem. Og det er for Saxo ikke nogen eventyrlig tanke. Samme fænomen dukker op fremme i hans egen tid da Absalon får rygboernes gudestøtte Svantevit ødelagt. I samme øjeblik som statuen væltede, så man ifølge Saxo dæmonen forsvinde ud af den, den dæmon der hidtil har givet den sin kraft. På den baggrund kan Saxo uden problemer lade guderne indtage deres vante roller i de gamle sagn. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983729200</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983729200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">370</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men lige før vendepunktet mellem ottende og niende bog, skildres hedenskabets sammenbrud i fortællingen om Thorkil Adelfars rejser i ottende bog. Kong Gorms kriger Thorkil rejser to gange op mod nord til et land hvor solen og stjernerne aldrig ses, en slags underverden, hvor han møder overmenneskelige væsner. Målet for den anden rejse er den mægtige Udgårdsloke, der viser sig at være aldeles magtesløs. Han sidder lænket i sin hule, og fortrækker ikke en mine da Thorkil trækker et hår ud af hans skæg. Hjemrejsen er farefuld: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983892352</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983892352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">376</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da de kommer hjem, er kristendommen nået frem til Tyskland, og der lærer Thorkild den at kende. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983891760</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983891760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">379</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ideen om en rejse til underverdenen som vendepunkt i fortællingen har Saxo formodentlig hentet i Vergils Aeneide (som igen har den fra Homers Odysse). Også Aeneas besøger underverdenen i den sidste bog før værkets midte (bog 6 af 12), og også Aeneas lærer her hvor historien er på vej hen. Det lå ikke middelalderen fjernt at se Aeneidens store rejse fra nederlaget i Troja til grundlæggelsen af Rom, den evige stad, som et billede på den kristne frelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983890640</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983890640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">382</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om Saxo ligefrem har tænkt dette som en anknytning til romerriget, er ikke til at sige. Men et andet sted i værket er sådan en forbindelse ikke til at komme udenom. Det er i femte bog, bogen om Frode Fredegod. Frodes regeringstid begynder i lovløshed og krig, men som tiden går, bliver han på en gang den store lovgiver og den store fredskonge, som hersker fredeligt over hele Nordeuropa. Ved Frodes død har der hersket fred i 30 år, og det er på dette tidspunkt at Kristus bliver født: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983888576</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983888576</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">388</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Frodefreden er altså en del af verdensfreden. Den verdensfred der herskede under kejser Augustus omkring Kristi fødsel. Parallellen mellem Frode Fredegod og hans samtidige den store fredskejser, Augustus, der herskede i Rom på samme tid, er åbenlys. På den baggrund har Karsten Friis-Jensen udvidet det kristne skema med en romersk dimension. Hvor man efter Inge Skovgaard-Petersens hypotese får en lidt skæv deling midt i første halvdel idet Kristi fødsel først kommer i slutningen af 5. bog, ser Karsten Friis-Jensen en klar deling i 2 gange 4 bøger: 1-4 svarer til tiden fra Roms grundlæggelse (under Romulus og Remus, svarende til Dan og Angel) indtil romerne indførte kejserdømmet. Med bog 5 og Frode Fredegod på samme tid som kejser Augustus begynder hvad der svarer til den romerske kejsertid. I slutningen af 8. bog sker et nyt skift ved Karl den Stores kroning, hvor kejsermagten overføres til det karolingiske rige, som er udgangspunktet for det tysk-romerske kejserdømme som stod ved magt på Saxos egen tid. Det er en måde at inddele historien på som man kender fra andre middelalderlige og senantikke historikere, ikke mindst den kristne romer Orosius (400-tallet). Det nye hos Saxo er at tankegangen nu overføres fra Roms og Verdens historie til Danmarks historie. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983886304</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983886304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">391</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Heraf følger at Danmark som rige er lige så gammelt som Romerriget og har kørt parløb med det lige frem til Saxos egen tid, hvor de tyske kejsere som bekendt stadig anså sig for det romerske kejserdømmes arvtagere. Men pointen er at Danmark er et selvstændigt rige, ikke afhængigt at Romerriget, men netop parallelt. Saxo gør meget ud af at skildre de seneste danske kongers stadig mere selvstændige optræden over for den tysk-romerske kejser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983711904</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983711904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">394</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">På den baggrund bliver den antikiserende stil og den romerske sprogdragt langt mere end pynt. Også i stil og sprog skal Danmark præsenteres som en parallel til romerriget. Sådan har også Karsten Friis-Jensen betragtet Saxos digte, der alle forekommer i den første halvdel af værket, som bevidste paralleller til de klassiske romerske digtere. Vi her i landet har også en stor oldtidslitteratur, og den går lige så langt tilbage som romernes. Vi har vores Vergil'er og Horats'er. Visse af Saxos digte lader sig ligefrem tolke som danske paralleller til bestemte romerske digte. Bjarkemålet fx, det store digt om Lejres fald i den natlige kamp mod de svigefulde svenskere, svarer på mange måder til Vergils skildring af Trojas fald i anden sang af Aeneiden, også det en mægtig natlig kampscene. Svenskerne har ganske vist ingen trojansk hest, men de er bestemt blevet lukket ind i Lejre under falske forudsætninger, med vognlæs af våben som de udgiver for skatter til danskerne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983709696</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983709696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">397</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I Saxos skildring er Danmark en stor, gammel europæisk kulturnation med rødder lige så langt tilbage som noget andet land. Eller altså helt konkret: Danmark kan måle sig med Romerriget, historisk og kulturelt. Og at det stadig er med i forreste linje, er hans værk i sig selv et eksempel på. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983708688</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983708688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">400</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sådan en opdeling i lige store dele gør det nærliggende at lede efter yderligere systematik i værket, og der er da heller ingen tvivl om at de enkelte bøger har forskellig karakter og lægger vægt på forskellige temaer. Et tydeligt eksempel er syvende bog, hvor Saxo har samlet en hel række variationer over kærlighedstemaet: Omkring den berømte fortælling om Hagbard og Signe og deres trofaste kærlighed der trodser døden, er der grupperet flere sæt af kontrasterende historier om forelskede friere og modvillige piger. Der er fx den blufærdige Sigrid der ikke tør se på Ottar, og kun kan overvindes ved list. Og over for den står historien om Alvild, der klæder sig i mandstøj og bliver kriger. Hende får frieren Alf først da han besejrer hende i et søslag. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983706720</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983706720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">403</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Der er da også blevet gjort flere forsøg på gennemgribende allegoriske tolkninger. Svenskeren Kurt Johannesson har i en stor bog om Saxo bl.a. foreslået at hver af værkets fire fjerdedele symboliserer en af de fire kardinaldyder: tapperhed og mådehold i den hedenske del, retfærdighed og klogskab i den kristne. På samme måde har han set de første syv bøger som repræsentanter for de syv frie kunster. Tilsvarende forsøg på at udbygge systematikken er senere gjort af Sigurd Kværndrup. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983705696</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983705696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">406</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En anden nærliggende mulighed er at lede efter paralleller mellem værkets forskellige dele. Middelalderens teologer tolkede gerne Bibelen "typologisk", sådan at personer og begivenheder i Gamle Testamente blev set som paralleller til personer og begivenheder i Nye Testamente. Og samme tankegang finder man i historieskrivningen. Hos Saxo har man set sådan en typologisk parallel mellem kong Skjold og biskop Absalon. De to bruger (i hver sin enden af værket) de samme ord om hvordan byttet skal fordeles i en krig (et citat fra romeren Valerius Maximus), og det er formodentlig en antydning af en parallel mellem rigets første store konge og dets nutidige "grundpille". Og man kan finde mange andre. Det natlige blodgilde i Roskilde hvor kong Knud bliver dræbt af Sven Grathe, har mindelser om det natlige slag om Lejre og Rolf Krakes død som det skildres i Bjarkemålet i 2. bog. Og samme Sven har en forgænger i den depraverede kong Ingjald der støtter sig på tyske forbindelser. Uffe den Spages kamp med den sachsiske prins og hans kriger på en holm i Ejderen, har sine ekkoer i Valdemar den Stores møder med den sachsiske hertug Henrik Løve på en bro over floden osv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983703456</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983703456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">409</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men skematisk er Saxo ikke. Tværtimod: Danmarkshistorien er i hans version én lang sammenhængende fortælling, og han har gjort sig stor umage med at skabe en homogen tekst. Det materiale han har arbejdet med, er i udgangspunktet yderst heterogent: Det spænder fra de korte afsluttede sagn i begyndelsen til de lange komplicerede stræk i den seneste samtidshistorie. Alligevel er det lykkedes ham at fastholde en ensartet tone i fortællingen fra den ene ende til den anden, ligesom det samfund der beskrives, i det store og hele er uforandret hele vejen igennem. Blandt andet derfor er der heller ikke ét årstal i hele bogen (med mindre man kalder Kristi fødsel for et årstal), for det ville skille de sidste århundreder ud fra resten. Skematiske paralleller med klart signalerede forbindelser på tværs af værket, er altså absolutte sjældenheder. Men sammenhænge og paralleller er der mange af. En række typer af personer (kongens begavede højre hånd, den frygtløse kæmpe, den kloge dronning), begivenheder (tvekampe, frierier, krigslist) og fænomener (hirdmændenes troskab, depraveret tysk indflydelse), går igen gang på gang værket igennem, i stadig nye variationer. Man kan med en vis ret påstå at den retoriske variation der er så karakteristisk på det sproglige plan, gentager sig på det fortælletekniske plan. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983701136</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983701136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">412</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I stedet for at søge efter fx paralleller til Absalonskikkelsen, kan man derfor sige at han har del i flere af de grundtyper der stadigt varieres hele værket igennem: Han er den store kriger der kæmper loyalt og selvopofrende for sin herres sag ligesom Bjarke og Hjalte hos Rolf Krake, Starkad hos kong Frode osv. Han er kongens vise rådgiver, der tør sige ham imod ligesom Erik Målspage hos Frode Fredegod, Biskop Vilhelm hos Sven Estridsøn osv. En række temaer og helte-typer samles i den sidste del af værket i den ultimative helt, Absalon. Han bliver den altdominerende hovedperson, i en sådan grad at han ligefrem sætter de sidste konger i skygge. Det er ikke noget tilfælde at man adskillige gange under felttogene mod venderne ser Absalon begive sig til kamp mens Kong Valdemar lægger sig til at sove. Kongen må hvile sig, men Absalon tager utrætteligt affære. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983698928</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983698928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værkets komposition</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">415</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Variation i mere gængs forstand er der også i fortællingens opbygning. Det dramatiske og det tragiske veksler med det lette og lystige. Positive kongeskikkelser veksler med negative. Korte episoder veksler med lange forløb. Sagnene om Amled og ikke mindst Frode Fredegod bliver til hele udviklingsromaner. En enkelt figur, den drabelige kriger Starkad (Stærkodder), spænder over adskillige bøger (bog 6-8). Han er en yderst tvetydig skikkelse, en frygtløs helt, en fortaler for gammel, nøjsom krigermoral, en retfærdig hævner, men også en mand der er bestemt til at begå tre grufulde forbrydelser i løbet af sit lange liv. På den positive side personificerer han den hirdmandsmoral der står som et hovedtema værket igennem kulminerende i den historiske tid med gennemgangen af hirdens lov, Vederloven (10.18). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983686688</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983686688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">488</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxos tekst fik aldrig den store udbredelse i middelalderen. Den var for avanceret, og for vanskeligt tilgængelig. Og den klassicerende stil havde ikke fremtiden for sig - ikke foreløbig i hvert fald. En publikumssucces blev til gengæld den bearbejdede udgave der blev lavet i 1340'erne, det såkaldte Saxokompendium. Her er teksten forkortet og omsat til et lettilgængeligt standard-latin, og vedføjet den fortsættelse der kaldes Jyske Krønike. Kompendiet kendes i en lang række afskrifter, og hurtigt blev det også oversat til plattysk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983684592</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983684592</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">494</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxos egen tekst fandt først det store publikum i renæssancen da den klassiske latin igen var i højsædet, og trykkekunsten skabte helt andre muligheder for distribution. 1514 blev humanisten Christiern Pedersen sendt til Paris for at få værket trykt. Og med denne udgave, trykt hos den kendte bogtrykker Jodocus Badius Ascensius, fik Saxo den udbredelse, også i det store udland, som han formodentlig havde håbet på. Erasmus af Rotterdam skrev beundrende om hans stil, og teksten blev genoptrykt flere gange senere i århundredet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983683536</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983683536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">497</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Selv om Saxos tekst altså aldrig blev voldsomt udbredt i middelalderen, må der dog have eksisteret et antal afskrifter af den i Danmark og det nærmeste udland. Men ingen af dem er bevaret i dag. Hvad vi har i dag af middelalderlige Saxohåndskrifter, beløber sig til et par fragmenter, hvoraf det vigtigste er det såkaldte Angers-fragment: fire blade af noget der må være Saxos eget arbejdseksemplar, som i 1860'erne blev fundet som fyld i et middelalderligt bogbind i den franske by Angers. Angers-fragmentet er særligt interessant fordi det repræsenterer en tidligere fase i tekstens tilblivelse end den øvrige overlevering. Den fulde tekst er kun overleveret i parisertrykket fra 1514. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983681680</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983681680</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">500</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Teksten er kommet i kritiske udgaver adskillige gange siden. Sidst i 1931 v. Jørgen Olrik og Hans Ræder. Denne udgave blev hurtigt mødt med hård kritik. Der er i dag bred enighed om at den indeholder et stort antal uberettigede tekstrettelser, omflytninger m.m. Andet bind af udgaven, Franz Blatts Saxo-ordbog, der udkom i 1957, tager da også i en lang række tilfælde afstand fra udgavens tekstrettelser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983680528</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983680528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">503</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En ny kritisk udgave er nu (2001) udarbejdet af Karsten Friis-Jensen og vil inden for kort tid blive publiceret af Det Danske Sprog- og Litteraturselskab. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983678736</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983678736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Oversættelser</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">512</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det var ikke kun i den latinske original Saxo brød igennem i 1500-tallet. Der gik ikke længe før man så behovet for en dansk oversættelse. Paris-trykkets udgiver, Christiern Pedersen, lavede selv en, og det samme gjorde en af Saxos efterfølgere som kannik i Lund (hvis det var det han var), Jon Tursen (død 1577). Ingen af de to oversættelser blev dog trykt, og de er ikke bevaret. Det er til gengæld den næste, Anders Sørensen Vedels (1542-1616), der udkom i 1575. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983676384</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983676384</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Anders Sørensen Vedel</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">521</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vedels oversættelse står i dag som et af renæssancens væsentligste bidrag til den danske litteratur og til det danske skriftsprogs udvikling. Som det var almindeligt i tiden, i det mindste med litterære oversættelser, forholder den sig en del friere til originalen end vi er vant til i dag. Vedels udgangspunkt er at "Saxonis Latine er meget tung og dyb", og for at formidle dette (stilistisk) tunge stof har han foretaget en sproglig forenkling: Indholdet gengives forholdsvis trofast, men hele det retoriske udstyr, ikke mindst de mange varierende gentagelser, er skåret væk. Resultatet er en slanket, og i sin samtid let tilgængelig version af Saxos tekst. Eller med Allan Karkers ord: "[Vedel] gendigter Saxo i en meget enklere, lidt troskyldig stil, som dog aldrig savner værdighed ...". Digtene gengiver han på prosa, ofte i et forholdsvis kortfattet referat. Vedels oversættelse er i høj grad et selvstændigt kunstværk, og en bog der fik stor betydning i en i forvejen yderst historieinteresseret tid. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983674128</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983674128</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Anders Sørensen Vedel</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">524</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I de følgende århundreder var Saxo klassikeren over alle andre inden for dansk historieskrivning. Både som kilde til den tidligste danmarkshistorie og som leverandør af nationale myter. Så sent som under besættelsen i 1940'erne blev en oversættelse optrykt som national manifestation. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983671824</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983671824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sejer Schousbølle</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">535</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Der gik dog næsten 200 år, indtil 1752, før man så den næste oversættelse, som var skrevet af en ellers aldeles ukendt "studiosus" ved navn Sejer Schousbølle. Den har ry for at være meget tidsbundet, franskpræget som vi kender det fra Holberg, og set fra vores synsvinkel let grinagtig. "Snurrig Parykstil" kalder Winkel Horn det. Og det er da rigtigt at ord som "gemak" og "blessure" virker anakronistiske i dag. Men det er tidens sprog, og i virkeligheden er Schousbølles oversættelse en fornem løsning. I bevidst modsætning til Vedel forsøger han at give en tekstnær gengivelse af Saxo uden stilistiske forkortninger. Og det er i vidt omfang lykkedes for ham at komme tæt på originalens ordlyd uden sproget bliver tungt og livløst. Til digtene havde han lånt Lauritz Thuras oversættelser i alexandrinere fra 1721. Til gengæld var det danske sprog i anden halvdel af 1700-tallet inde i en rivende udvikling, der hurtigt gjorde hans oversættelse forældet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983668256</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983668256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">N. F. S. Grundtvig</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">546</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Springet fra Vedel til Schousbølle er stort, men fra Schousbølle til N. F. S. Grundtvig (1783-1872) er der noget nær en afgrund. Grundtvigs oversættelse fra 1818-22 er en national-romantisk manifestation. Saxo skal bruges til den nationale oprejsning efter de mange nederlag i begyndelsen af århundredet, ikke mindst (og udtrykkeligt) "tabet af Norge" i 1814. Det skal være en virkelig dansk Saxo, så Grundtvig forsøger - til forargelse for mange i samtiden - at skrive stor litteratur på et folkeligt dansk. En "folkelig" oversættelse er hvad Grundtvig selv kalder den i sit forord. Det er en særdeles personlig gengivelse i et robust og kraftfuldt dansk der umiddelbart ligger meget langt fra Saxos lærde latin, men alligevel har sin helt egen retorik, fuld af ordspil og slående formuleringer. Eller som Vilhelm Andersen har sagt det: "Overalt hvor Saxo efter sin Skik løber Linen ud paa Latin, har Grundtvig sin Morskab af at rende ham ind igen paa Sjællandsk." Ikke mindst i digtene har digteren Grundtvig en tendens til at løbe fra oversætteren. Digtene er jævnt hen op imod dobbelt så lange som i originalen. Men den personlige bearbejdning er bevidst i den forstand at Grundtvigs formål ikke er at fremvise en middelalderlig tekst på afstand, men at leve sig ind i den, engagere sine læsere og ad den vej "forkynde" den nationale historie. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983663360</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983663360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Frederik Winkel Horn</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">560</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Frederik Winkel Horn (1845-98) skrev sin oversættelse, der udkom kort efter hans død i 1898, som et bevidst modstykke til Grundtvigs. Den er, skriver han i forordet, et forsøg på at "give en virkelig Oversættelse, ikke en mere eller mindre fri Fordanskning". Resultatet er blevet en redelig og teksttro, men også temmelig omstændelig oversættelse uden de store stilistiske ambitioner. Digtene har han forsøgt at føre tilbage til de norrøne, stavrimede former, som Saxos forlæg kan tænkes at have haft - lige som folkloristen Axel Olrik, på et mere videnskabeligt plan, gjorde det i de samme år. Et eksempel kunne være begyndelsen af Starkads dødskvad (8.8.3). Winkel Horn oversætter: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983661280</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983661280</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">564</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Altid fremad </field>
+    <field name="text_tesim">Floden flyder, </field>
+    <field name="text_tesim">saadan lider </field>
+    <field name="text_tesim">Livets Løb. </field>
+    <field name="text_tesim">Stund, som svandt </field>
+    <field name="text_tesim">for stedse svandt, </field>
+    <field name="text_tesim">og til sidst </field>
+    <field name="text_tesim">er Døden sikker </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983657440</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983657440</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">591</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Gammel mand </field>
+    <field name="text_tesim">har liden Gammen, </field>
+    <field name="text_tesim">dumme Øjne, </field>
+    <field name="text_tesim">døve Øren, </field>
+    <field name="text_tesim">ælde lammer </field>
+    <field name="text_tesim">alle Lemmer, </field>
+    <field name="text_tesim">sløver Vid </field>
+    <field name="text_tesim">og slapper Viljen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983653696</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983653696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Frederik Winkel Horn</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">620</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til sammenligning lyder de samme linjer i den nyeste oversættelse, der bibeholder originalens verstal og dens versemål, heksametre: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983652896</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983652896</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">624</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Som en flod der fører sit vand ustandselig fremad, </field>
+    <field name="text_tesim">sådan er menneskets liv, dets år løber hastigt til ende, </field>
+    <field name="text_tesim">det kommer aldrig igen, stejlt styrter vor vej imod døden, </field>
+    <field name="text_tesim">mod vor alderdoms år, der til sidst gør en ende på alting. </field>
+    <field name="text_tesim">Alderen svækker vort syn, den nedbryder benenes styrke, </field>
+    <field name="text_tesim">frata'r en mand hans tunge, hans sind, fordunkler så sagte </field>
+    <field name="text_tesim">hele hans blændende ry, la'r hver prægtig bedrift gå i glemme, </field>
+    <field name="text_tesim">sætter sig tungt på hvert skrøbeligt lem, gør den stønnende stemme </field>
+    <field name="text_tesim">lydløs og svag, og sløver det sind der før var så opvakt. </field>
+    <field name="text_tesim">Når så hosten ta'r fat, når huden er plaget af kløe, </field>
+    <field name="text_tesim">tænderne fulde af orm, når maven snart intet kan tåle, </field>
+    <field name="text_tesim">øder den ungdommens ynde og glans, da gustner den skindets </field>
+    <field name="text_tesim">friske kulør og breder et net af rynker i huden, </field>
+    <field name="text_tesim">udsletter alt vi har lært, la'r mindet om fortidens helte </field>
+    <field name="text_tesim">smuldre og dø, vore forfædres ry fortæres af ilden. </field>
+    <field name="text_tesim">Rigdomme vejrer den bort, alt mod og den løn det har høstet, </field>
+    <field name="text_tesim">røver den grådigt, i alt bringer alderen rod og forvirring. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983643776</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983643776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Frederik Winkel Horn</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">680</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det der hos Saxo er et stort anlagt ordmaleri, bliver altså hos Winkel Horn til korte stavrimede linjer i "oldnordisk" stil. Den tilgrundliggende tanke er at når digtene hos Saxo er oversættelser af folkesproget digtning, må det være muligt at genskabe originalen ved, om man så må sige, at "skrælle" den latinske sprogdragt og den latinske stil af igen. Winkel Horn skriver i sit forord: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983641632</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983641632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Frederik Winkel Horn</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">686</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Virkningen bliver som det ses, markant anderledes end originalen. Et problem ved fremgangsmåden er at prosaen ikke kan behandles på samme måde. Resultatet er en tydeligt uegal oversættelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983639456</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983639456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Jørgen Olrik</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">697</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Winkel Horn ser tydeligvis Saxos latinske sprog og stil som et fremmedelement i en grundlæggende dansk tekst. Noget lignende gælder for den næste oversætter i rækken, Jørgen Olrik (1875-1941), hvis oversættelse udkom i 1908-12. Beskrivelsen af Saxos stil i indledningen til Olriks oversættelse er ganske klar: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983637632</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983637632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Jørgen Olrik</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">703</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og senere: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983636160</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983636160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Jørgen Olrik</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">709</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I udgangspunktet svarer Olriks holdning til Winkel Horns. Han ville hellere have haft et folkesprogsværk, en saga (Og hans oversættelse har da også titlen Sakses Danesaga ). Men hans løsning er fundamentalt anderledes. Hvor Winkel Horn i digtene skræller latinens stil af, for at komme ind til den nordiske original, lægger Olrik snarere et lag udenpå: Såvel i poesi som i prosa gengiver han i vidt omfang Saxos ordrighed og høje stil, men han gør det på et dansk der skal vise hen til middelalderen. Olriks oversættelse er en middelalder-pastiche, der ikke mindst trækker på folkevisernes sprog. Heste hedder "gangere", skibe hedder "snekker" osv. I modsætning til Winkel Horns oversættelse er det hos Olrik ikke mindst prosaen der har fået dette pastichepræg. Måske fordi en altså for "middelalderlig" tone i digtene kunne skurre imod den klassiske form i de antikke versemål, som Olrik overholder. Hos Olrik lyder begyndelsen af Starkads dødskvad sådan: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983632960</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983632960</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">716</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Ret som den rullende Elv mod Havet ustandselig stunder, </field>
+    <field name="text_tesim">saa er og Menneskets Liv; ti Aarene løber saa fage, </field>
+    <field name="text_tesim">aldrig de kommer igen, men med Il vore Dage udrinder, </field>
+    <field name="text_tesim">Ælde os venter til Slut, og i Hælene Hel hende følger. </field>
+    <field name="text_tesim">Ælde os blinder vort Syn, og Benenes Styrke hun bryder, </field>
+    <field name="text_tesim">Mæle og Mod kan hun røve en Mand, og det straalende Rygte </field>
+    <field name="text_tesim">slukker med Læmpe hun ud, saa hver lysende Id gaar i Glemme. </field>
+    <field name="text_tesim">Lemmer med Lamhed hun slaar, og svart hun for Brystet os stemmer, </field>
+    <field name="text_tesim">knap kan vi Ordet faa frem, og vor Aandskraft med Alderen sløves. </field>
+    <field name="text_tesim">Hoste vor Strube gør hæs, og vor Hud bliver skjoldet og runken, </field>
+    <field name="text_tesim">Tænderne tæres af Orm, og vor Mave kan Føden ej taale, </field>
+    <field name="text_tesim">Ungdommens Huld svinder bort, og vor Lød bliver gusten og blygraa, </field>
+    <field name="text_tesim">furet og rynket vor Kind, og Huden i Folder sig krymper. </field>
+    <field name="text_tesim">Ælde kan sløve den ypperste Id, selv Fædrenes Minder </field>
+    <field name="text_tesim">styrter i Støvet hun ned, og Heltenes Hæder hun øder, </field>
+    <field name="text_tesim">Styrken hun svækker, og Manddommens Løn hun graadig os røver, </field>
+    <field name="text_tesim">spilder vor djærveste Daad, og alting i Virvar hun vælter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983624160</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983624160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Jørgen Olrik</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">772</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Olriks oversættelse er aldrig blevet så stor en succes som Winkel Horns. Det kan nok til en vis grad skyldes Louis Moes klassiske illustrationer i Winkel Horns oversættelse. Men sproget har formodentlig også en del af skylden. Det er i så fald noget ufortjent. Olrik skriver et elegant, levende, idiomatisk rammende dansk. I slægt med Grundtvigs - men langt mere filologisk præcist. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983621744</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983621744</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">783</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den oversættelse der foreligger her, er foretaget af undertegnede for Det Danske Sprog- og Litteraturselskab, og udkom i 2000. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983621088</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983621088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">786</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som det allerede er fremgået af citatet fra Starkads dødskvad er der tale om en oversættelse i nutidigt dansk uden præg af pastiche, og med overholdelse af originalens metrik (og diverse andre stilistiske træk, så vidt som det nu er muligt). Da de sidste oversættelser udkom omkring 1900, var det, som vi har set, naturligt at skelne mellem værkets nordiske indhold og dets latinske form. Både Winkel Horn og Olrik betragtede den latinske form som et sekundært træk. Sådan en skelnen kan man dårligt opretholde i dag. Saxos værk er - hvor nordiske fortællingerne end er - latinsk, ikke bare i sprogdragt, men i genre og i hele sin grundidé. Derfor bør det også oversættes som et latinsk værk i egen ret, hvilket vil sige at de latinske sproglige og stilistiske virkemidler skal reflekteres i oversættelsen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983618976</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983618976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">789</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ordet "reflekteres" er bevidst valgt. I realiteten kan det være yderst vanskeligt direkte at gengive en 800 år gammel latinsk teksts virkemidler på nutidigt dansk. Af flere grunde. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983618208</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983618208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">792</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For det første henvender en nutidig oversættelse sig til et helt andet publikum end Saxos original. Saxo skrev for en særdeles snæver elite. Kun ganske få i hans egen tid havde forudsætningerne for at værdsætte hans sprog, eller overhovedet forstå det. Det er ikke tilfældigt at den første "oversættelse" af Saxo var en middelalderlig oversættelse til et mere forståeligt latin. En nutidig oversættelse henvender sig modsat til et bredt publikum - som i øvrigt alle de forgående oversættelser har gjort det. Resultatet må derfor nødvendigvis være en ændret tekst, en stilistisk nedtonet tekst. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983617184</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983617184</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">795</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det må det også af en anden grund: Nutidigt dansk råder ikke over de retoriske virkemidler Saxo havde til rådighed. En række virkemidler må enten opgives, eller erstattes af andre med en tilsvarende virkning. Og selv når vi har mulighed for at gengive retorikken, er det ikke sikkert virkningen kommer til at svare til Saxos. Moderne dansk er et temmelig blufærdigt sprog, stilistisk set. Det som Saxos samtidige har opfattet som topmålet af elegance, vil ofte i nutidige ører lyde svulstigt og overbroderet. Og her er det vigtigere at ramme elegancen end de konkrete retoriske figurer. Virkningen er vigtigere end virkemidlerne. Jeg har altså stilet mod en let nedtonet stil i forhold til Saxos original, men stadig en tydeligt "høj" stil. Og hvor de konkrete retoriske virkemidler ikke har været tilgængelige, har jeg forsøgt at opretholde stilniveauet med fx bogstavrim og ikke mindst rytmisk prosa. Målet har først og fremmest været at give nutidens læsere en oplevelse af Saxo som litteratur. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983614784</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983614784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">801</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et særligt problem udgør de mange begreber der er omskrevet til klassisk romersk sprogbrug. Når Saxo kalder en kirke for templum og dødsgudinden for Persephone , står man i valget mellem en tolkende oversættelse, der forsøger at genskabe de middelalderlige begreber, eller en mere ordret oversættelse, der holder fast ved den romerske tone. Tidligere oversættelser, i ganske særlig grad Olriks, har i vidt omfang valgt tolkningen. Hos Olrik, Winkel Horn og Grundtvig er de nævnte ord oversat med hhv. "kirke" og "Hel". I den nye oversættelse kunne man forvente - i forlængelse af hvad jeg hidtil har sagt - at finde en mere romersk gengivelse. Men i realiteten har det ikke for alvor været gennemførligt. I originalen er det romerske et gennemgående fænomen i hele værkets sprog. I en oversættelse ville det kun komme til udtryk i enkeltord. Disse enkeltord, fx "tempel" om en kirke, ville komme til at stå som fremmedelementer i teksten. Omvendt risikerer en gennemført nordisk tolkning at gøre Saxo klar hvor originalen måske er bevidst uklar. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983610848</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983610848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">810</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Resultatet er blevet en mere forsigtig linje: I helt utvetydige dagligdags begreber er tolkningen bibeholdt: jeg skriver "kirke", "præst", "biskop" osv. Men hvor det er muligt, undgår jeg at tage stilling. Når Saxo skriver Persephone skriver jeg "dødsgudinden". Tilsvarende gengiver jeg expeditio med "felttog" selv om det ofte kan tolkes som "leding", og gubernator med "skibsfører" selv om det kan tolkes som "styresmand". Også her vejer hensynet til den almindelige læser tungt. Men samtidig undgår jeg forhåbentlig nogle fejltolkninger der kunne have besværet mere professionelle læsere. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983607248</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983607248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den nyeste oversættelse:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">822</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hensigten med den nye oversættelse har været at give en tilgængelig tekst på et nutidigt dansk der yder Saxo retfærdighed som den store fortæller han er - og som samtidig så vidt muligt afspejler hans stilistiske ambitionsniveau. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983605424</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983605424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">835</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Aage Jørgensen, Dansk litteraturhistorisk bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983604496</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983604496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">841</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Internet-version af den bibliografi dækkende 1967-1986, som Dansklærerforeningen udgav i 1989, og de supplerings-hæfter, som er udkommet årligt siden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983894928</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983894928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske oversigtsartikler og introduktioner: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">979</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inge Skovgaard-Petersen i Kulturhistorisk Leksikon for Nordisk Middelalder. Red. Georg Rona. 1956-78. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983562336</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983562336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske oversigtsartikler og introduktioner: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">985</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inge Skovgaard-Petersen i Dansk Biografisk Leksikon . Tredje udgave v. Sv. Cedergreen Bech. København 1979-84. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983561280</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983561280</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske oversigtsartikler og introduktioner: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">991</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen i Den store Danske Encyclopædi </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983560256</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983560256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske oversigtsartikler og introduktioner: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">996</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En mere omfattende introduktion til værket er skrevet af Anker Teilgaard Laugesen: Introduktion til Saxo. København 1972. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983557648</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983557648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatteren:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1010</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En oversigt over diskussionerne findes i </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983557200</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983557200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatteren:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1013</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">E. Kroman: Saxo og Overleveringen af hans Værk. Studier fra Sprog- og Oldtidsforskning 278. København 1971. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983555888</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983555888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatteren:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1019</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et forsøg på at skære igennem og en ny kritisk gennemgang af alle kilder til Saxos biografi findes i: Karsten Friis-Jensen: "Was Saxo Grammaticus a Canon of Lund?" Cahiers de L'institut du Moyen-Âge Grec et Latin 59, København 1989, 331-57. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983554304</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983554304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatteren:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1025</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det litterære miljø i Lund og den nære sammenhæng mellem kriger-klassen og gejstligheden er behandlet af Lars Boje Mortensen: "The Nordic Archbishoprics as literary Centres around 1200." Archbishop Absalon of Lund and his World. Ed. Karsten Friis-Jensen og Inge Skovgaard-Petersen. Roskilde 2000, 133-157. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983551408</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983551408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1039</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den latinske tekst er senest udgivet af Jørgen Olrik og Hans Ræder i 1931: Saxonis Gesta Danorum _ Tomus I. København (Det Danske Sprog- og Litteraturselskab) 1931. (Heri gives en grundig gennemgang af alle tidligere tekstudgaver). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983549920</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983549920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1045</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til denne udgave hører som andet bind Franz Blatts Saxo-ordbog: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983549392</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983549392</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1048</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxonis Gesta Danorum _ Tomus II. Index Verborum. København (Det Danske Sprog- og Litteraturselskab) 1957. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983548288</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983548288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1053</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kritikken af Olrik/Ræder-udgaven findes især i: Lauritz Weibull: "Saxo inför nutida textkritik." Scandia VIII, 1935, 251-93. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983546960</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983546960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1059</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Josef Svennung: [anmeldelse] Arkiv för nordisk filologi LV, 1940, 121-30. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983545824</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983545824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1065</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til den første svarede udgiverne i: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983545344</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983545344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1068</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om den nye Udgave af Saxos Danmarks Historie, svar til Prof. L. Weibull fra Bestyrelsen for Det danske Sprog- og Litteraturselskab. København 1934. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983544240</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983544240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1073</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Angers-fragmentet af Saxos Danmarkshistorie (Ny kgl. S. 869 g 4º) er tilgængeligt i digitaliseret form . En nyere behandling af fragmentet er: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983542752</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983542752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1078</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ivan Boserup: "The Angers Fragment and the Archetype of Gesta Danorum" Saxo Grammaticus. A medieval author between Norse and Latin culture. Ed. Karsten Friis-Jensen. København 1981. 9-26. (Med udførlig bibliografi). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983541376</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983541376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1084</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om pariserudgaven, 1514: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983540992</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983540992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekst</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1087</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen: "Humanism and Politics. The Paris Edition of Saxo Grammaticus's Gesta Danorum 1514." Analecta Romana Instituti Danici XVII-XVIII, Rom 1989, 149-162. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983538528</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983538528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kommentarer:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1101</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffen Hansen Stephanius: Notae uberiores in historiam Danicam Saxonis Grammatici . Sorø 1645. (Facsimileudg. med indl. v. H. D. Schepelern København 1978 = Danish Humanist Texts and Studies 2). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983537184</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983537184</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kommentarer:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1107</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">P.E. Müller og J. M. Velschow: Saxonis Grammatici Historia Danica, I-II, København 1839-58. (Tekstudgave med kommentarer). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983535936</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983535936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kommentarer:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1113</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Paul Herrmann: Erläuterungen zu den ersten neun Büchern der dänischen Geschichte des Saxo Grammaticus. Zweiter Teil .  Leipzig 1922. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983533952</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983533952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kommentarer:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1122</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Eric Christiansen i: Saxo Grammaticus: Danorum regum heroumque historia, books X-XVI /; the text of the first edition with translation and commentary in three volumes [ed. by] Eric Christiansen. Oxford 1980-81. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983532016</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983532016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kommentarer:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1131</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hilda Davidson i: Saxo Grammaticus: The History of the Danes. Edited by Hilda Ellis Davidson translated by Peter Fisher. Cambridge, 1979-80. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983529488</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983529488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1145</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gesta Danorum er oversat til dansk i sin fulde længde seks gange: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983528448</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983528448</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1150</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anders Sørensen Vedel (1542-1616): Den danske krønike som Saxo Grammaticus skreff . København 1575. [Facsimile: København, DSL, 1967]. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983527072</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983527072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1156</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sejer Schousbølle (c. 1720 - ?): Saxonis Grammatici Historia Danica paa </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983526080</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983526080</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1161</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Danske eller den danske Historie. København 1752. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983525120</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983525120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1166</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">N. F. S. Grundtvig (1783-1872): Danmarks Krønike af Saxo Grammaticus. Bd. 1-3. København 1818-22. (Anden udg. 1855 med titlen: Danmarks Krønike af Saxe Runemester .) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983523088</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983523088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1175</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Frederik Winkel Horn (1845-98): Saxo Grammaticus: Danmarks Krønike . København 1898. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983521920</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983521920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1181</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jørgen Olrik (1875-1941): Sakses Danesaga . København 1908-12. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983520720</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983520720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1187</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Zeeberg: Saxos Danmarkshistorie oversat af Peter Zeeberg, illustreret af Maja Lisa Engelhardt. København (Det Danske Sprog- og Litteraturselskab/Gad) 2000. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983519344</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983519344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1193</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hertil kommer en række oversættelser af udvalgte passager bl.a.: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983518816</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983518816</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1196</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Johannes Laverentzen (Lorentzen) (1648-1729): Den Danske Chrønikes Første Bog, som Saxo Grammaticus på Latin haver sammenskrevet _ meget vel fordansket af Mag. Anders Søvrinssøn Vedel _ og nu flitteligen igien overseet og med tilføjede Kaaber-stykker forbedret af den Sal. Mands Daatter-Daatters Søn . København 1713. [Kun første bog]. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983517072</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983517072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1202</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Laurids Lauridsen Thura (1657-1731). Adskillige poetiske Sager _ tillige med de Vers / som dend berømmelige Saxo Grammaticus udi de Danske Kongers Krønike på Latiin haver indføørt / og nu allerførst udi Danske Riim ere oversatte _ København 1721. [Kun digtene]. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983515536</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983515536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1208</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Axel Olrik (1864-1917): Danske Oldkvad i Sakses Historie . København 1898. [Kun digtene]. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983514416</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983514416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1214</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ivan Boserup har oversat en række afsnit i en meget tekstnær version i Sigurd Kværndrup (red.): Antologi af nordisk litteratur . Bd. 1, Perioden 800-1300. København 1977. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983513056</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983513056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Danske oversættelser:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1220</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Endelig er værket flere gange blevet gendigtet eller bearbejdet på grundlag af tidligere oversættelser, bl.a. af Mogens Boisen (1985-86) og af Helle Stangerup (1999). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983509808</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983509808</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Engelsk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1237</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Oliver Elton: The First Nine Books of the Danish History of Saxo Grammaticus . Translated by Oliver Elton. London 1894. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983507968</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983507968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Engelsk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1246</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Fisher: Saxo Grammaticus: The History of the Danes. Edited by Hilda Ellis Davidson translated by Peter Fisher. Cambridge, 1979-80. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983506800</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983506800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Engelsk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1252</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Eric Christiansen: Saxo Grammaticus: Danorum regum heroumque historia, books X-XVI; the text of the first edition with translation and commentary in three volumes [ed. by] Eric Christiansen. Oxford 1980-81. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983505504</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983505504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Engelsk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1258</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">William F. Hansen: Saxo Grammaticus and the life of Hamlet, a translation, history, and commentary by William F. Hansen . Lincoln 1983. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983502992</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983502992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fransk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1272</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vincent Fournier: Saxo Grammaticus: Hamlet, extrait des livres III et IV des Gesta Danorum traduit du latin par Vincent Fournier . Lausanne 1993. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983501760</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983501760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fransk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1278</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxo Grammaticus: L'archer du roi, extrait de Gesta Danorum traduit du latin par Vincent Fournier. Lausanne 1991. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983500544</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983500544</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fransk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1284</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jean-Pierre Troadec: Saxo Grammaticus: La geste des Danois : Gesta Danorum livres I-I, traduit du latin par Jean-Pierre Troadec. Paris 1995. [3 excerpts printed separately in the preceding years.] </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983497968</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983497968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tysk: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1298</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hermann Jantzen: Saxo Grammaticus. Die ersten neun Bücher der dänischen Geschichte. Uebersetz und erläutert von Hermann Jantzen . Berlin 1900. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983496624</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983496624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tysk: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1304</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Paul Herrmann: Erläuterungen zu den erten neun Büchern der dänischen Geschichte des Saxo Grammaticus. Erster Teil: Übersetzung. Leipzig1901. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983493968</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983493968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Italiensk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1318</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ludovica Koch og Maria Adele Cipolla: Sassone Grammatico: Gesta dei re e degli eroi danesi, a cura di Ludovica Koch e Maria Adele Cipolla. Torino 1993. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983491424</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983491424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Japansk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1332</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Yukio Taniguchi: Sakuso Guramatikusu: Denmakujin no jiseki. Tokyo 1993. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983488928</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983488928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Spansk:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1346</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Santiago Ibáñez Lluch: Saxo Gramático: Historia Danesa. Traducción, introducción y notas de Santiago Ibáñes Lluch. Valencia 1999. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983486208</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983486208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af Saxooversættelser</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1362</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Allan Karkers indledning til facsimileudgaven af Vedels oversættelse: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983485664</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983485664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af Saxooversættelser</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1365</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anders Sørensen Vedel: Den danske Krønicke. Saxooversættelse 1575 . København (Det Danske Sprog- og Litteraturselskab) 1967. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983484336</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983484336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af Saxooversættelser</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1371</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lars Kruse Blinkenberg: "Sproget i midten". Nogle bidrag til beskrivelse af oplysningstidens danske bibelsprog. København 1975. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983483088</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983483088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af Saxooversættelser</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1377</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om Vedels oversættelse se specielt: Karsten Friis-Jensen: Vedels Saxo og den danske adel. (Studier fra Sprog- og Oldtidsforkning 102). København 1992. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983481728</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983481728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af Saxooversættelser</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1383</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den der har lyst til at sammenligne de eksisterende oversættelser, kan finde sammenlignende eksempler hos Karker og i Anker Teilgaard-Laugesens Introduktion til Saxo (se ovenfor). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983477808</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983477808</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om middelalderens historieskrivning: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1403</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ellen Jørgensen: Historieforskning og Historieskrivning i Danmark indtil Aar 1800 . København1931. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983476624</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983476624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om middelalderens historieskrivning: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1409</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nanna Damsholt: "Tiden indtil 1560" i: Danmarks historie. Bd. 10, "Historiens historie", red. Søren Mørch, København 1992, 11-51. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983475344</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983475344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om middelalderens historieskrivning: </field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1415</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxos antikiserende sprog er beskrevet af Franz Blatt i indledningen til Saxoordbogen (se ovenfor). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983473504</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983473504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1426</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georges Dumézil: Du mythe au roman. La Saga de Hadingus (Saxo Grammaticus, I, v-viii) et autres essais. Paris 1970. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983472288</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983472288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1432</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen: Saxo og Vergil. (Opuscula Graecolatina 1). København 1975. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983471072</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983471072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1438</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen: Saxo Grammaticus as Latin Poet. Studies in the Verse Passsages of the Gesta Danorum. Analecta Romana Instituti Danici. Supplementum XIV. Roma 1987. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983469824</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983469824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1444</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen: "Saxo og Absalon." Absalon fædrelandets fader. Red. Frank Birkebæk m.fl. Roskilde 1996. 44-55. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983468528</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983468528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1450</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen: "Saxo Grammaticus's study of the Roman Historiographers and his Vision of History." Saxo Grammaticus. Tra storiografia e letteratura , ed. Carlo Santini. Roma 1992 (I convegni di Classsiconorroena 1). 61-81. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983467200</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983467200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1456</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen: "Saxo og det 12. århundredes renæssance." Viking og Hvidekrist. Red. Niels Lund. København 2000. 93-111. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983465888</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983465888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1462</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Karsten Friis-Jensen: "Saxo Grammaticus' portrait of Archbishop Absalon." Archbishop Absalon of Lund and his World. Ed. Karsten Friis-Jensen and Inge Skovgaard-Petersen. Roskilde 2000, 159-179.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983464064</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983464064</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1470</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Niels Henrik Holmquist-Larsen: Møer, skjoldmøer og krigere. En studie i og omkring 7. bog af Saxos Gesta Danorum. (Studier fra sprog- og oldtidsforskning 304). København 1983. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983462640</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983462640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1476</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kurt Johannesson: Saxo Grammaticus. Komposition och värlsdbild i Gesta Danorum. Lychnos-Bibliotek. Studier och Källskrifter utg. av Lärdomshistorisaka samfundet 31. Stockholm 1978. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983461200</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983461200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1482</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sigurd Kværndrup: Tolv principper hos Saxo : en tolkning af Danernes Bedrifter. København 1999. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983459984</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983459984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1488</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lars Boje Mortensen: "Saxo Grammaticus' View of the Origin of the Danes and his Historiographical Models." Cahiers de L'institut du Moyen-Âge Grec et Latin 55, København 1987, 169-83. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983458624</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983458624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1494</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inge Skovgaard-Petersen: "Sven Tveskæg i den ældste danske historiografi." Middelalder studier tilegnede Aksel E. Christensen , København 1966, 1-38. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983457280</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983457280</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1500</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inge Skovgaard-Petersen: "Saxo, historian of the Patria." Medieval Scandinavia 2, 1969, 55-77. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983456096</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983456096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1506</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inge Skovgaard-Petersen: Da Tidernes Herre var nær. Studier i Saxos Historiesyn . København 1987. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983454832</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983454832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1512</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inge Skovgaard-Petersen: "Saxo, the clericus of Absalon." Archbishop Absalon of Lund and his World. Ed. Karsten Friis-Jensen and Inge Skovgaard-Petersen. Roskilde 2000, 181-193. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983452864</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983452864</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1521</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Birgit Strand: Kvinnor och män i Gesta Danorum . (= Kvinnohistorisk Arkiv 18) Göteborg 1980. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983451600</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983451600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Om Gesta Danorum:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1527</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Curt Weibull: Saxo. Kritiska undersökningar i Danmarks historia från Sven Estridsens död till Knut VI. Lund 1915. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983448992</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983448992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Artikelsamlinger:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1541</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxostudier red. Ivan Boserup. (Opuscula Graecolatina 2). København 1975. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983447904</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983447904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Artikelsamlinger:</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1546</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxo Grammaticus. A medieval author between Norse and Latin culture. Ed. Karsten Friis-Jensen. København 1981. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983445520</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983445520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Saxokompendiet</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1559</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Saxokompendiet er trykt i M. Cl. Gertz: Scriptores Minores Historiæ Danicæ Medii Ævi , København 1917-22, (genoptrykt 1970), bd 1, 195-439. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983444176</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983444176</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Saxokompendiet</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1565</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En af de plattyske oversættelser er i 2000 blevet udgivet med en dansk paralleloversættelse: Den danske krønike efter Saxo Grammaticus. Oversættelsen er foretaget af Vibeke Winge. København 2000. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">saxo-p#idm140020983442688</field>
+    <field name="volume_id_ssi">saxo-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p#idm140020983442688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Saxokompendiet</field>
+    <field name="author_name">Peter Zeeberg</field>
+    <field name="author_id_ssi">Peter%20Zeeberg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1571</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om Saxo-kompendiets forhold til Saxo, dets overlevering og betydning skal især henvises til Anders Leegaard Knudsens afhandling Saxostudier og rigshistorie på Valdemar Atterdags tid. (Skrifter udgivet af Institut for Historie ved Københavns Universitet 17) København 1994. </field>
+  </doc>
+</add>

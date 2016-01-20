@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="id">jacob05val</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#</field>
+    <field name="page_ssi">I</field>
+    <field name="page_id_ssi">idm140501113448032</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Om Bevægelsen i Planteriget</field>
+    <field name="id">jacob05val#workid54295</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid54295</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140501113426944</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">163</field>
+    <field name="text_tesim">                   </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113391600</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113391600</field>
+    <field name="page_ssi">18</field>
+    <field name="page_id_ssi">idm140501113392368</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">198</field>
+    <field name="part_of_ssim">jacob05val#workid54295</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Darwins Theori</field>
+    <field name="id">jacob05val#workid54588</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid54588</field>
+    <field name="page_ssi">19</field>
+    <field name="page_id_ssi">idm140501113391216</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">204</field>
+    <field name="text_tesim">                                                                     </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113338160</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113338160</field>
+    <field name="page_ssi">86</field>
+    <field name="page_id_ssi">idm140501113338928</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">339</field>
+    <field name="part_of_ssim">jacob05val#workid54588</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Menneskeslægtens Oprindelse</field>
+    <field name="id">jacob05val#workid55027</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid55027</field>
+    <field name="page_ssi">87</field>
+    <field name="page_id_ssi">idm140501113337776</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">345</field>
+    <field name="text_tesim">                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113307696</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113307696</field>
+    <field name="page_ssi">124</field>
+    <field name="page_id_ssi">idm140501113308464</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">420</field>
+    <field name="part_of_ssim">jacob05val#workid55027</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Af Planternes Livshistorie</field>
+    <field name="id">jacob05val#workid55277</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid55277</field>
+    <field name="page_ssi">125</field>
+    <field name="page_id_ssi">idm140501113307312</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">426</field>
+    <field name="text_tesim">         </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113296272</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113296272</field>
+    <field name="page_ssi">132</field>
+    <field name="page_id_ssi">idm140501113297008</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">441</field>
+    <field name="part_of_ssim">jacob05val#workid55277</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Parringsvalget</field>
+    <field name="id">jacob05val#workid55334</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid55334</field>
+    <field name="page_ssi">133</field>
+    <field name="page_id_ssi">idm140501113295888</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">447</field>
+    <field name="text_tesim">                                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113253104</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113253104</field>
+    <field name="page_ssi">186</field>
+    <field name="page_id_ssi">idm140501113253872</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">554</field>
+    <field name="part_of_ssim">jacob05val#workid55334</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Fugleredernes Filosofi</field>
+    <field name="id">jacob05val#workid55691</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid55691</field>
+    <field name="page_ssi">187</field>
+    <field name="page_id_ssi">idm140501113252720</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">560</field>
+    <field name="text_tesim">                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113234448</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113234448</field>
+    <field name="page_ssi">208</field>
+    <field name="page_id_ssi">idm140501113235216</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">603</field>
+    <field name="part_of_ssim">jacob05val#workid55691</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Et Brev om Darwinismen</field>
+    <field name="id">jacob05val#workid55873</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid55873</field>
+    <field name="page_ssi">209</field>
+    <field name="page_id_ssi">idm140501113234064</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">609</field>
+    <field name="text_tesim">         </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113226880</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113226880</field>
+    <field name="page_ssi">216</field>
+    <field name="page_id_ssi">idm140501113227648</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">624</field>
+    <field name="part_of_ssim">jacob05val#workid55873</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Svar paa 'Et naturvidenskabeligt Spørgsmaal'</field>
+    <field name="id">jacob05val#workid55930</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid55930</field>
+    <field name="page_ssi">217</field>
+    <field name="page_id_ssi">idm140501113226496</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">630</field>
+    <field name="text_tesim">     </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113222480</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113222480</field>
+    <field name="page_ssi">220</field>
+    <field name="page_id_ssi">idm140501113223296</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">637</field>
+    <field name="part_of_ssim">jacob05val#workid55930</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Ch. Darwin: 'The Descent of Man'</field>
+    <field name="id">jacob05val#workid55961</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid55961</field>
+    <field name="page_ssi">221</field>
+    <field name="page_id_ssi">idm140501113222096</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">643</field>
+    <field name="text_tesim">       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113216544</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113216544</field>
+    <field name="page_ssi">226</field>
+    <field name="page_id_ssi">idm140501113217312</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">654</field>
+    <field name="part_of_ssim">jacob05val#workid55961</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Sindsbevægelsernes Udtryk</field>
+    <field name="id">jacob05val#workid56005</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid56005</field>
+    <field name="page_ssi">227</field>
+    <field name="page_id_ssi">idm140501113216160</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">660</field>
+    <field name="text_tesim">                     </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113199664</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113199664</field>
+    <field name="page_ssi">246</field>
+    <field name="page_id_ssi">idm140501113200480</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">699</field>
+    <field name="part_of_ssim">jacob05val#workid56005</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Udkast til en Evolutionslære</field>
+    <field name="id">jacob05val#workid56141</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid56141</field>
+    <field name="page_ssi">247</field>
+    <field name="page_id_ssi">idm140501113199280</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">705</field>
+    <field name="text_tesim">                                                                                                                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113092768</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113092768</field>
+    <field name="page_ssi">380</field>
+    <field name="page_id_ssi">idm140501113093536</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">972</field>
+    <field name="part_of_ssim">jacob05val#workid56141</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Bøgeskoven</field>
+    <field name="id">jacob05val#workid57026</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#workid57026</field>
+    <field name="page_ssi">381</field>
+    <field name="page_id_ssi">idm140501113092384</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">978</field>
+    <field name="text_tesim">         </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jacob05val#idm140501113085152</field>
+    <field name="volume_id_ssi">jacob05val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jacob05val#idm140501113085152</field>
+    <field name="page_ssi">388</field>
+    <field name="page_id_ssi">idm140501113085920</field>
+    <field name="volume_title_tesim">Samlede Værker
+      V; Udg. paa Grundlag af Digterens efterladte Papirer af Morten Borup</field>
+    <field name="author_name">Jacobsen, J. P.</field>
+    <field name="author_id_ssi">Jacobsen,%20J.%20P.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1924-29</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">993</field>
+    <field name="part_of_ssim">jacob05val#workid57026</field>
+    <field name="part_of_ssim">jacob05val</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+</add>

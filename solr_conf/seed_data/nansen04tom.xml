@@ -6,37 +6,39 @@
     <field name="work_title_tesim">Brødrene Menthe</field>
     <field name="id">nansen04tom</field>
     <field name="volume_id_ssi">nansen04tom</field>
-    <field name="url_ssi">http://adl.kb.dk/nansen04tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen04tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm139646013964944</field>
     <field name="volume_title_tesim">Brødrene Menthe</field>
     <field name="author_name">Nansen, Peter</field>
-    <field name="author_id_ssi">f8/1a/89/d5/f81a89d5-fabe-491d-8178-2f3ab2314903</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="author_id_ssi">Nansen,%20Peter</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_date_ssi">1916</field>
-    <field name="published_place_ssi">["Kbh.Kristiania"]</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
   </doc>
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim">Brødrene Menthe </field>
+    <field name="work_title_tesim">Brødrene Menthe</field>
     <field name="id">nansen04tom#workid54246</field>
     <field name="volume_id_ssi">nansen04tom</field>
-    <field name="url_ssi">http://adl.kb.dk/nansen04tom#workid54246</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen04tom#workid54246</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">n3</field>
     <field name="volume_title_tesim">Brødrene Menthe</field>
     <field name="author_name">Nansen, Peter</field>
-    <field name="author_id_ssi">f8/1a/89/d5/f81a89d5-fabe-491d-8178-2f3ab2314903</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="author_id_ssi">Nansen,%20Peter</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi">Gyldendal</field>
     <field name="published_date_ssi">1916</field>
-    <field name="published_place_ssi">["Kbh.Kristiania"]</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">71</field>
     <field name="text_tesim">                                                                                                                                                                                                       </field>
   </doc>
 </add>

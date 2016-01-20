@@ -3,15 +3,2470 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">portrait</field>
-    <field name="work_title_tesim">Peter Nansen</field>
+    <field name="work_title_tesim"/>
     <field name="id">nansen-p</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl.kb.dk/nansen-p#</field>
-    <field name="volume_title_tesim">Peter Nansen</field>
-    <field name="author_name">Rasmussen, Sten</field>
-    <field name="author_id_ssi">2c/a1/57/5f/2ca1575f-98ff-464e-893a-56ede0fb3acc</field>
-    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488692112</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488692112</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">51</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det ideologiske grundlag for Peter Nansens forfatterskab var det naturvidenskabeligt funderede litteratur- og menneskesyn, som kritikeren Georg Brandes og hans moderne gennembrudsmænd havde lanceret herhjemme i 1870'erne under heftig modstand fra konservativ og kirkelig side. Deres offensiv tog sigte på intet mindre end at forandre det danske samfunds kulturelle og politiske identitet, og i løbet af tiåret fik den til følge, at de kristelig-romantiske idealer, som hidtil havde domineret litteraturen, teatret, pressen og uddannelsessystemet, blev trængt i baggrunden af en radikal problemdebat, der ville frigøre individet fra dets åndelige og politiske lænker og fremme et samfundsliv bygget på humanitet i stedet for på religion og nationalisme. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488690752</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488690752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">54</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1883 gav Georg Brandes med sin bog Det moderne Gjennembruds Mænd en række sejrsbevidste portrætter af sine litterære medkæmpere fra J.P. Jacobsen og Holger Drachmann til Henrik Ibsen, og året efter skrev den førstnævnte det lille digt: "Lys over Landet! / Det er det, vi vil." (cit. efter Digte og Udkast (1886) ved Edvard Brandes og Vilh. Møller). Men tonen både i bogen og i digtet klang alligevel nu en anelse mere af besværgelse end af fanfare. Den udviklingsoptimisme og fremskridtstro, der havde præget kulturkampen op gennem 1870'erne, var så småt ved at forstumme og blive afløst af forskellig slags tvivl på gennembrudsideernes værdi og bærekraft. Hos flere af 1880'ernes og 1890'ernes hovedforfattere sås da også en række stærkt pessimistiske udlægninger af det deterministiske og dennesidige livssyn, som Naturalismen indebar. Således fyldtes Henrik Pontoppidans bøger efterhånden af stigende skepsis over for individets personlige og sociale frigørelsesmuligheder, mens hovedpersonerne i Herman Bangs fortællinger af deres forfatter blev henvist til at resignere i udvejsløs fortvivlelse over drifternes spil og samfundskonventionernes tryk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488686656</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488686656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">63</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Havde man trang til at tænke og handle frit, var der således ikke større opmuntring at hente i 1880'ernes litteratur. Det samme kunne siges om tiårets politiske udvikling. Oven på 1870'ernes opgang var de økonomiske konjunkturer nu i stagnation, og provisorieåret 1885 og tiden derefter føltes af mange som en regulær ydmygelse af hele det danske folk. Mange unge valgte da også at protestere over Estrup-regimets undertrykkelse, mens andre i politisk lede nøjedes med at trække på skuldrene og lade tingene gå deres skæve gang. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488685600</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488685600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">66</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til disse sidste hørte Peter Nansen, der i så godt som hele sit forfatterskab samlede sig om "private" motiver som faderoprør, forelskelse, utroskab, skilsmisse og forskellige former for frigjort samliv. De unge og yngre mennesker, der befolker de fleste af hans tidlige bøger, er så godt som alle barnløse og økonomisk uafhængige, hvilket får en række overordnede moralske og sociale spørgsmål, som andre af samtidens forfattere satte under debat, til at træde stærkt i baggrunden hos ham. Det stående hovedtema i disse værker blev i stedet en snart kynisk-frivol, snart romantisk-stemningsfuld eller idylliserende dyrkelse af kærlighedens lyst og leg, mens fortællingerne fra de sidste år i reglen kredser omkring forstenede parforhold og kærlighedstab på modnere alderstrin. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488683552</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488683552</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">69</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans stil kan være lyrisk - følsom, undertiden grænsende til det sentimentale, men er oftere distanceret kølig, litterær og formfuldendt klassisk, altid kræsen i valget af virkemidler, dog uden noget stærkt personligt særpræg. Forfatterholdningen er kendetegnet ved et stærkt ambivalent forhold til det borgerskab, han elskede at udfordre med sit radikale frisind, men som en række følelsesfulde tekster røber, at han var langt dybere forbundet med, end han med sit ironiske gemyt ville være ved. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488663056</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488663056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">110</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Nansen udgik fra et borgerligt - konservativt miljø. Hans farfar var den kendte jødiske vekselerer og nationaløkonomiske forfatter Mendel Levin Nathanson, "Gamle Nathanson", (1780-1868), der fra 1838 til 1858 og igen 1865-1866 var Berlingske Tidende s redaktør. Morfaren var Heinrich Buchheister (1825-1906), der ligeledes, men dog kun i en kortere periode i begyndelsen af 1860'erne, var leder af samme avis. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488661184</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488661184</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">116</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bedstefædrene var således indflydelsesrige og dygtige pressefolk. De bidrog begge væsentligt til at forvandle Berlingske Tidende fra et tyndt avertissementsblad til en moderne hovedstadsavis, der op gennem århundredets anden halvdel så småt kunne begynde at tage konkurrencen op med Fædrelandet, Dagbladet og i 1880'erne og 1890'erne tillige med Nationaltidende og Politiken , hvor deres barnebarn skulle komme til at slå sine folder som forkætret og beundret kulturradikal stjernejournalist, længe efter at de havde forladt deres redaktørstole. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488655920</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488655920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">135</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Skønt Nathanson var ortodoks jøde, lod han flere af sine seks børn døbe, blandt dem den yngste søn, der ved dåben tog navnet Nansen, fik teologisk embedseksamen og indsattes som kateket (hjælpepræst) ved Garnisons Kirke og siden som sognepræst med kald bl.a. i Aalborg og (fra 1873) et par steder på Sjælland. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488654912</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488654912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">138</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1861 blev den unge præst far til Peter Nansen. Han var jævnaldrende med sin kone, Johanne ("Hanne") og levede selv århundredet ud. Hun døde derimod allerede som 44-årig i 1870, da drengen blot var ni år gammel, en aldrig forvundet skade på sindet, som kom til at sætte dybe spor i hele forfatterskabet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488653872</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488653872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">141</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Allerede i Nansens stærkt selvbiografisk prægede debutnoveller, kommer smerten over dette tidlige modertab klart til udtryk. I fortællingen "Ægypteres Gæstebud" har den ensomme unge læge Otto Fasting således levet et goldt og farveløst arbejdsliv, på samme tid tiltrukket og frastødt af den ubekymrede livsudfoldelse, han ser sig omgivet af, men hidtil ikke har orket at tage del i. I novellens begyndelse drager han dette lille hjertesuk, der åbner for læserens indblik i, hvad det er, der ligger bag hans glædesløse livsførelse: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488747712</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488747712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">158</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I fortællingens videre løb kaster han sig ud i et humørforladt orgie sammen med en tomhjernet ven og et par lettilgængelige piger, hvilket ubarmhjertigt trækker ham ned i den moralske opløsning, der kan ramme den, der med sådanne midler søger at eliminere sin barndoms traumer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488746736</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488746736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">161</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter moderens død var børnene overladt til faderens omsorg. Pastor Nansen var en patriarkalsk og nidkær forkynder både i forhold til menigheden og indad til i sin familie. Med uro fulgte han derfor sin ældste søns stigende modvilje mod det konservative og religiøse livsgrundlag, han ihærdigt søgte at indpode i ham, og da det rebelske unge menneske i efteråret 1879 drog til København for at studere, kom det til et regulært brud imellem dem. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488745696</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488745696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">164</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dette faderoprør var barndommens og den tidligste ungdoms anden afgørende begivenhed i Nansens liv, og ligesom tabet af moderen satte også den sit tydelige præg på forfatterskabet. Navnlig i de tre første novellesamlinger og den selvbiografiske studenterroman Fra Rusaaret (1892) fornemmer man konfliktens dybde gennem de mange uforsonlige faderportrætter, der tegnes rundt om i disse bøger. Tydeligst og mest direkte måske i romanen på det sted, hvor det hedder: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488632416</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488632416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Slægt og barndom</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">184</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Senere i livet omfattede Peter Nansen sin far med større veneration, og kaldte det endda en lykke, at være født med en passende blanding af jødisk race og dansk kristenblod. Men tager man ham på ordet her i hans ungdomsskrifter, kunne han sikkert bedre have undværet den ideologiske bagage, han fragtede med sig fra præstegården, end den energi og rastløse foretagsomhed, som han med stolthed plejede at betegne som sin jødiske arvelod. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488629904</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488629904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">195</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sine drengeår tilbragte Peter Nansen i Aalborg og på Herlufsholm, hvor han gik i skole i 6 år. I 1879 dimitteredes han privat fra Haderslev Læreres Skole og begyndte straks derefter at studere statsvidenskab i København. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488629040</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488629040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">198</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til familiens store bekymring fjernede han sig nu mere og mere fra hjemmets indflydelse, kastede over bord, hvad han havde tilbage af moralske og politiske forbehold og knyttede tætte forbindelser til unge radikale Brandestilhængere i det københavnske studentermiljø. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488628096</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488628096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">201</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det første års tid slog han sig økonomisk igennem som journalist ved Berlingske Tidende , som begge hans bedstefædre som nævnt engang havde redigeret. Men snart kom han ind i den intellektuelle kreds omkring Nationaltidende s nye fremstormende stjernereporter Herman Bang, hvis navn ved nytårstid 1880 -81 kom på alles læber, da hans skandaleroman Haabløse Slægter blev beslaglagt af politiet som usædelig . Omtrent samtidig hermed blev Nansen bare nitten år gammel redaktør af det lille bangske Ugeskrift for Theater og Musik , hvorefter han definitivt opgav sit studium og afskar forbindelsen til faderen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488623200</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488623200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">219</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til gengæld tog den fire år ældre Bang ham så under sine vinger og oplærte ham i feuilletonistens og petitjournalistens håndværk. Det viste sig snart, at Nansen havde store journalistiske evner og betydelig sans for æstetisk analyse og vurdering, og da Bang i december 1880 udsendte en essaysamling om fransk litteratur og dansk scenekunst under titlen Kritiske Studier og Udkast , overtalte han derfor straks sin ven til at anmelde den i Ugeskrift for Theater og Musik . Den lille skarpsindige opsats, der blev resultatet heraf, stod at læse i nummeret for den 29.12. og blev Nansens kritiske debut (se nærmere Realisme og Realister og Kritiske Studier og Udkast, DSL 2001, s. 409f. ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488618960</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488618960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">234</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Siden hen (1883-1884) fik han fast arbejde som kritiker, petitjournalist og feuilletonist ved Nationaltidende. Hans journalistiske gennembrud blev artikelserien "Lægekongressens Heroer", der var affødt af den store internationale medicinske konference i København i sommeren 1884, en portrætsuite, som endnu samme år blev udsendt i bogform. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488617280</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488617280</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">240</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om sit kortvarige, men betydningsfulde samarbejde med Herman Bang har Nansen selv berettet i sin åbenhjertige indledning til bogen Herman Bangs Vandreaar fortalt i Breve til Peter Nansen (1918, s.7ff.). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488615840</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488615840</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">246</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I de første fire år af 1880'erne var Bang reelt Nationaltidende s kulturredaktør og toneangivende kritiker, og i dette tidsrum var bladet derfor i særklasse stedet, hvor det nye skete. Med forbavsende rummelighed gik den stærkt ekspanderende nykonservative avis med til, at han engagerede en række ambitiøse unge talenter fra datidens litterære avantgarde til at skrive i bladet, heriblandt, foruden Nansen, forfattere som Carl Ewald (1856-1908), Gustav Esmann (1860-1904) og den talentfulde magister Knud Ipsen (1862-91). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488614016</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488614016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">252</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Deres journalistiske forbilleder var franske, de nedbrød stive, gammeldags stilkonventioner og gængse journalistiske mønstre og frembragte en mere tvangfri og afvekslende, ofte næsten konversationspræget avisprosa, som også gav kvinder og unge mennesker lyst til at læse med. "Vi var myreflittige og gjorde gode Forretninger", skrev Nansen siden hen i forordet til den ovennævnte brevsamling, "[...] Bang var ogsaa utrolig opfindsom til at gøre vort Medarbejderskab i Penge" (s. 17). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488612912</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488612912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">255</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men i oktober 1884 sluttede deres samarbejde brat. På det tidspunkt var Bangs position som københavnerjournalistikkens virtuose multikunstner blevet alvorligt svækket af forskellige interne uoverensstemmelser på Nationaltidende , og da Edvard Brandes og Viggo Hørup samtidig lancerede den nye kulturradikale avis Politiken , stod det klart, at Peter Nansens fremtid nu lå her. Sammen med Gustav Esmann og de andre unge skribenter, der havde flokkedes omkring Bang, rykkede han derfor over i den radikale stald: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488608544</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488608544</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">273</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">På Politiken udfoldede Nansen gennem 11 år fra 1884 til 1895 en betydningsfuld virksomhed som litteratur- og teaterkritiker, feuilletonist og causør (gerne under mærker som "Albert Millaud", "Frits Holm", "Per Anden", "Grib", "Nikolai" m.fl.). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488606960</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488606960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">279</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans specialitet og særlige fornøjelse bestod i at drysse peber i næsen på borgerskabet med små halvfrivole, på én gang vittigt ondskabsfulde og kynisk elskværdige petitartikler om løst og fast og især om tidens senviktorianske forlovelsesmønstre og den ægteskabelige livsstil i de bedre kredse, (se fx Politiken 4.9. 1887: "Et Frieri"). Han udviklede sig snart til en både forkætret og beundret stilistisk elegantier, der nød at håne den anerkendte pænhed med køligt beregnet spot og sylespidse pointer. Hermed banede han vej for den omtale og stigende opmærksomhed, som det nye blad behøvede for at slå an, og han blev derfor hurtigt en af Edvard Brandes' mest betroede medarbejdere. Et nært venskabeligt samarbejde havde han også med Politiken s senere så berømte chefredaktør Henrik Cavling, der var blevet fast ansat som journalist ved bladet i marts 1885. Hans erindringer skylder vi en indtagende prøve på den engleblide sarkasme, som karakteriserede så mange af Nansens bidrag til Politiken : </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488599136</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488599136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ungdom og journalistisk karriere</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">303</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ud over at passe arbejdet på Politiken fungerede Peter Nansen også i en kortere periode som redaktør af månedsskriftet Af Dagens Krønike (1889-90). Her findes en række bidrag af Nansen, hvor han demonstrerede han sin særlige evne for at kombinere en renlivet og fanetro radikalisme med den oprigtige og lydhøre åbenhed over for anderledes tænkende og skrivende, som senere hen skulle blive et hovedaktiv for ham i hans betydningsfulde arbejde som forlægger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488594992</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488594992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Gyldendal</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">320</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1896 blev Peter Nansen kunstnerisk leder af Gyldendal. Udnævnelsen vakte opsigt både inden for det gamle mahogniforlags mure og ude i offentligheden på grund af det kulturradikale frisind, han gennem årene havde luftet både i pressen og i sit forfatterskab. Mange mente, at han var en letvægter på en tung post. Men valget af ham gjorde al skepsis til skamme og viste sig at være en særdeles klog og fremsynet disposition. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488593872</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488593872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Gyldendal</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">323</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ingen kendte 1890'ernes litterære scene bedre end Nansen. Han var en vellidt og beundret skikkelse blandt sine skrivende kolleger og havde et skarpt blik for kunstnerisk kvalitet også i forhold til forfatterskaber, som holdningsmæssigt stod ham fjernt. Som tiden gik, lykkedes det ham derfor at knytte alle vigtigere dele af den hjemlige skønlitterære produktion til GyldendaI. Samtidig hermed sørgede han for gennem en række velkalkulerede forlagssammenlægninger og opkøb at skabe det materielle og økonomiske grundlag for den magtfulde Gyldendal-koncern, vi kender i dag. Fra omkring 1903 og en halv snes år frem stod han ubestridt som den danske bogverdens førstemand. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488592032</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488592032</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Gyldendal</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">326</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men den store arbejdsindsats skulle vise sig at have taget sin pris. Hans sarte helbred tålte ikke det anspændte liv, han måtte føre, og smerterne fra den "selvforskyldte Sygdom" han sagde, han led af, søgte han lindring for med et stigende forbrug af morfin. I 1916 måtte han efter en bitter strid med familien Hegel (skildret i det harmfulde selvdefensorat Mine 20 Aar i Gyldendal (1918)) træde tilbage som direktør for forlaget. Det sidste par år prægedes af mismod og dyb træthed. Han døde i 1918 i Mariager, hvorhen han var draget for at opnå hvile og rekreation. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488589776</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488589776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Gyldendal</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">332</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Nansen var en både karismatisk og særdeles omdiskuteret skikkelse i sin samtid, og der foreligger fra forfattere og forlagskolleger en lang række vurderinger af hans personlighed, der må siges at afspejle ret forskellige grader af begejstring. Således beskrev kritikeren Chr. Rimestad (1878-1943) ham som værende i besiddelse af: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488586160</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488586160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Gyldendal</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">347</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Langt mere kritisk, for ikke at sige temmelig giftigt, er til gengæld det portræt, som Henrik Pontoppidan leverede i romanen Lykke-Per (1898-1904). Her optræder blandt andre ondt karikerede danske forfattere (som fx Georg Brandes, J. P. Jacobsen og Holger Drachmann) også en opportunistisk og moralsk anløben Peter Nansen i skikkelse af den "ombejlede Pressejunker" med det sigende navn Dyhring, der professionelt er til salg for hvem som helst og i sit luksuøse privatliv realiserer et alfonsagtigt ægteskab med den frigjorte jødiske rigmandsdatter Nanny Salomon. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488576224</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488576224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">396</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som forfatter havde Peter Nansen en udpræget forkærlighed for den lille form. Hans noveller, der i reglen var korte og ofte grænsede til skitser, egnede sig derfor godt til en første offentliggørelse i de aviser og tidsskrifter, han i flere perioder af sit liv betjente. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488575264</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488575264</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">399</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Han udgav i alt 6 små novellesamlinger Unge Mennesker (1883), Korte Veje (1890), Troskabsprøven. Smaa Historier (1899), Æventyr om smaa og store (1917), Livets Lyst (1917) og Hendes Elskede (1918). Novellen Onkel Johannes" stod første gang trykt i Politiken s julenummer </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488569584</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488569584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">423</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Blandt de mindre arbejder bør desuden især fremhæves tre nonfiktive kroniksamlinger, den allerede nævnte Lægekongressens Heroer (1884), billedværket Verdens Storbyer (1894) og Portrætter (1918), samt det forbitrede og i dag næsten uopdrivelige polemiske forsvarsskrift Mine 20 Aar i Gyldendal, som han forfattede i 1918 oven på sin afskedigelse fra forlaget. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488565168</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488565168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">440</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Debutbogen Unge Mennesker udkom sidst i oktober 1883 og bestod ligesom de to følgende novellebøger udelukkende af opsamlede bidrag til aviser og tidsskrifter. Således havde fortællinger som " Ansigt til Ansigt " og "Kornmod" allerede før bogudgivelsen stået i det af Herman Bang dirigerede ugeskrift Vor Tid, som kort efter gik ind, fordi dets ejere afsløredes som falskmøntere, en affære, som i øvrigt mange år senere dannede inspirationsbaggrund for Nansens sidste roman Brødrene Menthe (1915). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488559264</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488559264</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">462</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den lille samling rummede i alt otte små noveller. Heraf kan "Ansigt til Ansigt", "Fra et Dødsleje", "Ægypteres Gæstebud", "Kornmod" og "Den Sidste" ses som en art diagrammer over selvbiografisk prægede temaer som det tidlige modertab, de første forelskelser og kampene med den religiøst og politisk forstokkede far og de heraf flydende samvittighedskvaler og anfald af tomhedsoplevelse og selvforagt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488558192</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488558192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">465</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De trætte unge mænd, som disse tekster stiller skarpt på, har tyngende problemer at slås med, hvilket de dog gør, hvad de kan for at fortrænge. Et mismod kan kortvarigt blusse op, men bortvejres igen, så snart de evigglade veninder og venner dukker op ("Ansigt til Ansigt", "Ægypteres Gæstebud", "Kornmod"). Hovedpersonernes vage forsøg på anger og selvransagelse får derved et umiskendeligt anstrøg af sentimentalitet over sig, om end Nansen dækker sin egen holdning dertil bag en ironi, som læseren undertiden kan have svært ved at finde bund i. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488557184</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488557184</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">468</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det udgør den første af de nævnte historier et typisk eksempel på. Her er den unge forfatter Erik Prahl søgt ud i Dyrehavens ensomhed og har lagt sig under et træ for at gøre op med sit ørkesløse liv og sit tomme skriveri. Men midt under den pinagtige selvprøvelse med smertende tilbageblik på barndommen passerer et par nette unge damer forbi, mens den ene henvendt til sin veninde halvhøjt udbryder: "Hvor han var smuk!" ( SS III, s. 13 ). Denne oplivende replik sætter et brat og effektivt punktum for al videre eftertanke, og han giver sig straks til at følge efter dem, uden dog at indlede nogen egentlig kontakt: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488548400</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488548400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">502</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med denne Erik Prahl har Nansen afbildet den blaserte, desillusionerede livsnyder i svøb, en type, som Herman Bang i Haabløse Slægter s Bernhard Hoff tre år tidligere havde beskrevet en mere avanceret og depraveret udgave af. Han har tydelige ligheder med sin forfatter, men er dog først og fremmest en generationstype, man møder adskillige steder i 1880'ernes litteratur. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488546592</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488546592</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">508</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Flanører kaldtes de dengang. Ordet, der stammer fra fransk, betyder omstrejfere, og pointen i karakteristikken var, at de forekom både sig selv og deres omverden at være eksistenser uden bagage og mål. Det borgerlige ægteskab, der i Nansens første fortællinger skulle bringe liv ind i disse rodløse provinsstudenter og nyetablerede akademikeres vegetative tilværelse, tegner sig for deres blik til at blive en kedsommelig trædemølle. De længes måske nok inderst inde efter et dybere fællesskab med en kæreste eller en hustru som fx i novellen "Kærlighed", men det er, som om en følelsesmæssig afmagt og kraftesløshed stiller sig i vejen og på forhånd gør det umuligt at stille dette savn. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488544736</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488544736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">511</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fraværende er også enhver lyst til at engagere sig bredere i samfundslivets udfordringer og tage del i den humane frigørelseskamp, som Georg Brandes og hans folk i 1870'erne havde søgt at opildne ungdommen til. Peter Nansens unge dandyer foretrækker i stedet at lægge ironisk distance til tidens voldsomme opgør mellem Højre og Venstre og gammelt og nyt, og de opsøger hellere privatsfærens erotiske spændingsfelter, hvor man giver rollen som kynisk fribytter og med fornøjelse bryder ind i omgangskredsens allerede etablerede ægteskaber, så snart dagligdagens rutiner er begyndt at slide forholdet ned. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488543088</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488543088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">514</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I novellen "En famille" [ fr.:"i familiens skød"] har den tiltrækkede ungkarl Paul Foersom således kastet sine øjne på den nygifte Laura Bagger, der keder sig i sit ægteskab med en af hans venner, og det viser sig snart, at hun er mere end villig til at modtage hans betænksomme tilbud om at sætte kulør på hendes stillestående tilværelse. Med sin vittige udlevering af husvennens behjertede omsorg for den "vedbendagtige" frue peger denne historie som den første frem mod den vedholdende udforskning af den erotiske trekants mangfoldige tillokkelser og dilemmaer, der dominerer fx romanen Et Hjem (1891) og så mange andre af det senere forfatterskabs tekster, at man her kan tale om et egentligt hovedtema i forfatterskabet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488540496</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488540496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">522</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I Nationaltidende skrev Herman Bang en længere anmeldelse af vennens debutbog, hvori han sammenfattede sine indtryk af stemningen i den således: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488533840</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488533840</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">551</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den næste tekstsamling er Korte Veje. Scener og Smaahistorier (1890), der ud over et lille dramatisk forsøg indeholder en række fortællinger, hvor Nansen søger at udvide sit motiviske register og løsne bindingen til de selvbiografiske forhold, som den første bog var forankret i. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488532208</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488532208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">557</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Her finder man noget så sjældent i dette forfatterskab som en socialrealistisk novelle om en fattig dreng, der i en strøgbutik bliver grebet i butikstyveri. Den hedder "Et Juleeventyr" og er fortalt med en skarp satirisk brod vendt mod de privilegeredes stive moralbegreber og afstumpede sociale forståelse. På et sted som dette kan man tværs gennem ironien tydeligt fornemme den bundne medfølelse og varme, som Vilh. Andersen kalder "Understrømmen i Nansens Digtning" ( jf. Illustreret dansk Litteraturhistorie (1925) IV, s. 437). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488530432</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488530432</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">563</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Værd at fremhæve er også den lille håndfuld på i alt ti pointerede småskitser uden indbyrdes forbindelse, der er samlet under titlen "I Medaillonformat", hvor de aftegnede personer er fastholdt med intens og præcis prosakunst. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488529568</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488529568</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">566</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ligesom de to første novellesamlinger rummer også Troskabsprøven (1899) en række veloplagte fortællinger med et underholdende anekdotisk indhold, men dog i reglen uden dyberegående psykologisk karakteriseringskunst. Titelnovellen er en karakteristisk nansensk trekanthistorie om en ung mand, der bor i sommerpensionat med en gift frue, hvis mand er en "af den Slags Ægtemænd, der kun fortjener at bedrages". ( SS III, s.170 ). Den unge mand søger nu at overtale sin bedste ven, der også bor på stedet, til at indynde sig hos elskerinden "Fru Y.", fordi "det vilde ikke give mig mindre Lyst til hende at vide, at Du, der forstaar Dig paa Kvinder, havde haft hende og fundet Behag i hende".( SS III, s.173 ). Vennen indvilliger i at opfylde dette noget aparte ønske, og betaget af damens "blege og magre Katte-Fyrighed" ( SS III, s. 171 ) forfører han hende i en håndevending, men mister trods forhåndsløfte om det modsatte den så kuriøst eksperimenterende elskers hengivenhed, da han bagefter som aftalt beretter om sin erobring, hvoraf novellen uddrager den lære, at man på så brandfarlige områder som dette ikke skal gøre sig for meget til af, hvad man oplever, om venskab skal holdes. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488522288</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488522288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">587</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra forfatterens sidste leveår stammer samlingen Æventyr om smaa og store (1917), der indledes med tre kærlige, halvt private fortællinger rettet til Nansens børn, med minder og småepisoder omkring familiebegivenheder som fødsel og barnedåb og sære tildragelser i en hunds og en kats bevægede livsløb. Blandt de øvrige er den mest vellykkede "En gammel Konge, en stor Digter og en lille Pige", som bygger på Nansens fornøjelige erindringer om den noget kluntet arrangerede københavnske festuge i marts 1898 i anledning af Henrik Ibsens 70-årsdag. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488520448</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488520448</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">593</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Samme år som Æventyr om smaa og store udkom også Livets Lyst , der rummer fire større noveller, blandt dem en af forfatterskabets bedste, den underfundige og beske fortælling "Født af en Kvinde". Jegfortælleren heri er en følelsesmæssigt infantil præst, som beretter sit tragiske ægteskabs historie, der imidlertid set med hans øjne har været en idyl af reneste vand. I sin mesterlige udformning af præstens egomane monolog drejer forfatteren diskret sit hulspejl akkurat så meget, at hustruens kolde skæbne i samlivet hele tiden skærer læseren i øjnene. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488517920</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488517920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">602</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Også "Moderens Brev" og den uhyggelige "Brevet, der ikke blev aabnet" handler om ødelagte eller nedslidte ægteskaber. Den førstnævnte skildrer således parternes skånselsløse stillingskrig i forbindelse med en påtænkt, men aldrig realiseret skilsmisse. I den anden historie er samlivet også ophørt, hvorefter hustruen tager sig en elsker, som nok bliver følelsesmæssigt bundet til hende, men uden at han nogensinde formår at blive erotisk tændt. Hun ender derfor med at tage sig af dage, da hun ikke i længden kan leve med den paradoksale situation at "jeg er min Mand utro med en Mand, hvis Elskerinde jeg end ikke er" (s. 80). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488516224</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488516224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">605</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nansens sidste novellesamling Hendes Elskede udsendtes i 1918 og rummer en række tekster, der alle er forfattet i vinteren 1917 og foråret 1918. De viderefører de foregående samlingers pessimistiske temaer og stemninger og rummer ingen fornyelse i forhold til dem. Titelnovellen handler om en midaldrende forfatterinde, der har vendt sin mand ryggen og nu skriver forelskede breve til en professor, som har måttet fraråde hende at søge sine tekster udgivet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488514416</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488514416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">611</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lidt for sig selv blandt Peter Nansens mindre skrifter står endelig kroniksamlingerne Dr. Bonifacius (pseud.): Lægekongressens Heroer. Tolv Billeder (1884), der var hans journalistiske gennembrud, essaysamlingen Verdens Storbyer (1894), foredraget Den store Revolution indenfor Boghandelen (piece 1912), Tyve Aar i den gamle Gaard 1896-1916 (1916) og den fornøjelige og meget velskrevne Portrætter (1918), hvor han giver en række levende billeder af Frederik VIII, prins Hans, Henrik Ibsen, Herman Bang, Holger Drachmann, Viggo Hørup m.fl. ved at kæde sine egne indtryk og oplevelser sammen med små perspektivskabende anekdoter omkring de afbildede personer. I disse bøger forbindes en skarp iagttagelsesevne med stor journalistisk virtuositet og en moden medmenneskelig forståelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488507904</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488507904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sceniske arbejder</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">637</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Allerede i sin tidligste ungdom havde Peter Nansen skrevet et par små kammerspil eller såkaldte "proverber", egnet til at servere på teatret som en forret eller dessert til selve hovedforestillingen. Den første af disse dramatiske bagateller hed Kammerater . Den havde premiere på Folketeatret 23.2. 1884 og opførtes endnu 1928 i Statsradiofonien som hørespil. Den drejer sig om et forlovet par, der har været igennem et brud, men som nu på pigens initiativ finder sammen igen, da hun har fået betænkeligheder ved et ægteskabstilbud fra en lidt ældre læge med "grimme Tænder" ( SS III, s. 282 ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488504288</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488504288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sceniske arbejder</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">648</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En tilsvarende vaudevilleagtig harmløshed præger også det yderst velskrevne og let pikante lystspil En Bryllupsaften , som første gang stod trykt i Af Dagens Krønike (okt. 1889) og derefter i novellesamlingen Korte Veje. Stykket opnåede en betragtelig succes, da det blev spillet på Folketeatret i 1893; det filmatiseredes i 1911 og blev i juni 1927 sendt som hørespil i Statsradiofonien. Inspirationen til det synes at være kommet fra den dengang så populære franske forfatter Gustave Droz' elegant fortalte lille skitse "Nuit de noces" fra bogen Monsieur, Madame et Bébé (1866), hvor en hensynsfuld fransk officer og hans brud kommer til rette med hendes nervøsitet, da de to er blevet alene efter bryllupsfesten og skal i seng. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488499248</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488499248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sceniske arbejder</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">665</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra 1908 stammer endnu en humoristisk lystspilsituation af tilsvarende lethed, Kurrer paa Traaden , som første gang offentliggjordes i Juleroser (og omtrent samtidig i et lille privat særtryk). Stykket er noget så moderne som et telefonsamtalespil mellem ivrigt konverserende veninder. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488496992</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488496992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sceniske arbejder</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">674</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Langt større dybde end i disse dramatiske bagateller finder man imidlertid i skuespillet Judiths Ægteskab , der havde premiere i december 1898 og som flere andre af Nansens værker i øvrigt faldt konservative kredse stærkt for brystet. En samtidig litteraturhistoriker beskrev det således som "en Roman i dialogisk Form [...] om et Ægteskabs Opløsning paa Grund af Hustruens uovervindelige Længsel tilbage til den Søle, hvoraf hun er fremgaaet" (P. Hansen IIIustreret dansk Litteraturhistorie III, s. 817). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488494240</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488494240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sceniske arbejder</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">683</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For en mere nutidig betragtning er skuespillet dog en både menneskeklog, nuanceret og fin hverdagsrealistisk skildring af et ungt par, der efter et kortvarigt ægteskab iværksætter en tåreløs skilsmisse på grund af hendes vedholdende fremmedfølelse over for hans regulære og stræbsomme borgersind. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488491792</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488491792</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">694</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I årene mellem 1891 og 1895 udsendte Nansen fem små romaner, der under ét må karakteriseres som hans litterære hovedindsats og en overgang gjorde ham til sin generations måske mest læste skønlitterære forfatter herhjemme, og som tillige forskaffede ham en anerkendt international position, særlig i Tyskland og Østrig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488490784</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488490784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">697</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hertil sluttede sig i 1915 (salgsudgave 1916) en sjette større og mere samfundsorienteret roman Brødrene Menthe, der til gengæld med sin paradoksale og noget luftige kritik af en række gængse moralbegreber ikke blev nogen succes. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488489232</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488489232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">703</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I disse værker forargede Peter Nansen mange med den - set med vore øjne - beskedent vovede og egentlig altid urbane kynisme, hvormed han skrev om kærlighed og ægteskab. Men han fascinerede også sine læsere ved at pirre deres fantasi med sine dristige paradokser og frisindede seksualmoral. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488488240</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488488240</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">706</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den første af disse er den underfundigt komponerede kortroman Et Hjem (1891), der grundlagde hans succes. Den blev oversat både til tysk, ungarsk og svensk, og i 1911 opførtes på Dagmarteatret en dramatisering af den under titlen Et lykkeligt Ægteskab , udformet af Nansen selv i samarbejde med forfatterinden Olga Eggers (1875-1945). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488485856</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488485856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">715</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bogen er en sørgmunter trekanthistorie om en nygift bourgeoisifrue, hvis kvindelighed blomstrer op under den tjenstivrige husvens og den intetanende ægtemands fælles omsorg og pleje. Hun bliver med bogens ord en "Hebe - den yndefulde huslige Gudinde, der stilfærdigt vandrer med Lædskedrikken mellem de tørstige Guder". ( SS II, s. 86 ). Efter en tid bliver hjemmets idyl imidlertid brat forstyrret, da der dukker en ny elsker op. Ved hans tilsynekomst trækker husvennen sig diskret tilbage, og i et elskværdigt og lidenskabsløst afskedsbrev til den livsglade veninde opsummerer han sin levelære: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488478928</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488478928</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">743</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men moralske ræsonnementer af så overkommeligt indhold har undertiden deres egen ironi: to år senere er husvennen selv blevet gift, og på romanens sidste sider ser han fra cafévinduet på Hotel d'Angleterre sin hustru ude på gaden blive kurtiseret af en beleven fremmed herre. En ny trekant synes under dannelse, og det ser ud, som om det nu er blevet hans tur til at afprøve holdbarheden af den livsfilosofi, han med så megen overbevisning har gjort sig til talsmand for. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488477904</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488477904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">746</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Brevromanen Fra Rusaaret (1892) gik oprindelig som feuilleton i Politiken september - december 1892 og blev senere oversat til tysk og svensk. Hovedpersonen er den konservativt og bibelsk opdragne overlærersøn Emil Holm, der føler sig godt rustet til at imødegå hovedstadens forlokkelser og farer, da han i god tid før afrejsen til København har trolovet sig hemmeligt med en from og uberørt pige hjemme i provinsbyen; "men jeg tror netop", skriver han til hende, "at det er godt at binde sig tidligt. I hvert Fald føler jeg, at jeg derved vil undgaa mange Fristelser. [...] Der er [...] saameget, der drager og lokker det Onde i os" ( SS II, s.103 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488473856</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488473856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">760</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dette onde møder han så i løbet af sit rusår i studenterlivet, bl.a. personificeret i to typer: overklassedrengen Villiam Svane, en dandy, der "til det yderste" hylder anskuelsen om, at "Enhver frit bør vælge sig den Moral, der behager ham mest" ( SS II, s.119), og Lauritz Hahn, der vil danne en diskussionsklub for at "vække den gamle Studenteraand tillive, omformet i vor Tids Støbeske" ( SS II, s.111 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488470688</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488470688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">771</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men hjemme fra overlærerboligen søger faderen gennem en række formanende breve at fastholde Emil på det religiøse, moralske og politiske grundlag, han har opdraget ham i. Skønt sønnen godt forstår, at faderens bekymrede forsøg på sindelagskontrol udspringer af ægte kærlighed, ser han ingen anden mulighed end at gøre sig fri. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488469648</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488469648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">774</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For så vidt er bogen en ganske tidstypisk problemroman, men trods dens skarpe afstandtagen fra forældregenerationens værdigrundlag og dens realistiske billeder af det moderne studenterlivs kår er den alligevel langt mindre interesseret i at forfægte en radikal samfundsbetragtning end i at se på familiens reaktioner og den unge students personlige omkostninger ved opgøret. Den lille brevroman er således først og fremmest en psykologisk bog, der kun på et enkelt punkt kan virke en smule usandsynlig ved at lade Emils udvikling fra uselvstændighed til selvovertagelse forløbe over ganske få måneder, og romanen gør da også selv opmærksom på det forbløffende i, at det unge menneske så hurtigt finder ind i storbyens rytme og allerede ved bogens slutning kan fremtræde som et moderne menneske med fastlagt radikal samfundsbetragtning, mangfoldig erotisk erfaring og en solid vekselgæld. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488467424</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488467424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">777</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I sine problemstillinger kan Fra Rusaaret minde en smule om Karl Gjellerups Det unge Danmark (1879), men den overgår langt denne roman i kraft af personskildringens præcise og træfsikre hverdagsrealisme. Både forældrene, den rebelske tante Caroline, studentertyperne og ikke mindst den sypige, Emil undervejs forfører, individualiseres overbevisende gennem brevenes sprog, og det er da også netop denne kvalitet, som har fået flere af eftertidens litteraturhistorikere til at betegne bogen som et lille stilistisk mesterværk (således fx Ejnar Thomsen i Dansk Litteratur efter 1870 (1935), s. 86). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488464176</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488464176</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">789</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De tre kærlighedsromaner Julies Dagbog (1893), Maria. En Bog om Kærlighed (1894) og Guds Fred (1895) betegner kulminationen i Nansens forfatterskab, og de blev alle betydelige internationale succeser. Maria var hans kærlighedserklæring til skuespillerinden Betty Müller/Nansen (1873-1943), som han var gift med fra 1896 og indtil deres skilsmisse i 1912. Ægteskabet bidrog til at gøre hende til en central skikkelse på den radikale fløj af den danske teaterverden, hvor hun hurtigt skabte furore som fortolker af den moderne frigjorte kvinde. Bogen blev en kæmpesucces. Den opnåede i alt 9 oplag herhjemme og oversattes til hele 9 sprog. I 1898 udkom den franske udgave, illustreret af den verdenskendte kunstner Pierre Bonnard. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488459184</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488459184</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">806</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den er nittet sammen af 64 små kapitler eller afsnit, der i et snart ironisk, snart højstemt lyrisk sprog i bevidst blasfemisk modsætning til tidens nykatolske strømninger fortæller historien om, hvorledes "Jomfrubruden" Maria og hendes forfører finder hinanden. Først i favntaget, siden i ægteskabet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488458160</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488458160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">809</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hellige Nat, da Maria blev min. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488457728</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488457728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">812</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Stilhed ude og inde. Kun en enlig Kærte lyser. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488457232</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488457232</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">815</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jeg træder ind, og se, paa Lejet hviler min Brud, hvid og fin og smilende. Med Andagt knæler jeg ned og kysser hendes Mund, den lovende, hendes Haand, den givende, og hendes Bryst, hvor jeg hører Forventningen banke. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488456400</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488456400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">818</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og jeg er i hendes Arme, dem hun tillidsfuldt aabner mig. Jeg ser kun hendes Øjne, jeg følger i deres Afspejlinger den angstfulde Bryden ud af Jomfrupuppen, Forbavselsen, Taknemligheden, Jublen ved at skue ind i Livets hidtil uanede Dejlighed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488455504</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488455504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">821</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Rummet fyldes af brusende Musik. Der bliver højt over os og vidt om os, og sammen, tæt omslyngede, Mund mod Mund, svæver vi bort fra al Jordelivs Tynge og Sorg. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488454784</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488454784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">824</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hellige Nat. ( SS I, s.189 ) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488453024</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488453024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">832</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I forholdets første fase bedrager han Maria med andre elskerinder, men forsikrer samtidig, at "Dog var jeg hendes langt mere end hun troede " ( SS I, s.190 ). Efter en tid gør han sig på ægte Don Juan-manér fri af hende </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488445168</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488445168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">868</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men ét er søkort at forstå, et andet skib at føre: mod slutningen har hun fået et særdeles håndfast greb om hans ellers så frihedstørstende hjerte. Og derefter kan den hvide madonna og hendes sorte forfører træde frem foran biskoppen i Frue Kirke, og tværs gennem englesangen og de muntre bryllupsklokkers klang toner bogens forløsende morale: " Gennem de Mange til Én !" ( SS I, s. 251 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488442144</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488442144</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">879</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Julies Dagbog offentliggjordes oprindelig i Politiken mellem januar og maj 1893 og udkom samme efterår i bogform. Den spænder over et år og fortæller en begavet og velopdragen, men også livslysten ung borgerdatters forlovelseshistorie, set fra hendes egen synsvinkel. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488439984</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488439984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">887</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den tyveårige Julie Magens bor sammen med sine forældre på Forhaabningsholms Allé. Adressen har for længst tabt sine symbolske overtoner for faderen og moderens vedkommende, da deres samliv er gået aldeles i stå. Men datteren sitrer af forventning og romantiske længsler, og i romanens begyndelse bliver hun ved vinduet i sit ungpigekammer voyeuragtigt fascineret af en overfor boende elegant ungkarl og hans hastigt skiftende damebesøg, hvilket tænder hendes lyst til at omsætte sine egne glødende driftsfantasier til et virkeliggjort eventyr. Hun afskriver den skikkelige unge arkitekt Erik Glerup, der så gerne vil forloves og giftes med hende, og kaster sig hovedkulds ud i et stævnemøde med en skuespiller af tvivlsomt rygte, som hun i sine ophedede ungpigesværmerier er blevet henrevet af at betragte i teatret: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488433616</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488433616</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">904</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Drømmeheltens navn er Alfred Mørch, i hvis favn hun i handlingens løb udlever sine brændende underkastelsesfantasier. Men i romanens slutning forlader han hende, fordi han, som han skriver i sit afskedsbrev til hende "er et frihedssygt Menneske, der lammes paa Ævner og Humør, saasnart et Forhold begynder at indsnøre mig" ( SS I, s. 157 ). Derefter kan hun vende tilbage til sit borgerlige hængeparti: forlovelsen og det senere ægteskab med den godhjertede og tålmodige arkitekt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488430976</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488430976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">912</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ved sin pikante blotlæggelse af en ung kvindes førægteskabelige eventyrlyst vakte også denne bog skandale. På Sorø Akademi pågreb man således i 1898 (som Politiken i anledning af Nansens 25-årige forfatterjubilæum den 26. oktober 1908 kunne berette) en af skolens alumner, der i anstændighedens navn blev bortvist for at have forsaget stedets reglementerede åndelige føde til fordel for et forbudent studium af bogen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488429024</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488429024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">918</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Også Guds Fred er en dagbogsroman. Hovedpersonen er denne gang en overarbejdet hovedstads-journalist, der efter 15 år er blevet "Dødsenstræt [...] af Fornøjelser og Arbejde" ( SS I, s.255 ) og søger tilbage til sine rødder i "den gamle Provinsby, hvor jeg har levet min første Barndom [...] Thi dér ligger min Moder begravet. Den rummer al den Moderkærlighed, jeg i hine Dage nød mere end nogen anden og som jeg mistede saa tidligt" ( SS I, s. 257 ). Han opsøger hendes grav og glædes ved gensynet med kære gamle steder. Et brev fra hans "sidste Elskerinde" minder ham endnu engang om "hele den Elskovs-Sport, som leges i den store Bys Overflade-Selskab og som jeg med saamegen Iver havde dyrket". ( SS I, s. 277 ). Men nu beslutter han sig for at skrive "en Bog om den gamle By og dens Klosterfred" ( SS I. s. 280 ) og slår sig ned i et lille hus ved den høje bakke, hvorpå byens mølle står. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488420912</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488420912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">944</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Her møder han møllerdatteren Grethe, der minder ham om hans afdøde mor og </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488417584</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488417584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">961</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De bliver forlovet, men kort før brylluppet bliver hun knust af møllevingerne ved en ulykke, som den gamle blinde far uforvarende afstedkommer. Efter at have begravet Grethe ved moderens side søger fortælleren på ny tilbage til storbyen, hvor han skal overtage ledelsen " af et stort literært Foretagende" </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488416560</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488416560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">964</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">( SS I, s. 323 ), thi: "For os andre dulmer Arbejdet Ulykken" ( SS I, s. 350 ). Hvad han har lært af hende, er "Lykken ved at være paa Vej til Lykken, selv om man aldrig naaer den" ( SS I, s. 353 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488411952</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488411952</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">982</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bogen er noget nær det mindst radikale, Peter Nansen har skrevet. Både ved sin madonnadyrkelse og den skarpe modstilling af storbypromiskuiteten over for provinsens uskyldsrene familielykke lægger den sig tæt op ad Johannes Jørgensens katolsk farvede civilisationskritik. Desuden fjerner den sig imod slutningen stærkt fra "den moderne literære Katekismus", dvs. Realismens og Impressionismens grundlæggende værkteori, if. hvilken "Forfatteren [...] aldrig [maa] stikke sin Person frem og ikke give sin private Mening til Kende. Forfatteren objektiverer sig i Værket, der har at tale for sig" ( SS I, s.347 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488409584</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488409584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">990</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Heroverfor hævder fortælleren af Guds Fred , at det eneste, de nyere forfattere (i direkte modstrid med deres eget dogme) gør, er at beskrive sig selv i et utal af forklædninger. Den moderne litteratur er derfor ikke andet end en samling halvt naragtige "Maskeradebøger", der rummer et "latterlig glimrende Galleri af Selvportræter" ( SS I, s 348 ). Men selve maskespillets </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488403200</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488403200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1015</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med disse ord er den lille romans intentioner forklaret. Den vakte betydelig begejstring, selv i kredse der normalt stillede sig skeptisk eller afvisende til forfatterskabet. Således udtalte P. Hansen, som ellers fælder hårde domme over de fleste af Nansens værker, i et kun let syrligt tonefald, at: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488399728</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488399728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1030</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bogens store popularitet i samtiden fremgår også klart af det forhold, at den blev oversat til fem større europæiske sprog. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488399072</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488399072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1033</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nansens sidste roman blev den tidligere omtalte Brødrene Menthe (1915, salgsudgave 1916, som der efterfølgende er henvist til). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488397872</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488397872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1039</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inspirationen til den har han hentet fra de to forlæggerbrødre Riemenschneiders falskmøntnerkrak tilbage i 1883 og den store bedrageriaffære, der gennemrystede den københavnske finansverden i september 1908, da det viste sig at landets justitsminister P. A. Alberti havde bedraget Den sjællandske Bondestands Sparekasse for ikke mindre end 18 millioner kroner, som han i det skjulte havde anvendt på vilde børsspekulationer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488396768</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488396768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1042</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Trods sin vittige karakteristik af svindlernaturen og af den verden, der vil bedrages, er romanen en misantropisk og livstræt beretning om den perverterede erotik, der kan slå ud som svamp bag storborgerskabets respektable facader, hvor dybe følelser og ægte kærlighed fattes. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488395792</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488395792</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1045</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dens to hovedpersoner Carl Emil og Ludvig Menthe er fremtrædende jurister, der har blikket stift rettet mod et "Liv med Partout-Kort til al Jorderigs glade Vellyst" (s. 13) og - hvad nok så vigtigt er - begge i det skjulte må tilkøbe sig den menneskevarme, de savner, hos "bramfri Rødekors-Søstre ved Erotikens Ambulance" (s. 73). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488394720</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488394720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1048</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Allerede ved romanens begyndelse må den ældre bror vandre i fængsel for groft misbrug af betroede klientmidler. Bag tremmerne erhverver han sig imidlertid stor popularitet som humørspreder og mønsterfange, inden han efter udstået straf i resten af sine dage kan lade sig underholde af lillebroren, Ludvig, og således forsørget strø om sig med milde gaver til en taknemmelig kreds af venner og livsglade veninder. Modsat Carl Emil forbliver Ludvig Menthe hele romanen igennem på fri fod, men i dybeste hemmelighed sørger en godt camoufleret og hurtigt roterende litografisk seddelpresse for alle hans livsfornødenheder, herunder for plejen af det uangribelige image som storkorsbehængt legatyder til "Kvindens Værn og Værge" og andre velgørende organisationer, der er hans maske og effektive beskyttelse mod at blive afsløret. Ved sin død hædres han da også af pressen som "Kjøbenhavns første Borger" (s. 160) og begraves i romanens slutning under stor pomp og pragt. Efter dødsfaldet bliver landets nationalbankdirektør imidlertid klar over, hvad der er foregået, men han vælger efter kølig overvejelse diskret at konfiskere seddelpressen og fortie skandalen frem for at lade den rulle. Det bedste er, som han konkluderer, at " Komedien [...] føres til Ende [...] Det ejendommelige ved denne Historie er jo netop, at der ikke kan ydes Erstatning. Thi der er ingen, der har mistet noget. Der er intet at sone." (s. 186f.). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488389456</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488389456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Romaner</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1060</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Romanen vakte stor opstandelse i samtiden på grund af en indflettet sidehandling om Ludvig Menthes to livsangste børn, der forlader det kolde hjem, de er vokset op i og søger tryghed hos hinanden i et veritabelt søskendeægteskab. "[...] i proper Stil en snavs Historie" kommenterede Vilh. Andersen i sin store litteraturhistorie (IV, s. 435), men sigtede med dette udtryk vel også til de noget vidtløftige moralbetragtninger, som bogen munder ud i: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488383904</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488383904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1080</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Nansen brugte til stadighed sin personlige udviklingshistorie som inspirationsbaggrund både for sine bøger og sin journalistik og fandt begge steder udtryk for noget typisk i livsfølelsen hos den generation, han tilhørte. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488383040</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488383040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1083</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Forfatterskabet tog udgangspunkt i de unges pinefulde opgør med forældrenes borgerlige og kristne værdigrundlag og skildrede deres nedslående møde med en sejrende kulturradikalisme, der allerede var i færd med at miste sin fremdrift og tro på sig selv. Blandt 1880'ernes nye forfattere som Herman Bang, Gustav Esmann og Nansen selv blev reaktionen herpå en blasert ligegyldighed over for samfundsspørgsmål og problemdebat: " Denne Slægt synes mig at være sløv, som man er det, fortumlet efter et dybt Fald. Det var Fædrene, som stod paa Illusionshøiderne - Sønnerne faldt ned", skrev således Bang i sin anmeldelse af Unge Mennesker i Nationaltidende 8.11.1883.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488379984</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488379984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1094</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra dette udgangspunkt bevæger forfatterskabet sig frem mod sin kulmination i 1890'ernes noveller og kortromaner samt skuespillet Judiths Ægteskab, der opførtes 1898. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488378000</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488378000</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1102</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Disse tekster udfolder et muntert frivolt opgør med forstenede senviktorianske forlovelses- og ægteskabsmønstre og en mere romantisk-idylliserende dyrkelse af frigørende forhold mellem mand og kvinde, bygget på længslen efter ægte kærlighed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488377104</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488377104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1105</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Oven på opførelsen af Judiths Ægteskab indtræder der en lang pause i forfatterskabet, mens Nansen er leder af Gyldendals forlag. Derefter udsender han i årene fra 1915 og til sin død i 1918 nogle småbøger hovedsagelig indeholdende journalistiske og novellistiske bidrag fra aviser, tidsskrifter, årbøger o. lign. samt den store roman Brødrene Menthe (1915), som han velsagtens på grund af dens spydige samfundskritik tilegnede vennen Georg Brandes og i øvrigt selv anså for at være sit hovedværk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488374304</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488374304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1114</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans afslebne, elegante sprogføring er bevaret også i disse sene bøger, og med den menneskekundskab, de udfolder på deres snævre område, kan han endnu interessere, om end tidligere tiders muntre ironi og lyriske lykkefantasier nu er veget for en livstræt, selvopgivende pessimisme. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488373312</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488373312</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1117</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sideløbende med sit skønlitterære forfatterskab udfoldede Nansen i perioden 1880-1896 en omfattende journalistisk produktion af litteratur- og teaterkritik, portrætartikler, essays, og forskellige former for petitjournalistik, der for store deles vedkommende var af høj kvalitet, men aldrig er blevet genudgivet og derfor nu er glemt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488372304</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488372304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1120</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans indsats for Politiken var imidlertid af væsentlig betydning for bladet i dets første 12 leveår og har if. kritikeren Christian Rimestad, "gjort sit til at gøre det københavnske Borgerskab mere fordomsfrit, mindre dømmesygt" ( Dansk biografisk Leksikon 2. udg. (1933-44) bd. XVI, s. 518). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488368272</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488368272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1139</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Nansen opnåede i levende live en ganske betydelig position som forfatter. Navnlig de små romaner fra 1890erne skabte røre i konservative kredse og beundring blandt forfattervenner og yngre radikale. Selv forblev han gennem alle årene aldeles upåvirket af de blandede læserreaktioner, han fremkaldte, og under indtryk af sine bøgers støt stigende oplagstal var han endda overbevist om, at hans Samlede Skrifter med tiden ville komme til at afløse Paludan-Müllers Adam Homo som standardpresent på konfirmandernes gavebord. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488365600</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488365600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1148</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Han udsendte dem allerede i årene 1908-09 og på ny i 2. oplag 1917. Både denne og tredie udgave fra 1920 rummer mindre forskydninger i sidetallene i forhold til førsteudgaven, (som der i nærværende artikel er henvist til) særlig for bind 3's vedkommende. Men indholdsmæssigt er de tre udgaver identiske, og SS blev således aldrig udvidet med nogen af teksterne fra forfatterens senere leveår, hvorfor disse da også er praktisk taget ukendte i vore dage. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488363552</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488363552</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1154</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udgaven var selvsagt en velmotiveret markering af Nansens indflydelsesrige position i datidens litterære landskab. Men eftertiden har aldrig kunnet vedligeholde den optimisme, som man dengang nærede omkring forfatterskabets fremtid, og i årtierne efter hans død fortonede interessen for hans bøger og teaterstykker sig temmelig hurtigt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488362464</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488362464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1157</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et første varsel herom fremkom så tidligt som i 1896, hvor den unge Johannes V. Jensen på sin forfattergenerations vegne lod sin hovedfigur Buris Holm i romanen Danskere ytre sig brutalt nedladende om Peter Nansen og Edvard Brandes og den tidsbundne form for radikalisme, de begge i hans øjne repræsenterede: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488358160</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488358160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1175</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En tilsvarende skeptisk holdning til Nansens forfatterskab kan ses hos Sophus Claussen, fx i tidsopgøret Trefoden (1901), jf. Jørgen Hunosøes efterskrift til Sophus Claussen. Samlet Lyrik II, s. 289ff., specielt s. 291. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488355984</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488355984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1184</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Også i vore dage opleves Peter Nansens værker af de fleste som et tidstypisk, men nu tilbagelagt udtryk for den senviktorianske epoke, han tilhørte. Skønt det vrimler med små tekster i hans forfatterskab, har således kun få, om overhovedet nogen, kunnet finde vej til danskundervisningens litterære antologier. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488354976</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488354976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1187</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men han ramte med sin oprigtige frihedstrang og dens understrøm af melankoli og spleen noget centralt i unge menneskers livsfølelse, som det stadig er værd at stifte bekendtskab med, om end han som kunstner hverken besidder Henrik Pontoppidans menneskelige visdom og sociale overblik eller Herman Bangs dybe psykologiske indsigt og stilistiske brillans. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488353856</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488353856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabets efterliv</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1190</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Man kan med Hakon Stangerup så mene, at Nansens forfatterskab i dag måske mere hører til efternaturalismens smagshistorie end til dens litteraturhistorie ( jf. Dansk Litteratur Historie (1977) IV, s. 327), men man kan også læse det som et både oprørsk, vedkommende og personligt gennemlevet vidnesbyrd om de første nutidsgenerationers problematiske og smertefulde møde med moderniteten. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488350992</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488350992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1202</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sidehenvisningerne i nærværende artikel gælder overalt, hvor ikke andet er anført, Peter Nansen: Samlede Skrifter I-III, 1.udgave 1908-09, (forkortet: SS ). Om forholdet mellem dette oplag og de to øvrige (1917 og 1920) se afsnittet "Forfatterskabets efterliv". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488347536</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488347536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1217</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488341136</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488341136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelt</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1252</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hovedbehandlingen af Peter Nansen er stadig Vilh. Andersens store afsnit i Illustreret dansk Litteraturhistorie IV (1925), der kommer grundigt rundt om både de tidlige og de sene dele af forfatterskabet. Der er også mange værdifulde synspunkter og vurderinger i C. E. Jensen: Vore Dages Digtere (1898), Ejnar Thomsen: Dansk Litteratur efter 1870 (1935), Billeskov Jansen, Stangerup og Traustedt: Dansk Litteratur Historie IV (1977), samt i Busk-Jensen, Dahl, Gemzøe m.fl.: Dansk Litteraturhistorie VI (1985). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488336544</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488336544</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelt</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1270</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nansen - afsnittet i P. Hansen: Illustreret dansk Litteraturhistorie III (1902) giver en for samtiden repræsentativ konservativ synsvinkel på forfatterskabet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488335200</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488335200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelt</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1276</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Afbalanceret og særdeles informativ er Aleks Frøland: Peter Nansen. Et forsøg på en vurdering (1962), der dog for forfatterskabsgennemgangens vedkommende helt bygger på Vilh. Andersen, men derudover bringer en del nyt stof til belysning af Nansens personlighed i almindelighed og af forlæggeren i særdeleshed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488333488</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488333488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Generelt</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1282</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Alf Kjelléns afhandling Flanören och hans storstadsvärld (Sthm. 1985) sætter forfatterskabet ind i en bred tidsmæssig ramme og sammenholder det bl.a. med Herman Bangs og Gustav Esmanns billeder af 1880'ernes og 1890'ernes København. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488330496</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488330496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1296</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Georg Brandes' artikel "Peter Nansen" i Samlede Skrifter XIII (1903) rummer en fortrinlig gennemgang af romanen Julies Dagbog med særlig vægt på stilsynspunkter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488328496</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488328496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1305</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nyere bidrag til forståelse af forfatterskabet er Jesper Düring Jørgensens artikel "Georg Brandes og Peter Nansen omkring 'Verdenskrigen' " i Fund og Forskning i Det Kongelige Biblioteks samlinger XXII (1976) s. 223-242, der også har breve fra Nansen til Brandes, samt Eddy D. Beverley: "Peter Nansen's Epistolary Fiction", Scandinavian Studies LVIII (1986), s. 10-24. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488326096</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488326096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1314</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra 2000 stammer en lille kommenteret artikelsamling omhandlende Politiken s og Peter Nansens indsats i forbindelse med afdækningen af nogle umenneskelige arbejdsforhold og en skibsofficers mishandling af en fyrbøder om bord på emigrantskibet "Thingvalla" i 1880'erne. Bogen præsenterer det først kendte eksempel på dybtborende kampagnejournalistik i dansk presse. Den er redigeret af Mogens Meilby og udsendt på forlaget Ajour (Danmarks Journalisthøjskole). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488324224</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488324224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1320</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I Hans Holmbergs bog Møde med Danmark, Dansk og svensk i dialog (2000, kap. 4, s. 95ff.) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488322992</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488322992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1326</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">findes et udførligt kommenteret og analyseret optryk af Peter Nansens opsigtsvækkende reportage "Anna Månsdotters Henrettelse" ( Politiken 8.8. 1890), som blev et vigtigt bidrag til debatten omkring dødsstraffens afskaffelse i Danmark. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488321424</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488321424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1332</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nansens virksomhed på Gyldendal belyses nærmere i Mads Jepsens pamflet Peter Nansen. Journalisten, Forfatteren, Forlæggeren (1912), der fremlægger et stærkt polemisk billede af Peter Nansen, der bl.a. her drages til ansvar for, at det var begyndt at "vrimle med de hæsligste bøger" på Gyldendal. Den bør derfor læses i sammenhæng med Nansens bidske svarpiece: Nogle Mads Jepsen'ske Aktstykker (1913). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488318848</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488318848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1341</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et mere nuanceret billede af Nansens betydning for dansk bogproduktion omkring århundredskiftet fås i Lis Jacobsen m.fl.: Peter Nansen. Forlæggeren. Hyldest og Hilsen fra Digtere og Videnskabsmænd , der blev udsendt 1916 i forbindelse med hans afsked fra forlaget , samt i Niels Birger Wamberg : Digtere og Gyldendal (1970). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488316528</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488316528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Specielle aspekter</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1350</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ønskes yderligere belysning af de mere private sider af Peter Nansens liv og personlighed, kan det anbefales at læse den store selvbiografiske kronikserie, han skrev i Politiken januar-august 1917 (28.1., 11.2., 25.2.,.26.2., 6.3., 8.3., 9.3., 25.3., 26.3., 8.4., 10.4., 30.4., 2.5., 17.6., 18.6., 12.8, 13.8. og 17.8.). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488313680</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488313680</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1364</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udførligere fortegnelse, også omfattende diverse aviskronikker og mindre bidrag af Nansen selv, se Aleks Frølands artikel i Dansk biografisk Leksikon bd. X, 3. udg., s. 317 (1982) og Dansk skønlitterært forfatterleksikon 1900-1950 bd. III (1964). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488311472</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488311472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1373</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Omfattende samling af papirer i Det kgl. Biblioteks samlinger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">nansen-p#idm140083488309936</field>
+    <field name="volume_id_ssi">nansen-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488309936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sten Rasmussen</field>
+    <field name="author_name">Sten Rasmussen</field>
+    <field name="author_id_ssi">Sten%20Rasmussen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1384</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sten Rasmussen er fhv. lektor ved Stenhus Gymnasium i Holbæk og har bl.a. tilrettelagt en række tekstudgaver til undervisningsbrug. I DSL's serie Danske Klassikere udsendtes i 2001 Herman Bang: Realisme og Realister og Kritiske Studier og Udkast .   </field>
   </doc>
 </add>

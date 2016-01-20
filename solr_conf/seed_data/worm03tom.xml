@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Indledning. - 1971</field>
+    <field name="id">worm03tom</field>
+    <field name="volume_id_ssi">worm03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/worm03tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140280117976416</field>
+    <field name="volume_title_tesim">Indledning. - 1971</field>
+    <field name="author_name">Worm, Jacob</field>
+    <field name="author_id_ssi">Worm,%20Jacob</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">[1968]-1994</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Jacob Worm. En politisk satiriker i det syttende århundrede</field>
+    <field name="id">worm03tom#workid54178</field>
+    <field name="volume_id_ssi">worm03tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/worm03tom#workid54178</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140280118051760</field>
+    <field name="volume_title_tesim">Indledning. - 1971</field>
+    <field name="author_name">Worm, Jacob</field>
+    <field name="author_id_ssi">Worm,%20Jacob</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">[1968]-1994</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">87</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </field>
+  </doc>
+</add>

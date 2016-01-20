@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">h-rode-bibl</field>
+    <field name="volume_id_ssi">h-rode-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/h-rode-bibl#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">h-rode-bibl#idm140262756548032</field>
+    <field name="volume_id_ssi">h-rode-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/h-rode-bibl#idm140262756548032</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">44</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Indtil videre findes kun en bibliografi for Helge Rode. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">h-rode-bibl#idm140262756546576</field>
+    <field name="volume_id_ssi">h-rode-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/h-rode-bibl#idm140262756546576</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">53</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">h-rode-bibl#idm140262756545680</field>
+    <field name="volume_id_ssi">h-rode-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/h-rode-bibl#idm140262756545680</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">59</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">  Engberg, Hanne, En digters historie. Helge Rode 1870-1937 . 1996. 449 s.  Tveterås, Harald L., »To danske debutanter i Norge«. I: Levende biblioteker. Festskrift til Palle Birkelund 29. januar 1982 . 1982. S. 139-43. (Om Helge Rode og Ove Rode.)  Schmidt, Peter, Dødsmotivet i Helge Rodes lyriske digtning med særligt hensyn til digtsamlingerne »Hvide Blomster« og »Ariel«. 1971. 71 s. (Duplikeret.)  Brandt-Nielsen, E., »Myten hos Helge Rode og Ludv. Holstein«. Dansk Kirketidende , CXX, 1968, s. 136-39.  Hakon Stangerup og F.J. Billeskov-Jansen: Dansk litteraturhistorie 3, 1966, s. 414-429   </field>
+  </doc>
+</add>

@@ -1,0 +1,2170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">steffens-p</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713841664</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713841664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Steffens og Oehlenschläger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">76</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I sommeren 1802 blev den unge digterspire Adam Oehlenschläger præsenteret for den seks år ældre mineralog Henrich Steffens, som med sin begejstring for den romantiske naturfilosofi i bagagen var draget til København for at forberede en forelæsningsrække, som han indledte i november samme år på Elers Kollegium. En sommerformiddag mødte digteren op på naturforskerens logi, og kl. 11 indledte de to en samtale, der senere er blevet anset for at være skelsættende i dansk litteratur. Først 16 timer senere sluttede samtalen, og inspireret af, hvad Steffens havde sagt, satte Oehlenschläger sig næste formiddag ned og skrev "Guldhornene". Da han havde læst digtet op for Steffens, udbrød denne: "Ei, min Bedste! [...] De er jo virkelig en Digter!" og fik som svar fra den unge Aladdin, at han selv var af samme mening. (A. Oehlenschläger: Erindringer , bd. 1, 1850, s. 188). Steffens sagde senere: "Jeg strøg ham, som man stryger en Kat, og det gav dejlige Gnister" (Vilh. Andersen: Guldhornene , 1896, s. 76). Denne samtale med Oehlenschläger er Steffens' adkomst til et kapitel i den danske litteraturs historie. Om sit forhold til Oehlenschläger skrev Steffens i sine erindringer, at man har "vurderet min Indflydelse paa ham for høit, [sic] Jeg gav ham tilbage til ham selv; han erkjendte sin egen indre Rigdom" (Steffens: Hvad jeg oplevede , bd. 5, s. 30.) [Tysk original tekst]  Den unge digter blev hurtigt træt af sin mentor, som han opholdt sig hos i Halle fra august 1805 til januar 1806. I breve til hjemmet kritiserer han Steffens for manglende soliditet. Fx skrev han i august 1807 til H.C. Ørsted, at "Steffens har stoppet Bomuld i Ørene og skjælver for enhver Sandhed, der kunde rive ham af Pinden; naar man er hos ham, maa man vel vogte sig for at støde til Bordet, fordi ikke Korthuset skal falde" ( Breve fra og til Hans Christian Ørsted , udg. af Mathilde Ørsted, bd. 1, 1870, s. 218). Men da Oehlenschläger i 1829 på tysk og året efter på dansk udgav første bind af sine erindringer (under titlen: Oehlenschlägers Levnet fortalt af ham selv , 1830 (2. bd. 1831)), var tonen en anden. "Ingen Mand", skrev Oehlenschläger her, "har jeg elsket mere end Steffens, og han fortiente det; thi han var i høi Grad elskværdig, forstandig, phantasieriig og følsom. Ingen Mening yttrede han, hvori jeg ikke i modnere Aar har fundet noget Sandt og Skiønt; og vare hans Yttringer end stundom overdrevne, saa maa man deels tilskrive det Oppositionens Natur, som let forledes til at gaae forvidt, deels hans fyrige Ungdom" (Her citeret efter Erindringer , bd. l, 1850, s. 188). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713828656</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713828656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Steffens, Grundtvig og Sibbern</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">113</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ikke mindst på grund af sine første forelæsninger i København i november 1802 er Steffens blevet udråbt som den danske romantiks fødselshjælper. Forelæsningerne vakte i hvert fald i begyndelsen stor opmærksomhed, men snart kølnedes interessen. Mange af Steffens' unge tilhørere gik skuffede bort, skønt de måske år senere kom til at værdsætte ham. Den unge N.F.S. Grundtvig, Steffens' fætter, der nitten år gammel havde overværet nogle af Steffens' forelæsninger, men ikke havde forstået stort, skrev ved Steffens' død i 1845 et mindedigt, hvori han meget betegnende kaldte den afdøde for en "Lynildsmand". Som ung havde Grundtvig skrevet i sin dagbog, at han var gået til " Steffens [sic] Kollegier paa hvilket [...] Ieg ikke i Aften forstod meer af end at Docenten sagde han vilde rive Kant og Fichte ned og hæve sig paa deres Ruiner" (N.F.S. Grundtvig: Dag- og Udtogsbøger , ved G. Albeck, bd. 1, 1979, s. 16); mere end 40 år senere var tonen anderledes. Nu mindedes han Steffens som den, der havde medvirket til, at det attende århundredes tørre, rationalistiske teologi for hans vedkommende blev afløst af en levende tro: "Lynildsmand", skrev Grundtvig i første strofe af sit mindedigt, "som for mit Øie, / I det aarle Morgengry, / Lig en Engel fra det Høie, / Vælted Stenen bort paany, / Der hos mig, i Blomsterhaven, / Lukked', spærred Troes-Graven ! / Sank nu selv du under Muld?" (N.F.S. Grundtvig: Udvalgte Skrifter , ved Holger Begtrup, bd. 9, 1909, s. 45). Tidligere havde Grundtvig skrevet til Ingemann, at hans egen poetisk-historiske virksomhed i grunden kun var en fortsættelse af, hvad Steffens havde doceret i sine forelæsninger ( Grundtvig og Ingemann. Brevvexling 1821-1859 , udg. af Sv. Grundtvig, 1882, s. 36). Forholdet mellem Grundtvig og Steffens er udførligt behandlet i F. Lundgreen-Nielsen: Det handlende ord: N.F.S. Grundtvigs digtning, litteraturkritik og poetik 1798-1819 , bd. 1-2, Skrifter udgivet af Grundtvig-Selskabet XVI, 1980). Også den senere professor i filosofi Frederik Christian Sibbern gik som syttenårig hovedrystende fra Steffens' forelæsninger; men da han otte år senere opsøgte ham i Halle, var indtrykket langt mere positivt ( Breve til og fra F.C. Sibbern , udg. af C.L.N. Mynster, bd. 2, 1866, s. 18-19). Sibbern blev omend ikke elev af Steffens så dog ved siden af H.C. Ørsted den romantiske naturfilosofis væsentligste repræsentant herhjemme. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713816272</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713816272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Vilhelm Andersens guldalderkonstruktion</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">151</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens' enestående betydning for den danske romantik er især blevet fremhævet af Vilhelm Andersen. Med disputatsen Guldhornene . Et  Bidrag til den danske Romantiks Historie fra 1896 blev Steffens placeret som en afgørende faktor for udviklingen af den danske guldalderlitteratur, ved med sit ildfulde væsen at have formidlet den tyske romantiks ideer til især den unge Oehlenschläger. Seks år tidligere havde Valdemar Vedel i sin disputats, Studier over Guldalderen i dansk Digtning , været mere tilbageholdende. I alt væsentligt, skriver Vedel her, var Oehlenschläger modnet ved omgang med sine jævnaldrende, blandt disse især med brødrene A.S. og H.C. Ørsted, "men Steffens [sic] elektriske Paavirkning gav det Stød og de nye Elementer til, hvorved med Et det Hele krystalliserede sig" (V. Vedel: Studier over Guldalderen i dansk Digtning , 1890, s. 102). Ejnar Thomsen fortsatte og forstærkede i Omkring Oehlenschlägers tyske quijotiade fra 1950 Vedels linje. Det var, mente Thomsen, snarere de unge Ørsted'er end Steffens, der var den danske romantiks fædre. Steffens stod blot fadder til den. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713809760</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713809760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Vilhelm Andersens guldalderkonstruktion</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">172</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713809296</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713809296</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Vilhelm Andersens guldalderkonstruktion</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">175</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tyske original tekster fra dette afsnit </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713808864</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713808864</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Vilhelm Andersens guldalderkonstruktion</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">178</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Man hat dennoch meinen Einfluß auf ihn überschätzt. Ich gab ihn sich selber, er erkannte den eigenen inneren Reichthum" Was ich erlebte 5 26 . [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713798992</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713798992</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den unge naturforsker</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">225</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrich Steffens (1773-1845) blev født i Stavanger. Hans far var holstener af fødsel og således af dansk nationalitet, hans mor var en søster til N.F.S. Grundtvigs mor og ud af den store bangske slægt. Moderens bror var den kendte læge F.L. Bang, der var plejefar for den senere medicinske professor O.H. Mynster og hans lillebror, den senere biskop J.P. Mynster, som begge fik stor betydning for Steffens' udvikling. I 1779 flyttede familien til Helsingør, hvor Steffens i 1780 fik filosoffen Niels Treschow som rektor på den lokale latinskole. Efter et ophold i Roskilde gik turen til København, hvor han som privat dimitteret til universitetet blev student i 1790. Hurtigt viste det sig, at hans interesser gik i retning af naturvidenskaberne og især botanik og mineralogi. Da disse fag stod svagt på universitetet, havde en kreds af privatpersoner i 1789 stiftet Naturhistorie-Selskabet og ansat botanikeren og Linné-eleven Martin Vahl og medicineren H.C. Schumacher som professorer i henholdsvis botanik og mineralogi med pligt til at undervise og eksaminere i disse fag. Steffens blev medlem af selskabet, og som den første aflagde han i 1794 eksamen i naturhistorie, hvorefter selskabet sendte ham på en mineralogisk ekspedition til Norge. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713795408</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713795408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den unge naturforsker</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">231</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I sin studietid synes han især at have knyttet sig til Martin Vahl. I årene 1796 til 1798 opholdt han sig ved universitetet i Kiel. Han skrev her en lille introduktion til mineralogien, som i 1797 udkom anonymt i Altona under titlen Ueber Mineralogie und das mineralogische Studium (Om mineralogi og det mineralogiske studium), og som blev accepteret som doktordisputats. Bogen viser, at Steffens på dette tidspunkt havde stiftet bekendtskab med Kants Kritik der Urteilskraft (1790) (Kritik af dømmekraften). Senere fulgte studier af Jacobi, Fichte, Spinoza og især af Schelling, hvis Ideen zu einer Philosophie der Natur (Forslag til en naturfilosofi) var udkommet i 1797. Jacobis bog fra 1785 om Spinoza synes at have været Steffens' egentlige introduktion til metafysiske overvejelser over naturen, eller - med hans egne ord - værket "var det Første, der concentrerede alle slumrende, speculative Tanker i mig og bragde dem til Udbrud" (Steffens: Hvad jeg oplevede , bd. 3, s. 232.) [Tysk original tekst]  . Herefter kastede Steffens sig ud i et indgående studium af Spinozas Ethica (1677) og blev grebet af dennes lære om, at tilværelsens mangfoldighed er fremtrædelsesform for en tidsløs, uforanderlig substans, som udgør altets tilgrundliggende enhed. Snart oplevede han imidlertid, at den "hele levende Natur, det hele brogede Liv forekom mig som falmet og afbleget" (Steffens: Hvad jeg oplevede , bd. 3, s. 258.) [Tysk original tekst]  ; men Schellings Ideen zu einer Philosophie der Natur og Von der Weltseele, eine Hypothese der höhern Physik (Om verdenssjælen, en hypotese om den højere fysik) fra 1798 indgød ham på ny håbet om, at han ville kunne omfatte hele den levende naturs mangfoldighed i en samlet verdensanskuelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713783632</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713783632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den unge naturforsker</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">268</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1798 var det lykkedes for Steffens at opnå understøttelse til en større udenlandsrejse, og da han i 1799 nåede til Jena, trådte han i personlig forbindelse med Fichte og Schelling og igennem dem med Goethe og en række af hovedpersonerne inden for den romantiske skole, heriblandt Novalis og brødrene Schlegel. Fra Jena drog han til Freiberg i Sachsen, hvor han studerede mineralogi hos tidens største tyske geolog, A.G. Werner, ofte kaldt geologiens fader. Werner huskes især som den store systematiker, der klart og skarpt rubricerede mineralernes ydre kendetegn på en måde, som tillod præcise iagttagelser i naturen. Hans empiriske og systematiske tænkemåde og den vægt, som han især lagde på naturbeskrivelsen, kom til at præge Steffens som naturforsker. I Freiberg udgav Steffens i 1801 sit hovedværk, Beyträge zur innern Naturgeschichte der Erde (Bidrag til Jordens indre naturhistorie). I 1802 vendte han atter tilbage til København. Her indledte han i november samme år sine filosofiske, naturvidenskabelige og litterære forelæsninger. Året efter udsendte han sin Indledning til philosophiske Forelæsninger . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713779504</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713779504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den unge naturforsker</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">277</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Opholdet i København blev stort set en skuffelse for Steffens. I 1804 blev han kaldet til Halle som professor i mineralogi. Han havde tidligere mødt den unge Hanna Reichardt, datter af komponisten Johann Friedrich Reichardt. I september 1803 blev hun 18 år gammel viet til Steffens i Halle. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713776960</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713776960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forelæsningerne i København</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">288</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hjemvendt til København gav Steffens sig i lag med at forberede en forelæsningsrække, hvori han agtede at introducere den romantiske filosofi og litteratur for det københavnske publikum. "[...] jeg vilde", skrev han siden i erindringerne, "meddele mine Landsmænd de aandige [dvs. åndelige] Skatte, der vare blevne mig skjænkede i Tyskland" (Steffens: Hvad jeg oplevede , bd. 4, s. 384.) [Tysk original tekst]  . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713773856</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713773856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forelæsningerne i København</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">299</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Han var en ildfuld taler og vakte stormende begejstring, hvor han kom, men også modstand og uvilje. Sine forelæsninger indledte han 11. november 1802 på Elers Kollegium for et talstærkt publikum. I 1803 udgav han de ni første forelæsninger under titlen Indledning til philosophiske Forelæsninger . Han fortæller, at han udarbejdede et fuldstændigt manuskript til samtlige forelæsninger, men at han, efter at have glemt sit manuskript til den femte eller sjette forelæsning, havde talt fuldstændig frit. De udgivne forelæsninger er på mange måder et opkog af hans tidligere geologiske arbejde, lange passager er oversat herfra, og umiddelbart er det vanskeligt at forstå, at de skulle have vakt så stor opsigt. Skønt forelæsningsrækken som helhed er veldisponeret, består de fleste af forelæsningerne af lange, naturvidenskabelige redegørelser, som næppe har appelleret til et ikke-fagkyndigt publikum, blandet op med mere ildfulde betragtninger over naturen, naturfilosofien, naturforskeren og geniet. Måden at meddele sig på og i mindre grad indholdet synes at have været en væsentlig del af Steffens' budskab. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713770512</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713770512</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forelæsningerne i København</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">305</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Filologen og arkæologen Niels Iversen Schow skrev en velvillig anmeldelse af Steffens' Indledning ( Kjøbenhavnske lærde Efterretninger for Aar 1803 No. 35-6, 1803, s. 545-556 og s. 564-576). I overensstemmelse med tidens stil er omtalen af bogen mere en buket af citater fra den end en kritisk stillingtagen til dens indhold. Skønt Schow fremhævede Steffens' store anlæg for filosofi og hans naturvidenskabelige indsigt, havde han også øje for bogens mangler. "Paa enkelte Steder," skrev Schow afslutningsvis, "hvor Forfatteren overlader sig til sin Phantasie, [...] er Foredraget uforstaaeligt, konstlet og opblæst; men hvor han virkeligen philosopherer, er det tydeligt og værdigt" (s. 575). Og på det område, hvor Schow især følte sig hjemme, nemlig historiefilosofien, fandt han Steffens utilstrækkelig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713766080</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713766080</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">322</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens havde håbet, men forgæves, på en ansættelse ved Københavns Universitet efter filosofiprofessorerne Børge Riisbrighs og Anders Gamborgs afgang i 1803. Den ledende skikkelse i Universitetets styrelse, hertugen af Augustenborg, var ingen ynder af tidens moderne ideer og var af den mening, at Steffens med sit ildfulde foredrag fordrejede hovederne på de unge studerende. Følgen var, at nordmanden Niels Treschow, Steffens' tidligere rektor, blev kaldet til professoratet i filosofi. "Ikke i danske Blade alene", skrev Steffens senere i sine erindringer, "ogsaa i Tyske, ja endogsaa i Franske blev det fortalt, hvorledes man havde kaldt en dygtig Philosoph for igjen at bringe de unge Hoveder i Orden, som jeg havde bragt i Forvirring"(Steffens: Hvad jeg oplevede , bd. 5, s. 62.) [Tysk original tekst]  . Det er, som om han har villet antyde, at i et kort øjeblik havde Europas øjne hvilet på det lille universitet i København, og at det var blevet noteret, at det provinsielle Danmark ikke havde udnyttet en oplagt mulighed til at knyttet en international kapacitet til sit lærdomssæde. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713761472</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713761472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">333</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I 1804 blev Steffens kaldet til professoratet i mineralogi i Halle og spillede siden kun en beskeden rolle i dansk kulturliv. Da Napoleon lukkede universitetet i Halle i 1806, søgte Steffens foretræde i Kiel for den danske kronprinsregent, den senere Frederik 6, som gav udtryk for, at nok ønskede man Steffens til København, men kun under den udtrykkelige betingelse, at han ikke forelæste, fordi, som kronprinsen skulle have sagt, Steffens gjorde hans undersåtter forrykte. Denne betingelse kunne Steffens ikke acceptere. I 1808 genåbnede universitetet i Halle, Steffens genoptog sin virksomhed, og i 1811 kaldtes han herfra til universitetet i Breslau. Herfra fortsatte han i 1832 til Berlin. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713760112</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713760112</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">336</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med ansættelsen i Halle sluttede en kreativ periode i Steffens' liv. Et aforistisk opbygget kompendium udgivet 1806 og beregnet som ledetråd til undervisningen i Halle er - som forelæsningerne fra København - kun en svag afglans af hovedværket. Hans senere arbejder omfatter geologiske, historisk-politiske, religionsfilosofiske, antropologiske og litterære værker. Dertil føjer sig det store erindringsværk, hvis pålidelighed ikke altid står mål med Steffens' selvforståelse, som med Heines uforskammede ord indebar, at han betragtede sig som "sit århundredes største skikkelse" ("der größte Mann seines Jahrhunderts", Die romantische Schule (1836), her citeret efter: Heinrich Heine: Historisch-kritische Gesamtausgabe der Werke , udg. af Manfred Windfuhr, bd. 8/1, Hamburg 1979, s. 188.). Men Steffens' bidrag til dansk litteratur er indledningen til de filosofiske forelæsninger. Hans senere arbejder tilhører den tyske litteratur. Ud over en række noveller er hans skrift Von der falschen Theologie und dem wahren Glauben , Breslau 1823, hvori han tilkendegav sin tilslutning til gammellutheranerne, oversat til dansk (H. Steffens: Om Den falske Theologie og Den sande Troe , 1825). Allerede i sin skoletid læste H.L. Martensen, senere Sjællands biskop, Steffens' lille bog og fik, skrev han senere i sine erindringer, "en Anelse om, at der maatte kunne gives en Verdens- og Livsanskuelse, i hvilken Alt hvad der i Tilværelsen har Betydning, Natur og Aand, Natur og Historie, Poesie, Kunst, Philosophie føier sig harmonisk sammen til et Aandens Tempel, i hvilket Christendommen er det altbeherskende og altforklarende Midtpunct" (H.L. Martensen: Af mit Levnet , bd. 1, 1882, s. 23). Martensen talte her også om, at han havde været fængslet af Steffens' betragtninger over "den digtende Indbildningskraft, der udspringer af en langt høiere Kilde end Forstanden, og hvis Verden er utilgængelig for den blotte Forstand" (smst., s. 22). Der synes således at gå en direkte linje fra den unge Martensens møde med Steffens' romantiske forestillinger om en digterisk intuition og forestillingsevne, der hæver sig over det jordbundne, til hans senere interesser for kristen mystik. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713911920</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713911920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">354</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713911504</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713911504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">357</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tyske original tekster fra dette afsnit </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713911072</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713911072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">360</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Es war die erste, die alle schlummernden speculativen Gedanken in mir concentrirte und zum Ausbruche brachte", Was ich erlebte 3 261 . [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713740480</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713740480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">372</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Die ganze lebendige Natur, das ganze bunte Leben schien mir erblaßt und ergraut", Was ich erlebte 3 290 . [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713737264</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713737264</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">384</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"[...] daß ich [...] die geistigen Schätze, die mir Deutschland geschenkt hatte, meinen Landsleuten mittheilen wollte, war mein fester Entschluß" Was ich erlebte 4 429 . [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713733856</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713733856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Universitetskarrieren</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">396</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Nicht in dänischen Blättern allein, auch in deutschen, ja selbst in französischen wurde erzählt, wie man einen tüchtigen Philosophen berufen hätte, um die jungen Köpfe wieder in Ordnung zu bringen, die durch mich in Verwirrung gerathen wären" Was ich erlebte 5 62 . [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713703792</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713703792</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Schellings organismebegreb</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">548</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mødet med den schellingske romantiske naturfilosofi var afgørende for Steffens. I sin opfattelse af naturen havde Schelling grebet tilbage til Kants begreb i Kritik der Urteilskraft (1790) (Kritik af dømmekraften) om en organisme som et naturprodukt, hvis dele eksisterer for helhedens skyld og helheden for delenes skyld. En organisme er derfor et selvorganiserende hele. Da den bruger naturens resurser til at frembringe sig selv, kan den kaldes et naturformål. Naturen som helhed, mente Schelling, kan opfattes som en sådan organisme, der i en stadig dynamisk aktivitet er producerende, dvs. naturen, som omfatter både den organiske og den uorganiske natur, er et levende hele. Denne dynamiske naturopfattelse var blandt andet inspireret af Kants forsøg i Metaphysische Anfangsgründe der Naturwissenschaft (1786) (Naturvidenskabens metafysiske principper) på at skitsere en a priori , dvs. uafhængig af erfaringen, rekonstruktion af naturen ud fra to antagne grundkræfter, tiltrækningskraften og frastødningskraften. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713698320</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713698320</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Herders organicisme</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">568</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den organicistiske opfattelse, der prægede den romantiske naturfilosofi, havde en anden af sine rødder i J.G. Herders historiefilosofi. Fordi naturen bestemmer menneskets livsvilkår, er den trinvise udvikling i naturens verden, som skyldes en iboende organiserende kraft, en del af menneskehedens udviklingshistorie. Mennesket er denne krafts højeste og mest værdifulde frembringelse, og er - som ethvert andet naturfænomen - en af dens fremtrædelsesformer. Alt begyndte i kaos, og "i periodiske tidsrum udvikledes luften, ilden, vandet og jorden sig af åndelige og materielle stamina [dvs. grundelementer]. Mangfoldige forbindelser af vandet, luften og lyset måtte gå forud, før kimen til de første planteorganismer, muligvis mosset, kunne fremkomme. Mange planter måtte opstå og gå til grunde, før der opstod en dyrisk organisme; også her gik mange insekter, fugle, vand- og nattedyr forud for Jordens og dagslysets velformede dyr, til endelig, efter alle andre, kronen på vor klodes organisation, mennesket, mikrokosmos , trådte frem. Han, alle elementers og væsners søn, det mest fornemme indbegreb og samtidig blomsten af Jordens skabelsesproces, kunne ikke være andet end naturens endelige yndlingsbarn, til hvis dannelse og modtagelse mange udviklinger og omvæltninger måtte gå forud." [Tysk original tekst]  . Til at beskrive menneskehedens kulturelle udvikling anvendte Herder livsalder-analogien. De enkelte kulturer udvikler sig som organismer fra et ungdomsstadium over et voksenstadium til et alderdomsstadium. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713692912</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713692912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Herders organicisme</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">582</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hverken Herders eller de romantiske naturfilosoffers lære om udvikling i den biologiske verden må forstås som en udvikling i evolutionistisk forstand, dvs. som en udvikling af arterne ud fra en urorganisme. Naturens verden er opbygget trinvis, men de enkelte stadier i udviklingsprocessen har ingen genetisk forbindelse. Hver for sig er de udtryk for naturens skabende og dannende kraft. Naturen har frembragt arter, der igen er gået til grunde, og nye er opstået på den scala naturae (naturens stige), som naturen som helhed udgør. Hvert enkelt trin i denne hierarkisk ordnede følge af naturfrembringelser er et trin på vejen til det fuldkomne, nemlig mennesket, men er ikke genetisk forbundet med hverken det forudgående eller det efterfølgende. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713689072</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713689072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Schellings naturfilosofi</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">596</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Formålet med den naturfilosofi, som Schelling udviklede i slutningen af 1790'erne, var a priori at gøre rede for, hvordan den produktive natur ud af sig selv kan udvikle de naturgenstande, der umiddelbart foreligger for det bevidste jeg. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713687536</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713687536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Schellings naturfilosofi</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">602</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvis naturen kun var produktiv, dvs. udelukkende underkastet en produktiv krafts virke, ville den ikke frembringe stabile naturgenstande, eftersom alt i så fald blot ville være materiale for en videre udvikling. Men da en lang række geologiske formationer er yderst stabile, må der ved siden af den producerende kraft virke en modsatrettet hæmmende kraft. Naturen er således et produkt af polære kræfters virke. Da disse kræfter i deres modspil har frembragt en individualitet, dvs. en bestemt naturgenstand, må de være harmonisk forbundne, dvs. gensidigt forudsætte hinanden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713686224</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713686224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Schellings naturfilosofi</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">605</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Schellings hele naturfilosofi er et forsøg på a priori at rekonstruere naturen ovenfra, dvs. at rekonstruere den ud fra de polære kræfter, der frembringer alt værende. På denne måde skulle det være muligt at redegøre for naturen som en dynamisk enhed og dermed som en harmoni mellem - eller identitet af - det modsatrettede. Denne enhed er livet, som er det almene princip, der forbinder det organiske og det uorganiske. Hele universet er en trinvis udvikling af det levende. Højdepunktet af denne udvikling er mennesket. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713684272</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713684272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Schellings naturfilosofi</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">611</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">På mange måder var Schellings naturfilosofi et forsøg på at kombinere transcendentalfilosofi, dvs. en teori om erkendelsens mulighed, med Spinozas substansteori, dvs. med en ontologi, ifølge hvilken sjæl og legeme eller ånd og materie er fremtrædelsesformer for et og det samme, nemlig substansen, tilværelsens fundamentale enhed. Spinoza opfattede denne substans som uforanderlig, dvs. som statisk og dermed som hævet over tiden. Men livetudgør ifølge Schelling enheden bag alt og er en stadig dynamisk og ikke en statisk størrelse. Transcendentalfilosofiens opgave er at forklare det virkelige (det reelle og objektive) ud fra bevidstheden (det ideelle og subjektive); naturfilosofiens opgave er at forklare bevidsthed (det ideelle og subjektive) ud fra det virkelige (det reelle og objektive). Hermed mener Schelling at have bevist transcendentalfilosofiens og naturfilosofiens identitet. Det er denne identitet, der udgør kernen i den identitetsfilosofi, som Schelling udviklede kort efter 1800. Hans identitetstænkning kom blandt andet til udtryk i de berømte ord om, at naturen er den synlige ånd, og ånd den usynlige natur ("Die Natur soll der sichtbare Geist, der Geist die unsichtbare Natur seyn", F.W.J. Schelling: Ideen zu einer Philosophie der Natur (2. udg. 1803), her citeret fra: Schellings Werke , udg. af M. Schröter, bd. 1, München 1927, s. 706). Det er selve denne identitet mellem det subjektive og det objektive eller mellem erkendelse og væren, det såkaldte subjekt-objekt, der er det absolutte, dvs. det ubetingede, det i sig selv værende, som det er videnskabens mål at erkende. Dette dynamiske absolutte, som manifesterer sig i naturens udviklingstrin og i historien, kaldte Schelling også for Gud. Tilsvarende havde Spinoza kaldt sin substans for Gud eller naturen. Denne panteisme, ellersnarere guddommeliggørelse af naturen, genfindes i Steffens' forelæsninger som en guddommeliggørelse af den fornuft, som sætter mennesket i stand til formedelst slægtskabet at erkende alt i naturen. Fornuften er "det Inderste i os, det Guddommelige, ved hvilket enhver er foreenet med alt. Det er den höje Tendenz, den ædle Spire, som vækker os, den Straale af den evige Klarhed, som hæver os, det dybe, bevægende Princip for alle vore höjere Önsker" ( Indledning 155 ). I Oehlenschlägers digt "Guldhornene" er naturen snarere en fremtrædelsesform for det guddommelige, som manifesterer sig "I Sole, i Violer, / I det Mindste, i det Største" ( Oehlenschläger: Poetiske Skrifter , bd. 1, udg. af H. Topsøe-Jensen, 1926, s. 23 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713674560</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713674560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Schellings naturfilosofi</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">634</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Erkendelse af det absolutte, skrev Schelling i 1804, er både absolut og kontemplativ, og han fortsatte: "Enhver umiddelbar erkendelse er overhovedet lig anskuelse, og i så fald er også al kontemplation anskuelse. Men da fornuften her er det erkendende, så er denne anskuelse en fornufts-, eller, som den også kaldes, en intellektuel anskuelse." [Tysk original tekst]  . Den romantiske filosofis intellektuelle anskuelse, evnen til at erkende det absolutte, er som kontemplation bevidsthedens skuen ind i sig selv. I fuld overensstemmelse hermed kunne Steffens skrive, at nøglen til den organiserende ånds hemmeligheder, dvs. til karakteren af de frembringende kræfter, der hersker i naturen, må vi opsøge i vor egen ånds inderste dyb (Steffens: Beyträge , s. 90). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713669120</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713669120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Steffens som naturfilosof</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">653</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens' bidrag til den romantiske naturfilosofi var betinget af hans forankring i den beskrivende erfaringsvidenskab, som medførte, at han i metodisk henseende afveg fra Schelling. Denne forskel var de begge på det rene med, men betragtede deres respektive fremgangsmåder som komplementære. Man kan, skriver Schelling, "tage to veje, enten gå ud fra kraftens nederste trin og fra de groveste fænomener, nemlig de kemiske, og derfra ved slutninger ud fra analogi eller fra almene principper nå de øverste kræfter, som styrer alt, eller man kan omvendt gå ud fra det højeste trin og så lidt efter lidt stige ned til det dynamiske naturriges yderste grænse, hvor de mekaniske kræfter først kan begynde at være virksomme" (Citatet er fra Schellings indledning til en afhandling af Steffens) [Tysk original tekst]  . Den første fremgangsmåde, fra naturfænomenerne til naturens grundlæggende love, var Steffens', den anden, fra de overordnede, a priori opstillede principper til naturen, var Schellings. Steffens kaldte selv sin fremgangsmåde for reduktiv (dvs. induktiv), idet fænomenernes mangfoldighed blev reduceret til en enhed, og hans håb var, at han ved hjælp af den kunne underbygge de schellingske deduktioner. I hvert fald var han ofte blevet slået af overensstemmelsen imellem sine egne empirisk begrundede mineralogiske lovmæssigheder og Schellings a priori opstillede naturlove. Steffens' udgangspunkt i de beskrivende naturvidenskaber gjorde ham imidlertid ikke til empirist, selv om hans erklærede mål i hovedværket var at holde sig inden for erfaringens område. Ganske vist kan man ved hjælp af, hvad der er bevist i Schellings naturfilosofi, på grundlag af erfaringen beskrive de enkelte faser eller trin i jordens udvikling, "men", skrev han i Beyträge zur innern Naturgeschichte der Erde (1801), "alt fremstilles som noget bestandigt , noget værende - vi begriber først naturens evige liv , den aktive afveksling, når vi erkender naturens virksomhed uden [at inddrage] det stoflige, når det rent subjektive i naturen [dvs. de dynamiske kræfter], som et subjekt-objekt [dvs. som Schellings transcendentalfilosofiske enhed af bevidsthed og natur] bliver objektivt , dvs. først ved en naturfilosofi". [Tysk original tekst]   </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713654096</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713654096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Opgøret med empirismen</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">704</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens' egentlige opgør med empirismen kom først i forelæsningerne i København, hvor især den engelske empirist David Hume, som ikke er nævnt i de publicerede indledningsforelæsninger, synes at have været udsat for angreb. Hume havde argumenteret for, at alle menneskets forestillinger og begreber i sidste instans stammer fra sanseindtryk, og havde i sin analyse af kausalerkendelsen afvist, at vi skulle kunne erkende en kausalkraft, og at kausalfølgen skulle kunne tilskrives nogen nødvendighed. Ifølge Grundtvigs referat af Steffens' omtale af Hume havde Steffens forsøgt at gendrive disse synspunkter (N.F.S. Grundtvig: Dag- og Udtogsbøger , ved G. Albeck, bd. 1, 1979, s. 15). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713652320</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713652320</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Opgøret med empirismen</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">710</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I sine erindringer beskrev Steffens, hvorledes han på nogenlunde samme tid havde diskuteret Humes filosofi med sin danske støtte, ministeren og finansmanden Ernst Schimmelmann, der synes at have været en omend modstræbende tilhænger af, hvad Steffens traditionelt kaldte den humeske skepticisme, og at han havde overbevist ham om uholdbarheden af Humes argumenter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713651216</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713651216</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Opgøret med empirismen</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">713</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens overgav sig aldrig til den empirisk funderede og matematisk formulerede naturvidenskab. I et polemisk skrift fra 1829 skrev han, at naturen udgør en åndelig enhed; men i tidens naturvidenskab er den splittet op og henligger som ruin: "I fysikernes hænder er en levende naturbetragtning blevet erstattet af en empirisk forstandsidealisme, et abstraktum af adskilte verdener, underlagt almene love, som forklares ud fra fiktioner [fx. atomteorien], og helheden er et åndløst aggregat af beundringsværdige virtuositeter" [Tysk original tekst]  . H.C. Ørsted anmeldte heftet i Maanedsskrift for Litteratur , bd. 3, 1830, s. 1-42 og kritiserede skarpt dets naturvidenskabelige indhold). Naturvidenskabens morgenrøde vil først komme, når man erkender sammenhængen mellem alle fænomener, dvs. den evige ånd, Gud, i alt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713647312</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713647312</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Opgøret med empirismen</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">724</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lidt mere afdæmpet var han i 1840 på et møde mellem skandinaviske naturforskere i København. Her indrømmede han tidens naturvidenskab en plads på linje med naturfilosofien, der beskæftiger sig med universet som helhed, dvs. med "totalorganismen", idet "naturfilosofien forfølger den åndelige konsekvens af organisationen [dvs. af universets organisering som et hele], hvor naturvidenskaben forfølger matematikkens empiriske konsekvens." [Tysk original tekst]  . Ud fra sit daværende religiøse ståsted forbandt han snarere naturfilosofien med teologien end med naturvidenskaben: "Hvis jordkloden har en levende udvikling, så må begrebet om totalorganismen anvendes på verdensaltet, og vi kan allerede nu udtale denne grundsætning som princip for enhver naturfilosofi: Organisk udvikling er fremadskridende, selvstændig udskillelse, således at den højeste organisation (udviklingens højdepunkt), skønt ganske afhængig af sanselighedens verden, alligevel er fri. Dermed er mennesket hele naturens formål, hans frihed er naturens frihed i ham, hans personlighed er fuldstændig udskilt fra naturen; men netop derved er den inderligt forbundet med den hele natur - den er i sin forgængelighed uforgængelig, i sin dødelighed udødelig. Således bliver den hele natur og dens helhed guddommelig teleologi, udtryk for Guds evige vilje, teologi. Udskillelsen af Jorden og dens frie bevægelse i planetsystemet, dens kugleform, hvorved den har sit centrum i sig selv, er udtryk for den frihed, der åbenbarede sig, da mennesket trådte frem." [Tysk original tekst]  . Steffens' vidtløftighed fortog sig aldrig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713639216</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713639216</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Hovedværket - Beyträge zur innern Naturgeschichte der Erde
+						</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">750</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens' hovedværk, Beyträge zur innern Naturgeschichte der Erde (Bidrag til Jordens indre naturhistorie) fra 1801, er skrevet under hans lange ophold i Freiberg, hvor han for alvor satte sig ind i mineralogien. Men foruden Schellings naturfilosofi og Werners beskrivende mineralogi spillede tidens teorier om magnetisme og elektricitet også en betydelig rolle for Steffens ligesom for naturfilosofien som helhed, idet der tilsyneladende var tale om kræfter, som både den organiske og den uorganiske verden var underkastet, og som derfor forbandt de to verdener. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713636976</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713636976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Hovedværket - Beyträge zur innern Naturgeschichte der Erde
+						</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">756</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med Beyträge ville Steffens give sit bidrag til besvarelse af spørgsmålet om, hvorledes Jorden har udviklet sig. Et svar forudsætter imidlertid, at Jordens oprindelse som en selvstændig klode, forskellig fra andre kloder, er kendt; men viden om Jordens oprindelse forudsætter igen svar på spørgsmålene dels om hele universets organisation og dels om, hvordan der er opstået kvaliteter og kvalitative forskelligheder i en antaget oprindelig homogen masse. Til disse spørgsmål føjer sig ydermere problemet om, hvordan de enkelte organismer kan opstå i totalorganismen, dvs. på Jorden, og hvorledes den organiske verden udvikler sig trin for trin. Alle disse spørgsmål, mente Steffens, kunne den sædvanlige fysik ikke besvare; kun ud fra principper i Schellings dynamiske naturfilosofi er det muligt at redegøre for Jordens indre historie, dvs. for hvorledes et iboende organiserende princip manifesterer sig i udviklingens enkelte faser: "Ved anvendelsen af disse principper til forklaring af naturfænomenerne følger vi den sig selv udviklende Jord fra et udviklingstrin til det næste [...] Videnskabeligt at følge denne fremadskriden i udvikling udgør den sande historie om Jorden ; men det, som adskiller udviklingstrinene fra hinanden, er kvalitet. For at adskille denne videnskab fra den såkaldte naturhistorie, der blot beskæftiger sig med det udvendige ved fænomenerne, kalder jeg den for Jordens indre naturhistorie, da kvalitet i modsætning til dens manifestation, der udfylder rummet [dvs. det stoflige], kaldes det egentlige indre , og jeg forstår ved den betegnelse netop det samme, som man mere eller mindre klart indtil nu har forstået som en teori om Jorden." [Tysk original tekst]  . Naturens evige liv, den stadige afveksling af fænomenerne, erkender vi først, når vi ser bort fra det stoflige og finder frem til den indre dynamik, der manifesterer sig i den fysiske verden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713627648</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713627648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Første del</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">782</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Beyträge består af to dele. Den første og mest omfattende del består af syv afsnit, hvori Steffens forsøger at vise, at i den kemiske proces, der udgør totalorganismens liv, er magnetismen repræsenteret af kvælstof og kulstof - i et planlagt, men aldrig udkommet andet bind, skulle det vises, at ilt og brint repræsenterer elektriciteten - i den anden del omtaler han, hvorledes naturen igennem hele sin organisationsproces søger det individuelle. Naturen overlader aldrig noget i tilfældets hænder. En stille, skønt ofte dunkel og skjult lov, virker enevældigt i det tilsyneladende kaos. At kul og kvælstof repræsenterer magnetismen, betyder, at disse stoffers aktive rolle i de kemiske processer er en manifestation af den bagvedliggende magnetiske kraft. Steffens' omgangsfælle i Freiberg, digterfilosoffen og den mineralogisk kyndige Novalis, som i sine talrige notater fra årene i Freiberg kommer ind på overvejelser, der minder om Steffens', udtrykte forholdet på følgende måde: "Elektricitet, magnetisme, galvanisme synes mig nu i sandhed så at sige at være almene, abstrakte formler for naturens mangfoldige kemiske processer - alle er altså anvendt elektricitet eller magnetisme eller galvanisme." [Tysk original tekst]  . Novalis talte også om analogiens tryllestav, "der Zauberstab der Analogie" (Novalis: Werke , bd. 2, s. 743). Steffens svang ofte denne tryllestav i sit forsøg på at nå til naturens enhed, det absolutte. Herved blev fantasien en erkendeevne, og det skarpe skel imellem videnskab og poesi blev ophævet. Novalis havde da også sagt, at digteren bedre end det videnskabelige hoved forstår naturen, og at naturforskeren og digteren udgør et folk (Novalis: Werke , bd. 2, s. 710 og bd. 1, s. 206). Derfor kunne Steffens i forordet til hovedværket Beyträge tilkendegive, at han med hellig ærefrygt nedlagde sit værk "i det delfiske tempel for den højere poesi", dvs. i musernes helligdom (Steffens: Beyträge , forordet [s. 6]). Som for andre af de romantiske filosoffer var universet også for Steffens et digt, som naturforskeren skulle fortolke, hvilket krævede poetiske evner. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713617344</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713617344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Anden del</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">812</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anden del af Beyträge indledes med, at Steffens påpeger, at forskellen mellem plante- og dyreverdenen består i, at reproduktionskraften er langt mindre i dyreverdenen end i planteverdenen, og at det væsentligste træk ved muskelfibrene, nemlig deres irritabilitet, dvs. deres evne til at trække sig sammen ved mekanisk påvirkning, kun findes i dyreverdenen. Planteverdenen og dyreverdenen er to faser i naturens udvikling, og der findes intet, mener Steffens, der taler imod en generatio aeqvivoca , dvs. imod den opfattelse, at dyreverdenens oprindelse skal søges i den uorganiske verden og således ikke i planteverdenen. I dyreverdenens forskellige trin sker en gradvis nedsættelse af irritabiliteten og en forøgelse af sensibiliteten, dvs. der forekommer i de mere udviklede organismer relativt flere nervetråde og relativt færre muskelfibre end i de lavere. De enkelte arters udvikling viser, "at naturen ikke søger andet gennem alle dyriske udviklingstrin end en skabning, i hvilken dens uendelighed kommer til udtryk på den mest individualiserede måde." [Tysk original tekst]  . Denne skabning er mennesket. Den foreliggende udvikling er en manifestation af naturens organiserende aktivitet. Ved denne aktivitet frembringes de forskellige udviklingstrin i dyreverdenen, idet aktiviteten er rettet mod både frembringelse af individer og opretholdelse af arten, dvs. udviklingen er et resultat af modsatrettede tendenser i naturens organiserende aktivitet. Og mennesket er denne organiserende aktivitets højeste produkt. "Man klager stedse over, at mennesket kommer nøgent og hjælpeløst til verden - og netop dette er hans største pryd. - Mennesket har hele verden imod sig, men han bærer også hele verden i sig . - Alt er sammentrængt i ham. - Det er naturens centripetale [dvs. midtpunktssøgende] tendens , der vil åbenbare sig i ham. Fra nu af er han fremtrådt i sig selv , og hvad der står for sig selv , og står fastest , er den mest individualiserede skabning - det sandeste menneske ." [Tysk original tekst]  . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713603520</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713603520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Anden del</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">858</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gennem sin individualiserende tendens nærmer naturen sig intelligensens rige, dvs. menneskenes verden bestående af bevidste og selvbevidste individer. Også i denne verden frembringer den skabende natur trin, der bestemmer hvert enkelt individs grænser. "Hvad der i naturen er kønsdrift, hæver sig her til kærlighed - hvad der i naturen er begær efter føde (naturproduktets egenkærlighed) bliver her lyksalighedsdrift - hvad der i naturen er instinkt (for så vidt det tjener til artens opretholdelse) forædler sig i den intelligente verden til moralitet , som omfatter hele arten og hele naturen." [Tysk original tekst]  . På herdersk vis antyder Steffens her, at menneskehedens historie også er en del af Jordens indre naturhistorie. Natur og historie udgør en enhed. I Oehlenschlägers digt "Guldhornene" blev denne enhed ellerdette samspil mellem natur og historie et bærende tema. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713596672</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713596672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Anden del</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">881</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og til slut indsættes den indviede naturforsker - den romantiske naturfilosofis Aladdin-skikkelse - som udviklingens højdepunkt: "Hvem naturen tilstår i sig selv at finde dens harmoni, - han bærer en hel, uendelig verden i sit indre - han er den mest individuelle skabning - og er naturens helliggjorte præst." [Tysk original tekst]  . Det var som naturens ypperstepræst, at Steffens i 1802 kom til København for at tilbyde den danske stat sin tjeneste. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713922208</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713922208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Filosofiens problem. 1. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">905</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens begyndte sine forelæsninger 11. november 1802. Han forelæste fire gange om ugen, mandag, tirsdag, torsdag og fredag. I de ni indledende forelæsninger, udgivet 1803 under titlen Indledning til philosophiske Forelæsninger , var det hans agt at føre sine tilhørere til, som han sagde, "Ideen om Philosophiens Problem" ( Indledning 12 ). Han understreger i sin første forelæsning, at enhver af hans tilhørere så at sige må få dette problem ind under huden og må løse det for sig selv. Der er ikke tale om abstrakt, objektiv viden, men om personlig, subjektiv tilegnelse: "Enhver maae selv give sig dette Problem, förend det paa en tilfredsstillende Maade kan löses. Enhver maa löse sit eget Problem, ikke en andens" ( Indledning 12 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713565392</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713565392</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Filosofiens problem. 1. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">921</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Problemet, som Steffens vil bibringe sine tilhørere en forståelse af, drejer sig om, hvorledes livet både som biologisk fænomen og som historisk og kulturel tilværelse er muligt, når både den biologiske verden og den historiske verden er underkastet modsatrettede kræfter. Det svar, han gav, var stort set det samme, som kendes fra hele den tyske idealisme, nemlig at det modsatrettede indgår i en dialektisk helhed, dvs. at de modsatrettede kræfter gensidigt forudsætter hinanden. Den harmoni, der derved foreligger, er ikke statisk, men en dynamisk, selvudviklende, selvdifferentierende og selvorganiserende helhed, dvs. naturen, som også den historiske virkelighed på herdersk vis er en del af. Naturens og historiens mulighed er derfor givet i og med erkendelsen af en samlende og enhedsskabende instans bag naturens mangefold af fænomener og historiens mangefold af begivenheder. At der findes en sådan instans, søgte Steffens at vise ved at skildre naturens og historiens udvikling som retningsbestemt. Hverken naturforløbet eller det historiske forløb er et mangefold af tilfældigt sammenbragte elementer, men udgør hver for sig og samlet en helhed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713563008</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713563008</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Filosofiens problem. 1. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">924</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I lighed med sine genstande, naturen og historien, må filosofien udgøre et sammenhængende hele. Dens sætninger kan ikke betragtes isoleret, og deres indre sammenhæng, kohærensen, synes at være Steffens' kriterium på dens sandhed. Filosofien, der skal forklare naturen som et system i udvikling rettet imod et mål, kan ikke bekræftes empirisk. Erfaringen kan kun give viden om, hvordan naturgenstandene er, men ikke om, hvorfor de er, som de er, og kan kun berette om historiens forløb, men ikke om det endemål, som forløbet er rettet mod. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713561904</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713561904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Filosofiens problem. 1. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">927</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som i Beyträge  zur innern Naturgeschichte der Erde (1801) beskriver Steffens i sin første forelæsning livet som en evig strid imellem to modsatrettede kræfter eller drifter, selvopholdelsesdriften, dvs. den egoistiske drift, hvis mål er individet, og enhedsdriften, hvis mål erartens opretholdelse, hvortil individet kun er middel. Hos mennesker fremtræder selvopholdelsesdriften som en stræben efter lyksalighed og enhedsdriften som moralitet. Denne moralitet er udtryk for, at enhedsdriften - og hermed naturen - hæmmer den egoistiske lyksalighedsdrift, som ureguleret ville medføre en alles krig imod alle. I dette spil optræder naturen som en "höyere, usynlig Haand" ( Indledning 21 ), der gennemtvinger den harmoni imellem de modsatrettede drifter, som gør samfundslivet muligt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713556496</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713556496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Erkendelse og anelse. 2. og 3. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">949</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter at filosofiens problem var blevet bestemt som problemet om naturens mulighed, anvendte Steffens den anden og tredje forelæsning til at drøfte, hvorledes mennesket kan erkende naturen som én, skønt den er frembragt af modsatrettede kræfter. Mennesket afviger fra dyret ved en erkendedrift, et højere livsprincip, som Steffens beskriver som "Menneskeslægtens Tendenz ", ( Indledning 32 ), dvs. som en stadig stræben efter at indordne en tilsyneladende kaotisk verden under fornuftens love. Denne drift kan kun tilfredsstilles ved en erkendelse af naturens enhed, dvs. det absolutte eller - i Steffens' sprogbrug - naturideen. For at løse filosofiens problem må det vises, at en sådan erkendelse er mulig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713552656</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713552656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Erkendelse og anelse. 2. og 3. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">960</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En erkendelse af, hvorledes mangfoldigheden sammenføjes til en enhed, kan vælge én af to veje, enten gå ud fra enheden og forstå delene ud fra denne, eller søge på empirisk vis at sammenstykke en viden om helheden ud fra en viden om delene. I den anden forelæsning hævder Steffens, at kun den første vej er farbar, i den tredje og senere i den sjette forelæsning tilbageviser han empirismen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713551552</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713551552</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Erkendelse og anelse. 2. og 3. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">963</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"[...] intet enkelt Phænomen forstaaes tilfulde" siger Steffens i den anden forelæsning, "uden i den nödvendige Forbindelse med alle . En Anskuelse over hele Naturen synes altsaa at maatte gaae forud for enhver enkelt Undersögelse" ( Indledning 33 ). I stedet for som fx Schelling at kalde evnen til at erkende det absolutte for intellektuel anskuelse, taler Steffens om anelsen. Hans beskrivelse af denne erkendeevne nærmer sig et hyldestdigt: "Denne Ahnelse forlader aldrig noget Menneske ganske. Selv hos det meest indskrænkede slumrer den dybt i hans Siæl. Den knytter os til den hele Natur. Den giver alt det Enkelte en höjere ædlere Betydning. Den er det, som med den kommende Morgen oplukker den luende, levende Natur for enhver, som om en indvortes Soel uvilkaarlig fulgte Himmelens, den hæver den uendelige Vrimmel af Gestalter af det almindelige Mörke, giennem den taler Naturens evige Liv, som igiennem et mystisk Ziffer, til vor Aand og indvortes forstaae vi den [dvs. naturen]" ( Indledning 33-34 ). Og da den borgerlige historie også er en del af naturens historie, er anelsen også en evne til at leve sig ind i svundne tiders kulturer ud fra deres forudsætninger og ikke ud fra vore, dvs. opfatte den enhed bag fortidens begivenheder, der karakteriserer hver enkelt historisk epoke til forskel fra enhver forudgående og enhver senere. Ved denne anelse "vaagne Kiæmper af deres Grave, Guder og Gudinder vandre om iblandt os, enhver Klang fra længst hensvundne Tider gienklinger med sin ejendommelige Tone, den tryller de herligste Tidsaldere ind i dybest nedsiunkne. Det er, som om Spiren til alle Historiens Epoker slumrede i hver" ( Indledning 34 ). Bag Steffens' ord skjuler sig Herders historiesyn: Hver historisk epoke har sin egenart og er ikke kun et resultat af noget tidligere eller et overgangsstadium til noget senere. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713544096</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713544096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Erkendelse og anelse. 2. og 3. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">984</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Herefter følger den afgørende karakteristik af anelsen: "Denne Ahnelse, hvis Gienstand altid er uendelig, kaldes, naar den levende, skabende aabenbarer sig i sin Herlighed i et fortreffeligt Gemyt - Poesie " ( Indledning 34 ). Den romantiske forbindelse mellem erkendelse og digtning er etableret. Anelsen, sansen for det absolutte, er den samme som digterens evne til i og bag det jordisk skønne at skue den ideale og evige skønhed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713540864</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713540864</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Erkendelse og anelse. 2. og 3. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">995</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anelsens genstand, det absolutte, dvs. naturens enhed, er i lighed med Spinozas substans hævet over tid, dvs. er evig, men manifesterer sig i tiden. Som organiserende princip er det immanent til stede i naturen. Til forskel fra den spinozistiske substans er denne enhed ikke en statisk enhed, men en dynamisk, dvs. den er ren aktivitet. Som sådan kan den beskrives som ånd. Og anelsen, som forbinder fortid, nutid og fremtid, er i lighed med Spinozas scientia intuitiva (intuitiv viden) den højeste form for viden, en tidløs skuen af tilværelsens mangfoldighed som en helhed. Steffens' spinozisme kom markant til udtryk i hele den indledende forelæsningsrække. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713538640</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713538640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Erkendelse og anelse. 2. og 3. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1001</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anelsen er det poetiske, kreative sinds evne til at finde den egentlige virkelighed i sit eget indre, i subjektet, hvori naturen kommer til bevidsthed om sig selv, eller - med Oehlenschlägers udtryk fra "Guldhornene" - i "Naturens Øie". Som "Naturens Øie" aner subjektet i og med det betragter naturen omkring sig og "tilbedende bæve / For Guddommens Straaler, / I Sole, i Violer, / I det Mindste, i det Største" ( Oehlenschläger: Poetiske Skrifter , bd. 1, udg. af H. Topsøe-Jensen, 1926, s. 23 ), den rigdom, der ligger i dets eget indre. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713535824</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713535824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Erkendelse og anelse. 2. og 3. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1010</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I modsætning til den anende naturfilosof formår den empirisk orienterede og beskrivende naturforsker kun at opstille de ydre og ikke de indre forskelle imellem sine genstande og når derfor ikke frem til den dybere, indre sammenhæng, der består imellem alle naturens dele. Den beskæftiger sig med naturen, som vi oplever den, men ikke som den er; den klassificerer sine genstande ud fra ydre og ikke ud fra indre kriterier, og dens klassifikationer er derfor aldrig naturlige, dvs. stemmer aldrig overens med naturen selv. Og naturforskeren er ikke bedre hjulpet med en teoretisk naturvidenskab, som bygger på erfaringen. I sin tredje forelæsning gør Steffens rede for empiriens utilstrækkelighed, men fremhæver også dens uomgængelighed. Den rummer viden om, hvordan naturen er indrettet, men ikke om hvorfor den er indrettet på netop denne måde. Naturforskeren kan ikke alene ved empiriens hjælp nå frem til den enhed, der forklarer mangfoldigheden: "Det empiriske Standpunkt", afslutter Steffens den tredje forelæsning, "paa hvilket den genialske Naturforsker oprindeligen har stillet sig, formaaer nemlig ingenlunde at oplöse de Problemer, som hans Opdagelser have giort ham bekiendt med; om den höjeste Idee, i hvilken alle disse Problemer maae finde deres Lösning, har han blot en dunkel Ahnelse; han maae altsaa nödvendigviis finde en Mangel af höjere Sammenhæng i sine Forestillinger, som maae blive desto ubehageligere og mere trykkende, jo dybere hans Opdagelser have grebet ind i Naturens inderste Væsen, og jo mere han, ved fortsatte Undersögelser, overbevises om deres Rigtighed" ( Indledning 57 ). Den idé, som Steffens her nævner, er naturens enhed eller naturideen, den dynamiske (aktive) enhed, som sammenføjer alt til en helhed. Naturideen er ikke en subjektiv forestilling, men er den åndelige enhed, som den materielle verden i rum og tid er en manifestation af. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713530288</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713530288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Naturens organisering. 4. og 5. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1026</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I den fjerde og femte forelæsning gennemgår Steffens hastigt den redegørelse for naturens organisering, som han tidligere havde fremlagt i Beyträge , og store dele af de to forelæsninger består af skjulte citater fra hovedværket. Naturforskeren aner bag naturens mangfoldighed dens organiserende ånd, dvs. dens aktive, dynamiske enhed, og med atter et skjult, ordret oversat citat fra Beyträge lyder det, at nøglen til hemmeligheden bag naturens mangfoldighed "maae vi söge i vor egen Aands Inderste" ( Indledning 94 , cf. Steffens: Beyträge , s. 90). Naturens love er udtryk for den nødvendighed, naturen er underkastet, hvorimod den organiserende ånds brug af disse love til at realisere sit mål, nemlig frembringelsen af mennesket, er udtryk for frihed, dvs. for selvbestemmelse. Filosofiens problem med henblik på naturerkendelsen er derfor at forene frihed og nødvendighed. Som fornuftvæsen finder vi en sådan forening i vort indre, idet nødvendigheden, dvs. moraliteten, er en villet beherskelse af den egoistiske drift. Mennesket underkaster sig frit nødvendighedens lov og gør den til sin egen. Hos det moralske individ er frihed og nødvendighed derfor forenet. Begrundelsen for, at mennesket kan finde nøglen til naturen i sit indre, har Steffens hentet fra Kants moralfilosofi. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713522752</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713522752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Empirismens begrænsning. 6. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1051</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I den sjette forelæsning vender Steffens atter tilbage til erfaringsvidenskabens mulighed for at løse filosofiens problem, som det nu er formuleret. Hans mål er at bevise for sine tilhørere, at "Naturforskerne, saalænge de haardnakket ansee Empirien for den eeneste Grundvold for deres Videnskab, saalænge de ikke trænge frem til den höyeste Idee, i hvilken Totaliteten og ikke det Enkelte sættes först, i hvilken det Enkelte faaer sin Betydning blot ved sin Forbindelse med det Heele, og ved sin umiddelbare Existenz i Totaliteten, aldrig kunde andet end i det Höyeste opstille Problemet med en större Bestemthed, ingensinde löse det, aldrig kunde skue den inderste, hellige Kilde til den Lovmæssighed, som Naturen aabenbarer under deres Hænder, ere allerede ved deres Synspunkt, for evig udelukte fra Hemmeligheden i Naturens Productivitet" ( Indledning 96 ). En redegørelse for naturideen, det absolutte, og en erkendelse af den, kan ikke opnås inden for rammerne af en empirisk funderet naturvidenskab. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713518912</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713518912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Empirismens begrænsning. 6. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1059</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Opgaven - filosofiens problem - er at forstå naturens væsen, som er organisation, dvs. harmoni imellem de modsatrettede kræfter, eller - med Steffens' udtryk - er lig "Identitet af alle Differenzer" ( Indledning 110 ). I og med, at naturideen er givet, kan mennesket fatte denne absolutte identitet imellem frihed og nødvendighed, dvs. kan forstå, at naturen er mulig, og har hermed samtidig erkendt dens inderste væsen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713514960</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713514960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiefilosofi. 7. og 8. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1075</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Men før Steffens i sin niende og sidste indledningsforelæsning når frem til sin afsluttende drøftelse af filosofiens problem, behandler han i den syvende og ottende forelæsning historien, hvor han tidligere i den fjerde og femte har beskæftiget sig med naturen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713514016</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713514016</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiefilosofi. 7. og 8. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1078</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Historien er et resultat af det dialektiske spil både på det personlige og det nationale plan mellem egoistisk drift og enhedsdrift eller mellem frihed og nødvendighed. Betingelsen for historiens mulighed er derfor, at frihed og nødvendighed kan forenes. Hvis dette ikke var tilfældet, ville der ikke eksistere nogen historie, men blot et aggregat af usammenhængende begivenheder. Derfor kan filosofiens problem samlet formuleres som den opgave at "gjenkjende Fornuftens Frihed i Naturens Nödvendighed; [og] at gjenkjende Naturens Nödvendighed i Historien" ( Indledning 115-116 ). Denne naturens nødvendighed i historien kalder Steffens også for skæbnen eller for den usynlige hånd. Skønt hvert naturfænomen er underlagt naturens love, er den samlede naturorganisation som manifestation af naturideen et udtryk for frihed, og skønt det enkelte menneske i historien er et frit individ, synes historiens forløb at være fastlagt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713510896</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713510896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Historiefilosofi. 7. og 8. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1086</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I de to forelæsninger om historien gør Steffens meget traditionelt rede for historiens gang. Oldtidens høje kultur forfaldt og endte i barbari, middelalderen med dens sans for det religiøse var et trin op ad den kulturelle stige, og med især kunsthistorikeren Winckelmann, med den geniale digter Goethe, som genopvakte den poetiske spire, og med samtidens filosofi er der skabt forventning om en kommende "herligere Tid" ( Indledning 143 ). Som senere Oehlenschläger i "Sanct Hansaften=Spil" lader den gamle mand med perspektivkassen skildre "den straalende Top, / Hvorfra vi er siunken og atter skal op" ( Oehlenschläger: Poetiske Skrifter , bd. 1, udg. af H. Topsøe-Jensen, 1926, s. 274 ) , skildrer Steffens historiens bølgeslag som underkastet en plan og billedligt talt som en guddoms åbenbarelse i den historiske verden. "Det Præg af det Evige", afslutter Steffens den ottende forelæsning med at sige, "som aabenbarer sig i Historiens rythmiske Gang, maa erkjendes ved en Anskuelse, som uafhængig af Tiden, erkjender det Evige selv for sit Middelpunkt. At finde dette er Philosophiens Problem" ( Indledning 143 ). Opgaven for filosofien er her som tidligere at anskue det samlende i naturen og historien, centret (middelpunktet) for naturens og historiens mangfoldighed og omskiftelighed, som - skønt det fremtræder i rum og tid - selv hverken har rumlig eller tidslig udstrækning, dvs. det organiserende princip eller naturideen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713502352</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713502352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1113</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens havde i de otte første forelæsninger fået bestemt filosofiens opgave. Han havde ved sine gennemgange af naturens organisation og historiens gang påvist, at opgaven foreligger og ikke kun er udtryk for tankespind, og han havde henvist til den erkendeevne, der skal til for at løfte opgaven. Spørgsmålet er nu, om det er menneskeligt muligt at løfte den. At diskutere dette er opgaven i den niende forelæsning. Selve opgavens konkrete løsning synes at være henlagt til de efterfølgende forelæsninger. Kun ganske lidt kendes af det videre forløb. De senere forelæsningsrækker vakte kun lidt opmærkomhed og tiltrak kun få tilhørere. Nyhedens interesse var borte. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713500528</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713500528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1116</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Naturideen er hævet over tid og rum, og i en ikke-tidslig følge er det fortidige, det nutidige og det fremtidige kædet sammen i den som tilstandene i de leibniz'ske monader, dvs. det virkelige (det fortidige og nutidige) og det mulige (det fremtidige) er lige virkeligt, thi i ideen er, som i evigheden, alt lige nærværende. "I denne evige Idee", siger Steffens, "er ikke allene alt virkeligt forbunden med sin Muelighed, men ogsaa alt mueligt med sin Virkelighed. I Tiden aabenbarer sig denne Idee kun stykkeviis, lidt efter lidt; men Tiden er kun en Modification af det Evige, i hvilket alt det som skal være, allerede er sat tillige med det Forbigangne" ( Indledning 149 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713497360</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713497360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1127</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som alt andet naturfrembragt har mennesket det evige og organiserende princip i sig, som blandt andet fremtræder som erkendedrift, dvs. som fornuft. Denne er "det Inderste i os, det Guddommelige, ved hvilket enhver er foreenet med alt. Det er den höje Tendenz, den ædle Spire, som vækker os, den Straale af den evige Klarhed, som hæver os, det dybe, bevægende Princip for alle vore höjere Önsker. Indslynget i den evige Organisation, i hvilket det Hele og alle Delene bestaae i en evig Vexelvirkning, skjenkede en Guddom os det organiserende Princip med vor Existenz. At hæve denne Spire, at bringe den til at voxe, er det ædlere Menneskes evige Önske" ( Indledning 155 ). Dette betyder, at naturideen eller fornuften i naturen, dvs. det objektive, og fornuften i mennesket, dvs. det subjektive, er et og det samme. Det er derfor, at Steffens hævder, at mennesket i sig selv kan finde nøglen til naturens hemmelighed. I sin erkendelse af naturens væsen genfinder fornuften sig selv, hvorved det subjektive og det objektive identificeres, og naturideen, som det absolutte, bliver subjekt-objekt. Opgaven, som Steffens ville påtage sig i de efterfølgende forelæsninger, var at undersøge, om denne erkendelse er mulig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713492848</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713492848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1138</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens afsluttede sin indledende forelæsningsrække med i mere præcis form at vende tilbage til sit udgangspunkt, begrebet om filosofi som en helhed. Han havde i sine forelæsninger hævdet, at det endelige skal forstås ud fra det evige, men havde samtidig søgt i sine beskrivelser af naturens organisation og historiens udvikling at udlede det evige af det endelige. Det evige og det endelige forudsætter således gensidigt hinanden. Endvidere blev anelsen defineret som evnen til at erkende det absolutte, og det absolutte blev bestemt som anelsens genstand. Alle bestemmelser og alle ræsonnementer er således cirkulære. Hvis der kan rokkes ved denne sammenhæng, eller hvis et enkelt udsagn pilles ud af helheden og betvivles, falder hele hans filosofi sammen. "Alt hvad jeg har foredraget falder sammen ved den simpelste Scepticismus. Vor absolutte Gundsætning [identiteten mellem det objektive og det subjektive] maa staae ved sig selv - eller vor hele Philosophie har ingen Realitet" ( Indledning 155 ). Tankens indre konsekvens er kriteriet på dens sandhed. En redegørelse for naturens og naturerkendelsens mulighed kan ikke prøves på anden måde. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713488800</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713488800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1146</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvor de første forelæsninger er en efterklang af Schellings naturfilosofi er de sidste stærkt inspireret af Fr. Schlegels æstetiske og kulturkritiske arbejder. Selve skellet imellem det romantiske, dvs. middelalderens og renæssancens digtning, og den moderne samtidige poesi på den ene side og den klassiske, dvs. den antikke digtning på den anden, er overtaget fra Schlegel. Steffens gentager også dennes kritik af den romantiske og moderne digtning for subjektivisme ved at fremstille det interessante og pirrende fremfor det objektivt skønne: "Den romantiske Poesie, skjönt den bevægede sig i levende Gestalt, og sögte at aabenbare Ideerne ved endelig Skjönhed, gav dem dog alle et subjectivt Præg, dette subjective, som gaaer ud over Gjenstanden, selv tilstaaer at den ikke tilfredsstilles, characteriserer den moderne Poesie, giver den mindre Grad af Fuldendelse. Selv de glödende, vexlende Farver udtrykke en Længsel efter Grækernes evig uforanderlige, guddommelige Lys" ( Indledning 137 . Cf. fx Fr. Schlegel: "Über das Studium der Griechischen Poesie" i: Fr. Schlegel: Kritische Schriften und Fragmente [1794-1797], Studienausgabe bd. 1, udg. af E. Behler og H. Eichner, Paderborn, 1988). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713755536</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713755536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1157</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713755120</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713755120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1160</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tyske original tekster fra dette afsnit </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713754736</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713754736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1163</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"In periodischen Zeiträumen entwickelte sich auch geistigen und körperlichen staminibus die Luft, das Feuer, das Wasser, die Erde. Mancherlei Verbindungen des Wassers, der Luft, des Lichts mußten vorhergegangen seyn, ehe der Same der ersten Pflanzenorganisation, etwa das Moos, hervorgehen konnte. Viele Pflanzen mußten hervorgegangen und gestorben seyn, ehe eine Thierorganisation ward; auch bei dieser giengen Insekten, Vögel, Wasser= und Nachtthiere den gebildetern Thieren der Erde und des Tages vor, bis endlich nach allen die Krone der Organisation unsrer Erde, der Mensch, auftrat, Microcosmus . Er, der Sohn aller Elemente und Wesen, ihr erlesenster Inbegriff und gleichsam die Blüthe der Erdenschöpfung konnte nicht anders als das lezte Schooskind der Natur seyn, zu dessen Bildung und Empfang viele Entwickelungen und Revolutionen vorhergegangen seyn musten" Ideen zur Geschichte der Menschheit , 1. del (1784), her citeret fra: J.G. Herder: Sämmtliche Werke . Zur Philosophie und Geschichte , bd. 3, Tübingen 1806, s. 18-19. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713747936</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713747936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1185</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Die Erkenntnißart des Absoluten also, wenn sie eine absolute ist, ist auch eine contemplative , - Jede unmittelbare Erkenntniß ist überhaupt = Anschauung, und insofern ist auch alle Contemplation Anschauung. Da aber die Vernunft hier das Erkennende ist, so ist diese Anschauung eine Vernunft-, oder, wie auch sonst genannt, eine intellektuelle Anschauung" Schellings Werke , udg. af M. Schröter, 2. tillægsbd., München 1956, s. 83. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713744000</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713744000</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1198</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Man kann [...] einen gedoppelten Weg nehmen, entweder von der untersten Stuffe der Kräfte, und der gröbsten Erscheinung, der chemischen nämlich, ausgehen, und von da aus durch Schlüsse sey es aus Analogie, oder aus allgemeinen Principien bis zu den obersten Kräften gelangen, von welchen alles regiert wird, oder man kann umgekehrt auch von der höchtsten Stuffe ausgehen, und so allmählich bis zur äussersten Gränze des dynamischen Naturreichs, wo die mechanischen Kräfte erst anfangen können, wirksam zu seyn, herabsteigen" F.W. J. Schelling (udg.): Zeitschrift für spekulative Physik , Leipzig 1800, bd. 1, s. 140. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713452160</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713452160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1211</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Wir können wohl - mit Voraussetzung des in der Naturphilosophie Bewiesenen - die Stuffen der Evolution bezeichnen; aber alles wird als ein Beharrendes , Seyendes dargestellt - das ewige Leben in der Natur, den thätigen Wechsel begreifen wir erst dann , wenn wir die Thätigkeit der Natur ohne Substrat erkennen, [...] als ein Subject-Object - objectiv wird, d.h. erst durch eine Naturphilosophie. -" Steffens: Beyträge , s. 271. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713444880</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713444880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1239</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Unter den Händen der Physiker ist an die Stelle der lebendigen Naturbetrachtung ein empirischer Verstandes-Idealismus getreten, ein Abstractum besonderer Welten, in welchen allgemeine Gesetze herrschen, die aus Fictionen erklärt werden, und das Ganze ist ein geistloses Aggregat bewundrungswürdiger Virtuositäten" Polemische Blätter zur Beförderung der speculative Physik , udg. af H. Steffens, hefte 1, Breslau 1829, s. 120. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713441696</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713441696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1249</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Die Naturphilosophie verfolgt die geistige Consequenz der Organisation, wie die Naturwissenschaft die sinnliche der Mathematik" H. Steffens: "Ueber das Verhältniss der Naturphilosophie zur empirischen Naturkunde" i: Isis , udg. af L. Oken, årgang 1843, Leipzig 1843, sp. 276. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713438672</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713438672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1259</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Hat der Erdball eine lebendige Entwickelung, so muss der Begriff des Totalorganismus auf das ganze Weltall angewandt werden, und wir können schon jetzt diesen Grundsatz als Princip für alle Naturphilosophie aussprechen: Organische Entwicklung ist fortschreitende, selbstständige Absonderung, so dass die höchste Organisation (der Gipfelpunct der Entwicklung), obgleich ganz abhängig in der Welt der Sinnlichkeit, doch zugleich ganz frey ist. Somit ist der Mensch der Zweck der ganzen Natur, seine Freyheit der der Natur in ihm, seine Persönlichkeit ist das völlig von der ganzen Natur Abgesonderte, aber gerade dadurch das völlig mit der ganzen Natur innerlich Verbundene - das in seiner Vergänglichkeit Unvergängliche, in seiner Sterblichkeit Unsterbliche. So wird die ganze Natur und ihre Einheit göttliche Teleologie, Ausdruck des ewigen Willens Gottes, Theologie. Die Absonderung der Erde und ihre freye Bewegung im Planetensysteme, ihre Kreisform, durch welche sie ihr Centrum in sich selbst hat, ist der Ausdruck für die Freyheit, welche sich, als der Mensch geschaffen ward, offenbarete" "Ueber das Verhältniss", sp. 274-275. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713434544</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713434544</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1266</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Bey der Anwendung dieser Principien zur Erklärung der Naturphänomene verfolgen wir die sich bildende Erde, von einer Stuffe der Bildung zur andern [...] Diese Progression in der Bildung wissenschaftlich verfolgt, constituirt die wahre Geschichte der Erde ; aber das, wodurch die Bildungsstuffen sich von einander unterscheiden, ist Qualität. Um nun diese Wissenschaft von der sogenannten Naturgeschichte, die sich bloss mit dem Aeusseren der Erscheinungen beschäftigt zu unterscheiden, nenne ich sie innere Naturgeschicte der Erde, weil die Qualität in Gegensatz gegen das den Raum Erfüllende, als ihr Ausdruck, das eigentliche Innere heist, und ich verstehe unter dieser Benennung g[e]rade dasselbe, was man, mehr oder weniger deutlich, sich bisher unter einer Theorie der Erde gedacht hat" Steffens: Beyträge , s. 96. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713428624</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713428624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1285</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Electr[icitaet,] Magnet[ism,] Galv[anism] scheinen mir jezt allerdings gleichsam allgemeine, abstracte Formeln der mannichfaltigen chemischen Processe der Natur zu seyn - also alles angewandte El[ectricitaet] oder Magn[etism] oder Galv[anism]" Novalis: Werke, Tagebücher und Briefe Friedrich von Hardenbergs , udg. af H.-J. Mähl og R. Samuel, bd. 2, München og Wien 1978, s. 844. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713425712</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713425712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1295</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"[...] dass die Natur durch alle Thierstuffen hindurch, nichts anders sucht, als eine Schöpfung, in welcher ihre ganze Unendlichkeit auf das Individuelleste ausgedrückt ist", Steffens: Beyträge , s. 291. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713422896</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713422896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1305</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Nackt und hülflos, klagte man von jeher, kommt der Mensch zur Welt - und gerade dieses ist seine gröste [sic!] Zierde. - Der Mensch hat die ganze Welt gegen sich, aber er trägt auch eine ganze Welt in sich . - Alles in ihm ist zurückgedrängt. - Es ist die centripetale Tendenz der ganzen Natur, die sich in ihm offenbaren will. - Von nun an ist er an sich gewiesen, und wer für sich steht, und am festesten  steht, ist die individuelleste Bildung - der Wahrhafteste Mensch .-" Steffens: Beyträge , s. 316. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713413568</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713413568</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1342</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Auch in der intelligenten Welt bildet eine schaffende Natur Stuffen , die einem jeden seine Grenzen anweisst. - Wasin der Natur Geschlechtstrieb ist, erhebt sich da zur Liebe - was in der Natur die Ernährung ist (der Egoismus des Products) wird da Glückseligkeitstrieb - was in der Natur Instinkt ist (in so fern es zur Erhaltung der Gattung wirkt) veredelt sich in der intelligenten Welt zur Moralität , die die ganze Gattung, und die ganze Natur umfast" Steffens: Beyträge , s. 316-317. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713405760</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713405760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Den indre konsekvens. 9. forelæsning</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1373</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Wem die Natur vergönnte, in sich ihre Harmonie zu finden, - der trägt eine ganze, unendliche Welt in seinem Innern - er ist die individuelleste Schöpfung - und der geheiligte Priester der Natur" Steffens: Beyträge , s. 317. [Retur]  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713401024</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713401024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1396</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sam- og eftertiden har stort set været enige om, at Steffens som naturforsker ikke var at finde blandt sværvægterne. Det gælder i hvert fald, at han ikke, som H.C. Ørsted senere eksplicit fremhævede, tilførte sin videnskab noget nyt (H.C. Ørsted: Samlede og efterladte Skrifter , bd. 8, 1852, s. 105). Allerede ved århundredets begyndelse havde Ørsted fraskrevet Steffens dyberegående kendskab til kemi og fysik (cf. H.C. Ørsteds brev til Oehlenschläger 1.11.1807 i: Breve fra og til Hans Christian Ørsted , udg. af Mathilde Ørsted, bd. 1, 1870, s. 227). Men som Grundtvig anerkendte han Steffens som "Lynildsmand". I samme brev fra 1807 til Oehlenschläger skriver han således: "Hvad nu Steffens angaaer, saa veed jeg ret godt, at han vil indklemme Naturen i et System, og det i et meget snævert. Gud bevare mig fremdeles fra at blive Steffensianer, som han hidindtil har bevaret mig derfor. Jeg har vel ogsaa mærket, at han praler. At jeg ei skulde have mærket, at han ikke stak dybt i Chemien og Physiken, vilde være altfor besynderligt; men uvidende er han heller ikke. Med Naturhistorien har han beskjæftiget sig saa længe, før han blev Philosoph, og i den Tid ogsaa holdt Forelæsninger derover, at han umulig kan være uvidende deri. Med en sjelden Mangfoldighed, skjøndt ikke Dybde, i Kundskaberne, forener han mangfoldige lykkelige Overblik. Naar man ikke tager disse for uimodsigelige Resultater af den dybeste Philosophi, men for det, de ere: Lynglimt til Veiledning, saa lærer man meget af ham. Saaledes har jeg gjort og kan uden Fare vedblive at gjøre" ( Breve fra og til Hans Christian Ørsted , bd. 1, udg. af Mathilde Ørsted, 1870, s. 227). Respekten for Steffens' faglige kunnen er til at overskue, men han indrømmes de "lykkelige Overblik", dvs. en inspirerende evne til at betragte naturen som en enhed og anskue naturerkendelsen ud fra et højere synspunkt. Også brødrene Mynster forholdt sig kritisk til Steffens' faglighed. J.P. Mynster pukkede på manglen af "videnskabelig Stringents" (J.P. Mynster: Meddelelser om mit Levnet , 1854, s. 135) og hans naturkyndige storebroder, O.H. Mynster, var endog meget afvisende. Rammende ironisk skrev han i 1803 til en ven, at "Henrik Steffens læser over sin egen forbedrede Philosophie, som er bedre end Schellings, som var bedre end Fichtes, som var bedre end Kants, som var bedre end alle andre Philosophier, som var bedre end sund Menneskeforstand, som kuns er lidet bedre end slet Intet" (A. Wentzel: O.H. Mynster , 1928, s. 65). Heller ikke den store franske naturforsker George Cuviers udtalelse om Steffens tyder på, at der har stået respekt om hans faglige dygtighed. Cuvier kaldte her de romantiske naturfilosoffer for et sekterisk foretagende og fortsatte: "Blandt de nyeste af denne sekts medlemmer, og blandt dem, der har formuleret dens anskuelser med den største dristighed, kan regnes monsieur Steffens" ("On peut compter parmi les plus récens de ses sectateurs, et parmi ceux qui ont mis la hardiesse la plus extraordinaire dans leurs conceptions, M[onsieur] Steffens" (G. Cuvier: Rapport historique sur les progrès des sciences naturelles depuis 1789, et sur leur état actuel , Paris 1810, s. 179-180). Set ud fra både naturfilosofiens og dens kritikeres synsvinkel synes Steffens at have været en videnskabelig døgnflue. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713390688</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713390688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1417</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hverken gennem sine videnskabelige eller sine litterære værker øvede Steffens nogen videre indflydelse på sin samtids litteratur. Han var først og fremmest, som Grundtvig skrev, netop "Lynildsmand". Som ung kunne han med sin rige naturfølelse og sit organicistiske natursyn begejstre Oehlenschläger, skønt denne langtfra var den uforberedte modtager af romantikkens ideer om tilværelsens sammenhæng. Men hurtigt synes han at have trættet skjalden. Mindre letbevægelige ånder som H.C. Ørsted, Sibbern, brødrene Mynster og Grundtvig blev ikke ved deres første møde med Steffens blændet af hans karisma, men måtte senere erkende, at mødet med ham havde haft betydning for deres åndelige udvikling. Eller som J.P. Mynster skrev i sine erindringer: "Uagtet al min Kierlighed for Steffens, var han dog ikke blandt dem, ved hvis Fødder jeg kunde sidde som Discipel; han havde for liden videnskabelig Stringents, til at jeg kunde vente at finde mig fyldestgiort ved et sammenhængende Foredrag, og hvor jeg trængte til Oplysning, maatte jeg ofte nøies med uklare Ord, som ikke bragte mig videre. Men derfor erkiender jeg ligefuldt, af hvor uberegnelig og velgiørende Indflydelse hans Ophold her har været for Danmark, ikke blot ved de Forelæsninger, han holdt den følgende Vinter - skiøndt hvad deraf blev trykt som "Indledning til philosophiske Forelæsninger" vel hører til hans bedste Skrifter - men endnu mere ved hans personlige Omgang. Han var en Sædemand, som havde Frø af mange Slags, og udstrøede dem rigelig trindt omkring; og, skiøndt han selv var mindre skikket til at pleie den fremvoxende Spire, saa havde dog mangt et Sædekorn fundet god Jord, hvor det skød Rod og bar Frugt. Skiøndt hans egen Erkiendelse af de christelige Ideer endnu ikke var uddannet og sikker, var det dog fra ham, at Begyndelsen til Christendommens fornyede Liv i Danmark udgik." (J.P. Mynster: Meddelelser om mit Levnet , Kiøbenhavn 1854, s. 135-136). Grundtvig og Mynster, som kirkeligt stod i et absolut modsætningsforhold til hinanden, var dog enige om, at Steffens gennem sit virke i Danmark havde bidraget til, at det 18. århundredes tørre teologiske rationalisme var blevet afløst af en mere levende kristendom. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713386944</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713386944</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1423</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens' indledningsforelæsninger er både en myte og en milepæl i dansk kulturhistorie. Som litteratur er de i dag næsten ulæselige. Af den friskhed, som kendetegnede Steffens' egentlige hovedværk, Beyträge zur innern Naturgeschichte der Erde , er der kun få spor tilbage. Men myten - hvis det er en myte - om Steffens' betydning for romantikken i Danmark lever stadig; og var forelæsningerne måske ikke en milepæl i samtiden, blev de det i den guldalderkonstruktion, der var Vilhelm Andersens bidrag til den nationale selvbesindelse, som i 1880'erne og 1890'erne bidrog til at modvirke nederlagsstemningen efter 1864. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713383776</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713383776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1435</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Citater fra Indledning til philosophiske Forelæsninger anføres efter Johnny Kondrups udgave (DSL 1996), som er det eneste af Steffens' værker, der foreligger i en tekstkritisk udgave. I forbindelse med udgaven henvises i øvrigt til C.H. Kochs anmeldelse i Danske Studier 1997 , s. 227-242. De øvrige citater fra Steffens' skrifter er anført efter originaludgaverne, hvoraf adskillige ikke findes offentligt tilgængeligt i Danmark. Citater fra Steffens' tysksprogede arbejder er anført både i oversættelse og på tysk. Bortset fra Steffens' erindringer, hvor den danske oversættelse stammer fra Fr. Schaldemoses oversættelse (H. Steffens: Hvad jeg oplevede. Nedskrevet efter Hukommelsen , bd. 1-10, 1840-1845), er oversættelserne foretaget af portrættøren. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713374784</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713374784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1474</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Steffens' tyske værker er stort set uopdrivelige og må søges på bibliotekerne. Men det er langt fra alle hans tysksprogede arbejder, der er offentligt tilgængelige i Danmark. En samlet bibliografi findes i F. Paul: Henrich Steffens , München 1973, s. 236-238. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713373168</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713373168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1480</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">[H. Steffens:] Ueber Mineralogie und das mineralogische Studium , Altona 1797. Steffens' Kieler-disputats. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713371968</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713371968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1486</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Beyträge zur innern Naturgeschichte der Erde , Freyberg 1801. Steffens' videnskabelige hovedværk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713370656</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713370656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1492</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Indledning til philosophiske Forelæsninger , 1803. Steffens' filosofiske hovedværk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713369392</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713369392</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1498</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Grundzüge der philosophischen Naturwissenschaft . Berlin 1806. Et skitseagtigt, aforistisk opbygget kompendium over naturfilosofien. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713368112</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713368112</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1504</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Von der falschen Theologie und dem wahren Glauben , Breslau 1823. Heri tilkendegiver Steffens sin tilslutning til gammel-lutheranerne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713366880</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713366880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1510</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Om Den falske Theologie og Den sande Troe. En Stemme af Menigheden . Overs. af M.P. Kruuse, Kiøbenhavn 1825. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713365632</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713365632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1516</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Die Familien Walseth und Leith. Ein Cyklus von Novellen , bd. 1-3, Breslau 1827. Den første af de novellecykler, som Steffens udsendte for at forbedre sin økonomi. Udkom 1834 i dansk oversættelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713364192</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713364192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1522</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Die vier Norweger. Ein Cyklus von Novellen , bd. 1-6, Breslau 1828. Steffens' mest kendte novellesamling. Udkom 1835 i dansk oversættelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713362848</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713362848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1528</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Samlede Fortællinger , bd. 1-21, udgivne af Carl Fr. Güntelberg, 1834-45. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713361584</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713361584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1534</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Novellen. Gesammt-Ausgabe , bd. 1-16, Breslau 1837-1838. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713360416</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713360416</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1540</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Christliche Religionsphilosophie , bd. 1-2, Breslau 1839. Steffens' sene religionsfilosofi, som er præget af mysticisme. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713359104</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713359104</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1546</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Was ich erlebte. Aus der Erinnerung niedergeschrieben , bd. 1-10, Breslau 1840-1844. Især for de fem første binds vedkommende er værket oplysende for danske forhold omkring 1800. Bind 10 afsluttes med et udførligt indeks. Fotografisk optryk i 5 bind, Stuttgart-Bad Cannstatt 1995-1996 (i ADL forkortet Was ich erlebte ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713356752</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713356752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1555</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Hvad jeg oplevede . Nedskrevet efter Hukommelsen . Oversat af Fr. Schaldemose, bd. 1-10, 1840-1845. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713354880</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713354880</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1564</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Steffens: Indledning til philosophiske Forelæsninger . Udgivet af Johnny Kondrup med et tillæg af Flemming Lundgreen-Nielsen, DSL/C.A.Reitzel, 1996 (i ADL forkortet Indledning ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713351360</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713351360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1581</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">R. Petersen: Henrik Steffens. Et Livsbillede , 1881. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713350208</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713350208</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1587</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vilh. Andersen: Guldhornene , 1896. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713349072</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713349072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1593</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Høffding: "Henrik Steffens", Mindre Arbejder , 2. Række, 1905, s. 162-171. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713347840</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713347840</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1599</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Høffding: "Henrik Steffens i det danske Aandsliv", Mindre Arbejder , 2. Række, 1905, s. 172-180. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713346560</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713346560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1605</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Høffding: Danske Filosofer , 1909. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713345408</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713345408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1611</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">V. Waschnitius: Henrich Steffens. Ein Beitrag zur nordischen und deutschen Geistesgeschichte , 1. Band, Erbe und Anfänge ( Veröffentlichungen der Schleswig-Holsteinischen Universitäts-Gesellschaft , Nr. 49), Neumünster 1939 (mer ej udkommet). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713342576</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713342576</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1623</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">B. Ørsted: J.P. Mynster og Henrich Steffens. En studie i dansk kirke- og åndshistorie omkring år 1800 , bd. 1-2, København 1965. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713341216</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713341216</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1629</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">P. Schmidt: "Modernismens romantiske fødsel. Henrich Steffens: Indledning til philosophiske Forelæsninger " i: Dansk Udsyn , XLVIII, 1968, s. 385-400. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713339168</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713339168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1638</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fl. Lundgreen-Nielsen: "Henrik Steffens' Goethe-forelæsninger i 1803" i: Danske Studier , 1971, s. 121-29. Er optrykt i H. Steffens: Indledning til philosophiske Forelæsninger , 1996 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713337088</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713337088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1647</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Hultberg: Den unge Henrich Steffens 1773-1811 ( Festskrift udgivet af Københavns Universitet i anledning af Universitetets årsfest 1973 ), 1973, s. 3-115. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713335088</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713335088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1656</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F. Paul: Henrich Steffens. Naturphilosophie und Universalromantik , München 1973. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713333888</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713333888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1662</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">H. Hultberg: Den ældre Henrich Steffens 1811-1845 , 1981. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713332688</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713332688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1668</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">K. S. Hanson: "Henrich Steffens as Spoiler. Tracing a Philosophical Pretense from Germany to Denmark" i: Nordische Romantik , 1991, s. 201-05. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713331456</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713331456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1674</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fl. Lundgreen-Nielsen: "Henrich Steffens - katarakt og lynild" i: Danske Studier , 1997, s. 187-96. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713330272</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713330272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1680</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">A. Pertici: "Henrich Steffens and Danish Romanticism" i: Nordisk litteratur og mentalitet , 2000, s. 432-44. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">steffens-p#idm140567713327872</field>
+    <field name="volume_id_ssi">steffens-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/steffens-p#idm140567713327872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Carl Henrik Koch</field>
+    <field name="author_name">Carl Henrik Koch</field>
+    <field name="author_id_ssi">Carl%20Henrik%20Koch</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1694</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">f. 15.11.1938 mag.art. i filosofi 1965 docent, dr.phil., ansat ved Københavns Universitet 1966. Har især virket som filosofihistoriker og har ud over lærebøger i formel logik og almen metodelære udgivet bøger om bl.a. Francis Bacon, Descartes, A.P. Adler og Kierkegaard.  </field>
+  </doc>
+</add>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Kommentar. - 1971</field>
+    <field name="id">worm02tom</field>
+    <field name="volume_id_ssi">worm02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/worm02tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140470109381072</field>
+    <field name="volume_title_tesim">Kommentar. - 1971</field>
+    <field name="author_name">Worm, Jacob</field>
+    <field name="author_id_ssi">Worm,%20Jacob</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">[1968]-1994</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+</add>

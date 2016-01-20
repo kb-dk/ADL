@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Romaner og Fortællinger, bind 4B</field>
+    <field name="id">knud06btom</field>
+    <field name="volume_id_ssi">knud06btom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud06btom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Romaner og Fortællinger, bind 4B</field>
+    <field name="author_name">Knudsen, Jakob</field>
+    <field name="author_id_ssi">Knudsen,%20Jakob</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1917</field>
+    <field name="published_place_ssi">Kbh.; Kristiania</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Rodfæstet</field>
+    <field name="id">knud06btom#workid54211</field>
+    <field name="volume_id_ssi">knud06btom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud06btom#workid54211</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Romaner og Fortællinger, bind 4B</field>
+    <field name="author_name">Knudsen, Jakob</field>
+    <field name="author_id_ssi">Knudsen,%20Jakob</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1917</field>
+    <field name="published_place_ssi">Kbh.; Kristiania</field>
+    <field name="position_isi">61</field>
+    <field name="text_tesim">                                                                                                                                                                                                       </field>
+  </doc>
+</add>

@@ -1,0 +1,2285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">dalgas-p-val</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966076000</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966076000</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">62</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">17 år gammel stod 2.g-eleven Ernesto Dalgas i 1888 op på talerstolen i gymnasiastforeningen Heimdal på katedralskolen i Århus og holdt et flammende foredrag, Mine erfaringer med onani . Emnet havde plaget ham i nogen tid, efter at han havde læst en pamflet og reklame for en nervestyrkende sirup: Selvbevaringen , angiveligt skrevet af en dr. Retau. Heri fremhæves - som i øvrigt i tidens populærvidenskabelige litteratur - de store farer for helbred og moral, der knytter sig til ungdomslasten, onanien. Ernesto Dalgas tog af flere grunde den slags tekster meget alvorligt, og han blev ramt i sin egen praksis af de slette udsigter for onanister, som han alvorligt mente truede hele landets fremtid: hvis nu de unge kræfter, der skulle være kernesunde for at føre kulturen videre, var rådne i deres anlæg, ja så var det en katastrofe, som alle gode og fremtidsvendte kræfter skulle skride ind over for. Den unge gymnasiast gik først til skolens rektor med sin sag, men fik hverken her eller hos sognepræsten nogen videre støtte, så han måtte for landets fremtids skyld træde frem selv. Det har hans skolekammerat og senere udgiver Axel Mielche berettet til professor, dr. phil. Aage Henriksen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966071024</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966071024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">74</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den gode rektor og præsten har nok smilet ironisk ad den unge alvorsmand. Det var Ernesto Dalgas. Han var et alderdomsbarn af den berømte hededyrker Enrico Dalgas (1828-1894), en (også husligt) myndig og udadvendt mand. Ernesto kunne ikke med sin far, men sad nede i kælderen i sit værelse i den store Århus-villa og fandt på gode argumenter mod faderen, som han opfattede som indbegrebet af forældet diktatorisk borgerlighed. Da Ernesto blev lidt ældre, fandt han forbundsfæller i sin kamp i det moderne gennembruds tænkere og digtere, fra Brandes og Ibsen til moderne videnskab. Så hvad der var kampen i kulturens verden, blev ledt ind i hjemmet - og den unge søn følte, han stod med fremtiden for sig og ikke kunne give køb over for reaktionens mørkemænd. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966068944</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966068944</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">80</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At det principielle opgør med faderen hvilede på private præmisser, kommer tydeligt til udtryk i den tidligste tekst af Dalgas, der er trykt, skuespillet Autoriteter , der i første version er skrevet maj 1891, men først trykt i udvidet form i det posthume bind Digt og Skuespil , 1904. Her står den unge Poul stejlt over for sin etatsråds-far. Det er afsløret, at han skriver artikler anonymt i den socialistiske presse og sange til Studentersamfundet. Faderen stiller ham over for et ultimatum: enten holder ham op, eller også bliver han smidt ud hjemmefra. Efter den ideologiske strid - som sikkert har lignet Dalgas' egne samtaler med sin fader - kommer det frem, at den egentlige grund til bruddet med familiens sociale og religiøse værdier er faderens personlige svigt som netop far. Han har været fjern og afvisende, stillet krav og ikke ydet kærlighed - og slet ikke far-søn-belæringer af den art, der bevarer den unge og hans generations sundhed. Man forstår, at den dybeste svigt er den manglende oplysning om onaniens fare. Det er jo sådan set en anden snak end den principielle kulturkamp, men det forstyrrer ikke Poul, der drager hjemmefra med sit tøj og 980 kroner for at klare sig selv. Det gør han som sekretær for præsidenten for Oplysningsforeningen, indtil han bryder med ham og flytter ud til en gartneridyl lige uden for byen for at leve upolitisk med sin Ermelin, inspireret af Paludan Müllers Alma Stjerne fra Adam Homo (1841-1848). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966063008</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966063008</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">95</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det vigtigste i skuespillet, som i øvrigt ikke, kvaliteten taget i betragtning, skal optage os mere, er det dobbeltbegrundede brud med faderen: til det ideologiske udtryk svarer en helt anden privat motivering. Denne uklarhed i begrundelsen for de mest afgørende beslutninger, eller denne eksistentielle dobbeltkobling, fulgte Dalgas livet igennem. Den gav sig udtryk i en række stærkt skiftende synspunkter og i sjælelig sygdom, der i dag næppe lader sig diagnosticere. De bevarede journaler fra de psykiatriske hospitaler Sct. Hans og Risskov viser tilstande, som moderne psykiatere vil betegne som maniske, men Dalgas var også præget af stærke eksistentielle kriser. (Personlige meddelelser fra psykiateren Dagmar Bergmann og overlæge Erik Brandrup.) Ernesto Dalgas begik som 28-årig selvmord. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966060896</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966060896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">98</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ernesto Dalgas' fag var filosofi, og ved sin død skrev han på et magisterspeciale om erkendelsesteori, den induktive logik. Hans egentlige filosofiske problem var: hvornår er noget sandt? Hvad sikrer mig, at jeg ikke er illuderet? I en stærkt opstemt, nervøs stemning skrev han herom en besvarelse af den filosofiske prisopgave for 1893 ved Københavns Universitet, Avtoritetsforholdets Væsen og etiske Betydning . Her foregriber han dels stofmæssigt og kompositorisk sit ene hovedværk Dommedags Bog (posthumt 1903), dels giver han spændvidden i sit bevægelige sind udtryk: han kunne være både en henrevet religiøs mystiker og en nøgtern positivistisk filosof, næsten på samme tid. Er det følelsesstyrken, der lægger grundvolden for sandheden, eller er det fornuftsslutninger? Han tumlede med problemet: kan årsagssætningen bevises, eller er den blot en praktisk erfaringsregel? Er videnskaben urokkelig sand, eller er den blot gisninger, der har noget for sig? Det var tidens filosofiske spørgsmål, også for den store Friedrich Nietzsche (1844-1900), som fik betydning for Dalgas, også stilistisk, idet hans profetprosa præger dele af Dalgas' hovedværker. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966056704</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966056704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">107</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den unge Ernesto på talerstolen i Heimdal og den unge Poul i Autoriteter afdækker ved deres alvor og åbenhed en grundsplittelse i Ernesto Dalgas liv og forfatterskab, som er både personligt tragisk, men også symptomatisk for tiden, hvor de store forandringer i samfundet medførte skred i livsopfattelsen og identitetsoplevelsen, større end i tidligere generationer og måske også større end nu. Hvad der den gang faldt, var hele den kristne enhedskultur og sammenhængende livstydning, hvad der kom i stedet, var individuelle strejftog i en tilværelse, hvor de unge sønner kunne have nok så meget teoretisk og principelt ret, men hvor virkeligheden alligevel fungerede på de gammeldags rutiner og værdier, som de for længst havde gennemskuet. Galskab med eller uden revolver var en hyppig reaktion og et almindeligt tema i tidens digtning, sammenfattet som Det moderne Sammenbrud . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966026672</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966026672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">232</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I det følgende er hovedvægten lagt på en gennemgang af Ernesto Dalgas' to hovedværker, Lidelsens Vej og Dommedags Bog. Fremstillingen bygger væsentligst på mine efterskrifter til udgaverne i DSLs serie, Danske Klassikere , her dog ajourført og forenklet. De oprindelige efterskrifter vil således med fordel kunne betragtes som uddybninger af især de biografiske og filosofiske afsnit i denne indledning, ligesom noterne fra disse udgaver rummer en række væsentlige litteraturhenvisninger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966023248</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966023248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">244</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ernesto Dalgas' særlige personlige forhold præger hans forfatterskab. Dels i dets tilblivelse under forskellige omstændigheder, dels i dets udgivelse. Da han døde, havde han tilrettelagt udgivelsen af en række værker i en bestemt rækkefølge og overladt opgaven og sine midler til barndomsvennen Axel Mielche, der som bankkassserer ikke havde udgivelsesfilologisk kompetence, men som dog både med og mod familiens vilje og hjælp fik udgivet fire bind i årene 1903-1904, idet udgivelsen skete for de penge, der forventelig ville tilfalde Ernesto Dalgas som arveandele af familieformuen. Mielche udgav værkerne i den foreskrevne rækkefølge, men da pengene var brugt, var kun en del af de nævnte værker udgivet. Resten henligger i manuskript, mere eller mindre ordnet, på Det Kongelige Bibliotek. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966021168</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966021168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">247</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Axel Mielche fik udgivet romanerne Dommedags Bog og Lidelsens Vej (begge 1903), den gennemkomponerede digtsamling Sangbog (1903) og endelig samlebindet Digt og Skuespil (1904). Desuden har man udgivet filosofiske tekster af Dalgas ( Kundskabens Bog , først i uddrag i Otto Gelsteds tidsskrift Sirius , 1924, i fuldstændig form ved Leon Jaurnow, 1995). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966016144</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966016144</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">268</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Af dette posthumt udgivne forfatterskab er kun de to romaner betydelige og har krav på moderne interesse. Digtene er, som en kritiker har sagt, skrevet uden besvær og talent, og skuespillet er kort berørt ovenfor. Så i det følgende vil blot de to bøger, der har haft et liv i flere udgaver, senest i Det Danske Sprog- og Litteraturselskabs serie Danske Klassikere blive behandlet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966013648</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966013648</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">277</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dog skal kort omtales den eneste skønlitterære bog, Dalgas selv har befordret i trykken, tekstsamlingen Krøniker og Æventyr , 1896 - samme år, hvor Dalgas, ligeledes for egne penge udgav en versificeret lærebog for folkeskolen i geografi, Geografiske Digte . Debutbogen er en samling småtekster i de mest forskellige tonearter og stilpræg, en prøvekollektion for en begyndende digter. Den rummer enkelte tekster, der har haft et lidt længere liv i antologier o.lign., bl.a. "De sidste Dage", en fremtidsnovelle, hvor den store regnemaskine, verdenskomputeren, kommer ud af trit med virkeligheden med katastrofale følger. Det er en original science-fiction-novelle, der røber Dalgas' grundlæggende kulturpessimisme. "Grev Høg" skildrer med autentisk mangetydighed oplevelsen af et asyl for afsindige. Torben Brostrøm har i sin fremstilling Folkeeventyrets moderne genbrug (1987) behandlet samlingen kort, ligesom han i tekstantologien, Danske digtere fortæller eventyr , medtager de tre tekster "Agnete", "Prinsessen og Lindormen" og "Æventyrets Land". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966008976</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966008976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">292</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det kan ikke ses, at Krøniker og Æventyr vakte genklang i tiden - den faldt ind i en tidstypisk række småbøger med lignende tekster. Men Dalgas havde dog den glæde, at han efter at have sendt et eksemplar direkte til den store Georg Brandes, fik et brev tilbage: "De er en endog særdeles rig Mand". Brevet ligger i Det Kongelige Biblioteks Dalgas-arkiv (NKS 4956,4). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965991776</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965991776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">313</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne roman er ikke den først udgivne af de posthume værker, men den er i hovedtræk skrevet før Dommedags Bog . Hvornår er i øvrigt vanskeligt at sige, for i den tekst, der foreligger nu, krydses en række planer og redaktioner. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965989824</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965989824</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">320</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Professor Aage Henriksen har i en artikel ( Orbis Litterarum , 6, 1948) gjort rede for det komplicerede forløb, der her skal gengives i store træk. I slutningen af 1896 og begyndelsen af 1897 var det Dalgas' mening at skrive en roman i jeg-form, der skildrer et menneskes udvikling fra barn til voksen i humoristisk form. Den følger personen gennem en række illusioner, der overvindes, til han når frem til et ædrueligt, positivistisk stade, lig det Dalgas selv indtog på det tidspunkt. Af dette projekt er der på Det Kongelige Bibliotek bevaret tre manuskripthefter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965987984</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965987984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">326</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I efteråret 1897, da Dalgas bl.a. på grund af ydre tilbageslag - hans professorer fandt ham endnu ikke studiemæssigt moden til at tage magisterkonferens - var kommet i krise og havde ændret sine synspunkter på en række væsentlige punkter, skrev han oplægget om til 3. person, tilføjede en ny indledning, strøg visse passager og indskød en række ikke-gennemarbejdede tekster fra sine egne manuskriptbunker (dagbogsnotater og digte) som i teksten tillægges hovedpersonen, Salomon. Fra denne redaktion er der i manuskriptpakken et enkelt (det første) hefte tilbage, samt spor i tilrettelæggelsen i de bevarede hefter fra 1. version, hvoraf to indgik i det reviderede projekt. Det tredje af de bevarede hefter, der omhandler Salomons deltagelse i en revolutionær løftelse, der gik over landet under modstanden mod Estrup, blev udskudt. Resterne af dette hefte - det er nemlig ikke intakt - bringes i DSL's version af romanen som et tillæg. Endelig har Dalgas i den sidste del af sit liv, da han arbejdede med Dommedags Bog udvidet Lidelsens Vej med afsnittet "Efterskrift", der kompletterer kompositionen og løfter værket op i et kunstnerisk mere bæredygtigt plan, idet den vindtørre positivistiske munk, som Salomon udvikler sig til, ændres fra at være forbilled et til at være en eksistensform blandt mange andre. Den dybtgående revision, der er sket i menneske- og kultursynet, føjer sig overraskende nok harmonisk ind i den gamle plan. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965982848</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965982848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">338</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I tre perioder, i tre stemninger har Dalgas altså arbejdet med romanen. Axel Mielche stod med en række hefter og forpligtelsen til at udgiven bogen. Familien var meget imod at få sit gode navn og rygte ødelagt ved, hvad man mente var en galnings skriblerier, og kun efter megen modstand frigav man midlerne til udgivelsen. Man havde da inddraget en række kendte folk til at bedømme Dalgas' roman. Harald Høffding, der var den ene af Dalgas' professorer i filosofi, fandt, at da manuskriptet lignede skønlitteratur, ville han ikke have nogen mening om det. Den anden adspurgte ekspert, litteraten Ludvig Mylius-Erichsen, havde for travlt med at forberede "Den litterære Polarekspedition". Det var først, da Dalgas' søster og svoger, præsteparret Langballe, der fandt adskilligt opbyggeligt i bogen, gik ind i sagen, at der blev stablet et trykmanuskript på benene. Det tilrettelagte manuskript blev destrueret efter trykningen, altså bortset fra de nævnte fire hefter, så man i glimt kan få indtryk af denne sidste redaktion. Denne fremstilling bygger på Axel Mielches meddelelser til Aage Henriksen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965975920</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965975920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">363</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lidelsens Vej. En Selvbiografi af en Afdød er en dannelsesroman, hvor et menneskes liv i dets udstrækning ses "under idéen". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965974704</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965974704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">368</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fiktionen er, at hovedpersonen, småstadskæmneren Salomon Simonsen som ældre nedskriver sit livs erindringer og resultater for på den måde at skabe sig et helhedssyn på sit hidtidige skæbneforløb. Da han har gjort det, og i skildringen er nået fra barndommen til skrivende nutid, løber hans protokol fuld af dagbogsprægede og sammenfattende optegnelser. Men da gennemløber han en sen pludselig udvikling. Den fører ham frem til bogens højeste og sluttelige indsigt, der fuldender hans liv, idet han forsoner sig med sin skæbne, og som den stræbende Faust (i J. W. von Goethes skuespil Faust II, 1832), kan prise øjeblikket og forlade livet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965972832</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965972832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">374</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Disse to dele er i romanens komposition tydeligt markeret derved, at det sidste trin er udskilt som en særlig "Efterskrift". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965972176</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965972176</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">377</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den erindrende Salomon ser sit liv i en særlig erkendelsessammenhæng, som han udtrykker sådan: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965968720</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965968720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">394</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne udviklingsvej, hvis endemål er at se tingene objektivt efter at have frigjort sig fra en række illusioner, svarer til den franske filosof Auguste Comtes (1798-1857) positivistiske trestadielov, hvorefter såvel den enkelte videnskabsgren, samfundsformerne og det enkelte menneskes liv forløber i de typiske trin: det teologiske, hvor man forklarer sig alting ved at føre ændringer tilbage til guderne, det metafysiske, hvor forklaringsgrunden er abstrakte kræfter, og endelig det positive, hvor man i videnskaben blot beskriver tingenes indbyrdes lovmæssigheder - og i moden alder overtager myndigheden over sit eget liv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965967664</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965967664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">397</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lidelsens Vej kan indtil "Efterskrift" betegnes som en klassisk positivistisk dannelsesroman, fordi trestadieloven udgør dens indre struktur. Men i sprængningen af dette skema til slut, ligger der ikke noget brud med Auguste Comte, for også han udvidede sent i sit liv sin filosofiske positivisme til en humanitetsreligion, hvoraf der findes karakteristiske hovedtræk og detaljer i "Efterskrift". Så Lidelsens Vej er altså i sin helhed i ordets vide forstand en comtesk dannelsesroman, fordi den omfatter såvel den unge som den gamle Comtes tænkning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965964752</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965964752</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">405</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ernesto Dalgas var som filosofistuderende fuldt fortrolig med Comte, der med sin positivistiske, (natur)videnskabeligt orienterede tænkning prægede de to professorer i filosofi ved Universitetet, Harald Høffding og Kristian Kromann. Dalgas havde skrevet filosofiske opgaver i positivistisk ånd til dem begge, og han skrev kronikker i provinspresssen ud fra denne position. Blandingen af videnskabsteori, kulturhistorie og psykologi, der udgør trestadieloven i dens fulde udfoldelse, gør den velegnet som arbejdsgrundlag for en stor roman, der vil omfatte såvel den store som den lille verden, individet. En anden stor dannelsesroman fra den tids danske litteratur bygger på en lignende tankebygning, den marxistiske, nemlig Martin Andersen Nexøs Pelle Erobreren (1906-1910). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965962768</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965962768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">411</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den psykologiske model i positivismen rummer to veje til at erkende virkeligheden. Enten kan man slutte fra sig selv og sine umiddelbare indre indtryk til de ydre forhold; det er fantasiens vej. Eller man kan omvendt gennem en indsigt i de ydre genstandes indbyrdes lovmæsssige sammenhæng nå til en forståelse af verden og selvet; det er erkendelsens vej. De to sjæleevner er tilstede i mennesket hele tiden, de skiftes blot til at dominere. I barndommen hersker fantasien (og guderne), i manddommen (den positive) erkendelse, mens ungdommen er en (metafysisk) krisetid, hvor de to former ligger i strid. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965961216</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965961216</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">414</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det er ikke vanskeligt at se, at Salomons liv løber i disse faser. I barndommen i Staden er han bundet til den guddommeliggjorte stedfader, kæmneren, indtil han rejser til København. Mellemtrinnet svarer til hans ophold i hovedstaden (den romantiske periode i Salomons terminologi), indtil hans tilbagekomst til barndomshjemmet og hans overtagelse af stedfaderens embede og det samtidige gennembrud af "Salomon Tænkeren". Manddommens positive erkendelsesliv forløber frem til gensynet med Prosa. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965960112</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965960112</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">417</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hver gang Salomon gennemskuer en illusorisk sammenhæng, har han en særpræget, men ensartet oplevelse af gennembrud til en anden verden. Han lærer at leve med disse oplevelser som sine epileptiske anfald - sådanne kendte Dalgas fra sig selv. Dette gennembrud sker for Salomon første gang, da kæmneren dresserer ham til frivilligt at gå til alters efter konfirmationen. Som Buddha i legenden ser han lig ved lig i kirken, og han dratter om i de blomster, der er arrangeret på ligstenen over en gammel klosterjomfru. Anden gang sker det under et pensionatsbal i København, hvor han indser, at han ikke har talent for livsglædens evangelium. Endelig får han klarsyn på knap så dramatisk måde over for en anden faderfigur etatsråden, vistnok Salomons biologiske far. Hen mod slutningen, hvor han bryder igennem til det højeste erkendelsesniveau i bogens sammenhæng, opfyldes han af en erfaring af lys og svæven, nu ikke længere som angstfuld gennemskuen, men en salig himmelfart som forbilledet Fausts. Kritisk kan man sige, at hvor Salomon i sin erkendelse er tættest på sandheden og virkeligheden, er han fjernest fra at kunne gribe handlende ind i verden. Så her til slut bliver Buddhas Nirvana den højeste tilstand og ikke Comtes formentlig travle humanitetsverden med dens menneskelige enhedskultur og fællesmarked. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965957696</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965957696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">420</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En analyse, der opfatter Lidelsens Vej som den buddhistiske københavner-roman, den også er, er skrevet af Frederik Stjernfelt, "Buddhas København" i Marianne Barlyng og Søren Schou (red.) Københavnerromaner , 1996. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965955520</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965955520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">429</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Salomon er en autoritetsdyrker, én der vil forstå sig selv i forhold til en mester. Hans første autoritet og gud bliver stedfaderen, kæmneren. I den lille bange drengs øjne bliver denne den store "Han" som jødernes gud. Men Salomon føler sig ikke i overensstemmelse med denne gud. Da han hører om Kain og Abel, genkender han sig selv i Kains skikkelse, for dog at have nogen - og får sin velfortjente dragt prygl. Men Salomon lærer at klare sig selv med Gud Kæmner og den himmelske fader, der rejser sig bag ham. I en tid holder han nøje regnskab med retfærdigheden, men opgiver til slut - og slår sig på Satans parti, da den hellige skrædder kræver, at han skal vælge mellem Gud eller Satan. Kun med stort besvær finder han den rigtige side en kort stund, nok til at blive konfirmeret. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965953408</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965953408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">432</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da Salomon kommer til København, kommer han ind i kredsen omkring en vis etatsråd. Denne er en politisk fremstående kyniker, og han har lånt træk fra Søren Kierkegaards Johannes Forføreren og meninger fra den tyske pessimistiske filosof Arthur Schopenhauer (1788-1860). Denne mand, der som nævnt formentlig er Salomons virkelige far (de får det aldrig på det rene), fatter interesse for den unge, kejtede juridiske student og indfører ham i sin verden, idet han gør ham til sin sekretær. Salomon er en villig adept og lærer at blive en åndfuld, ironisk paradoksmager, der bliver interessant for sig selv. Efterfølgende Søren Kierkegaard læser han Det ny Testamente , og ud af denne læsning og sin hele Kierkegaard-idenfikation i forbindelse med sine smertelige sjælelige oplevelser danner han sig højtdrevne forestillinger om lidelsen som forudsætning for den dybe indsigt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965950480</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965950480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">438</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I denne periode er det som sagt Kierkegaard, der præger hans verden, hvor han om dagen er ironiker hos etatsråden, og inderlig om aftenen hjemme på værelset, hvor han fylder sin dagbog med klagemål. Dette trin i Salomons udvikling svarer til mellemtrinet, og er altså ikke udtryk for den højeste indsigt, men det er alligevel ud fra disse afsnit, at Dalgas i manges bevidsthed opfattes som først og fremmes kierkegaardianer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965949376</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965949376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">441</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter bruddet med etatsråden tager han hjem til Staden som kæmnerens afløser, og det positive trin indtræder i hans liv. I en vis forstand lever han her som i København et dobbeltliv. Over for verden er han en tør og pedantisk kommunal bestillingsmand; indadtil lever han under åndeligt højtryk sammen med sine sande lige: sin bibelske navne, de store tænkere og ordensstiftere. I det skjulte ordnes de største spørgsmål, og hans skuffe (og bogen) løber fuld af afhandlinger, fortællinger og digte. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965948320</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965948320</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">444</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Pigen Prosa, etatsrådens plejedatter, er den person, der bringer størst uorden i Salomons liv - og hende, der fører ham længst. Hun er ren musik - hun spiller og bedårer Salomon. Det er gensidigt, og de to oplever en kortvarig romance på landstedet Stæremosegaard, der ligger i kærlighedens vidunderlige midsommerland. Endelig kommer verden Salomon i møde: han kan blive arving til etatsrådens magt og blive Prosas ægtemand, hvis han bare vil. Men alt dette er jo en fristelse, som Salomons skal sige nej til for at vinde de vises sten. Han siger også nej, og kommer i tanke om mange grunde til det, mest grunde, der har med med sygdom og angst at gøre. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965946528</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965946528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">447</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Inden for Salomons horisont er der plads til tre kvinder: der er moderen, den bodfærdige husholderske, som sørger omhyggeligt og anonymt for Salomon. Efter moderens død hedder hun ganske vist frøken Ingversen, hans værtinde fra København, som han tager med hjem til Staden, da han flytter ind i kæmnerhuset. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965945488</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965945488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">450</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dèr lever mindet om den anden kvinde i Salomons liv, den lille søster, et endnu svagere barn, der forsvinder ud af verden af lutter artighed, selvom hun var den eneste Salomon holdt af, og som han kårede som sin hjerter dame, da tiden var til ridderlighed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965944560</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965944560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">453</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den tredje kvinde i Salomons verden træffer han i tre skikkelser: den villige stuepige, den forførende fru Potifar Malstrøm og den veloplagte pige på pensionatsballet. Fra dem alle og fra deres livsappetit flygter Salomon angst: de udgør hetære-billedet i hans liv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965943616</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965943616</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">456</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Husholdersken, den rene søster og den erotiske fristerinde udgør Salomons trefoldige begreb om kvinden, og han har ikke fantasi eller plads i sin verden til et ægteskab med Prosa, hvis navn netop antyder, at hun er hans livs chance for at praktisere prosaisk hverdag, "det almene", som også Søren Kierkegaard jo afstod fra. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965942560</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965942560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">459</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da han endelig møder Prosa igen i Staden, hvor hun kommer som en anden Clara Schumann for at give koncert med sin mands musik, kan han forsone sig med hende og acceptere hende på lige fod, for nu er hun ikke længer en opgave for ham. De skilles på den måde, at han løser hende ud af sit liv ved at almengøre hendes skæbne og betydning. Man kunne også kalde det med den samtidige Freud: en total sublimering af hele det erotiske. I munkeforgængernes ånd og efter den gamle Comtes eksempel bliver den jordiske kærlighed omsat til religiøs erfaring. Og Salomon kan svæve ind i saligheden til tonerne af genboens dansemusik. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965940832</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965940832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkningen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">462</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Salomon når "hjem", som de andre helte i de store livsromaner. Som en Lykke-Per hos Henrik Pontoppidan, og som sin nærmeste efterfølger, Harald Kiddes Helten (1912). Fjernere eksempler på denne type romaner, hvor hovedpersonen ender med at erobre verden i det skjulte, er Jacob Paludans Jørgen Stein (1932-1933) og Martin A. Hansens Løgneren (1950). De forbinder alle træk fra den psykologiske roman med inderligheden fra Blichers Landsbydegn, deres åndelige bedstefader. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965929712</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965929712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kritikken</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">520</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Modtagelsen i pressen af Dalgas' fire posthume bind i 1903-1904 indskrænkede sig stort set til omtale af det først udsendte, Dommedags Bog . Herom senere. I øvrigt var der stilhed, hvad der sættes i relief af beretningen hos Otto Gelsted ( Sirius , nr. 3, 1924, side 140) om, at de usolgte værker blev tilbudt danske lærere uden beregning, hvis de blot tegnede sig på en liste. Få meldte sig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965927136</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965927136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kritikken</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">529</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Er kritikkerne af Lidelsens Vej få, er de dog gennemgående indsigtsfulde og entusiastiske. Gennembruddet i dagspressen kom ved genudgivelsen i 1963, hvor imidlertid ældre synspunkter dominerede. Også udgivelsen i serien Danske Klassikere (1993) affødte nogen aviskritik. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965924864</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965924864</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kritikken</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">538</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det nærmeste, man kommer en samtidig kritik, er Axel Gardes to kapitler fra bogen Dansk Aand (1908), hvor han behandler Dalgas som religiøs forfatter, idet han holder ham op mod den samtidige danske filosof Ludvig Feilberg (1849-1912). Grundtanken i analysen af Lidelsens Vej er, at for Dalgas er verden først og fremmest tanke. Teori og fuldendelse af systemet er for ham tilstrækkelig tilfredsstillende af hans længsel. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965922224</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965922224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kritikken</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">547</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Først i 1930'erne dukker romanen op igen i kritikken. Cai M. Woel giver i sin samling digterportrætter fra 1930, Troubadurer , en stærkt refererende præsentation af Lidelsens Vej. Jørgen Bukdahl knytter i Det moderne Danmark (1931) igen tråden til Feilberg; endvidere inddrages Søren Kierkegaard, især forlovelseshistorien. I 1938 kommer den første egentlig litterære analyse af Lidelsens Vej , idet K.F. Plesner i Kulturbærere forkuserer på den æstetiske og formelle indflydelse fra Kierkegaard. Jacob Paludan stiller sig i et essay i Litterært Selskab (1956) kritisk til den megen tale om lidelse - nød Salomon/Dalgas i virkeligheden lidelsen? Endelig er som sagt det buddhistiske aspekt taget op i 1996 af Frederik Stjernfelt ( Københavnerromaner , red. af Barlyng og Schou). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965915536</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965915536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kritikken</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">571</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For sig selv står professor Aage Henriksens behandling af Lidelsens Vej , som han har skildret i en række essays, begyndende med det allerede nævnte om teksten i Orbis Litteratum , 1948. Værkets kompositon er genstand for en artikel, "Kompositionens sprog" genoptrykt i Gotisk tid , 1971. I "Det borgerlige oprør" ( Svanereden, 1990) sættes Salomons generationsoprør ind i en tidshistorisk sammenhæng. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965910304</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965910304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Teksten</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">594</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Teksten til Lidelsens Vej bringes her efter udgaven fra 1993 ved Henrik Schovsbo, uden rettelser. Denne version følger nøje første udgave. Men da denne jo er bearbejdet i forhold til Dalgas' oprindelige manuskript, hvad angår den nuværende udgaves side 74-78, bringes desuden de sider, der blev udskudt ved revisionen som side 259-278 i DSLs udgave. Læseren vil således få et indblik i romanens tilblivelse. I udgaven fra 1963 er de bearbejdede sider stort set udeladt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965902592</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965902592</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">633</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dommedags Bog er skrevet i perioden efteråret 1898 til foråret 1899. I et dagbogsnotat fra 10. juli 1899 skriver Dalgas om sine oplevelser i sommeren 1898, at en række livsanskuelsesproblemer gik ham på. Og han fortsætter: "Disse Forestillinger vaktes hos mig i en Tilstand af den ejendommeligste Natur, men som det siden viste sig en sygelig Tilstand, idet den gik over i Sindssyge. ..." (Herpå fulgte indlæggelse på Risskov hospital). Dalgas skriver videre: "Mine Visioner under min Sygdom blev Grundlaget for Dommedags Bog." (NKS 3640,4,III) Han blev udskrevet 1. september, mod lægernes råd, men dog bedret . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965900288</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965900288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">641</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ud på foråret 1899 var den foreløbige version af bogen færdig, at dømme efter et brev fra Axel Mielche fra 1. maj, hvor han om sin gennemgang af manuskriptet bl.a.skriver: "Jeg er nu færdig. Blot endnu 9 Spørgsmaal." (NKS 4956,4) </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965899408</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965899408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">644</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Grunden til, at Mielche stillede disse spørgsmål, er værkets ejendommelige tilblivelsesproces. I følge Axel Mielche i dennes forord til førsteudgaven skulle Dalgas på det tidspunkt være blevet blind og i denne tilstand have dikteret værket til Mielche og en anden ven, maleren Johannes Nørretranders. Men det er et udsagn, der rejser problemer. Dalgas skrev i samme periode selv sit filosofiske værk Kundskabens Bog , dels er hans gamle prisopgave fra 1893 synligt gennemarbejdet med den karakteristiske blå blyant, som også er på færde i den sidste version af Lidelsens Vej - dels har en række af hans filosofiske og religionshistoriske studieprotokoller været genstand for redaktion med samme skrivetøj. Dette dementerer delvis Mielches forklaring, men på den anden side viser inkonsekvenser i stavning og tegnsætning i bogen, at flere skriverhænder har været på spil. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965896128</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965896128</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">653</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvorom alting er, har Dalgas i vinteren 1898-1899 arbejdet rastløst med hjælpere på flere projekter samtidig i én lang inspireret proces af erindring, diktat og redigering, der savner sin lige i vor litteratur. Resultatet blev også et højst ujævnt, men trods alt monumentalt værk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965895136</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965895136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tilblivelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">656</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da der ikke foreligger noget manuskript til Dommedags Bog, er det ikke muligt at belyse skabelsesprocessen nærmere. Den her foreliggende tekst følger nøje første udgave med alle dens inkonsekvenser, der jo bærer vidne om tilblivelsesprocessen. Derimod er 1965-udgaven normaliseret. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965892272</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965892272</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">670</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da opbygningen af Dommedags Bog er lidt uoverskuelig, kan det være på sin plads at give en oversigt over og fortolkning af linien i bogens komposition. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965890912</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965890912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">676</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I værket møder man på samme tid en række skikkelser, der repræsenterer filosofiske og religiøse synspunkter, som stammer fra forskellige epoker. På en mærkelig måde taler disse mennesker ikke med hinanden, men står side om side i bogens landskaber. Og dog indgår de, efterhånden som skildringen skrider frem, i en større sammenhæng. De knyttes dels til de højtliggende mytiske og fortællemæssige strukturer, dels i snævrere forstand til pilgrimmen Peregrinus' person, idet han snart som samtalepartner, snart som budbringer spiller en (ganske vist beskeden) rolle i bogens store handling. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965889904</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965889904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">679</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Rent umiddelbart er fortællingen organiseret i 12 dagsrejser, der fører fra den direkte oplevelse af Ildsøen til det endelige kosmiske opgør mellem de modstridende kræfter, søen og Lucifer/Buddha. Endelig er fortællingen lagt ind i en ramme af sygdom og hospital, der placerer det store dramas skueplads i et enkelt individs bevidsthed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965888848</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965888848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">682</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ser man på beretningen inden for rammen, de tolv dage, forløber den i tre store sammenhænge, svarende til bogens tre dele, der hver omfatter fire dagsrejser. Rækkefølgen af dele og enkeltstationer på rejsen udtrykker den progression, som er kompositionens røde tråd. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965887888</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965887888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">685</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Første del skildrer tilnærmelsen til Ildsøen og fortolkningen af den samt den direkte erfaring af opholdet i den. Pilgrimmen begynder med at påkalde den religiøse lidenskab. Denne viser sig i skikkelse af Johannes de Silentio, den pseudonyme forfatter til Søren Kierkegaards værk om troens paradoks, Frygt og Bæven . Herefter går vejen gennem Sukkenes Brønd til det underste land, troens verden, hvor oplevelsen af tilværelsens urgrund, den levende ildsø, er mulig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965885856</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965885856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">691</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ved søen stifter pilgrimmen i fire trin bekendtskab med vor kulturs store fortolkninger af eksistensens grundlæggende kræfter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965885184</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965885184</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">694</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kirken, der her repræsenteres af oldkirkelige og katolske hellige mænd og lærde teologer, fylder første dagsrejse. I anden dagsrejse bevæger vi os nærmere et direkte møde med kræfterne. Efter forkyndelsen af dommedag og af det himmelske Jerusalem, som formidles af de kristne eneboere, når pilgrimmen frem til den tyske mystik. Den optræder i to skikkelser: den katolske klostertradition ved Mester Eckhart og den protestantiske teosofi ved skomageren Jacob Böhme. Ved afskeden fra den sidste får den rejsende det første varsel om, at der findes mere omfattende sammenhænge end denne kan forklare: seks store skikkelser viser sig på himlen og får ham til at drage videre. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965883344</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965883344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">697</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Erkendelsen af Ildsøens væsen som enheden af modsætningerne godt-ondt, Gud-djævel overlades logisk nok til den strengt monistiske filosof Baruch de Spinoza på den tredje dagsrejse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965882560</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965882560</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">700</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter tilbedelsen af Ildsøen i de to første dagsrejser og erkendelsen i den tredje føres vi i den fjerde dagsrejse (og dermed i slutningen af første del) frem til den direkte oplevelse af at være i dens tvetydige salighed. Det leder frem til den rent klinisk-biologiske beskrivelse af søen som det allestedsnærværende liv - og til en afvisning af al dens væsen hos den pessimistiske filosof Arthur Schopenhauer fra 1800-tallet, der optræder sammen med tidens moderne biolog. Ifølge Schopenhauer er verdens inderste hemmelighed striden mellem hoved og krop, mellem forestilling og vilje, mellem liv og erkendelse - og han ser kun én løsning på modsætningen: ilden må dræbes! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965880704</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965880704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">703</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Pilgrimmen drager videre på sin rejse, opfyldt ikke blot af utilfredsstillet videnstrang, men også af synet af kvinden, der stiger op af Ildsøen. På vej til til Islams profet, Muhammed, møder Peregrinus i begyndelse af femte dagsrejse en anden søgende ånd fra sin kultur (og Dalgas' læsepensum), skotten Thomas Carlyle. Denne introducerer et tema, der optog Dalgas' samtid: forholdet mellem den store personlighed og de almindelige mennesker. Derfra føres vi til kaliffens enevælde og til profetens absolutte autoritet. Denne taler så stærkt til Peregrinus' rejsefælle, at han bliver tilbage. Søren Kierkegaards alter ego som muslim! Samtidig pointeres splittelsen mellem erkendelse og krop hos Peregrinus gennem eventyret med pigen Cressida, og han inddrages mere direkte i bogens store handling. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965878608</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965878608</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">706</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sjette dagsrejse fører fra Islam til den parsisme, der i Dalgas' samtid blev moderniseret af den tyske filosof Friedrich Nietzsche i hans værk om Zarathustra. Efter mødet med den gale Ahriman og hans overmenneskeforkyndelse, føres han til to samfund, der korresponderer til den moderne tid, stæderne Humanitas og Tolerance. Den første by terroriseres af anarkister, men kan måske reddes af comteske humanitetsreligiøse apostle. Skildringen af den anden rummer et satirisk billede af det totalt liberaliserede religionsmarked. Dagsrejsen ender i en betænkelig idyl: Folk kan leve i fred i De grønne Dales Land, hvis de kan holde deres mund med, hvem de er, og hvad de står for, som kirkestifteren Irving, der her lever sammen med vennen Carlyles kone. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965876624</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965876624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">709</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sjette dagsrejses udblik til nutidens muligheder er skræmmende, og det slynger den rejsende videre til skærsilden på den syvende dag. Her bliver spaltningen mellem viden og tro, hoved og krop, tydeligere. Først møder vi menneskets erkendelsesvilje gennem diskussionen om den sande kosmologi mellem verdens naturlærde, dernæst troens snildhed (jesuitten) og magt (paven). Modsætningerne i bogens univers viser sig ved, at figurer andre steder fra begynder at dukke op, og der opstår konfrontationer mellem de høje skikkelser. Bogen ændrer karakter fra illumineret religions- og filosofihistorie til egentlig filosofiction. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965875504</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965875504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">712</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I himmerige i ottende dagsrejse møder Peregrinus en noget mat Jomfru Maria og hendes søn, frelseren. Der er mere glød i det andet store par, han træffer denne dag: Antikrist og elskovens gudinde. Striden er for de to det store tema, ikke forsoningen, som kirken lærte - striden med den levende ildsø, og striden mellem guder og mellem mennesker. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965874432</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965874432</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">715</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Anden del fører altså fra den strengeste hævdelse af troens religiøse og politiske principper i Muhammeds verden frem til læren om strid og oprør som de højeste værdier. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965873664</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965873664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">718</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I værkets tredie og sidste del belæres man. Denne del, bogens svageste, fører i niende dagsrejse gennem den klassiske verden . Den tiende går til Manis persiske gnosticisme, kinesernes land og endelig til Indien, hvor vi i mytens form hører de sidste sandheder. I elvte dagsrejse samler Lucifer, den store Antikrist og Lysbringer, sine tropper, og han besejrer i dommedagsslaget den ildsø, der har voldt så meget besvær. Pilgrimmen drager med på turen, både som en moderne krigskorrespondent, og som budbringer i striden mellem Lucifer og kærlighedsgudinden. De to forsones med hans hjælp, så både den store strid med søen og den mindre, den mellem kønnene, kommer til en ende, så alt kan slutte som det skal i en roman: i den rene idyl. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965871728</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965871728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">721</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Buddha er den sande fader, og han er modpol til troens liv og al kropslighed, ren tanke, hvor ildsøen var lidenskab og salighed. I hans Nirvana på tolvte og sidste dagsrejse bliver bogens konklusion draget og sandhedens pensum og læresætninger udtrykkes umisforståeligt i paragrafform. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965870736</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965870736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Komposition</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">724</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Således bevæger handlingen i Dommedags Bog sig fra begyndelsens umiddelbare erfaring af livets grundkræfter gennem de forskellige personers og steders tydninger frem til den rene, positive nirvana-indsigt og med udslukkelsen af livsviljen som det sidste mål. Rejsen er slut, lektien givet for. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965864800</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965864800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">752</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I Dommedags Bog er der en hovedmodsætning mellem den livsvilje, der er synliggjort i Ildsøen, og den bevidsthed, der inkarneres i Buddha. Alle de positive skikkelser i bogens univers sættes ind for at kæmpe mod søen og al dens væsen, men de følger tilsyneladende og et stykke af vejen forskellige strategier, kaldet det store JA og det store NEJ. Begge positioner er dog forenet i den samme kamp, og de repræsenterer ikke et for og et imod de kræfter, der sammenfattes i symbolet Ildsøen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740966140480</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740966140480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">758</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den overordnede sammenhæng i bogens myte er, at Buddha, der taler om Nirvana som stræbensmål,. gøres til far til den store Eros eller Lucifer, der som hærfører samler sine mange vasaller fra de forskelligste kulturer til den sluttelige kamp mod søen. Faderen og hans NEJ og sønnen og hans JA er altså forenede i det samme projekt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965838608</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965838608</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">774</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">siger Lucifer til pilgrimmen Peregrinus på den elvte dagsrejse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965838080</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965838080</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">777</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som antydet i bogens ramme foregår denne kamp dels i det kosmiske rum, dels i det enkelte menneske. Den kan altså beskrives både på et filosofisk makroplan og på et psykologisk mikroplan. De to historier, den store og den lille, spejler hinanden. Her først lidt om det psykologiske plan. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965837088</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965837088</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">780</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Efter besejringen af Ildsøen siger Lucifer til pilgrimmen: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965833904</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965833904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">797</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hvordan man bærer sig ad med at føre denne strid i sit eget liv, kommer Lucifer ind på lidt senere, hvor han siger: "Men for dem, som ikke ville leve efter Afholdenhedens og Forsagelsens Lov, for dem skal jeg anvise Vejen til Frigørelse gennem at sige Ja". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965832976</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965832976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">800</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Forsagelsens vej, NEJ'et, er den klassiske buddhistiske teknik, hvor man gennem erkendelse vinder styrke til at sige nej til livstørsten, et tema der optog Dalgas og hans tid gennem den store interesse i perioden for buddhismen. Der kom mange bøger om emnet, og den tyske filosof Arthur Schopenhauer, der som den første i Dommedags Bog står som talsmand for denne vej, havde indarbejdet den individuelle dødelse af livsviljen i sin pessimistiske verdensfilosofi og i sin etiske tænkning. Dalgas søgte selv (i perioder) at virkeliggøre disse værdier i sin personlige livsførelse. Få dage før sin død skrev han i et manuskript: "17 Aar gammel blev jeg ved Bekjendtskabet med Enten - Eller paavirket af Kierkegaards Tankegang, og fra da af har min Tankegang haft et asketisk Præg" (manuskript betitlet "Mit Livs Eksperiment", i privat eje).. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965829600</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965829600</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">809</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ildsøen udtrykker altså på det psykologiske plan kroppens salighedsmuligheder, religiøse eller seksuelle, alt det, der fører til selvhengivelse, at give slip på bevidsthedens styring. At sige NEJ og holde hovedet koldt, var altså Dalgas' personlige valg. Men der er altså en anden mulighed, Lucifers JA. På denne vej udfolder man alle sine muligheder i et liv, der griber ind i verden. Det gælder den konsekvente, bevidste selvudfoldelse, der så at sige ikke efterlader instinktive eller ubevidste egne af personligheden, men i stedet bliver en disciplineret verdslig virken og hævdelse af selvet. Her løber tanker fra en række livsfilosofier, der var aktuelle på Dalgas' tid, sammen ikke mindst inspireret af de to Schopenhauer-disciple, Friedrich Nietzsche og Eduard von Hartmann, og af praktisk indisk etik. Det er denne vision af en mulig frelse gennem udfoldelse, der præger slutningen af Lidelsens Vej , som Dalgas færdigredigerede samtidig med, at han arbejdede med Dommedags Bog . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965825856</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965825856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">818</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dalgas var mest for NEJ-vejen, når det gjaldt ham selv personligt, mens han som kulturprogram for resten af verden mest var for JA. I en tolkning af den bibelske lignelse om vintræet med de mange grene i "Efterskrift" fra Lidelsens Vej så han NEJ som en mulighed inden for den store, kulturskabende JA-sammenhæng. Man kan kritisk sige, at budskabet i Dommedags Bog er kløvet, og at det hele ender med, at alting er muligt, bare det er konsekvent, og at der ikke gives en fælles, objektiv vej til frelse, men kun individuelle veje. Man vil også på dette punkt se, hvor langt Dalgas i sin søgen efter livets mål har bevæget sig bort fra samtidens overleverede kirkelighed og enhedskultur. Han er sandelig på egne veje, vanvittig, ensom og søgende, selv en pilgrim og spejder, der går fra galeanstalt til universitetsauditorium for at finde autentisk mening i sit liv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965822736</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965822736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">827</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For en filosofisk betragtning - og Dalgas var jo af fag filosof og vel orienteret i sit store stof - er det klart, at det er Schopenhauers buddhistisk-inspirerede tænkning, der ligger bag NEJ'et. Tænkeren bag JA'et er hans elev Eduard von Hartmann (1842-1906), hvis filosofi Dalgas var særdeles vel orienteret i. Det gjaldt ikke mindst hans store hovedværk Philosophie des Unbewussten (1868, "Det ubevidstes filosofi", ikke på dansk), der var sin tids mest studerede europæiske filosofiske system, og som også påvirkede Sigmund Freud afgørende. Bogen indledes med kvalificerede neurologiske afsnit, der skildrer bevidsthedens fysiske basis. Derfra føres man videre til en bevidsthedens metafysik og en pessimistisk etik, der bygger på et kulturhistorisk fundament, som skildrer processen frem mod verdens udslukkelse. Den menneskellige bevidsthed skal i følge Hartmann efterhånden dræne det ubevidste og dets livsvilje for kraft - hvor det'er var skal jeg'et være sagde hans elev Freud som bekendt. Når alt indhold i alle menneskers sind er bevidst, skal bevidsthedens kraft vende sig mod det ufornuftige liv, og verden skal ophøre med at eksistere. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965819280</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965819280</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Fortolkning</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">833</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hartmann behandler - ligesom Auguste Comte - det enkelte menneske og menneskeheden parallelt, og hvor Comte, som det fremgik af behandlingen af Lidelsens Vej , satser på den fulde, globale udfoldelse af hele menneskehedens fælles kultur under kærlighedens banner, dèr satser pessimisten Hartmann på udslukkelse af livet - og Dalgas fulgte ham til slut. Ganske bogstaveligt den julimorgen ved Damhussøen i 1899, da han satte punktum for, hvad han selv følte var et udslidt jeg på vej ind i ny sygdom. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965812736</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965812736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">862</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som det første udgivne bind af Ernesto Dalgas litterære efterladenskaber fik Dommedags Bog en vis opmærksomhed i presssen. Mest indforstået var Georg Esmann i Berlingske Tidende , der noterer om bogen: "Det er en Filosof, der har skrevet den, men det er lige saa meget en Digter og Fantast". Talentet for den malende stil fremhæves både som en fare og et held. Trods det kunstige i skildringen af de fjerne tankebygninger fremhæves, at Dalgas "med stor Kunst sammenstiller (...) hvad der i Buddhas Lære har Affinitet til den moderne Tanke", hvorfor "man læser ham med den største Interesse". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965809776</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965809776</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">871</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Edvard Brandes i Politiken kunne ikke mobilisere denne Interesse, og for ham var størrelser som Ildsøen, Riget Humanitas og Staden Tolerance besværlige, digteriske omskrivninger af forfatterens vistnok ganske sympatiske meninger om religion og autoriteter. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965808192</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965808192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">877</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nationaltidende s korte notits anførte, at bogen var en "uklar Blanding af Digt og Tænkning", mens Social-Demokratens anonyme anmelder med besvær havde læst den usædvanlige bog, der "fortjener at læses for sin højtstræbende Tankeflugt og sine poetiske Billeders Skyld". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965805904</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965805904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">885</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">De øvrige anmeldelser var få, korte og stort set negative. Bogen viser tidens fortvivlede mangel på tro, nævner anmelderen i Dannebrog , mens Vort Land mente, at tanken var løbet løbsk. Horsens Avis er ret positiv - der er bare så få, der har forudsætninger for at forstå den, sådan som anmelderen, der parallelliserer med Dantes Den guddommelige Komedie . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965802096</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965802096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelsen</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">900</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For sig står Helene Berg, der i Kvindesamfundets Blad finder, at hun i den både kaotiske og overfladiske bog af kvindepolitiske grunde må anholde såvel skildringen af Spinoza som kønslig libertinist som skildringen af den altfor villige pige Cressida. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965799312</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965799312</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Kritikken</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">914</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Frem til 2. udgave af Dommedags Bog (1965) er den blot blevet sporadisk behandlet af den litterære forskning, idet den største interesse har knyttet sig til Dalgas' Lidelsens Vej . Udover de kritikere, der er nævnt i afsnittet om dette værk, kan nævnes et par studier, der har taget Dalgas' forhold til Friedrich Nietzsche op. Det gælder Harald Beyers store værk Nietzsche og Norden (1959) og et utrykt projekt fra Roskilde Universitets Center (Hans Rodian Pedersen m.fl. Nietzsche i Danmark , 1992/93). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965794368</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965794368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">939</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965785920</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965785920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">996</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ernesto Dalgas: Krøniker og Æventyr , Jydsk Forlagsforretning, 1896 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965784784</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965784784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1002</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Geografiske Digte , Jydsk Forlagsforretning, 1896 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965783712</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965783712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1008</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Dommedags Bog , udgivet af Axel Mielche, Lehmann og Stages Boghandel, 1903 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965782496</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965782496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1014</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Dommedags Bog , 2. gennemsete Udgave ved Aage Henriksen og Henrik Schovsbo, Hans Reitzels Forlag, 1965 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965781248</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965781248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1020</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Dommedags Bog , tekstudgivelse, efterskrift og noter ved Henrik Schovsbo, Danske Klassikere , Det Danske Sprog- og Litteratursel skab/Borgen, 1996 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965779200</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965779200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1029</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Lidelsens Vej , udgivet af Axel Mielche, Lehmann og Stages Boghandel, 1903 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965777920</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965777920</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1035</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Lidelsens Vej , gennemset og med forord af Henrik Schovsbo, Hans Reitzels Forlag, 1963 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965776704</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965776704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1041</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Lidelsens Vej , Tekstudgivelse, efterskrift og noter af Henrik Schovsbo, Danske Klassikere , DSL/Borgen, 1996 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965774768</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965774768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1050</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Sangbog , udgivet af Axel Mielche, Lehmann og Stages Boghandel, 1903 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965773616</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965773616</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1056</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Digt og Skuespil, udgivet af Axel Mielche, Lehmann og Stages Boghan- del, 1904 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965772400</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965772400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1062</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Kundskabens Bog , udgivet af Leon Jaurnow, Hans Reitzels Forlag, 1995 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965771264</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965771264</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver:</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1068</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- Noveller og Fragmenter , udvalgt og indledt af Aage Henriksen, 1942 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965767664</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965767664</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1088</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Axel Garde: Dansk Aand , Gjellerups Forlag, 1908 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965766592</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965766592</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1094</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Otto Gelsted: "Ernesto Dalgas" i Sirius. Dansk Litteraturtidende , nr. 3, P. Haase og Søn, 1924 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965765344</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965765344</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1100</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Cai M. Woel: "Ernesto Dalgas", i Troubadourer , I, Woels Forlag, 1930 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965764192</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965764192</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1106</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jørgen Bukdahl: Det moderne Danmark , Aschehoug, 1931 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965763040</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965763040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1112</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">K.F. Plesner: "Dansk Dommedag" i Kulturbærere , Aschehoug, 1938 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965761872</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965761872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1118</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jacob Paludan: Litterært Selskab , Hasselbalch, 1956 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965760720</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965760720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1124</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Schovsbo: "Mulighedens discipel", Den blå port , nr. 17, Rhodos, 1991 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965759536</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965759536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1130</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Leon Jaurnow: "Bindekapsler med filosofisk indhold", Magasin . Det Kongelige Bibliotek, nr. 2, 1994 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965758352</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965758352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1136</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Juncker-Mikkelsen: "Genfærd er sindssyge ånder" , Press , nr. 100, 1994 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965757120</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965757120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1142</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Schovsbo: "Ernesto Dalgas", Bogens Verden , nr. 2, 1996 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965755968</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965755968</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet generelt</field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1148</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Endvidere henvises generelt til litteraturhistoriske oversigtsværker og til Dansk biografisk Leksikon , flere udgaver </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965752336</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965752336</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Krøniker og Æventyr
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1169</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Torben Brostrøm: Folkeeventyrets moderne genbrug , Gyldendal, 1987 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965751168</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965751168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Krøniker og Æventyr
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1175</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Jul Hansen m.fl. (red.): Samlerens antologi af nordisk litteratur, 8, 1973 ("De sidste Dage") </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965750672</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965750672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Krøniker og Æventyr
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1178</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Henrik Schovsbo: i Den blå port , nr. 17, Rhodos, 1991, ("De sidste Dage") </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965749488</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965749488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Krøniker og Æventyr
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1184</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bo Hakon Jørgensen: Fortællinger og kortprosa  1877-1907 , Danske Klassikere DSL/Borgen, 1991 ("Grev Høg") </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965745168</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965745168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Lidelsens Vej
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1207</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Aage Henriksen: "Ernesto Dalgas: Lidelsens Vej. En studie i romanens tilblivelseshistore", Orbis Litterarum , nr. 6, Gyldendal, 1948 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965743936</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965743936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Lidelsens Vej
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1213</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Aage Henriksen: "Kompositionens sprog", Gotisk tid , Gyldendal, 1971 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965742768</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965742768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Lidelsens Vej
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1219</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">- "Det borgerlige oprør", Kritik nr. 32, optrykt in Svanereden , Amadeus, 1990 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965740816</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965740816</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Lidelsens Vej
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1228</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lars Zøfting-Larsen m.fl.: Lidelsens Vej , RUC-projekt, 1993 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965739632</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965739632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Lidelsens Vej
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1234</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Frederik Stjernfelt: "Buddhas København", M. Barlyng m.fl. (red.): Københavnerromaner , Borgen 1996 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965736656</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965736656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Dommedags Bog
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1251</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Harald Beyer: Nietzsche og Norden , II, Bergen 1959 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">dalgas-p-val#idm139740965735520</field>
+    <field name="volume_id_ssi">dalgas-p-val</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgas-p-val#idm139740965735520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                  Dommedags Bog
+                </field>
+    <field name="author_name">Henrik Schovsbo</field>
+    <field name="author_id_ssi">Henrik%20Schovsbo</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">1257</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hans Rodian Pedersen m.fl.: Nietzsche i Danmark , RUC-projekt, 1992. </field>
+  </doc>
+</add>

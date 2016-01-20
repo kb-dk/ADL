@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim"/>
+    <field name="id">tycho-06-siquidagat</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140619693775488</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693769120</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693769120</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Si quid agat ...</field>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">81</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Si quid agat quæris toto quæ cognita c[oelo </field>
+    <field name="text_tesim">Vrania in terræ quæ tamen orbe [late]t, </field>
+    <field name="text_tesim">Vela pande et remos Huænæ pete littora paruæ: </field>
+    <field name="text_tesim">Parua orbis magni forsitan instar [erit. </field>
+    <field name="text_tesim">Hic expulsa diu toto et nunc exul in orbe </field>
+    <field name="text_tesim">Gauisa est lassos figere diua pedes. </field>
+    <field name="text_tesim">Chaldeos Arabes Græco[s </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693764992</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693764992</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Si quid agat ...</field>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">108</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Hvis du vil vide hvad Urania, der ellers er berømt i hele himlen, </field>
+    <field name="text_tesim">nu gør i skjul på jorden, </field>
+    <field name="text_tesim">Så stik til søs, og opsøg Hven, den lille ø </field>
+    <field name="text_tesim">- der nok er lille, men måske en afspejling af hele jorden. </field>
+    <field name="text_tesim">Her har gudinden - altid afvist, en landflygtig overalt på jorden - </field>
+    <field name="text_tesim">lykkeligt fundet hvile for de trætte fødder. </field>
+    <field name="text_tesim">Kaldæerne, araberne, grækerne ... </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693759568</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693759568</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">142</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Udgivet efter håndskrift: Österreichische Nationalbibliothek, Cod. Lat. 10689, 40. (Tidligere udgave: TBOO IX 215, m. noter: IX.328). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693758512</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693758512</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">148</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Kritiske bemærkninger: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693758064</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693758064</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">151</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">linie 2: [late]t ed., [fui]t Dreyer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693757632</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693757632</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">154</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">linie 3: Man kunne være fristet til at rette remos til remis. På den anden side må pande nødvendigvis være en fejl (p.g.a. metrikken), og det kan dække over et verbum der kan tage både vela og remos som objekter. I så fald ville man dog nok savne en konjunktion foran Huænæ. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693756656</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693756656</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">157</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">linie 4: Det manglende ord efter instar skyldes ikke beskadigelse af papiret, men må være en forglemmelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693756032</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693756032</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">160</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">linie 5: nunc: omni Dreyer. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-06-siquidagat#idm140619693755600</field>
+    <field name="volume_id_ssi">tycho-06-siquidagat</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-06-siquidagat#idm140619693755600</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140619693770608</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">163</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">linie 7: Teksten slutter her midt i et ord der ser ud som Græcol... l'et må dog være en fejl. De tre folkeslag der opremses er tydeligvis begyndelsen til en passage svarende til v. 49 ff. i digtet til Niels Kaas: en opremsning af de steder i verden hvor Urania ikke har fået lov at slå sig ned. </field>
+  </doc>
+</add>

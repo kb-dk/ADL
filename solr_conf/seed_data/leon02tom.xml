@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Leonora Christinas Jammers Minde</field>
+    <field name="id">leon02tom</field>
+    <field name="volume_id_ssi">leon02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/leon02tom#</field>
+    <field name="page_ssi">i</field>
+    <field name="page_id_ssi">idm140460280663040</field>
+    <field name="volume_title_tesim">Leonora Christinas Jammers Minde</field>
+    <field name="author_name">Ulfeldt, Leonora Christina</field>
+    <field name="author_id_ssi">Ulfeldt,%20Leonora%20Christina</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det Danske Sprog- og Litteraturselskab; C.A. Reitzel</field>
+    <field name="published_date_ssi">1998</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Jammers Minde</field>
+    <field name="id">leon02tom#workid54636</field>
+    <field name="volume_id_ssi">leon02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/leon02tom#workid54636</field>
+    <field name="page_ssi">1*</field>
+    <field name="page_id_ssi">idm140460280599904</field>
+    <field name="volume_title_tesim">Leonora Christinas Jammers Minde</field>
+    <field name="author_name">Ulfeldt, Leonora Christina</field>
+    <field name="author_id_ssi">Ulfeldt,%20Leonora%20Christina</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det Danske Sprog- og Litteraturselskab; C.A. Reitzel</field>
+    <field name="published_date_ssi">1998</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">231</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                      </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">leon02tom#idm140460280565584</field>
+    <field name="volume_id_ssi">leon02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/leon02tom#idm140460280565584</field>
+    <field name="page_ssi">16*</field>
+    <field name="page_id_ssi">idm140460280566352</field>
+    <field name="volume_title_tesim">Leonora Christinas Jammers Minde</field>
+    <field name="author_name">Ulfeldt, Leonora Christina</field>
+    <field name="author_id_ssi">Ulfeldt,%20Leonora%20Christina</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det Danske Sprog- og Litteraturselskab; C.A. Reitzel</field>
+    <field name="published_date_ssi">1998</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">264</field>
+    <field name="part_of_ssim">leon02tom#workid54636</field>
+    <field name="part_of_ssim">leon02tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">leon02tom#idm140460280243008</field>
+    <field name="volume_id_ssi">leon02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/leon02tom#idm140460280243008</field>
+    <field name="page_ssi">270</field>
+    <field name="page_id_ssi">n270</field>
+    <field name="volume_title_tesim">Leonora Christinas Jammers Minde</field>
+    <field name="author_name">Ulfeldt, Leonora Christina</field>
+    <field name="author_id_ssi">Ulfeldt,%20Leonora%20Christina</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det Danske Sprog- og Litteraturselskab; C.A. Reitzel</field>
+    <field name="published_date_ssi">1998</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">809</field>
+    <field name="part_of_ssim">leon02tom#workid54636</field>
+    <field name="part_of_ssim">leon02tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+</add>

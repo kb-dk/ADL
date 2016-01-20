@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Samlede Skrifter</field>
+    <field name="id">brandes02tom</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140648092649824</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Christian Winther (1796-1876)</field>
+    <field name="id">brandes02tom#workid54149</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid54149</field>
+    <field name="page_ssi">3</field>
+    <field name="page_id_ssi">idm140648092740784</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">127</field>
+    <field name="text_tesim">                                                             </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Emil Aarestrup (1800-1856)</field>
+    <field name="id">brandes02tom#workid54702</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid54702</field>
+    <field name="page_ssi">61</field>
+    <field name="page_id_ssi">idm140648092578000</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">251</field>
+    <field name="text_tesim">                                 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">H.C. Andersen (1805-1875)</field>
+    <field name="id">brandes02tom#workid54902</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid54902</field>
+    <field name="page_ssi">91</field>
+    <field name="page_id_ssi">idm140648092553360</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">319</field>
+    <field name="text_tesim">                                             </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Carl Bagger (1807-1846)</field>
+    <field name="id">brandes02tom#workid55181</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid55181</field>
+    <field name="page_ssi">133</field>
+    <field name="page_id_ssi">idm140648092515376</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">411</field>
+    <field name="text_tesim">                  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">A.L. Arnesen (1808-1860)</field>
+    <field name="id">brandes02tom#workid55287</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid55287</field>
+    <field name="page_ssi">148</field>
+    <field name="page_id_ssi">idm140648092502048</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">449</field>
+    <field name="text_tesim">      </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Fr. Paludan-Müller (1809-1876)</field>
+    <field name="id">brandes02tom#workid55315</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid55315</field>
+    <field name="page_ssi">151</field>
+    <field name="page_id_ssi">idm140648092498032</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">463</field>
+    <field name="text_tesim">                                                              </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Rinna Hauch (1811-1896)</field>
+    <field name="id">brandes02tom#workid55740</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid55740</field>
+    <field name="page_ssi">210</field>
+    <field name="page_id_ssi">idm140648092450144</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">589</field>
+    <field name="text_tesim">        </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">F.L. Liebenberg (1810-1894)</field>
+    <field name="id">brandes02tom#workid55781</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid55781</field>
+    <field name="page_ssi">215</field>
+    <field name="page_id_ssi">idm140648092444592</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">607</field>
+    <field name="text_tesim">             </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">C. Hostrup (1818-1892)</field>
+    <field name="id">brandes02tom#workid55854</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid55854</field>
+    <field name="page_ssi">225</field>
+    <field name="page_id_ssi">idm140648092434960</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">635</field>
+    <field name="text_tesim">                           </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Søren Kierkegaard (1813-1855)</field>
+    <field name="id">brandes02tom#workid56020</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid56020</field>
+    <field name="page_ssi">249</field>
+    <field name="page_id_ssi">idm140648092414480</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">691</field>
+    <field name="text_tesim">                                                                                                                                                                             </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Rasmus Nielsen (1809-1884)</field>
+    <field name="id">brandes02tom#workid57141</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57141</field>
+    <field name="page_ssi">419</field>
+    <field name="page_id_ssi">idm140648092278880</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1039</field>
+    <field name="text_tesim">          </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Hans Brøchner (1820-1875)</field>
+    <field name="id">brandes02tom#workid57195</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57195</field>
+    <field name="page_ssi">426</field>
+    <field name="page_id_ssi">idm140648092271648</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1061</field>
+    <field name="text_tesim">                 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">H.V. Kaalund (1818-1885)</field>
+    <field name="id">brandes02tom#workid57296</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57296</field>
+    <field name="page_ssi">440</field>
+    <field name="page_id_ssi">idm140648092258896</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1097</field>
+    <field name="text_tesim">          </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">M. Goldschmidt (1819-1887)</field>
+    <field name="id">brandes02tom#workid57351</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57351</field>
+    <field name="page_ssi">447</field>
+    <field name="page_id_ssi">idm140648092251664</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1119</field>
+    <field name="text_tesim">                         </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Chr. Richardt (1831-1892)</field>
+    <field name="id">brandes02tom#workid57505</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57505</field>
+    <field name="page_ssi">469</field>
+    <field name="page_id_ssi">idm140648092632256</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1171</field>
+    <field name="text_tesim">                         </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Fr. Nutzhorn (1834-1866)</field>
+    <field name="id">brandes02tom#workid57659</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57659</field>
+    <field name="page_ssi">491</field>
+    <field name="page_id_ssi">idm140648092238912</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1223</field>
+    <field name="text_tesim">           </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Jens Paludan-Müller (1838-1864)</field>
+    <field name="id">brandes02tom#workid57720</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57720</field>
+    <field name="page_ssi">499</field>
+    <field name="page_id_ssi">idm140648092231104</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1247</field>
+    <field name="text_tesim">                  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Julius Lange (1838-1896)</field>
+    <field name="id">brandes02tom#workid57828</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57828</field>
+    <field name="page_ssi">514</field>
+    <field name="page_id_ssi">idm140648092217920</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1285</field>
+    <field name="text_tesim">       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Vilhelm Thomsen (f.1842)</field>
+    <field name="id">brandes02tom#workid57863</field>
+    <field name="volume_id_ssi">brandes02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes02tom#workid57863</field>
+    <field name="page_ssi">518</field>
+    <field name="page_id_ssi">idm140648092213408</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1301</field>
+    <field name="text_tesim">         </field>
+  </doc>
+</add>

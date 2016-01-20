@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">jf-jacob-bibl</field>
+    <field name="volume_id_ssi">jf-jacob-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jf-jacob-bibl#idm140520643390960</field>
+    <field name="volume_id_ssi">jf-jacob-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#idm140520643390960</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">44</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Indtil videre findes kun en bibliografi for Jørgen-Frantz Jacobsen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jf-jacob-bibl#idm140520643389408</field>
+    <field name="volume_id_ssi">jf-jacob-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#idm140520643389408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">53</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">jf-jacob-bibl#idm140520643388512</field>
+    <field name="volume_id_ssi">jf-jacob-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#idm140520643388512</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">59</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">  Rühling, Lutz, ”’Weisser Nebel, Leere, Möwenschrei’. Die Glückskonzeption in Jørgen-Frantz Jacobsens Roman ’Barbara’”. Skandinavistik , XXXV, 2005, s. 41-57.  Isaksen, Jógvan, Livets geniale relief. Omkring Jørgen-Frantz Jacobsens roman ”Barbara” . 2001. 95 s.  W. Glynn Jones i: Dictionary of Literary Biography . Volume 214. Twentieth Century Danish Writers, 1999, s. 197-201.  Kristiansen, Erling, »Barbara og Kingo-kulturen«. Højskolebladet , 1997, s. 302-04.  Mørk, Kristian, »Å verden, verden! Om Jørgen-Frantz Jacobsens 'Barbara'«. Spring , nr. 11, 1997, s. 16-30.  Omkring »Barbara«. En antologi . 1997. 174 s. (Bidrag af William Heinesen, Jógvan Isaksen, Chr. Matras, Jakob Jakobsen, John Mogensen, Gunnar Møller Pedersen, Jørgen Fisker og Nils Malmros.)  Svendsen, Erik, »'Barbara' - en overvurderet prædiken«. Bogens Verden , 1997, nr. 6, s. 2-7. (Om bogen og filmen.)  Jógvan Isaksen: Færøsk litteratur , 1992, s. 77-96  Matvejeva, M. B., [På russisk: "'Det dyrebare liv', Jørgen-Frantz Jacobsens breve til William Heinesen".] Skandinavskaja Filologija , V, 1991, s. 137-45.  Jacobsen, Anna Catrine og Hanna, "Jørgen-Frantz Jacobsen". Varðin , LVII, 1990, s. 113-21.  Jones, W. Glyn, "Duality and Dualism. Jørgen-Frantz Jacobsen (1900-1938) Reassessed". SCANDINAVICA , XXVII, 1988, s. 133-51.  Elbrønd-Bek, Bo, »Jørgen-Frantz Jacobsen - mellem tradition og modernitet«. Bogens Verden , 1986, s. 54-56. (Smst., s. 51-53, offentliggøres erindringsessayet »Min Barndom paa Reyn«.)  Elbrønd-Bek, Bo, »Historien om et fragment«. Fredag , nr. 2, 1985, s. 84-87. (Om Jørgen-Frantz Jacobsens »Barbara«.) (Smst., s. 88-91, offentliggøres erindringsskitsen »Kundskabens træ«.)  Billeskov Jansen, F. J., »Jørgen-Frantz Jacobsens 'Barbara'«. I: Hvad Fatter gjør... 1982. S. 62-76. (S. 71-76 er et tillæg med tre breve fra JFJ, 1937-38.)  Hagström, Björn, »Barbara på färöiska - kring en översättning«. Nordisk tidskrift för vetenskap, konst och industri , LI, 1975, s. 335-53. [Jørgen-Frantz Jacobsen.]  Matras, Chr., »Jørgen-Frantz Jacobsen. Writer and Friend«. Føroyar. Welcome to the Faroes , IX, 1975, s. 91, 93, 95 og 97.  Brønner, Hedin, »Jørgen-Frantz Jacobsen and 'Barbara'«. The American-Scandinavian Review , LXI, 1973, s. 39-45.  William Heinesen: Det dyrebare Liv. Breve , 1958  Breve (red. Chr. Matraas), 1941   </field>
+  </doc>
+</add>

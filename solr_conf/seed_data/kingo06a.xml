@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Samlede skrifter 6A</field>
+    <field name="id">kingo06a</field>
+    <field name="volume_id_ssi">kingo06a</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo06a#</field>
+    <field name="page_ssi">I</field>
+    <field name="page_id_ssi">idm140026744386096</field>
+    <field name="volume_title_tesim">Samlede skrifter 6A</field>
+    <field name="author_name">Kingo, Thomas</field>
+    <field name="author_id_ssi">Kingo,%20Thomas</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Munksgaard</field>
+    <field name="published_date_ssi">1939-74.</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">0</field>
+  </doc>
+</add>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim"/>
+    <field name="id">tycho-05-epigrammersofiebrahe-eriklange</field>
+    <field name="volume_id_ssi">tycho-05-epigrammersofiebrahe-eriklange</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-05-epigrammersofiebrahe-eriklange#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm139829199125008</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-05-epigrammersofiebrahe-eriklange#idm139829199118864</field>
+    <field name="volume_id_ssi">tycho-05-epigrammersofiebrahe-eriklange</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-05-epigrammersofiebrahe-eriklange#idm139829199118864</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm139829199120528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim"> En spøg, skrevet af Tycho Brahe sammen med hans søster Sophie
+        på Anders Skels gård.</field>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">78</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Juno er svag for rigdom, men forkaster ikke kærlighed, </field>
+    <field name="text_tesim">Calliope fremsynger sine vers i higen efter kærlighed, </field>
+    <field name="text_tesim">Urania, der gransker himlen, grubler over kærlighed. </field>
+    <field name="text_tesim">Hvem skulle tro en lille en som Amor helt alene </field>
+    <field name="text_tesim">kunne besejre tre så mægtige gudinder? </field>
+    <field name="text_tesim">og når gudinder bøjer sig for kærligheden, må også I give efter for den, dødelige. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-05-epigrammersofiebrahe-eriklange#idm139829199115040</field>
+    <field name="volume_id_ssi">tycho-05-epigrammersofiebrahe-eriklange</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-05-epigrammersofiebrahe-eriklange#idm139829199115040</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm139829199120528</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim"> En spøg, skrevet af Tycho Brahe sammen med hans søster Sophie
+        på Anders Skels gård.</field>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">101</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Kære Sophie, din egen Erik sender denne hilsen, </field>
+    <field name="text_tesim">men, åh, hvor ville han ønske det var sig selv han sendte. </field>
+    <field name="text_tesim">Han sukker og han stønner over ikke at kunne sende kroppen </field>
+    <field name="text_tesim">og derved skilles ånden uophørligt fra sin krop. </field>
+    <field name="text_tesim">Min ånd forlader mig, fordi jeg elsker - fordi jeg lever i en andens krop. </field>
+    <field name="text_tesim">Ved kærligheden mon hvad det vil sige at leve sådan? </field>
+    <field name="text_tesim">Jeg skyder skylden først på vinden så på sejl og ror, </field>
+    <field name="text_tesim">samt at du tog herfra, og at jeg ingen breve får tilbage. </field>
+  </doc>
+</add>

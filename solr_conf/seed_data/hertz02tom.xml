@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="id">hertz02tom</field>
+    <field name="volume_id_ssi">hertz02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz02tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm139961062980944</field>
+    <field name="volume_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="author_name">Hertz, Henrik</field>
+    <field name="author_id_ssi">Hertz,%20Henrik</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1897</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">En Dag paa Øen Als</field>
+    <field name="id">hertz02tom#workid54241</field>
+    <field name="volume_id_ssi">hertz02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz02tom#workid54241</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="author_name">Hertz, Henrik</field>
+    <field name="author_id_ssi">Hertz,%20Henrik</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1897</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">75</field>
+    <field name="text_tesim">                                                                                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Den eneste Feil</field>
+    <field name="id">hertz02tom#workid55358</field>
+    <field name="volume_id_ssi">hertz02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz02tom#workid55358</field>
+    <field name="page_ssi">101</field>
+    <field name="page_id_ssi">n101</field>
+    <field name="volume_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="author_name">Hertz, Henrik</field>
+    <field name="author_id_ssi">Hertz,%20Henrik</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1897</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">283</field>
+    <field name="text_tesim">                                                                                                                                             </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Debatten i Politivennen</field>
+    <field name="id">hertz02tom#workid56780</field>
+    <field name="volume_id_ssi">hertz02tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz02tom#workid56780</field>
+    <field name="page_ssi">239</field>
+    <field name="page_id_ssi">n239</field>
+    <field name="volume_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="author_name">Hertz, Henrik</field>
+    <field name="author_id_ssi">Hertz,%20Henrik</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1897</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">567</field>
+    <field name="text_tesim">                                                                                                                                                          </field>
+  </doc>
+</add>

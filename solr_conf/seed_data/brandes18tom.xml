@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Samlede Skrifter</field>
+    <field name="id">brandes18tom</field>
+    <field name="volume_id_ssi">brandes18tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes18tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140381980388768</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Mennesker</field>
+    <field name="id">brandes18tom#workid54163</field>
+    <field name="volume_id_ssi">brandes18tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes18tom#workid54163</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140381980464816</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">83</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                             </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Politiske Forhold</field>
+    <field name="id">brandes18tom#workid56620</field>
+    <field name="volume_id_ssi">brandes18tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes18tom#workid56620</field>
+    <field name="page_ssi">347</field>
+    <field name="page_id_ssi">idm140381980086768</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">783</field>
+    <field name="text_tesim">                                                                                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Taler</field>
+    <field name="id">brandes18tom#workid57284</field>
+    <field name="volume_id_ssi">brandes18tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes18tom#workid57284</field>
+    <field name="page_ssi">447</field>
+    <field name="page_id_ssi">idm140381980005904</field>
+    <field name="volume_title_tesim">Samlede Skrifter</field>
+    <field name="author_name">Brandes, Georg</field>
+    <field name="author_id_ssi">Brandes,%20Georg</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1899-1910</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">991</field>
+    <field name="text_tesim">                                                                               </field>
+  </doc>
+</add>

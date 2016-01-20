@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Landsbybørnene, Bd. 2</field>
+    <field name="id">ingemann07tom</field>
+    <field name="volume_id_ssi">ingemann07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann07tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Landsbybørnene, Bd. 2</field>
+    <field name="author_name">Ingemann, B. S.</field>
+    <field name="author_id_ssi">Ingemann,%20B.%20S.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det danske Forlag</field>
+    <field name="published_date_ssi">1943</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Landsbybørnene. Tredie Del</field>
+    <field name="id">ingemann07tom#workid54252</field>
+    <field name="volume_id_ssi">ingemann07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann07tom#workid54252</field>
+    <field name="page_ssi">5</field>
+    <field name="page_id_ssi">n5</field>
+    <field name="volume_title_tesim">Landsbybørnene, Bd. 2</field>
+    <field name="author_name">Ingemann, B. S.</field>
+    <field name="author_id_ssi">Ingemann,%20B.%20S.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det danske Forlag</field>
+    <field name="published_date_ssi">1943</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">74</field>
+    <field name="text_tesim">                                                                                                                                                                               </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Landsbybørnene. Fjerde Del</field>
+    <field name="id">ingemann07tom#workid56129</field>
+    <field name="volume_id_ssi">ingemann07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann07tom#workid56129</field>
+    <field name="page_ssi">177</field>
+    <field name="page_id_ssi">n177</field>
+    <field name="volume_title_tesim">Landsbybørnene, Bd. 2</field>
+    <field name="author_name">Ingemann, B. S.</field>
+    <field name="author_id_ssi">Ingemann,%20B.%20S.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi">Det danske Forlag</field>
+    <field name="published_date_ssi">1943</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">426</field>
+    <field name="text_tesim">                                                                                                                                                                 </field>
+  </doc>
+</add>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
+    <field name="id">munp3</field>
+    <field name="volume_id_ssi">munp3</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/munp3#</field>
+    <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
+    <field name="author_name">Munch-Petersen, Gustaf</field>
+    <field name="author_id_ssi">Munch-Petersen,%20Gustaf</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">et indiskret svar paa et diskret spørgsmaal - upubliceret, 1931</field>
+    <field name="id">munp3#workid54091</field>
+    <field name="volume_id_ssi">munp3</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/munp3#workid54091</field>
+    <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
+    <field name="head_tesim">Upubliceret</field>
+    <field name="author_name">Munch-Petersen, Gustaf</field>
+    <field name="author_id_ssi">Munch-Petersen,%20Gustaf</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">57</field>
+    <field name="text_tesim"> Upubliceret   et indiskret svar paa et diskret spørgsmaal upubliceret, 1931   du siger  jeg sagde  du spørger  jeg svarer  jeg drømte  om natten  langt nede  langt borte  fra dig. -  i sengen  jeg drømte  jeg troede  vi sammen  om natten  i pyjamas  var jeg. -  [i] ingenting?  var du.  du var eet  med dig sæl  og med mig, -  du luktede  himmelsk  af aande  og sved.  du bed mig  paa næsen  men dejligt  det lød.  som paa skyer  vi laa jo  vi var kun  hvad andet  men sammen,  vi svømmede  rundt i  hinanden.  saa faldt vi  faldt hurtig  vi to.  i vanvidet op.  saa steg du  saa faldt jeg  fra himlen  og endte  i sengen  paa jorden  langt borte fra dig     </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">munp3#idm139786700562640</field>
+    <field name="volume_id_ssi">munp3</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/munp3#idm139786700562640</field>
+    <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
+    <field name="head_tesim">et indiskret svar paa et diskret spørgsmaal
+	  
+	  upubliceret, 1931
+	  </field>
+    <field name="author_name">Munch-Petersen, Gustaf</field>
+    <field name="author_id_ssi">Munch-Petersen,%20Gustaf</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">67</field>
+    <field name="part_of_ssim">munp3#workid54091</field>
+    <field name="part_of_ssim">munp3</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">du siger </field>
+    <field name="text_tesim">jeg sagde </field>
+    <field name="text_tesim">du spørger </field>
+    <field name="text_tesim">jeg svarer </field>
+    <field name="text_tesim">jeg drømte </field>
+    <field name="text_tesim">om natten </field>
+    <field name="text_tesim">langt nede </field>
+    <field name="text_tesim">langt borte </field>
+    <field name="text_tesim">fra dig. - </field>
+    <field name="text_tesim">i sengen </field>
+    <field name="text_tesim">jeg drømte </field>
+    <field name="text_tesim">jeg troede </field>
+    <field name="text_tesim">vi sammen </field>
+    <field name="text_tesim">om natten </field>
+    <field name="text_tesim">i pyjamas </field>
+    <field name="text_tesim">var jeg. - </field>
+    <field name="text_tesim">[i] ingenting? </field>
+    <field name="text_tesim">var du. </field>
+    <field name="text_tesim">du var eet </field>
+    <field name="text_tesim">med dig sæl </field>
+    <field name="text_tesim">og med mig, - </field>
+    <field name="text_tesim">du luktede </field>
+    <field name="text_tesim">himmelsk </field>
+    <field name="text_tesim">af aande </field>
+    <field name="text_tesim">og sved. </field>
+    <field name="text_tesim">du bed mig </field>
+    <field name="text_tesim">paa næsen </field>
+    <field name="text_tesim">men dejligt </field>
+    <field name="text_tesim">det lød. </field>
+    <field name="text_tesim">som paa skyer </field>
+    <field name="text_tesim">vi laa jo </field>
+    <field name="text_tesim">vi var kun </field>
+    <field name="text_tesim">hvad andet </field>
+    <field name="text_tesim">men sammen, </field>
+    <field name="text_tesim">vi svømmede </field>
+    <field name="text_tesim">rundt i </field>
+    <field name="text_tesim">hinanden. </field>
+    <field name="text_tesim">saa faldt vi </field>
+    <field name="text_tesim">faldt hurtig </field>
+    <field name="text_tesim">vi to. </field>
+    <field name="text_tesim">i vanvidet op. </field>
+    <field name="text_tesim">saa steg du </field>
+    <field name="text_tesim">saa faldt jeg </field>
+    <field name="text_tesim">fra himlen </field>
+    <field name="text_tesim">og endte </field>
+    <field name="text_tesim">i sengen </field>
+    <field name="text_tesim">paa jorden </field>
+    <field name="text_tesim">langt borte fra dig </field>
+  </doc>
+</add>

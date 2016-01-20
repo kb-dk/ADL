@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim"> Varianter, noter og registre. - 1956-64</field>
+    <field name="id">grundtvig16tom</field>
+    <field name="volume_id_ssi">grundtvig16tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/grundtvig16tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm139640087459744</field>
+    <field name="volume_title_tesim"> Varianter, noter og registre. - 1956-64</field>
+    <field name="author_name">Grundtvig, N. F. S.</field>
+    <field name="author_id_ssi">Grundtvig,%20N.%20F.%20S.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1944-1964</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">grundtvig16tom#idm139640086749808</field>
+    <field name="volume_id_ssi">grundtvig16tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/grundtvig16tom#idm139640086749808</field>
+    <field name="page_ssi">569</field>
+    <field name="page_id_ssi">n569</field>
+    <field name="volume_title_tesim"> Varianter, noter og registre. - 1956-64</field>
+    <field name="author_name">Grundtvig, N. F. S.</field>
+    <field name="author_id_ssi">Grundtvig,%20N.%20F.%20S.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1944-1964</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">1216</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+</add>

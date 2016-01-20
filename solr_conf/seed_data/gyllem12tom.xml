@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">samlede skrifter af Forf</field>
+    <field name="id">gyllem12tom</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm139891795841936</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">To Tidsaldre (1845)</field>
+    <field name="id">gyllem12tom#workid54255</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#workid54255</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">88</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                       </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Til Kjøbenhavns flyvende Post</field>
+    <field name="id">gyllem12tom#workid56869</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#workid56869</field>
+    <field name="page_ssi">247</field>
+    <field name="page_id_ssi">n247</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">590</field>
+    <field name="text_tesim">           </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">gyllem12tom#idm139891795508608</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#idm139891795508608</field>
+    <field name="page_ssi">256</field>
+    <field name="page_id_ssi">n256</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">609</field>
+    <field name="part_of_ssim">gyllem12tom#workid56869</field>
+    <field name="part_of_ssim">gyllem12tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Til den flyvende Post, fra 219</field>
+    <field name="id">gyllem12tom#workid56972</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#workid56972</field>
+    <field name="page_ssi">257</field>
+    <field name="page_id_ssi">n257</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">615</field>
+    <field name="text_tesim">            </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">gyllem12tom#idm139891795493616</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#idm139891795493616</field>
+    <field name="page_ssi">267</field>
+    <field name="page_id_ssi">n267</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">636</field>
+    <field name="part_of_ssim">gyllem12tom#workid56972</field>
+    <field name="part_of_ssim">gyllem12tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Til den flyvende Post, fra 220</field>
+    <field name="id">gyllem12tom#workid57091</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#workid57091</field>
+    <field name="page_ssi">268</field>
+    <field name="page_id_ssi">n268</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">642</field>
+    <field name="text_tesim">            </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">gyllem12tom#idm139891795478912</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#idm139891795478912</field>
+    <field name="page_ssi">278</field>
+    <field name="page_id_ssi">n278</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">663</field>
+    <field name="part_of_ssim">gyllem12tom#workid57091</field>
+    <field name="part_of_ssim">gyllem12tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">I Anledningen af en Blikkenslagers Brev i Fædrelandet (1837) Nr, 152</field>
+    <field name="id">gyllem12tom#workid54317</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#workid54317</field>
+    <field name="page_ssi">279</field>
+    <field name="page_id_ssi">n279</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">669</field>
+    <field name="text_tesim">        </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">gyllem12tom#idm139891795468992</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#idm139891795468992</field>
+    <field name="page_ssi">285</field>
+    <field name="page_id_ssi">n285</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">682</field>
+    <field name="part_of_ssim">gyllem12tom#workid54317</field>
+    <field name="part_of_ssim">gyllem12tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Jens Drabelig</field>
+    <field name="id">gyllem12tom#workid54393</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#workid54393</field>
+    <field name="page_ssi">286</field>
+    <field name="page_id_ssi">n286</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">688</field>
+    <field name="text_tesim">            </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">gyllem12tom#idm139891795454064</field>
+    <field name="volume_id_ssi">gyllem12tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem12tom#idm139891795454064</field>
+    <field name="page_ssi">296</field>
+    <field name="page_id_ssi">n296</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">709</field>
+    <field name="part_of_ssim">gyllem12tom#workid54393</field>
+    <field name="part_of_ssim">gyllem12tom</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"/>
+  </doc>
+</add>

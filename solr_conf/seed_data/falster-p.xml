@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">falster-p</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252277072</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252277072</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">49</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Christian Falsters forfatterskab er nemt at overskue. Hvad enten man vælger at inddele efter sproglige, genremæssige, kronologiske eller bibliografiske kriterier, vil man finde, at hans vægtigste litterære indsats falder i to grupper: dels de otte originale, dansksprogede satirer (hvortil slutter sig en oversættelse af Juvenals 14. satire), udgivelseskronologisk koncentreret i 1720'erne og for flertallets vedkommende udsendt som anonyme separattryk, dels de 125 essays på latin (hvortil slutter sig et par længere filologiske afhandlinger om Aulus Gellius, se nedenfor: "Satirer"), der blev udgivet 1729-31 i Amsterdam under titlen Amoenitates philologicæ sive discursus varii I-III ( Filologiske fornøjelser eller forskellige drøftelser , oversat til dansk af Jørgen Olrik som Lærdoms Lystgaard eller Adskillige Discurser I-III, DSL 1919-20) med forfatternavn. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252273376</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252273376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">61</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mens essayene i dag mest har litteratur- og lærdomshistorisk interesse, lader de danske verssatirer sig stadig læse med udbytte og fornøjelse, ikke mindst i kraft af deres påfaldende slægtskab med Holbergs komedier; Falster deler i vidt omfang figurtyper og holdninger med sin store samtidige, i hvis skygge han altid har måttet stå. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252272288</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252272288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">64</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra den flittige skribents hånd har vi, foruden de nævnte to grupper litterære skrifter, et betydeligt antal mindre arbejder, hovedsagelig afhandlinger på latin om klassisk-filologiske emner (se H. Ehrencron-Müller: Forfatterlexikon , bd. III, 1926, s. 18-23). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252270704</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252270704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">70</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Hele Falsters forfatterskab tegner billedet af en lærd og engageret humanist, fast i troen på luthersk kristendom og loyal mod den danske enevælde, en lidt gammeldags moralist, men ingenlunde fremmed for oplysningstidens dyrkelse af kritisk fornuft. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252268720</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252268720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">79</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chr. Falster fødtes den 1. januar 1690 som søn af sognepræsten i Branderslev ved Nakskov (død 1695), efter hvem han er opkaldt, og efter hvis ønske sønnen blev holdt til bogen. 1704-08 gik Falster i Nykøbing F. lærde skole, hvor han erhvervede rige humanistiske og musikalske kundskaber og blev student. 1709 vendte han tilbage til sin gamle skole som hører og kantor; det mellemliggende år havde han studeret ved Københavns Universitet og erhvervet baccalaur-graden (efter en slags basis-uddannelse), men fortsatte med sit teologiske studium, som han dog afbrød uden eksamen, da han 1712 blev kaldet til konrektor ved Ribe latinskole, hvor han forblev livet ud, fra 1723 som skolens rektor. Efter at have taget magistergraden 1714 fik han flere gange tilbudt avancementsstillinger, som han afslog: universitetsprofessorater (1719, 1732) og et rektorat i Roskilde (1726) - han synes, forsigtig og stilfærdig, at have været godt tilfreds med sin tilbagetrukne, men ingenlunde upåagtede stilling som ripensisk pædagogus . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252265728</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252265728</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">85</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Helt uden ærgrelser forløb Falsters rektorår dog ikke, og selv synes han (som senere Søren Kierkegaard (1813-55)) at have haft tilbøjelighed til at lade sporadiske tilfælde af modgang og modstand antage urimelige dimensioner. Der var nu flere af slagsen, alle i forbindelse med embedet. Det rektorat ved Ribe Katedralskole, som Falster overtog 1723, var for det første så dårligt lønnet, at han måtte se sig om efter supplerende indkomster. Han ansøger derfor kongen om at måtte forene konrektoratet med rektoratet og altså oppebære begge lønninger, mod af sin egen lomme at aflønne en sub-rektor (til en lavere gage end konrektorens), hvilket tidligere havde været praksis på skolen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252263904</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252263904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografi</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">88</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Tilsyneladende støttes Falsters ansøgning af hans foresatte, biskop Laurids Thuras anbefaling - men kun tilsyneladende, for velærværdigheden driver et dobbeltspil, modarbejder i virkeligheden Falsters sag til fordel for sin egen søn Albert Thura (litteraturhistorikeren, 1700-40), som han ønsker indsat som konrektor. Med assistance fra andre og mere helhjertede beskyttere som oversekretær Fr. Rostgaard og grev U.A. von Holstein ender Falster dog med at få sin ansøgning imødekommet, men er blevet en illusion om venners pålidelighed fattigere. For det andet gerådede Falster i konflikt med L. Thuras efterfølger, Mathias Anchersen, over retten til udnævnelse af en subrektor i 1733, og denne gang måtte Falster indkassere en næse fra allerhøjeste sted. Derimod stod Falster på autoriteternes side i striden med skolens pietistiske hørere 1735. Falsters sidste kompetencestrid med biskop Anchersen fandt sted 1738 og udløstes ved dennes afgørelser vedr. skoledisciplenes medvirken ved korsangen i kirken. I denne sag både havde og fik Falster uret. Om disse sager får man veldokumenteret underretning i: Bruun: Falsteriana , 1869, s. 1-31, Kornerup: Ribe Katedralskoles Historie , bd. II, 1952, s. 121-239 og Falster: Satirer, 1720-42 , bd. II, udg. af Aage Schiøttz-Christensen, DSL 1982, s. 46-51. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252232480</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252232480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, form, idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">175</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Om udgivelsen af Falsters danske verssatirer som gennemgående anonyme separattryk i intervallet 1720-30 er der talt ovenfor; efterslættet på tre digte udgivet 1739-42 afviger i en eller flere henseender herfra, hvorledes vil der blive redegjort for i det følgende under behandlingen af de enkelte digte. Her skal først nogle generelle aspekter af Falsters satiredigtning berøres. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252231360</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252231360</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, form, idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">178</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den sikkerhed og selvfølgelighed, hvormed vi fastsætter antallet af Falsters danske satirer til ni (en hovedgruppe på 6 + et efterslæt på 3, heriblandt Juvenal-oversættelsen) er i virkeligheden af ret ny dato, idet der først med Aage Schiøttz-Christensens artikel "Er de satirer, der tillægges Falster, alle autentiske?" ( Danske Studier 1980, s. 126-33) forelå en tvingende argumentation for, at de ni nævnte (hvoraf otte anonyme) satirer - og kun disse - burde anses for at være forfattede af Falster. Tidligere havde litteraturhistorikere, bibliografer og monografi-forfattere desuden tillagt Falster flg. fire anonymt udgivne satirer: Det daarlige Gifter-Maal (1722), Nyttig og absolut nødvendig Betænkning om Frieri og Giftermaal (1734), Gierigheds Afmaling (1722) og Aarhuus-Tids-Fordriv Over Nickels Avanture (u.å.), der nu forsigtigvis må udskilles som apokryfe. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252331056</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252331056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, form, idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">196</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Derpå et par bemærkninger om den fælles genre: (vers-)satiren. Her må den bibliografiske iagttagelse forudskikkes, at intet titelblad til Falsters originale digte bærer denne (eller nogen anden) genrebetegnelse, kun Juvenal-oversættelsen præsenterer sig som "SATYRA"; derimod omtaler Falster i Lærdoms Lystgaard s anden part (1731) to af sine tidlige satirer som sådanne (hhv. 12. diskurs s. 82 og 16. diskurs s. 104). Satiren var en af romernes få bidrag til den litterære genrologi; i overensstemmelse med ordets oprindelige betydning ("en skål med blandet indhold", NB: uden forbindelse med ordet "satyr") stilledes der i antikken ingen krav til satirens indhold, der kunne være næsten hvad som helst, kun til dens versemål, der måtte være hexametret. Først senere tider har defineret genren ved dens revsende sædekritik og karakter af skændepræken, et kriterium, som Falsters satirer opfylder med fynd og klem. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252328624</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252328624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, form, idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">202</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som dansk digter følger Falster ej heller de gamles hexametre, men benytter overalt den ottelinjede såkaldte Bording-strofe med vekslende tre- og firefodsjamber og krydsrim. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252327872</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252327872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, form, idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">205</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Idet Falster påbegynder sin dansksprogede satiredigtning omkr. 1720, bliver denne samtidig med dansk satiredigtning af Fr. Horn (1708-81) og først og fremmest Holberg, der 1722 udgav Hans Mikkelsens 4re Skiemte-Digte Med [...] Zille Hans Dotters Forsvars-Skrift For Qvinde-Kiønned (af hvilke "Democritus og Heraclitus" var blevet udsendt separat året før); de to satirikere havde på hjemlig grund forgængere som H. Lauremberg (1590-1658), Vilh. Helt (1652-1724), T. Reenberg (1656-1742) og J. Sorterup (1662-1723), for ikke at tale om Jacob Worm (1642-ca.93), for hvem satiredigtningen blev skæbnesvanger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252212160</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252212160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, form, idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">211</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Når læseren af Falsters satirer opdager, hvorledes forfatteren revser samtidens sæder eller kulturvaner ved at udstille sine narretyper til grin og afskrækkelse, vil denne læser dog nok snarere end til Holbergs satirer associere til sammes komedier . Sammenstillingen af Falsters satirer og Holbergs komedier forekommer indlysende - ikke kun på grund af samtidigheden, og en sammenligning kan næsten ikke undgå at blive interessant, hvad enten man søger ligheder eller forskelle. Vi skal her indskrænke os til følgende: Hos begge forfattere, i begge tekst-korpusser, er der tale om sammenstød mellem to sæt af værdinormer, hvoraf det ene afvises, mens det andet nyder fremme som det 'rigtige'. Hos dramatikeren Holberg bliver denne afgørelse eller 'poetiske retfærdighed' tydelig ved, at de personer, der repræsenterer de gode og 'fornuftige' værdier, går sejrrige ud af magtkampen og så at sige vinder spillet, mens narrene står som tabere ved komediens afslutning, efter fortjeneste. Hos satirikeren Falster fældes den moralske dom mellem parterne mere explicit af digtets vurderende jeg - der selvfølgelig principielt er et fiktionalt tekst-element, men som kendere af Falsters øvrige forfatterskab let genkender som 'forfatterens stemme'. De negative og afviste værdinormer viser sig nu at have afgørende fællestræk i Falsters satirer og Holbergs komedier, idet der begge steder er tale om, at narrene hylder værdinormer, der er fremmedartede og afstikkende (esoteriske) i forhold til deres hjemlige milieu og samtidig præges af en pralende fremvisning af status-symboler (repræsentativitet). Derimod er de positive værdinormer, der skal fremstå som efterlignelsesværdige og moralsk mønstergyldige, af en forskellig karakter i Holbergs komedier og Falsters satirer: Første sted hyldes først og fremmest den sociale nytteværdi, andet sted, hvad man generaliserende kan kalde 'de gamle dyder', hvis rødder kan søges i gammellutheranisme eller stoicisme (man associerer let til Kingos (1634-1703) idealportræt af Niels Juel: "En Mand af gammel Dyd og Dansk Oprigtighed, /Af Ja og Ney og hvad mand Got og Ærligt veed!", Thomas Kingo: Digtning i udvalg , udg. af Marita Akhøj Nielsen, DSL 1995, s. 408). Disse iagttagelser turde have en vis generel gyldighed, men de anførte ligheder og forskelle træder måske tydeligst frem i de tilfælde, hvor et tæt motivslægtskab mellem en Falster-satire og en Holberg-komedie næsten fremtvinger en sammenligning og har fået litteraturforskere til at tale om en mulig direkte indflydelse eller påvirkning fra den første på den sidste, nemlig Falsters Dend Daarlige Udenlandske Rejse Og Modige Hiemkomst (1721) i forhold til Holbergs Jean de France (1723) samt Falsters Dend U-tidige Rang-Syge (1722) i forhold til Holbergs Den honnette  Ambition (1731) og måske også Den politiske Kandstøber (1723). (Nærmere vedr. den her skitserede sammenstilling Falster-Holberg, se: Jens Kr. Andersen: Holbergs kilder? , 1993, s. 271 f. og s. 293 og samme i: Danske Studier 1984, s. 146-48). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252199568</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252199568</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">252</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Disse Tiders Onde [dvs. dårlige] Optugtelse udkom 1720, desværre med et fejlagtigt år (1716) på titelbladet, og blev derefter optrykt i hurtig følge indtil 7. oplag 1749. Satiren henvender sig bebrejdende til forældre, der forsømmer deres børns opdragelse og foregår dem med et dårligt eksempel. En række afskrækkende typer mønstres: En spillefugl genererer nye spillere og svindlere (strofe 8-16), gourmand'ens børn bliver kræsne ædedolke (strofe 17-26); den, der forkæler sine børn og slapt føjer dem i ét og alt, får løn som forskyldt i form af utaknemmeligt og vanartet afkom; strenghed med måde er den rette opskrift (strofe 27-37). Når moderen tilsvarende er en letfærdig kokette, hengiven til tvivlsom mandlig opvartning og læsning af franske romaner, vil datteren også senere være tilbøjelig til at sætte sin mand horn i panden (strofe 38-52). Det afsluttende portræt gælder en type, der ligeledes er et produkt af forfejlet opdragelse, nemlig den asociale døgenigt, der unddrager samfundet (kongen) sin militære og civile tjeneste og forsømmer studier og kirkegang. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252194912</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252194912</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">263</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Daarers Alamodiske [dvs. moderne, 'fancy'] Leve-Regler udkom 1721 og blev - ligesom den foregående - optrykt indtil 7. oplag 1749. I denne satire benytter Falster en - ikke helt konsekvent gennemført - ironisk teknik, idet han (digterjeget) på skrømt anbefaler praktisering af udyder og således blot indirekte anbefaler sådan 'gammel dyd', som vi omtalte ovenfor. Ideen til denne ironiske fremgangsmåde har Falster, if. sin egen angivelse i Lærdoms Lystgaard , anden part, 16. diskurs (s. 104), fra den schweiziske filosof og matematiker Jean-Pierre de Crousaz' skrift Nouvelles Maximes sur l'Education des Enfans ( Nye regler for børneopdragelse , 1712). Satirens jeg henvender sig med sine ironiske råd om alamodisk livsførelse først til en nyadelig junker (strofe 1-40), så til dennes søster, den unge frøken (strofe 41-68). Den unge mand rådes til at bortkaste bøger og studier - sligt pedanteri anstår sig ikke en aristokrat - og lade ortodoks, samvittighedsfuld kristendom gå samme vej (strofe 7-21); i stedet skal han lære sig kræsenhed med mad og drikke og søge at blive damernes yndling (strofe 22-28); han kan roligt leve over evne, når han blot lever af lån, bestikkelser, udbytning og tyveri (strofe 29-33), så kan han hæve sig over hoben, stolt af en tom status erhvervet ved ufine midler (strofe 34-40). Den unge frøken, der oprindelig af sin moder er opdraget til et dydigt levned, skal nok i sit slette selskab af mondæne medsøstre lære at aflægge enhver hæmmende ærbarhed; satirens ironiske jeg stemmer med i det urene kor og opfordrer hende til galanteri og til at opgive huslige sysler til fordel for pyntesyge og lediggang. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252188064</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252188064</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">280</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dend Daarlige [dvs. tåbelige] Udenlandske Rejse Og Modige [dvs. overmodige] Hiemkomst udkom ligeledes 1721, og af denne oplevede Falster seks genoptryk indtil sit dødsår 1752. Satiren, der synes at have haft et virkelighedskorrelat i Falsters studentermilieu, hører, ligesom den foregående, til dem, hvis motiv også findes behandlet i Lærdoms Lystgaard , i dette tilfælde i førstepartens 17. diskurs, "Borgerlig Forargelse ved Udenlandsrejse" (s. 77-81), hvor den hjemvendte unge turist har fulgt samme rute som sit sidestykke i satiren. Dennes fiktionsarrangement er nu en smule mere kompliceret end i de foregående tilfælde, idet digterjeget her indledningsvis fortæller, at han har fået adgang til den unge mands rejsedagbog (strofe 1-8), af hvilken han da meddeler udvalgte stykker i referat (strofe 9-42), for så til slut at vende tilbage og udtale en konkluderende morale i eget navn til sidst (strofe 43-63). Midterdelen beretter da om den unge stipendiats rejse gennem Tyskland over Paris til Italien og hjem via England og Holland, en typisk rute for tidens dannelsesrejser. Imidlertid skyr denne Falsters 'Jean de France' overalt ordentlige studier og bøger og sætter i stedet en masse penge til på allehånde udsvævelser: lever bon på legatstifternes regning, forsømmer lærde folks omgang til fordel for spillefugles og udhaleres, erstatter biblioteksbesøg med bordelbesøg etc. Som særlig kompromitterende skildres hans kætterske forhold til religionen: Han betages af katolikkernes relikvier og hans uvilje mod den strenge pietisme (en uvilje, Falster selv delte!) bringer ham i Halle i ligefremt klammeri med retningens chefideolog (strofe 11). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252181168</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252181168</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">297</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dend U-tidige [dvs. urimelige] Rang-Syge udkom 1722 og oplevede fem genoptryk frem til 1750. Det er Frederik IV's rangforordning af 1717, der udgør den politiske baggrund for satiren, ligesom for Holbergs motivbeslægtede Den honnette Ambition (1731). Satirens jeg, der her er narren, ikke Falsters alter ego , er den fra Holberg kendte borgermand, der brændende ønsker sig rang for at kunne hæve sig over sine standsfæller og nærme sig den egl., gamle fødselsadel; herom dagdrømmer han gennem strofe 1-25, så anfægtes han af 'filosofiske' skrupler - og af realiteterne og tager det standpunkt, at kun fortjent , ikke til-tigget nobilitering har værdi, og han beslutter sig derfor til fortsat at leve sit gode borgerliv uden falsk forgyldning og naboernes misundelse (strofe 26-35). I dette rette perspektiv forekommer de tidligere ambitiøse fantasier ham naragtige, så at jeg-personens erkendelse til slut ender med at falde sammen med tekstens (den implicitte fortællers). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252175536</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252175536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">314</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dend Uforsvarlige Recommendation udkom 1722 som den femte og sidste fra de produktive år 1720-22. Denne satire er ligesom den foregående af politisk art, men klart den skarpeste og dristigste af dem, hvilket kunne være grunden til, at den sammenligningsvis kun oplevede fem genoptryk i Falsters levetid (6. oplag 1749). Falster, der selv ingenlunde holdt sig for god til lejlighedsdigterens poetiske opvartning af fornemme velyndere (se atter Ehrencron-Müllers Forfatterlexikon , bd. III, 1926, s. 18-23), angriber her de uheldige bivirkninger af enevældens klient-patron-system, specielt i forbindelse med embedsbesættelser og promoveringer. Satirens digterjeg befinder sig i en udsigtsløs situation med hensyn til sin karriere, på grund af de sociale omgivelser (strofe 1-8); herefter får kritikken et præcisere fokus, nemlig de udbredte rekommandationer (anbefalinger), som patronen udfærdiger for sin klient, og som fx undergraver kvalificerede unge akademikeres avancements- og ansættelsesmuligheder og privilegerer rene ignoranter (hvorpå der gives fornøjelige eksempler af jegets samtalepartner, en udenlandsk magister, der opfordrer ham til at forfatte en satire mod misbruget!) (strofe 9-19). Jeget forsvarer patriotisk den danske forvaltning ved at henvise til en forordning mod uforsvarlige rekommandationer, der lader Frederik IV fremstå som den sande lærdoms beskytter; heroverfor peger den fremmede magister på den praksis , som sætter sig igennem på trods af de gode kongelige hensigter og lader snyltere og smigrere kravle op ad embeds- eller rang-stigen (strofe 20-28). En tredje person blander sig nu i samtalen og forsvarer truende sine egne patroner, mens jeget fortsat beklager uduelige og ugidelige folks ufortjente forfremmelser med eksempler fra antik historie og litteratur og opfordrer enhver patron til at prøve sin klient, når denne optræder som supplikant (strofe 29-51). Det Falster'ske digterjeg erklærer sig med mandig resignation tilfreds med sin patron, også hvor dennes afgørelse er gået ham imod, men andre ville ufortjente afslag let kunne betage modet! En yderligere fare består i den indflydelse, en patrons frue eller sågar tjenestefolk kan komme til at øve, når en ambitiøs aspirant 'går køkkenvejen' (strofe 52-62). Satiren munder ud i en opmuntring til den fortjenstfulde supplikant, som lykken svigter, og en advarsel til den frække smigrer og uduelige lykkejæger (strofe 63-78). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252166672</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252166672</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">334</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Verden Som Et Doll-Huus [dvs. en galeanstalt] Afdeelt [dvs. inddelt] I sine besynderlige [dvs. særskilte] Værelser udkom 1730, efter en pause i Falsters satire-produktion, og genoptryktes med 4. oplag 1751. I Lærdoms Lystgaard s anden part, 12. diskurs, s. 82-85, beretter Falster om sin inspiration til at forfatte satiren (måske den først tilkomme, hans 'gennembrud' til genren) og gennemgår dåre-typerne i husets forskellige værelser. I essayets skitsering af planen afviger dispositionen dog en smule fra satirens definitive form, hvoraf satirernes moderne udgiver, Aage Schiøttz-Christensen, har draget ganske vidtgående konsekvenser for fortolkningen (Falster: Satirer, 1720-42 , bd. II, DSL 1982, s. 30-34). Som den danske tekst nu foreligger, møder vi de gale i flg. orden: 1. den forkælede, selvglade og -kloge teenage-pige, der ser forældrene over hovedet og mener sig tilbedt af ethvert hankøn (strofe 15-20); 2. dennes broder, en forfængelig og selvovervurderende laps (strofe 20-26); 3. en adelsgal, besat af sin genealogi (strofe 26-34); 4. en indbildt lærd charlatan (strofe 34-46); 5. en megaloman hofmand og patron (strofe 47-53); 6. en indbildt alvidende 'politisk kandestøber' (strofe 54-65); 7. en religiøs fantast, mystiker og hykler (strofe 66-75), 8. poeten selv - der tror, han kan forbedre verden med sine satirer! (strofe 76-81). Det er værd at notere, at dårekistens beboere ikke er psykopater i gængs forstand, men netop "kloge Grillen-fænger" (strofe 5), besat af en fiks idé, som narrene i Holbergs komedier. Når satirikerne indrullerer sig selv blandt sine narre, er der tale om yderligere en parallel til Holberg, der afslutter sit skæmtedigt om "Democritus og Heraclitus" med en lignende gestus, og til Falsters og Holbergs fælles forudsætninger i satiregenrens historie (se Jens Kr. Andersen: Fire Horats-studier , 1994, s. 74-86). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252157712</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252157712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">359</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">"Amicus certus in re incerta cernitur [dvs.: I nøden skal man kende sine venner]" har sin særlige udgivelseshistorie. Denne satire udgør nemlig Falsters bidrag til tredje runde af den verskonkurrence, Holberg udskrev 1738-40 med præmier betalt af egen lomme. I de i alt fem runder, som det blev til, skulle indsenderen i digterisk form udvikle et motiv, der blev opgivet i form af et klassikercitat (Horats, Juvenal, Cicero, Seneca). Falster deltog på Cicero-holdet og påtog sig dermed at digte over det diktum (Lælius 17,64), der udgør satirens titel. Falsters bidrag fandt således (som nr. 5) optagelse i Tredie Prøve Af Ziirlige og smukke Danske Vers Over Foresatte Materie af Ciceronem [skal være: Ciceronis] Amicus certus in re incerta cernitur, Efter Anonymi [dvs. Holbergs] Invitation og udlovede Gevinst, aflagt In Aprili 1739. Falsters digt tilkendtes ikke prisen af Holberg, der dog bedømte det anerkendende: " Poësien og Tankerne give [...] tilkiende , at Skribenten er en gammel og vel exerceret Poët " (Holberg: Samlede Skrifter , udg. af Carl S. Petersen, bd. IX, DSL 1928, s. 552). Digtet handler om en mand, der på dødslejet advarer sine børn mod falske venner, der ikke rigtig er hjemme, når man mest trænger til deres hjælp; han er selv blevet svigtet af sine nærmeste slægtninge, mens fremmede har vist sig som sande venner, altså hjælpere i nøden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252151152</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252151152</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">380</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Heller ikke "Den Latinske Skriver-Stue" fremkom som selvstændig publikation, men som bidrag til Bolle Luxdorphs Samling af smukke Danske Vers og Miscellanea , bd. II (1742, en videreførelse af Wielandts tilsvarende samling 1725-26). Der synes at være tale om et hastigt udført bestillingsarbejde. Falster publicerer stadig sine originale satirer, hvoraf denne er den sidste, anonymt. Satiren drejer sig om skriftlige udgydelsers stil og tone. Rammen etableres ved, at en kreds af nyhedshungrende træffes på et posthus, hvor et par latterlige, forskruede brevudskrifter samt medbragte eksempler på dårlig stil (bl.a. ufrivilligt komiske kondolence- og gratulationsdigte, strofe 15-20) rejser spørgsmålet om 'lærd' (kunstlet) stil. Digterjeget tager ordet og formulerer en slags kompromis (strofe 21-43): Ikke kun studerede folk skriver dårligt - men hvorfor vil I lærde (ikke mindst gejstelige) kaste skam over jeres stand ved skrifter, der præges både af opstyltet stil og grov uforsonlighed? </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252148032</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252148032</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">De enkelte satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">386</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Til Falsters satirer har man almindeligvis også regnet hans oversættelse af Juvenals 14. satire om børneopdragelse, hvorved forbindelsen knyttes til hans først udgivne originale satire på dansk (jf. ovenfor, dette afsnit). Tidspunktet for og omstændighederne omkring oversættelsens tilblivelse og publicering har været omdiskuteret og gav 1981-85 anledning til en momentvis ganske skarp polemik mellem Falster-udgiveren Aage Schiøttz-Christensen ( Danske Studier 1981, 1985 samt anførte udgave af Satirer 1982) og barok-eksperten Erik Sønderholm (samme tidsskrift 1984). For den første tegner billedet sig således: Falster sender sin oversættelse - antagelig i form af et uafsluttet manuskript - til vurdering hos sin patron og mæcen Chr. Rantzau (1684-1771), som den 10. januar 1719 bl.a. svarer, at "da er det efter mit tycke en al for tvungen, for ei at sige umuelig Sag, med fuldkommen god held i lige mange Vers at oversætte en Poet , dernest, var det ei vanskeligere end mißligt [dvs. voveligt], skulde jeg holde det for langt lettere at imitére wed application paa wore tider en Poet , end at vertére [dvs. oversætte] ham" (Bruun (udg.): Falsteriana , 1869, s. 129). Nedslående for oversætteren, men opmuntrende for en kommende, original, dansksproget satiriker; hvad Rantzau siger, er jo: Bliv selv en dansk Juvenal! Falsters reaktion herpå skulle - stadig if. Schiøttz-Christensen - have været at henlægge sin ufærdige Juvenal-oversættelse for først at færdiggøre og publicere den 1731, i den udgave, der er overleveret og kendt. Mens Schiøttz-Christensens teori var ny, da den fremsattes, plæderer Sønderholm for den hidtidige forestilling om et ældre, nu tabt tryk fra 1718 eller 1719 og kan især støtte sig til nye fund af håndskrifter (med afskrifter af den oversatte tekst, antagelig (!) efter et da eksisterende tryk). Hvordan det nu end forholder sig hermed, kan det i hvert tilfælde konstateres, at Falster i den bevarede 1731-oversættelse følger den latinske originaltekst, der her var gengivet sammen med fordanskningen, med stor nøjagtighed, så at sige linje for linje - og dét, skønt han gengiver romerens hexametre i sine sædvanlige Bording-strofer. Filologen og digteren Falster synes her lykkeligt forenet. Moralen hos Juvenal kan også kun have vakt genklang hos forfatteren af Disse Tiders Onde Optugtelse : Opdragelsen er forældrenes ansvar, det drejer sig om eksemplets magt! Det var i øvrigt også i Juvenal-oversættelsen, at Falster benyttede lejligheden til (i en note til strofe 5) at vedkende sig paterniteten til denne sin egen motivbeslægtede satire, der jo som hans øvrige danske originalprodukter - men modsat oversættelsesværket af 1731 - var udsendt uden forfatternavn.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252132768</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252132768</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, stof og form</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">437</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som allerede meddelt udkom Falsters essays - i modsætning til satirerne - samlet: i en trebindsudgave 1729-32, på latin, i Amsterdam (hos Adrian Wor &amp; arvinger "onder de linden") og under titlen Amoenitates philologicæ sive discursus varii . Hvad hovedtitlen angår, skriver Falster i en indskudt bisætning i anden parts 22. diskurs (Olrik: Lærdoms Lystgaard , DSL 1919-20): "[...] mine Discurser , hvilke enten Boghandleren i Amsterdam eller min højberømmelige Sigebert Havercamp fandt for godt at omdøbe til Lærdoms Lystgaard , [...]" (s. 133, jf. samme parts "Fortale til Læseren", s. 7). En samtidig kilde angiver, at det var den hollandske filolog Havercamp (1683-1742, græskprofessor i Leiden), der var ophav til værkets definitive latinske titel; det ser ud, som om det var Falsters oprindelige titel, der med omdøbningen rykkede ned som undertitel. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252126624</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252126624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, stof og form</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">458</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Genrehistorisk kan Falsters diskurser siges at være rundet af en dobbelt rod: det lærde essay og dialogen . Med den første tænkes på den af humanisterne yndede teksttype: en kortere, reflekterende afhandling i 'lærd' prosa, hvorved 'lærdommen' giver sig til kende ved indlagte citater fra og allusioner til bibelske skrifter og til græsk-romersk litteratur. Det gammel-filologiske grundlag er altså genrekonstituerende, så der er god grund til, om end kun i summarisk oversigt, at mønstre essayisten Falsters filologiske arsenal, så meget mere, som han ikke er den skribent, der stikker sin meget omfattende belæsthed under stolen, men snarere fremviser den med en vis ostentation - med den konsekvens, at den typiske diskurs for en stor del opfyldes af citater og henvisninger. Hvad Falster her trækker på, er inden for det græsksprogede område ikke kun den klassiske litteratur fra det 5. og 4. årh., men også Homer, arkaiske digtere og førsokratiske filosoffer samt alexandrinske filologer og andre skribenter fra hellenistisk tid og fra kejsertiden foruden byzantinske lærde. Tilsvarende inden for det latinsprogede område: ikke kun romersk guld- og sølvalderdigtning, men også skribenter fra ciceroniansk og tidligere republikansk tid, videre fra oldkirkelige apologeter og kirkefædre over romerret, middelalderens hagiografer og historikere og renæssancens humanister og polyhistorer helt frem til Falsters egne samtidige i det 17. og 18. årh. I dette vidtstrakte felt træder især to frem som Falsters yndlinge som stof- og tanke-leverandører: Aulus Gellius (ca. 125-ca. 180), hvis encyklopædiske, antikvariske mammutværk Noctes Atticae ( Attiske nætter ) Falster på én gang behandlede og imiterede i sine uudgivne Noctes Ripenses ( Ribe-nætter ), samt den romerske filosof og retor Lactantius (ca. 250-317), 'den kristne Cicero'. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252119744</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252119744</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgivelse, genre, stof og form</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">479</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Undertitlens "discursus" indebærer et moment af dialog . Også dialogen som genre havde været yndet af humanistiske skribenter, fra renæssancen og op gennem det 17. og 18. årh., når et problem skulle underkastes en dialektisk behandling. (Fx benytter Holberg formen til drøftelse af samfundsøkonomiske spørgsmål). Den dialogiske ramme i Falsters diskurser etableres typisk på to måder: Enten deltager Falster (og her er der sandelig ingen grund til noget overdrevent skarpt skel mellem faktisk forfatter og fiktivt digterjeg, se førstepartens 12. diskurs, s. 55!) i et lærd selskab, hvor et moralsk eller dogmatisk problem kommer op eller et antikvarisk spørgsmål rejses; længe holder Falster sig beskedent tilbage, men nødes sluttelig til at give sin velunderbyggede opfattelse til kende, som da fremføres med fuld dokumentation og stor vægt. Eller Falster opsøges af en elev eller kollega for råd eller litteraturhenvisninger. Han anfører straks en del efter hukommelsen, men må i nogle tilfælde konsultere sit privatbibliotek eller sine notater, før svaret kan blive fyldestgørende. Ved begge dialog-arrangementer følger det således af sig selv, at Falster får det sidste ord og ideelt set får ret, hvad enten det lykkes ham at overbevise sine samtalepartnere eller ej. I det følgende afsnit skal vi se, hvad det så er for anskuelser, der fremstår som drøftelsernes facit. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252115248</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252115248</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">493</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Falsters behandling af religiøse og filosofiske spørgsmål placerer ham i mange henseender som Holbergs åndsfælle. Hans standpunkt er præget af sund fornuft, mådeholden reformisme og forsigtig rationalisme (fx udtalt skepsis over for alt, der smager af overtro). Falsters personlighedsideal er snarest en stoisk humanisme; karakteristisk er hans fremhævelse af filologens stilfærdige studier på bekostning af de stridbare teologers evige polemikker, som han anser for en skam for den kristne kirke (første part, 3. diskurs). Han har fundet sin sjælefred i 'filologens religion', en hedensk-kristen humanitet, som den findes udformet fx hos kirkefaderen Irenæus (første part, 12. diskurs). Oplysningstidens kardinaldyd, tolerancen, fremviser Falster, når han maner til overbærenhed mod legemets syndere, som han finder det bør være lettere at tilgive end sjælens (anden part, 23. diskurs). Med tolerance omfatter han desuden - i den evangeliske kristendoms navn - de reformerte, men sætter grænser ved jøder og katolikker, som overalt behandles med uvilje. Ganske særligt angriber imidlertid Falster pietisterne, især for deres irrationalisme og dømmesyge, og sætter dem ligefrem i bås med oldtidens kynikere (tredje part, 31. diskurs). Tredje part, 29. diskurs er en formelig krigserklæring til pietismen, ingenlunde noget ufarligt forehavende på Christian VI's tid. Som positivt modstykke vil den lærde mand helst henholde sig til en enfoldig forsyns- og åbenbaringstro (anden part, 13. diskurs), men Falster bygger desuden - som passioneret dyrker af oldtidskulturerne - gerne bro mellem græsk-romersk filosofi og kristendom, hvorfor han ofte fremhæver stoikernes morallære og platonismens idealisme samt alt, hvad han hos de gamle kan finde af tendenser i retning af monoteisme (første part, 18. diskurs). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252112288</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252112288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">499</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ofte gør filologen Falster selve studeringerne til sine diskursers emner, og her møder vi nok det allersnævreste slægtskab med Holberg. Falster ivrer mod al overfladisk tilegnet, sammenjasket eller udenadlært viden, mod tåbelige, vidtløftige og ligegyldige emnevalg og logisk pindehuggeri, kort sagt hele 'Erasmus Montanus'-præget i det akademiske liv. Han ønsker teologiske dunkelheder og spidsfindigheder, skolastiske reminiscenser og dårlig 'klosterlatin' afskaffet sammen med et fag som metafysik, til fordel for natur- og moralfilosofi. Derimod nærer han i forbindelse med sine filologiske studier større interesse end Holberg for deres antikvariske sider, beskrivelsen af allehånde kulturhistoriske småtræk, en interesse, han stedvis overfører fra det klassiske til det nordiske område. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252109520</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252109520</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">505</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Også samtidige sociale og politiske tilstande i Danmark omtales hyppigt i diskurserne, især taler Falster sine egne interessers sag: den lærde stands og latinskolens. Ligesom Holberg ytrer han sig overalt som enevældens loyale tilhænger; blandt monarkerne synes hans yndling at have været Frederik IV (en præference, samtiden kunne have opfattet som en implicit kritik af Christian VI's regering), og ligesom hos Holberg er en anti-aristokratisk tendens synlig. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252107696</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252107696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Idéindhold</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">511</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som anført ovenfor bringer visse af diskurserne interessante oplysninger om Falsters  eget forfatterskab . I anden parts 12. og 16. diskurs omtaler han således ganske udførligt hhv. Verden Som Et Doll-Huus og Daarers Alamodiske Leve-Regler samt baggrunden for disse satirers tilblivelse og bringer i første parts 17. diskurs en prosa-pendant til Dend Daarlige Udenlandske Rejse . Heller ikke forfatterens personlige forhold og problemer (se Biografi) lades uomtalte i diskurserne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252101552</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252101552</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Øvrige skrifter</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">539</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Foruden de større grupper af satirer og essays har vi fra Falsters hånd overleveret et antal mindre - og mindre betydningsfulde - skrifter. Af sådanne skal her anføres fire typer, for at billedet af forfatterskabet kan blive så dækkende som muligt. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252100640</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252100640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Øvrige skrifter</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">542</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mest iøjnefaldende er hans filologiske afhandlinger på latin , hvoraf han frembragte en halv snes i sine yngre dage (før 1720). Blandt dem bemærkes fra 1717 hans skarpe angreb på den tyske lærde Stübel, en af de store skurke i Falsters univers. Stübel havde stået som udgiver af et latinsk leksikon, hvortil Falster havde udsendt et supplement, som Stübel så i leksikonets følgende udgave havde dels rakket ned, dels plyndret. Også de snævert filologiske (tekstkritiske og eksegetiske) arbejder om Aulus Gellius, hvormed Falster afsluttede anden og tredje part af Amoenitates , men som Jørgen Olrik har udeladt i den danske oversættelse Lærdoms Lystgaard , hører herhen. Falster indlemmede siden de to arbejder ("Libellus commentarius de vita et rebus Auli Gellii" og "Admonitiones ad interpretes A. Gellii") i sit ovenfor omtalte værk Noctes Ripenses in Noctes Atticas Auli Gellii , hvortil det aldrig lykkedes ham at finde en forlægger, men som er bevaret i manuskript. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252095872</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252095872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Øvrige skrifter</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">557</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dernæst må anføres Falsters danske oversættelse af Ovids Tristia (fra landflygtigheden), der udkom 1719 og optryktes flere gange, mest fordi den som fordanskning af romersk poesi supplerer oversættelsen af Juvenals 14. satire, som ligeledes omtaltes ovenfor. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252093568</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252093568</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Øvrige skrifter</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">566</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Som mange forfattere i tiden affattede også Falster et ikke ringe antal lejlighedsskrifter (taler og digte, prosa og poesi), dels på officiel, institutionel foranledning, dels henvendt til enkeltpersoner. De første kan fx være fremkaldt af rektorindsættelsen (1723), indvielsen af et nyt skolebibliotek (1720) eller en ny skolebygning (1727) eller vil blot for skolens patron fremstille "Riber Domskoles Lyksalighed" (1729). De sidste omfatter de traditionelle bryllups- og begravelsesdigte, supplikker, taksigelser eller hyldestdigte til kongelige eller andre fornemme velyndere; en særlig interesse knytter sig til sørgedigtet over Frederik IV, der først kunne udkomme efter Falsters død på grund af afslået trykketilladelse. Den professionelt ærbødige stil, som tidens konvention bød subalterne at benytte i henvendelser til de høje patroner og protektorer, fremgår desuden af de smigrende dedikationer, som Falster bringer i alle tre parter af Amoenitates . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252089808</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252089808</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Øvrige skrifter</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">575</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Endelig er dele af Falsters korrespondance bevaret og udgivet (i Bruun (udg.): Falsteriana , 1869), dog righoldigere med hensyn til breve til end fra Falster, men under alle omstændigheder vigtige kilder til vor viden om hans liv og forfatterskab. De gamle brevskaber har fristet en omtumlet skæbne, inkluderende nedkastning gennem Rundetårns indre under bombardementet 1807. Senere kommenterede den solide Bruun dem og ordnede deres personalhistoriske oplysninger i en indledende personalhistorisk fremstilling. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252080048</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252080048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">622</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ved fremkomsten af de ældste satirer kom disse ikke til at savne opmærksomhed fra prominente skribentkolleger. De indbyrdes uvenner Ludvig Holberg og Andreas Hojer reagerede begge på en måde, der vidner om levende interesse for den nye stjerne på det litterære firmament. I den første fortale til Holbergs 4re Skiemte-Digte (1722) skriver forfatterens pseudonym, Hans Mikkelsen: "Jeg kand roese mig af/ [med Peder Paars ] at have brudt Iisen til adskillige andre smukke Vers/ som nyeligen udi de Materier ere komne for Lyset/ og som læses af Folk med Behag og Opbyggelse" (Holberg: Samlede Skrifter , bd. II, DSL 1914, s. 454). At disse ord henviser til Falsters to eller tre første satirer, kan man vide med sikkerhed, ikke kun på grund af manglende alternativer, men også fordi der i denne og i det andet Holberg-pseudonym Just Justesens følgende fortale henvises til og citeres fra den - anerkendende - anmeldelse, Hojer skrev om Disse Tiders Onde Optugelse og Den Daarlige Udenlandske Rejse i det sidste nummer af sine Nova Litteraria (nr. 13 af 10. juli 1721) med diffamerende sidehug til Peder Paars' forfatter, som anklages for, for vindings skyld, at følge 'pøblens sjofle smag' (den latinske formulering i Ehrencron-Müller: Forfatterlexikon , bd. X, Bibliografi over Holbergs Skrifter I, 1933, s. 80). Trods Holbergs anerkendelse af Falsters "smukke Vers", må Falsters satirer dog siges at være ramt af den sålydende karakteristik fra den allerede citerede fortale til skæmtedigtene: " Juvenalis eller dislige Poeters Morosité [dvs. gnavenhed], der dræbe Folck med gammel Postil-Morale og locis communibus [dvs. talemåder], der fordømme Fruentimmret/ fordi det dricker Thee eller Caffée , gaar paa Commœdier , bruger anden Klædedragt end den gamle Verden &amp;c. eller Mandfolk/ fordi de spille Kort eller drikke sig et Ruus iblant." (Holberg: Samlede Skrifter , bd. II, DSL 1914, s. 455) - så meget mere, som det lader sig påvise, at den refererede sædekritik svarer til ganske bestemte strofer i Disse Tiders Onde Optugtelse og Den Daarlige Udenlandske Rejse (se Jens Kr. Andersen i Danske Studier 1984, s. 146). I øvrigt taler de mange og hastigt på hinanden følgende optryk af de enkelte verssatirer, som anførtes ovenfor, jo deres tydelige sprog om god afsætning og publikumstække, derimod er der ingen anmeldelser registreret i forbindelse med de efterfølgende satirers udgivelse. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252060800</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252060800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Satirer</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">688</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Omkring 1800 spores imidlertid en stigning i interessen for Falsters satiredigtning, som det fremgår af Rahbeks tidsskrifter ( Den danske Tilskuer 1791, 1795, 1796; Minerva 1797) og af dennes &amp; R. Nyerups Bidrag til den danske Digtekunsts Historie (2. del, 1801). I 1840 afsatte interessen et monument, nemlig Christen Thaarups udgave af Christian Falsters Satirer med en Afhandling om Digterens Levnet og Skrifter , der først afløstes af Aage Schiøttz-Christensens udgave Satirer, 1720-42 I-II, DSL 1982, hvis fremkomst fremkaldte ny forskning i Falsters verssatirer ( Danske Studier 1980, 1981, 1984, 1985). I mellemtiden var satirikerens klassikerstatus sikret ved en stadig mere fremtrædende position i de store litteraturhistorier, især hos den åndshistorisk orienterede Vilh. Andersen ( Illustreret dansk Litteraturhistorie , bd. II, 1934) og den genrehistorisk orienterede F.J. Billeskov Jansen ( Danmarks Digtekunst , bd. II, 1947), en position, der nok på ny er ved at svækkes (Jens Hougaard i Gyldendals Dansk litteraturhistorie , bd. III, 1983). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252051136</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252051136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Essays og afhandlinger</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">726</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I sammenligning med satirerne påkaldte Falsters latinsprogede skrifter sig større samtidig opmærksomhed, idet de næsten alle ved udgivelsen blev anmeldt eller omtalt i danske eller udenlandske lærde tidsskrifter og magasiner. I senere danske litteraturhistorier og opslagsværker har der imidlertid været en klar tendens til at stille denne del af forfatterskabet i skyggen af hans dansksprogede verssatirer. Herfra kan der noteres to undtagelser: I Vilh. Andersens fremstilling af Falsters humanisme i Tider og Typer. Erasmus , bd. II, 1909 (s. 5-29), placeres og behandles Amoenitates som centralværk, og i Jørgen Olriks oversættelse heraf, Lærdoms Lystgaard I-III, DSL 1919-20, har oversætteren forsynet sit arbejde med en grundig indledning, der udførligt redegør for essayistikkens tankeverden. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252045408</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252045408</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">748</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Christian Falster: Satirer, 1720-42 I-II. Udgivet af Aage Schiøttz-Christensen, DSL 1982. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252044176</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252044176</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">754</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Christian Falster: Lærdoms Lystgaard eller Adskillige Discurser I-III. Oversat fra latin og forsynet med indledning og noter af Jørgen Olrik, DSL 1919-20. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252042784</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252042784</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">760</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Schiøttz-Christensens udgave af Satirer, 1720-42 I-II, DSL 1982, er tekstkritisk i sin hensigt og i alt væsentligt også i sin udførelse. Udgiveren gengiver i alle tilfælde teksterne efter de respektive førstetryk (ældste udgave). Der rettes kun mod dette, enten hvor der er tale om rent typografiske forhold (/ &gt; ,) eller hvor der er tale om evidente trykfejl, og rettelsen kan finde støtte i senere tryk fra Falsters levetid. Tekstrettelserne anføres, som det sig hør og bør, eksplicit, her som indledning til de enkelte teksters kommentar i udgavens bd. II. I langt de fleste tilfælde er de angivne rettelser - som forventeligt - udført i tekstbindet, dog er der desværre også eksempler på det modsatte (hvor tekstens bruger altså selv må realisere udgiverens rettelsesforslag). Det er tilfældet i Dend U-tidige Rang-Syge 55,7 (derpaa &gt;der paa), Verden Som Et Doll-Huus 42,4 (Adviiser. &gt; Adviiser,) og 51,2 (Sterke, &gt; Sterke); rettelsen til Den Uforsvarlige Recommendation 71,3 er ukorrekt udført (der skal ende med at stå: Leyligheden). Angivelserne af tekstrettelserne (det kritiske apparat) i bd. II ledsages af et omhyggeligt variantapparat, der optegner større og (især) mindre afvigelser mellem tekstkilden og alle kendte tryk, som kendes af pågældende satire fra Falsters levetid. Egentlige tekstfejl indskrænker sig vistnok til Den Uforsvarlige Recommendation 44,6 (Berænksom &gt; Betænksom) og Juvenal-oversættelsens 1,3, hvor en forkert beskæring har fjernet de to sidste bogstaver i ordet "Skrifft". I kommentarbindet (bd. II, s. 151) findes der et par urigtige strofetal (32,4 &gt; 34,4 og 40,1 &gt; 42,1). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252034848</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252034848</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">781</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lærdoms Lystgaard er jo en oversættelse og unddrager sig dermed en lignende nøjeregnende tekstkritisk kontrol. Det skal dog bemærkes, at Olrik i sin fortløbende kommentar til sin danske tekst anfører en række tilfælde af nødvendige rettelser mod den latinske original, som han har taget hensyn til ved oversættelsen. Desuden at udgiveren i sin kommentar supplerer Falsters tekst fra to kilder, dels dennes egne tilskrifter i sit eget eksemplar, der i en årrække var en af Universitetsbibliotekets klenodier, dels Lars Grams (1701-75) latinske randnoter i et eksemplar, der i en årrække tilhørte Kristiania Universitetsbibliotek; disse marginalier er desuden trykt i Danske Samlinger , 2. rk. IV, s. 145-53. Da denne Lars Gram, en bror til Hans Gram, var Falsters subrektor og omgangsven, identificeres herved en række, især lokale, begivenheder og personer, som Falster af diskretionshensyn slører, fx gennem navneskjul (initialer eller anonymitet). Ad disse veje udfylder Olrik så at sige tekstens lakuner. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252025840</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252025840</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Udgaver</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">816</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den første litteraturfaglige, opsamlende udgave af Falsters satirer var den ovenfor nævnte Christian Falsters Satirer med en Afhandling om Digterens Levnet og Skrifter udgivne og ved Anmærkninger oplyste af Christen Thaarup , som Samfundet til den danske Literaturs Fremme lod udgive 1840. Det ligger i sagens natur og behøver ingen undskyldning, at både Thaarups korpusafgrænsning og hans tekstkommentar bærer tidens præg. Sidstnævnte bør dog stadig holdes i ære for sin dokumenterende soliditet og sine mange korrekte oplysninger, der har beholdt deres værd til den dag i dag. Med lignende gammel tilforladelighed fremtræder Falsteriana. Indeholdende Nye Bidrag til Christian Falsters Historie og Udvalg af hans danske Brevvexling. Ved Chr. Bruun (1869). Udgiveren var chef for Det Kgl. Bibliotek og højt skattet for sin lærdom (især inden for det 18. årh.s litterære og politiske historie) og sikre jugement, hvorved han bl.a. har indlagt sig fortjeneste af Holberg-forskningen; her har hans udgave af Falster-breve været omtalt ovenfor. Den tredje og nyeste udgave af Falster'ske skrifter den gentagne gange nævnte: Christian Falster: Satirer, 1720-42 . Udgivet af Aage Schiøttz-Christensen , I: Tekst, II: Kommentar, DSL 1982. Udgavens filologiske side (tekstkritik) er behandlet ovenfor; her skal anføres nogle få bemærkninger om dens kommentar, om hvilken der kan siges meget anerkendende, men som også stedvis kalder på kritik og supplering. Væsentligt må det forekomme, at Schiøttz-Christensens kommentar er i bedste forstand pædagogisk: den giver den moderne (herunder yngre) læser forklaringer og fortolkninger, der hjælper ham til at forstå de gamle ord og ordbetydninger, der nu er gået af brug på dansk, samt henvisninger til sociale og politiske forhold i Falsters samtid. På den anden side findes der i en række tilfælde oplagte alternativer til udgiverens læsemåder, alvorligst når det drejer sig om Falsters henvisninger til fransk romanlitteratur fra det 17. årh., henvisninger, som Schiøttz-Christensen tilsyneladende ikke er i stand til at følge, selv når hans forgænger Thaarup dog har været på sporet (se herom Jens Kr. Andersen i Danske Studier 1984, s. 144-46). Om Jørgen Olriks udgave af Falsters essayistik i dansk oversættelse som Christian Falsters Lærdoms Lystgaard eller Adskillige Discurser. Oversat fra Latin og forsynet med Indledning og Noter I-III, DSL 1919-20, se ovenfor: "Forfatterskabets modtagelse og efterliv" og "Tekstoplysninger".  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252014304</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252014304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af forfatterskabet</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">847</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">falster-p#idm140548252013456</field>
+    <field name="volume_id_ssi">falster-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/falster-p#idm140548252013456</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Behandlinger af forfatterskabet</field>
+    <field name="author_name">Jens Kristian Andersen</field>
+    <field name="author_id_ssi">Jens%20Kristian%20Andersen</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">853</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nogen tidssvarende og definitiv monografi om Falster eksisterer ikke, derimod indeholder de fire stadig gyldige tekstudgivelser, omtalt under Udgaver, omfattende indledninger, der hver især giver kvalificerede bud på en fortolkning af forfatterskabet og indeholder et stort antal værdifulde oplysninger. Er dette situationen pr. 2002, hvor dette skrives, må det anføres, at Thaarup, Bruun og Schiøttz-Christensen foruden på primære tekstkilder (originale breve og tryk af de litterære tekster) bygger på et par (for dem, hver især) ældre fremstillinger, nemlig Hans Hansen: De vita et rebus Christiani Falsteri commentariolus I-III ( Små notitser om Chr. Falsters liv og forhold ), Flensborg 1769-70, og Bjørn Kornerup: Ribe Katedralskoles Historie , bd. II, 1952, s. 121-239. Da Hansen havde været elev af Falster og senere blev hans medarbejder ved skolen, går mange af hans oplysninger sandsynligvis tilbage til Falster selv. Mens disse to fremstillinger således er af biografisk art og koncentrerer sig om hans udøvelse af rektoratet i Ribe, er der efter Thaarups, Bruuns og Schiøttz-Christensens indsatser fremkommet to afhandlinger, hvori flere af Falsters danske verssatirer analyseres for at indsættes i deres genrehistoriske sammenhæng: Jens Kr. Andersen: Fire Horats-studier. Om den horatsiske verssatire og Danmark (= Studier fra Sprog- og Oldtidsforskning nr. 323), 1994 og Kim Lembek: Den danske litterære verssatire 1652-1742 og dens europæiske baggrund (= Studier fra Sprog- og Oldtidsforskning nr. 333), 1999. </field>
+  </doc>
+</add>

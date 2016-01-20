@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Poetiske Skrifter, 1-7 - Bind IV</field>
+    <field name="id">berg04tom</field>
+    <field name="volume_id_ssi">berg04tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg04tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind IV</field>
+    <field name="author_name">Bergsøe, Vilhelm</field>
+    <field name="author_id_ssi">Bergs%C3%B8e,%20Vilhelm</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1905-</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Bruden fra Rørvig</field>
+    <field name="id">berg04tom#workid54252</field>
+    <field name="volume_id_ssi">berg04tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg04tom#workid54252</field>
+    <field name="page_ssi">5</field>
+    <field name="page_id_ssi">n5</field>
+    <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind IV</field>
+    <field name="author_name">Bergsøe, Vilhelm</field>
+    <field name="author_id_ssi">Bergs%C3%B8e,%20Vilhelm</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1905-</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">69</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                 </field>
+  </doc>
+</add>

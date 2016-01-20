@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">chievitz-p</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471527936</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471527936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">IndledningPerioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">48</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med Julirevolutionen i Frankrig 1830 indvarsledes de politiske omvæltninger, der efter Februarrevolutionen i 1848 - igen i Frankrig - førte til etableringen af de første demokratiske regeringer rundt omkring i Europa. I Danmark var resultatet indførelsen af Grundloven i 1849, der uden blodsudgydelser resulterede i Enevældens fald, demokratiets etablering og censurens ophævelse, en politisk proces, der dog først langt senere gennemtrængte alle samfundets sociale lag. På kortere sigt førte Februarrevolutionen til oprøret i hertugdømmerne Slesvig og Holsten i 1848, der med prøjsisk støtte ledte til Treårskrigen 1848-50 med en delvis besættelse af Jylland til følge. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471526800</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471526800</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">IndledningPerioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">51</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Også inden for litteraturen skete der i disse tiår store omvæltninger. Påvirket af Heinrich Heines, Lord Byrons og Victor Hugos nuancerede og tildels splittede syn på den menneskelige natur, udviklede litteraturen i 1820'erne og 1830'erne, den såkaldte poetiske realisme , sig i stigende grad bort fra en borgerlig, poetisk idyl, den såkaldte biedermeier -idyl (for at anvende et tysk begreb). Resultatet blev en mere sammensat psykologisk karaktertegning og en mere præcis og realistisk beskrivelse af den ydre verden, også omfattende dens skyggesider, der i litteraturhistorien har fået betegnelsen romantisme . Hos enkelte forfattere, f.eks. Poul Martin Møller og Henrik Hertz, var denne nyorientering endnu stærkt præget af romantikkens forsonende idealisme og stræben efter harmoni - og af en utvetydig afvisning af tidens demokratiske, politiske strømninger. Også for generationens betydeligste lyriker, Christian Winther, lykkedes det at etablere en harmonisk livsanskuelse, men denne kunne kun nødtørftigt dække over en hårdt tilkæmpet resignation. Derimod blev modsætningen mellem idé og social virkelighed hos andre forfattere, f.eks. Steen Steensen Blicher, Carl Bagger og Poul Chievitz, uovervindelig og endte henholdsvis i pessimisme, nihilisme og en mere udadvendt oppositionel holdning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471521584</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471521584</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">IndledningPerioden</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">63</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne konflikt, der både var af social, etisk og religiøs art, førte i 1840'erne til en åbenlys kritik af det romantiske kunstsyn og den idealistiske filosofi. Denne kritik kom enten til udtryk i en bevidst æsteticering af omverdenen og en heraf følgende distancering i en flugt ind i en skønhedsdyrkelse, som hos Emil Aarestrup, Ludvig Bødtcher og den unge Frederik Paludan-Müller, eller blev rettet mod samfundets sociale og moralske strukturer, endnu tildels skjult hos f.eks. Thomasine Gyllembourg og H.C. Andersen, mens den udtrykkes mere direkte hos den ældre Paludan-Müller og Chievitz; en særstilling indtog Frederik Dreier med sin revolutionære ateisme og materialisme. I litteraturen afløstes den tidligere - metafysisk og lyrisk orienterede - romantik dermed af en realistisk litteratur, der i første omgang manifesterede sig i en række prosaværker af Meïr A. Goldschmidt, Chievitz og Hans Egede Schack, men også tydeligt viste hen imod og endda foregreb naturalismens voldsomme opgør med politisk konservatisme, borgerlig-kristen moral og idealistisk livsanskuelse i al almindelighed, der fandt sted omkring 1870. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471517936</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471517936</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">BiografiEt liv i opposition</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">74</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Poul Chievitz blev født på Christianshavn den 19.6.1817. Der findes kun få oplysninger om familien, der var af polsk afstamning. Farfaderen, der døde 1802, var kongelig svensk kammersanger. Faderen, Johan Heinrich Poulitsky Chievitz (1777-1843), voksede op på Fyn og havde som voksen forskellige stillinger som kaptajn, skoleinspektør og senere toldbetjent. Om moderen, Witta Hedevig, født Møller (1778-1860), vides intet af betydning; hun overlevede sønnen med seks år. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471516896</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471516896</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">BiografiEt liv i opposition</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">77</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Heller ikke Chievitz' egen biografi er synderligt oplyst. Efter at have forladt Efterslægtsselskabets Realskole med en realeksamen, blev han uddannet som handelskontorist i forskellige firmaer i København; således arbejde han en tid på Berlingske Tidendes avertissementskontor. I begyndelsen af 1840'erne var Chievitz en overgang ansat på et kontor i Kalundborg; ansættelsen varede ikke længere end ca. trekvart år - Chievitz var et udpræget storbymenneske. Ved krigsudbruddet 1848 blev han skriver ved militærets intendanturtjeneste i København og i 1849 regnskabsfører ved general Olaf Ryes brigade, som han fulgte under tilbagetoget op gennem Jylland; ligeledes oplevede han slaget ved Fredericia den 6.7.1849. Derefter var Chievitz ansat i Krigsministeriet lige til sin død af tuberkulose i 1854 kun 37 år gammel. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471514640</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471514640</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">BiografiEt liv i opposition</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">80</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chievitz nåede aldrig at stifte familie. Omkring 1844 blev han forlovet første gang med den ca. 16-årige Annette Tronier (1828-1900), datter af en københavnsk grosserer. Forlovelsen blev imidlertid en skuffelse for begge, blev hastigt hævet, og 1847 giftede Annette Tronier sig med en anden. Derimod blev den efterfølgende forlovelse med skuespillerinden og balletdanserinden Amalie Price (1831-92) lykkelig og varede lige til Chievitz' død. Begge forlovelser afsatte dybe spor i forfatterskabet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471513616</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471513616</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">BiografiEt liv i opposition</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">83</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det var ved private studier, at Chievitz tilegnede sig sine kulturelle og litterære kundskaber, og han var især belæst inden for fransk samtidslitteratur; ligeledes lærte han ved selvstudium at beherske hovedsprogene. Allerede i skolen grundlagdes hans begejstring for teatret og i 1850 - efter i sin ungdom uden held at have forsøgt sig som skuespiller - rejste han til Paris for at studere teater. I Den academiske Læseforening, også kaldt Academicum, et samlingssted for den gamle Enevældes republikanske modstandere, grundlagt 1839 af digteren Carl Ploug som modvægt mod Regensens mere konservative læseforening, lærte han 1840 en gruppe politisk aktive og litterært interesserede unge at kende, heriblandt Frederik Dreier, P.L. Møller, Hans Vilhelm Kaalund, Hans Egede Schack og først og fremmest M.A. Goldschmidt. Chievitz blev hurtigt kendt som kredsens bedst begavede hoved. Som den første i gruppen ytrede han ønsket om at udgive et oppositionsblad. Dette skulle redigeres af et anonymt kollektiv bestående af fire redaktører, heriblandt Chievitz selv og Goldschmidt. Resultatet blev det sagnomspundne politisk-satiriske ugeblad Corsaren (1840-55), og Goldschmidt trådte hurtigt frem som den ledende redaktør. Chievitz selv bidrog blot med en enkelt artikel, en kort dialog, i det første nummer, den 8.10.1840, med titlen: "Samtale imellem en Skolelærer og en af hans Elever", der med sin respektløshed og dobbelttydighed skulle karakterisere bladets fremtidige linje. Da det tredje nummer af Corsaren blev beslaglagt af censuren i december 1840, trak Chievitz sig ud af redaktionen. Herom skriver Goldschmidt i sine erindringer: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471582480</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471582480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">BiografiEt liv i opposition</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">104</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Et senere medarbejderskab blev naturligvis umuliggjort af Chievitz' ansættelse i militærets administrationen 1848. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471581840</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471581840</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">BiografiEt liv i opposition</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">107</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chievitz fik aldrig nogen egentlig akademisk uddannelse og levede på mange måder det bohemeliv, der netop var på mode blandt 1840'ernes unge litterater. Der er ingen tvivl om, at hans beskedne sociale baggrund og manglende akademiske uddannelse var den væsentligste årsag til, at Chievitz hele sit liv følte sig som outsideren, og utvivlsomt må det billede, han i samtidens København skabte af sig selv som den elegante dagdriver, flanøren, der også blev en karakteristisk skikkelse i hans forfatterskab, ses som en facade bag hvilken der skjuler sig en stærk social usikkerhed. Ligeledes var Chievitz langtfra en overfladisk æstetiker, men derimod, især i de tidlige værker, en lidenskabelig revser af borgerskabets samfundsmoral, som han anså for at være baseret på hykleri. Denne dobbeltmoral og den generelle ufrihed som ifølge Chievitz især herskede mellem unge mænd og kvinder, og som var blev institutioneret gennem samtidens usædvanligt lange forlovelser, var de stadige mål for hans protester og spotterier, der ikke er ulig Søren Kierkegaards i Forførerens Dagbog fra 1843. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471482400</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471482400</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">173</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chievitz' position i dansk litteratur beror udelukkende på én bog, Fra Gaden . Denne roman er da også uomtvisteligt forfatterens hovedværk, der til gengæld i alle håndbøger med nogle få ord karakteriseres ikke blot som Chievitz' eneste betydelige bog, men som den første danske sociale eller realistiske roman, det første gennemførte tendensværk inden naturalismen satte ind omkring 1870. Teksten har gennem årene været genoptrykt, men har de sidste 50 år været forvist til antikvariaterne, og først 1991 udkom en kritisk, kommenteret udgave ved Uffe Andreasen og Esther Kielberg. Mindre kendt er Chievitz' debutværk, novellen Nytaarsgave for Forlovede. Saaledes forholder det sig fra 1845, der sammen med vaudevillen For Alvor fra 1852 er det eneste af hans værker - bortset fra Fra Gaden - der senere er blevet genoptrykt, hvilket skete i 1872 og 1906, mens For Alvor blev genudgivet i 1880. Derimod er Chievitz' øvrige dramatik og hans andet større prosaværk, romanen Japhet, der søger sig en Kone (1851), ganske blevet opslugt af glemslen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471476464</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471476464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">194</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I samtiden var Chievitz dog først og fremmest kendt som teaterforfatter med en række velkonstruerede lystspil, oftest skrevet sammen med forfatteren Adolph v. der Recke, der med betydelig succes blev opført i 1850'erne. Med deres vittige replikkunst og en sarkasme, der er voldsommere end publikum var vant til, skilte de sig ud fra det gængse repertoires "Duftvaudeviller" ( Det kjedelige Drama , s. 46). Desuden oversatte og bearbejdede Chievitz - oftest sammen med v. der Recke - en række udenlandske skuespil. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471474464</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471474464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Forfatterskabet</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">200</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chievitz' værker har ét tilfælles: en moralsk og social indignation, der med skiftende styrke kommer til udtryk både gennem direkte angreb og gennem en ironisk-satirisk tone. Genstanden for denne indignation er tidens moralbegreber, der for Chievitz var gennemsyret af bornerthed, hykleri og undertrykkelse både hvad angår seksualmoralen og behandlingen af underklassen, af arbejdere og sypiger især. Mens Chievitz i sine to romaner, men især i Fra Gaden , også fokuserer på disse sociale misforhold, vender han i skuespillene sin satire næsten udelukkende mod tidens viktorianske dobbeltmoral, og generelt kan man med årene fastslå en svækkelse af den samfundskritiske holdning. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471458432</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471458432</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Teaterdigteren</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">212</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chievitz' debut som teaterdigter fandt sted 1847 med en komedie i to akter, Venskab og Kjærlighed . Det drejer sig om en fri bearbejdelse af den to år ældre fortælling Nytaarsgave for Forlovede , men med andre personnavne og udeladelse af de tre sypiger (se nedenfor); derimod er temaet, hykleriet der skjuler sig bag den officielle moral, det samme. Men tonen er skærpet i en sådan grad, at stykket, der havde premiere på Det Kgl. Teater den 14.3. samme år, efter kun fem opførelser blev taget af programmet på grund af publikums højlydte protester. Ikke desto mindre var teatrets censor, digteren Johan Ludvig Heiberg, meget positiv over for stykket: "Det er det vittigste, pikanteste og originaleste Lystspil, som har været indleveret til Theatret i den Tid, jeg har havt med Censuren at gjøre [...] det Hele hviler i en fin Ironi, Satiren er træffende, Dialogen fuld af Lune" (Hansen: Den danske Skueplads , II, s. 491). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471454688</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471454688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Teaterdigteren</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">224</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Dialogen og persontegningen er noget grovere i vaudevillen En høiere Dannelsesanstalt (1850), skrevet sammen med Adolph v. der Recke. Dette samarbejde, hvor Reckes part sandsynligvis blot indskrænkede sig til de indlagte viser, fortsattes med det patriotiske syngespil i én akt, Lodsen (1851), med musik af Simon H. Paulli, der blev opført syv gange samme år på Det Kgl. Teater. Vaudevillerne For Alvor (1852) og En Fortid (1853) blev skrevet til og opført på Casino; til det sidste skuespil bidrog også digteren Hans Vilhelm Kaalund. I disse to vaudeviller er motivet en variation af den indsigt, Chievitz allerede formulerede i sin debutfortælling: Det gælder om på godt og ondt at opdage og erobre den levende kvinde af kød og blod bag romantikkens idealisering af hende. Den tidligere ironisk-satiriske tone er dog afsvækket på bekostning af den rene underholdning. Ingen af disse lystspil rækker ud over døgnet. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471450080</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471450080</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Teaterdigteren</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">239</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Af langt større litterær kvalitet - og et karakteristisk eksempel på Chievitz' store indsigt i teatrets historie og teknik - er Det kjedelige Drama (1854). Stykket er en vittig satire over det opstyltede og moraliserende senromantiske skuespil, hvor det gælder om at undgå "Hverdagsphraser" (s. 14), og hvor handlingsgangen er erstattet af forelæsning: Teksten består simpelthen af "Anlæg med Forelæsning, Forelæsning med Forelæsning og Opløsning [sic] med Forelæsning" (s. 40). Selv anvender Chievitz mesterligt en blanding af hvas prosa og "vor nationale femfodede Jambe" (s. 42). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471447904</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471447904</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Teaterdigteren</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">245</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Handlingen er forlagt til Athen, men der udveksles breve både med Olympen og Shakespeare, og den finder sted den skæbnesvangre 15. marts, "idus martius" (s. 5), dvs. dagen Julius Cæsar blev myrdet, hvor det skal afgøres "hvilket af de i den sidste Theatersaison opførte Skuespil, der vinder den store Priisbelønning" (s. 6) - og prisen skal gå til årets kedeligste drama! Dette meddeles af journalisten med det holbergske navn Chilian, og ligesom denne figur i Holbergs komedie Ulysses von Ithacia er Chievitz' Chilian både satirens drivende kraft og forfatterens ironiske talerør. Han sætter lighedstegn mellem begreberne 'kedelig' og 'poetisk', ét af tidens modeord, og dette bliver udgangspunktet for satiren, for det er jo en kendsgerning, at alle værker af kritikerne netop udnævnes til at være 'poetiske'. Chievitz gør ikke holdt ved selve de litterære tekster, men gør også voldsomt nar af kritikerne og digterne, deres forfængelighed og pengegriskhed. Det kedelige dramas vigtigste repræsentanter er ifølge Chievitz Carsten Hauch og Jens Christian Hostrup. Som kandidater til prisen for årets kedeligste drama nævnes således Hostrups "udødelige" Eventyr paa Fodreisen med dens "rørende Slutning" (s. 43-44) og Hauchs Søstrene paa Kinnekullen : "Her have vi Moral i 1ste Act, Moral i 2den Act og Moral i 3die Act; og inden Tæppet endda gaaer ned, er Digteren saa venlig, at lade Bjergmanden komme frem og give os den for fjerde Gang" (s. 44). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471442736</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471442736</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Teaterdigteren</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">257</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da det viser sig, at prisen for at blive udnævnt til årets kedeligste drama er den unge kvinde Viola fra Shakespeares komedie Twelfth Night , der tilbyder "Peengjøring[!] og andre qvindelige Netheder" (s. 71), protesterer alle kandidaterne. Blandt disse er både den gammeltestamentlige Rut - et hib til Athalia Schwartz drama Ruth , der året før med stor succes var blevet opført på Det Kgl. Teater med Johanne Luise Heiberg i titelrollen - og selveste Tycho Brahe (titelhelten i Hauchs drama Tycho Brahes Ungdom ), og Viola beslutter sammen med Shakespeare selv at konkurrere om prisen med teatrets aktuelle opførelse af Love's Labour's Lost - naturligvis i Sille Beyers tamme og stuerene bearbejdelse - endnu et litterært hib! Men prisen uddeles ikke, for - og dette er stykkets vittige pointe - jo kedeligere et skuespil er, desto mere morer publikum sig, og som afslutning lader Chievitz guden Apollon derfor træffe denne afgørelse: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471434720</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471434720</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">283</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Nu maae De ikke tro det er Spot, </field>
+    <field name="text_tesim">Eller nogensomhelst Underfundighed; - </field>
+    <field name="text_tesim">Men Publicum morer sig aldrig saa godt, </field>
+    <field name="text_tesim">Som naar det sig kjeder med Grundighed. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471431888</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471431888</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Teaterdigteren</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">305</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med denne dom over publikum, ledsaget af et sarkastisk sidehug til den moraliserende litteraturkritik, afslutter Chievitz sit dramatiske forfatterskab og anslår i sidste ende - på trods af den næsten spexagtige munterhed, der i øvrigt præger skuespillet - den samme pessimisme og desillusionerede tone, der allerede karakteriserede hans debut fra 1845. Afslutningsvis må det understreges, at det med Det kjedelige Drama faktisk er lykkedes Chievitz at skrive en tekst, der netop ikke er kedelig, men derimod en regelret hyldest til fantasien, og dermed præsenterer han jo netop undtagelsen, der bekræfter den af ham selv formulerede regel. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471425376</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471425376</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Nytaarsgave for Forlovede. Saaledes forholder det sig
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">331</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chievitz anvendte et pseudonym, da han 1845 debuterede med en fortælling, der bar den ironiske titel Nytaarsgave for Forlovede. Saaledes forholder det sig . Den foregives at være nedskrevet af den 16-årige Annette T-, der i en efterskrift meddeler, at hun "skrev den op, som min Fætter fortalte den, og han fortalte den ganske vist saaledes som den virkelig er gaaet til, for lyve gjør han ikke" (s. 127). Dette krav på sandhed korresponderer udmærket med Chievitz' hensigt med bogen: at rette et voldsomt angreb mod konventionernes og materalismens sejr over de unge elskendes kærlighed - men også mod det hykleriske spil, alle involverede deltager i. Handlingen selv er sekundær og bærer præg af ren konstruktion, og figurerne får aldrig selvstændigt liv og skal fra forfatterens side heller ikke have det. Det har tydeligt været Chievitz' hensigt med sin bog at skrive en pamflet, der i sin pessimisme og desillusion ganske vist er et typisk udtryk for tidens romantisme, men i sin utilslørede skildring af drifternes frie spil er enestående i tiden. Den vakte da også behørig opsigt, ikke mindst da publikum ved at sammenholde handlingen med forfattermærket satte fortællingen i forbindelse med Chievitz' tidligere forlovede. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471421984</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471421984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Nytaarsgave for Forlovede. Saaledes forholder det sig
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">340</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da den smukke justitsrådsdatter Fanny opdager, at hendes forlovede, Alfred, ikke er så rig, som hun og hendes familie har troet, hæves forlovelsen straks, og Fanny forlover sig i stedet hurtigt med den svenske Baron H - men indleder før brylluppet alligevel et erotisk forhold til Alfred. Situationen accepteres af forfatteren, der ikke undlader at pege på Fannys hykleriske holdning, dikteret af omgivelserne: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471418080</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471418080</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Nytaarsgave for Forlovede. Saaledes forholder det sig
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">358</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mere direkte provokerende er beskrivelsen af forholdene mellem fortællingens to levemænd, den blaserte Smith, der slår om sig med engelske citater, og den mere hysteriske Clotaldo og tre letlevende grisetter, sypiger. Konstellationen er flittigt anvendt i tidens litteratur, og her gør en indflydelse fra tidens populæreste forfatter, franskmanden Paul de Kock, der oversattes til dansk i årene efter 1837, og dennes vovede beretninger fra det parisiske bohemeliv sig tydeligt gældende. Budskabet både hos de Kock og Chievitz er ganske enkelt, at der ikke er forskel på sypiger og fine fruer, når det gælder moral: "Grisetterne overgive sig maaske lidt hurtigt, naar man bare sværger paa, at man elsker dem; de fine Damer ere kokette og heller ikke udsatte for de Fristelser, som Fattigdom og simpel Fødsel føre med sig" (s. 34). At dette budskab også havde en mere privat adresse stod klart for publikum, der let gennemskuede forbindelsen mellem pseudonymet og navnet på Chievitz' første forlovede, men ikke reagerede på den langt farligere konklusion, som ikke Alfred, den af økonomiske årsager forsmåede bejler, men levemanden Clotaldo drager, og som også danner bogens slutning: "Af en ulykkelig Elsker kan blive en fortrinlig Revolutionair. Kjæmpede han før med af Princip, faar Principet nu en klippestærk Allieret i Hadet; Had imod de sociale Forhold, paa hvilke hans Kjærlighed strandede; Had imod de rige og mægtige" (s. 125) - en revolutionær erklæring, der - alt andet lige - er forfattet tre år før udgivelsen af Karl Marx' kommunistiske manifest. Herefter erklærer Clotaldo ganske vist, at han den næste dag vil "skrive en Afhandling over Communismen" (s. 125), men forinden har Chievitz ladet ham afvise den politiske diskussion som et emne, der ikke er påtrængende, og fortællingen slutter kynisk - og pessimistisk - med udbringelsen af en selskabsskål og Smiths forslag: "Nej, nu skal I høre en ny Vise, som jeg har lært: Lad dadle Kvinderne hvo vil" (s. 126). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471413488</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471413488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">372</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Samme år som Nytaarsgave for Forlovede , men med 1848 på titelbladet, udkom Chievitz' kendteste værk, romanen med den programmatiske titel Fra Gaden med den anonyme forfatterangivelse: "Forfatteren til 'Saaledes forholder det sig'." Bogen er anderledes omhyggeligt struktureret end debutværket og konstrueret efter det kinesiske æskesystem. Den indledes med "Udgiverens Fortale", hvor udgiveren, dvs. Chievitz selv, beretter om, hvordan han er kommet i besiddelse af romanmanuskriptet. Forinden indføjer han dog en lille episode, en dialog mellem to unge, der som i et koncentrat indeholder Alfreds og Fannys historie fra debutnovellen - forlovelsestematikken har tydeligvis redet Chievitz som en mare! Herefter fortæller han, hvordan han stående foran et brændende hus opdagede et manuskript liggende på et skrivebord, der var blevet reddet ud af huset. Blandt tilskuerne befandt sig også tre af romanens hovedpersoner: Vilhelm Flint, en musiklærer, der sammen med en velhavende Cancellist Jespersen bebor det brændende hus, Flints kæreste, Augusta, og endelig vennen Felix Bearn. Flint indrømmede derpå over for udgiveren, at manuskriptet delvist handlede om dem alle tre og var skrevet af en af deres bekendte, nemlig juristen Jespersen. Imidlertid stak Flint dette manuskript i lommen, og først et halvt år senere får udgiveren det tilbage med posten forsynet med en fortsættelse, som Flint meddeler, at han selv har skrevet, og samtidigt giver han tilladelse til at det udgives. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471409056</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471409056</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">381</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">At Søren Kierkegaard har været forbilledet for denne slørings- og mystifikationsteknik, bliver endnu tydeligere, da det nu viser sig, at Jespersens manuskript, forfattet i førsteperson og egentlig en dagbog, er suppleret af Vilhelms og Felix' egne jeg-fortællinger, der følges af Augustas historie også fortalt i førsteperson. Herefter aftrykker udgiveren et brev fra Emilie St. Clair, den kvinde Jespersen, hvilket fremgår af hans manuskript, er forelsket i og også en overgang forloves med, der beretter om to af hendes bejlere, der viser sig at være Jespersen og Bearn, samt om ildebranden, der allerede er omtalt i udgiverens fortale. Herefter følger endnu to beretninger af Flint, der begge er skrevet i tredjeperson. I den første af disse er indføjet endnu en tekst: kaptajnens (dvs. Jespersens faders) historie: "Det er circa tyve Aar siden"; den anden beretning danner slutningen på "denne sandfærdige Historie" ( s. 152 ), hvorefter udgiverens stemme igen høres i et afsluttende kapitel, der fuldender rammekompositionen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471405712</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471405712</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">387</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Chievitz benytter denne raffinerede komposition til at belyse sine hovedpersoner fra forskellige vinkler, og herigennem lykkes det ham at omdanne en række litterære typer til levende mennesker af kød og blod inden for rammerne af en handlingsgang, der læner sig tydeligt op ad tidens følsomt-overspændte familieromaner. Flere af disse sen- eller pseudoromantiske underholdningsforfattere nævnes ved navn, således de to yderst populære svenske forfatterinder Sofie von Knorring (1797-1848) og Emilie Flygare-Carlén (1807-92), samt den yderst produktive engelske forfatter Edward Bulwer-Lytton (1803-73). Endvidere anføres to titler fra tidens underholdningslitteratur, der har påvirket Chievitz: "Die Geheimnisse von Paris", den tyske titel på Eugène Sues farverige sædeskildring Les Mystères de Paris (1842-43) - "Her finder De skildringer af Laster, som den unge Pige ikke veed existerer" (s. 72), udtaler Jespersen sig fordømmende - der omtrent samtidigt bragtes som føljeton i den københavnske avis Dagen , og "Japhet, der einen Vater sucht", den tyske titel på Frederick Marryats spændingsroman Japhet in Search of a Father (1836). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471400160</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471400160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">405</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Og alligevel gælder det for Chievitz i første omgang ikke om at forfatte en roman med en traditionel handlingsgang og med psykologisk udviklede personer, men snarere om at skrive en tendensroman for at afsløre opportunismen og dobbeltmoralen i det hykleriske københavnske borgerskab repræsenteret af dydsmønstret Jespersen, den "ferniserede Pedant" (s. 109). Samtidigt parodierer Chievitz i dennes ulideligt bedrevidende monologer over kunstens og litteraturens moralske funktion tidens æstetiske debat. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471399136</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471399136</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">408</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Da Jespersen lider sit afgørende nederlag ved at blive afvist af Emilie, der hæver dén forlovelse med ham, som hun af sin familie er blevet tvunget ind i, fatter han sig lynhurtigt og kaster sig ud i en dialektisk øvelse, der igen bringer Kierkegaard i erindring: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471396288</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471396288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">420</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den nævnte ironi kommer allerede til udtryk i Jespersens indledende beretning - hvor man også aner en vis selvironi; herigennem forbereder Chievitz diskret den afsluttende opportunistiske karakterændring. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471395472</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471395472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">423</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Jespersens absolute modsætning er den viltre Felix Bearn, levemanden og flanøren, "Driveren", som typen kaldes af Chievitz, et portræt af 1830'ernes og 1840'ernes dagdrivende æstetiker og vel nok tildels et selvportræt. Den unge kvinde, han tilfældigvis møder på gaden og indleder en flirt med, viser sig at være Emilie, Jespersens tilkommende. Omgående forelsker Felix sig lidenskabeligt i Emilie og hun gengælder - efter moden overvejelse - hans følelser. Felix' erobring af hende skyldes dog ikke så meget hans egen indsats, hertil er han alt for flygtig en type, men snarere Emilies friheds- og selvstændighedstrang efter at have gennemskuet status quo: "Verden er ikke saa rosenrød, som vi drømte os den for et Aars Tid siden; jeg troer ikke mere paa forklædte Prindser, eller andre romantiske Elskere" ( s. 59 ). Efter denne desillusionerede statusopgørelse, hvormed Chievitz med voldsom radikalisme også indirekte torpederer hendes og Felix' romantiske kærlighedshistorie - og dermed alle romantiske kærlighedshistorier og romantikken selv - erklærer hun dristigt Jespersen lige op i hans ansigt, mens familien, der har tvunget hende til forlovelsen, er tilstede: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471385200</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471385200</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">456</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Med denne gestus viser Emilie, dansk litteraturs første fuldstændigt emanciperede kvinde, sin slukørede forlovede døren. Og tydeligvis får Chievitz også i denne scene anbragt ét af sine mange angreb på selve forlovelsesinstitutionen. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471384320</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471384320</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">459</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Mens både Jespersen og Felix er ironisk-satiriske portrætter, er Emilie romanens ubetingede kvindelige helt, mens Vilhelm Flint er den mandlige parallelfigur, der på mange måder repræsenterer mellemproportionalen mellem Jespersen og Felix, og hvis ræsonnerende og kloge beretninger ikke uden grund udgør romanens hovedpart. Også Flint har mulighederne i sig for at ende som flanør i Felix' fodspor - som musiklærer er han konstant i den klassiske situation som potentiel forfører af sine kvindelige elever - men ikke mindst mødet med Augusta på gaden(!) får ham til at 'realisere det Almene', for at bruge et nærliggende kierkegaardsk udtryk. Med hendes historie, der med et bevidst narrativt greb er fortalt i førsteperson for at styrke autenticiteten, får Chievitz lejlighed til i langt højere grad end i en værtshusscene, der indeholder en voldelig konfrontation mellem en arbejder og Jespersen, at udfolde sin kritik af datidens sociale forhold. Augusta er den fattige sypige - de flirtende grisetter fra debutnovellen anbringes her i en anderledes alvorlig kontekst - hvis triste historie forklarer romanens titel. Hun er en af de stille, underkuede eksistenser, der befolker "[d]isse Gader, som om Dagen ere fulde af Børn, Urenlighed og Spectakel, hvis Huse see ud som bare Sult og Elendighed, de ere nu [dvs. om aftenen] øde og rolige, og i Mørket tage de høie Huse sig ligesaa aristocratiske ud, som Husene i Bredgade og i andre fornemme Qvarterer" ( s. 30 f. ). Det er bag disse kulisser, at elendigheden breder sig. Augustas opvækst er præget af fattigdom, prygl og kriminalitet, broderen er tyv og moderen vil tvinge hende ud i prostitutionen. Efter en mere end antydet voldtægt, der sker med moderens samtykke, lykkes det for Augusta at blive ansat som tjenestepige. Da hun imidlertid en aften, efter at hendes moder og broder forgæves har søgt om hendes medvirken til at stjæle herskabets sølvtøj, kommer for sent hjem, jages hun brutalt på porten - og reddes af Flint! </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471380480</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471380480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">465</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Gennem Augustas beretning til Flint aner læseren, at hun ikke har hjemme i det af hende beskrevne smudsige og kriminelle miljø, og denne diskrete antydning peger da også frem mod en 'happy end', der er et Askepoteventyr værdigt. Det viser sig nemlig, at Augusta er frugten af en erotisk affære, som Jespersens fader, den rige og buldrende Kaptajn Jespersen, har haft i sin ungdom. Augustas moder viser sig at være identisk med den senere justitsrådinde Lind, Emilies arrogante, usympatiske tante, der er den drivende kraft bag Emilies forlovelse med unge Jespersen - ironien er næsten for tydelig! Den rette forklaring følger gennem kaptajnens indskudte beretning, hvis kulørt-romantiske tone fra Chievitz' side kun kan være ment parodisk. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471378496</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471378496</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">468</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nu er der intet til hinder for, at Augusta og Flint kan få hinanden, og det ligger i luften, at Emilie og Felix står for tur. Dette kan imidlertid først finde sted efter en toårig forlovelsestid, der dog ikke - og dette er én af Chievitz' pointer - nødvendigvis vil forløbe så ærbart som konventionerne forlanger. Disse konventioner gøres til genstand enten for satiriske sidehug eller direkte polemiske angreb, der løber gennem teksten som en rød tråd og karakteristisk nok formuleres mest radikalt af Emilie i en scene, hvor hun forsvarer Augusta over for sin tante: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471374624</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471374624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Fra Gaden
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">483</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Bevidst og effektivt anvender Chievitz alle romankunstens kneb for at skabe en lykkelig udgang på de mange usandsynlige forviklinger og misforståelser - og dermed gør han samtidigt nar af tidens triviallitteratur. Den næsten ulideligt harmoniske slutning gøres kun spiselig ved den ironi Chievitz kaster over den bevidst eventyragtigt-trivielle løsning, der trylles op af røverromantikkens høje hat og bevidst stilles i modsætning til romanens egentlige sociale og moralske budskab. At dette er Chievitz' sande hensigt, bliver ganske tydeligt i det afsluttende, yderst summariske kapitel, der indledes med disse ord: "Saaledes endte da denne sandfærdige Historie; thi efterstaaende Linier kunne meget godt springes over, da de intet Andet indeholde, end hvad enhver dannet Læser, der nogensinde har stavet sig igjennem en Roman, med Lethed selv vil kunne slutte sig til [...]" ( s. 152 ). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471369424</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471369424</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Japhet, der søger sig en Kone
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">500</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Emilies angreb på idealiseringen af kvinden følges op i Chievitz' næste og sidste prosaværk Japhet, der søger sig en Kone - titlen er efter Frederick Marryat (se ovenfor) - der i 1851 først blev offentliggjort som føljetonroman i Dagbladet og året efter udkom i bogform. Her genfindes en lignende personkonstellation som i Fra Gaden og et noget udvidet persongalleri, der helt bevidst bygger på modsætningen mellem frigjorte københavnske og bornerte provinsielle typer. Også rammekompositionen minder om den første roman: I en populær adresse- og avertissementsavis - tydeligvis udnytter Chievitz her sine erfaringer fra sin egen tidligere ansættelse på et dagblad - opdager forfatteren en annonce, indrykket af en høker ved navn Jens Gregersen Braaby, der efterlyser en vis Hr. Victor E-, der har været logerende i hans hus, men nu er forsvundet uden at have betalt sin regning. Annoncen ledsages af et brev fra Gregersen til bladudgiveren, der forklarer annonceringen ved at understrege, at denne fremgangsmåde er alt for mild i forhold til, hvad der er passeret: "Ja, Hr. Bladudgiver, det kan De troe er langt fælere end alt det De skriver om forneden i Deres Blad" (s. 4). Herigennem pirres naturligvis bladudgiverens - og læserens - nysgerrighed og Gregersen opfordres naturligvis til at berette "den mærkværdige Historie" (s. 2). Dette sker i de følgende numre af avisen og udgør romanens første kapitel, der danner udgangspunktet for den efterfølgende farceagtige handling: Helten skal arve en herregård, hvis han inden en vis frist har fundet sig en hustru. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471364256</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471364256</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Japhet, der søger sig en Kone
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">512</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den indledende beretning er i brevform, og brevet skrives af en helt tredie person, der efter ca. fem siders udenomssnak endelig kommer så langt, at den mysteriøse Victor E- kan introduceres. Han er student og levemand, og det er med nogen gysen, at den brave brevskriver - som en anden Cancellist Jespersen - kan berette om de mystiske damebesøg Hr. Victor, beluret af høkerens datter Malvina, modtager på sit værelse. Alt dette og det videre handlingsforløb berettes med en omstændelighed og snakkesalighed, der står i stærk kontrast til den præcise stil i Fra Gaden . </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471362288</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471362288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">
+                Japhet, der søger sig en Kone
+              </field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">518</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Endvidere er det bemærkelsesværdigt, at Chievitz uden betænkelighed og uden ironi anvender stil og teknik fra den triviallitteratur, han i sin tidligere roman harcellerede over, men til gengæld helt udelader dette værks sociale protest. Dog angriber Chievitz endnu engang de lange forlovelser, men generelt er den tidligere skarpe tone og konsekvente kritik af dobbeltmoral og hykleri afløst af digressioner og anstrengte morsomheder, der gør Japhet, der søger sig en Kone til et antiklimaks i forfatterskabet og kun undtagelsesvist hæver teksten op over det rent underholdende niveau. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471358720</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471358720</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">534</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Poul Chievitz debuterede i en brydningstid mellem senromantik og gryende realisme, en tid, hvor dansk litteratur bevægede sig fra romantisk epigoneri hen imod dén kritiske virkelighedserkendelse, Chievitz' bedste værker repræsenterer. Dog kan man inden for hans forfatterskab tydeligt mærke en udvikling i modgående retning, en bevægelse bort fra det oprørske og provokerende henimod en vis idyllisering og konformitet, og parallelt hermed også en svækkelse af den kunstneriske kvalitet - dog med en enkelt undtagelse, den originale litteraturkomedie Det kjedelige Drama , der blev udgivet i forfatterens dødsår. Den formindskede kunstneriske kraft er åbenlys ikke mindst i Chievitz' anden, noget udflydende roman, Japhet, der søger sig en Kone , og i vaudevillerne fra 1850'erne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471355696</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471355696</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">543</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Ligesom H.C. Andersen følte Chievitz sig hele sit liv som en outsider, hvilket han kompenserede for ved at anlægge en maske som æstetisk skønånd og flanør, samtidigt med at han, især i sit tidlige forfatterskab, skarpt angreb tidens materialisme og borgerskabets hykleri i dets syn på kønnene. Denne analyse af forholdet mellem mand og kvinde og ikke mindst Chievitz' hævdelse af kvindens ret til at bestemme over sit eget liv var ganske vist allerede kommet til udtryk i Thomasine Gyllembourgs såkaldte hverdagshistorier (1827-45), men hans behandling af emnet er anderledes kras og direkte, og han kan samtidigt heller ikke nære sig for at gøre nar af Gyllembourgs på én gang sentimentale og patetiske tone. Chievitz har valgt en kritisk, realistisk synsvinkel, som tidligere tildels kan findes i Steen Steensen Blichers noveller, men frem for alt i Carl Baggers roman Min Broders Levnet fra 1835. Men medens Baggers realistiske perspektiv er begrænset til det københavnske værtshusmiljø, introducerer Chievitz for første gang arbejderen i dansk litteratur og inddrager direkte aktuelle politiske emner i sin tekst: den økonomiske udbytning og forholdet mellem arbejdskraft og kapital. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471352096</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471352096</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sammenfatning</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">551</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Muligvis har det foresvævet Chievitz at skabe et dansk modstykke til Honoré de Balzacs monumentale samfundsanalyser, der blev udgivet under fællestitlen Den menneskelige komedie (1829-49). Dette oversteg ganske vist hans kræfter og hans talent, der nok mere var på linie med Paul de Kocks lette og muntert-dristige pariserromaner. Alligevel vil Chievitz blive husket for ét enkelt mesterværk, romanen Fra Gaden , dansk litteraturs første sociale roman, der sammen med hans første og sidste værker, fortællingen Nytaarsgave for Forlovede og skuespillet Det kjedelige Drama , vil sikre ham en plads som en væsentlig og tidlig, men overset forløber for naturalismens tendenslitteratur i 1870'erne og 1880'erne. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471346368</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471346368</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">574</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Poul Chievitz var uden egentlig akademisk baggrund og følte sig som nævnt hele sit liv som en outsider, hvilket han kompenserede for ved at anlægge en maske som æstetisk skønånd og dagdriver, mens han i sit forfatterskab til stadighed angreb borgerskabet. Den svingende kvalitet i hans forfatterskab gjorde, at Chievitz hurtigt blev glemt, men i hans egen levetid vakte han forargelse, hvilket forfatteren Svend Leopold har forsøgt at fastholde i dette fiktive snapshot: </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471342688</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471342688</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">589</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det er nok mindre et udtryk for denne farlighed end for Chievitz' manglende almene litterære reputation, at hans værker, bortset fra Fra Gaden , ikke synes anmeldt i samtidens presse. Det er således karakteristisk, at Nytaarsgave for Forlovede , der givetvis må have vakt en vis opsigt og nok også forargelse inden for voldene, flere gange omtales i pressen, men kun i forbindelse med en anmeldelse af Fra Gaden . Således sammenfatter Kjøbenhavnsposten , nr. 7, 1848, indledningsvis fortællingens tematik på denne måde: "I [ Nytaarsgave for Forlovede ] har Forfatteren gjort sig til Opgave at skildre den skjæve Stilling med Hensyn til Ægteskabet, hvori vore Samfundsforhold og vor Pengebegjærlighed har bragt os." I Berlingske Tidende , nr. 6, 1848, indledes anmeldelsen af Fra Gaden med en omtale af, at Chievitz med sin første fortælling har skaffet sig "Anerkjendelse og en udbredt Læsekreds". Hos M.A. Goldschmidt kan man finde en omtale af værket i Nord og Syd , bd. 2, 1848, der viser Goldschmidts skarpe øje for dets revolutionerende budskab: "I [ Nytaarsgave for Forlovede ] var den retfærdige Vrede over det, [Chievitz] havde mødt, stærk indtil Lidenskab, Indignationen bitter indtil Uretfærdighed, han syntes at ville nedbryde Skranken mellem Kjønnene, for i den almindelige Forvirring idetmindste at redde det Naturlige". I samme artikel kaster Goldschmidt også et blik tilbage på pressens modtagelse af Fra Gaden , der "vakte Debat og Polemik, ja vakte Lidenskab; Nogle betragtede dens Forfatter som en ond Engel, der vilde fordærve det danske Samfund, Andre hilsede ham som en moralsk-chirurgisk Genius, der med sikker Haand vilde foretage en gavnlig, men smertelig Samfundsoperation". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471332176</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471332176</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">622</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den fuldstændigt negative reaktion på Fra Gaden er repræsenteret af den anonyme anmeldelse i Flyve Posten , nr. 300 og 302, 1847, den første anmeldelse af romanen overhovedet. Her fremhæves ikke mindst "Augustas afskyelige Voldtagningsscene" og "Omtalen af at hun er solgt til Eierinden af et berygtet Huus", men generelt kritiseres, at forfatteren har holdt sig "til Vrangsiden af det daglige Liv" og anvendt "gemene Talemaader, ret hvad man kan kalde "Liderlige Tanker i letfærdige Ord"." </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471329536</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471329536</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">631</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En lignende fordømmelse af værket karakteriserer imidlertid ikke de øvrige anmeldelser. Berlingske Tidende s (se ovenfor) anonyme anmelder tager ganske vist afstand fra værtshusscenerne, men hæfter sig til gengæld ved romanens kunstneriske kvaliteter: "[...] navnlig en let, livlig, ofte meget lunefuld Fremstilling og en træffende Opfatning af Personer og Forhold". Også anmelderen i Kjøbenhavnsposten (se ovenfor), "R.S.", beskæftiger sig med de litterære kvaliteter, ikke mindst den sindrige komposition, og bemærker, at hele bogen som sådan "vrimler af ypperlige Træk og træffende Bemærkninger". Den ligeledes anonyme anmelder i Nyt Aftenblad , nr. 9, 1848, angriber endog anmeldelsen i Flyve Posten og understreger, at Chievitz' roman faktisk er en ydersk moralsk bog: "Den hader og forfølger med træffende Satire og Spot det Pedantiske og Philistrøse i Livet, gjør det Lave og Usle latterligt, revser de mangfoldige af de elendigste Bevæggrunde indgaaede Forlovelser og Ægteskaber". </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471324464</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471324464</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">646</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Denne generelt positive holdning i samtiden har dog ikke kunnet redde Fra Gaden fra at blive glemt i den litterære bevidsthed på trods af en række senere udgaver. Det er betegnende for Chievitz' litterære skæbne, at der skulle gå ca. 50 år mellem den næstsidste og den seneste udgave fra henholdsvis 1942 og 1991, og at ingen af hans andre værker, på nær to, nogensinde er kommet i nye oplag eller udgaver. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471322624</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471322624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">652</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Faglitteraturen om Poul Chievitz er ikke omfattende, og man savner en samlet diskussion og analyse af forfatterskabet; det nærmeste man kommer er Uffe Andreasens kyndige efterskrift til den seneste udgave af Fra Gaden . Alligevel er de korte omtaler af Chievitz i de gængse litteraturhistorier og opslagsværker overalt positive lige fra Vilhelm Andersens ene side i 3. bind af Illustreret dansk Litteraturhistorie (1924), typisk ved dens korte, men præcise værkkarakteristikker, til Uffe Andreasens langt fyldigere behandling af forfatterskabet i 3. bind af Dansk litteratur historie (1976). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471319040</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471319040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Modtagelse og efterliv</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">664</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">I alle omtaler af Chievitz' forfatterskab fokuseres på romanen Fra Gaden , mens de andre værker behandles sekundært. En undtagelse danner F.J. Billeskov Jansens fremstilling i 3. bind af Danmarks Digtekunst (1958), der både vier debutbogen en udførlig omtale og i forbindelse med en lærd gennemgang af periodens underholdningslitteratur placerer Chievitz i denne vigtige genremæssige sammenhæng. Mens Chievitz er blevet fundet for ubetydelig til at blive nævnt i forskellige fremmedsproglige danske litteraturhistorier, f.eks i P.M. Mitchells A History of Danish Literature (1957) og Hanne Marie og Werner Svendsens Geschichte der dänischen Literatur (1964), er han dog omtalt flere gange af Sven H. Rossel i A History of Danish Literature (1992), der ligeledes kort behandler både Nytaarsgave for Forlovede og Fra Gaden . Også Dansk forfatterleksikon (2001) indeholder en artikel om Chievitz, men han omtales hverken i Litteraturhåndbogen (1985) eller i Gads Danske Forfatterleksikon: Litteraturens Stemmer (1999). </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471308448</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471308448</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">705</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Den udgave, der er anvendt i ADL, og som der henvises til i dette portræt, er Fra Gaden . Tekstudgivelse og noter ved Esther Kielberg og efterskrift ved Uffe Andreasen, Danske Klassikere , Det Danske Sprog- og Litteraturselskab/Borgen, 1991. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471306352</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471306352</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Tekstoplysninger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">714</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Citater fra Poul Chievitz' øvrige værker gengives fra originaludgaverne (se Bibliografi) bortset fra Nytaarsgave for Forlovede. Saaledes forholder det sig , der citeres efter 3. udgave fra 1906. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471299984</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471299984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">747</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Listen er delt i tre afdelinger: værker, senere tekstudgaver og en selektiv liste over litteraturhistoriske behandlinger. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471298048</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471298048</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">756</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nytaarsgave for Forlovede. Saaledes forholder det sig. Original Fortælling af Annette T- , Kbh. 1845; 2. udg. med titlen: Saaledes forholder det sig eller Nytaarsgave for Forlovede. Original Fortælling af Annette T -, 1872 </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471295872</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471295872</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">764</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Venskab og Kjærlighed. Comedie i to Acter , 1847. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471294704</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471294704</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">769</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra Gaden , 1847 (på titelbladet 1848); senere udg.: 1853, 1888, 1898, 1911. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471293488</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471293488</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">774</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En høiere Dannelsesanstalt. Vaudeville i 2 Acter (sammen med Adolph v. der Recke), 1850 .  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471291632</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471291632</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">782</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Lodsen. Et Syngespil i 1 Act (sammen med Adolph v. der Recke), 1851. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471290480</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471290480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">787</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">For Alvor. Vaudeville i 2 Acter (sammen med Adolph v. der Recke), 1852; 2. udg. 1880. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471289328</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471289328</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">792</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Japhet, der søger sig en Kone I-II, 1852. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471288176</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471288176</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">797</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">En Fortid. Vaudeville-Comedie i 3 Acter (sammen med Adolph v. der Recke) 1853. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471287040</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471287040</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Værker:</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">802</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Det kjedelige Drama, eller: Hvad der behager Publicum , 1854. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471284480</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471284480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">815</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra Gaden , udg. med indledning af C.St.A. Bille, 1898. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471282288</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471282288</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">822</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Nytaarsgave for Forlovede eller saaledes forholder det sig. Original Fortælling af Annette T- , udg. med indledning af Axel Larsen, 1906. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471280976</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471280976</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">827</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra Gaden , udg . med indledning af Svend Kragh-Jacobsen, 1942. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471279152</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471279152</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Senere tekstudgaver</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">835</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Fra Gaden , udg. med noter ved Esther Kielberg og efterskrift ved Uffe Andreasen. Danske Klassikere . Det Danske Sprog- og Litteraturselskab/Borgen, 1991. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471275008</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471275008</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">853</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471274160</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471274160</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">859</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">M.A. Goldschmidt: "Poul Chievitz", i: Nord og Syd , bd. IV, 1856, s. 217-226. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471273024</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471273024</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">865</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">M.A. Goldschmidt: Livs Erindringer og Resultater , bd. I, 1877, s. 248-256, 399-401. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471271856</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471271856</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">871</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Peter Hansen: Den danske Skueplads. Illustreret Theaterhistorie , bd. II, s. 490-491; bd. III, s. 215, 235. Bind I-III udkom i perioden 1889-96. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471270624</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471270624</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">877</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Svend Leopold: Omkring Parnasset og andre Materier , 1914, s. 7-10. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471269472</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471269472</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">883</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Vilhelm Andersen og Carl S. Petersen: Illustreret dansk Litteraturhistorie , bd. III, 1924. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471268304</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471268304</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">889</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">K.F. Plesner: Gode klerke. Litterære Essays , 1944, s. 127-134. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471267120</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471267120</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">895</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">F.J. Billeskov Jansen: Danmarks Digtekunst , bd. 3, 1958. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471265984</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471265984</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">901</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Sven Rossel: A History of Danish Literature , 1992. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471264832</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471264832</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Biografiske og litteraturhistoriske behandlinger</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">907</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Uffe Andreasen i: Dansk litteratur historie , bd. 3, 1976. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">chievitz-p#idm140156471262480</field>
+    <field name="volume_id_ssi">chievitz-p</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/chievitz-p#idm140156471262480</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Sven H. Rossel</field>
+    <field name="author_name">Sven H. Rossel</field>
+    <field name="author_id_ssi">Sven%20H.%20Rossel</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">921</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">(f. 1943) er professor i nyere skandinavisk litteratur ved Universität Wien. </field>
+  </doc>
+</add>

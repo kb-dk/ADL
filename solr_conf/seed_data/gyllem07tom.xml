@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">samlede skrifter af Forf</field>
+    <field name="id">gyllem07tom</field>
+    <field name="volume_id_ssi">gyllem07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem07tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140469643989104</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Montanus den Yngre (1837)</field>
+    <field name="id">gyllem07tom#workid54254</field>
+    <field name="volume_id_ssi">gyllem07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem07tom#workid54254</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">76</field>
+    <field name="text_tesim">                                                                                                                                                                                   </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Nisida (1837)</field>
+    <field name="id">gyllem07tom#workid56165</field>
+    <field name="volume_id_ssi">gyllem07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem07tom#workid56165</field>
+    <field name="page_ssi">177</field>
+    <field name="page_id_ssi">n177</field>
+    <field name="volume_title_tesim">samlede skrifter af Forf</field>
+    <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
+    <field name="author_id_ssi">Gyllembourg-Ehrensv%C3%A4rd,%20T.%20C.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1866-67</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">436</field>
+    <field name="text_tesim">                                                                                                                                                                     </field>
+  </doc>
+</add>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="id">goldschmidt10tom</field>
+    <field name="volume_id_ssi">goldschmidt10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt10tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140253716468880</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Den sidste Svovlstik</field>
+    <field name="id">goldschmidt10tom#workid54159</field>
+    <field name="volume_id_ssi">goldschmidt10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt10tom#workid54159</field>
+    <field name="page_ssi">3</field>
+    <field name="page_id_ssi">idm140253716549168</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">90</field>
+    <field name="text_tesim">                         </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Fotografierne og Mefistofeles</field>
+    <field name="id">goldschmidt10tom#workid54481</field>
+    <field name="volume_id_ssi">goldschmidt10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt10tom#workid54481</field>
+    <field name="page_ssi">25</field>
+    <field name="page_id_ssi">idm140253716424736</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">142</field>
+    <field name="text_tesim">                           </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Arvingen</field>
+    <field name="id">goldschmidt10tom#workid54643</field>
+    <field name="volume_id_ssi">goldschmidt10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt10tom#workid54643</field>
+    <field name="page_ssi">49</field>
+    <field name="page_id_ssi">idm140253716404640</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">198</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                               </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Breve fra Koleratiden eller en Roman i Breve</field>
+    <field name="id">goldschmidt10tom#workid56945</field>
+    <field name="volume_id_ssi">goldschmidt10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt10tom#workid56945</field>
+    <field name="page_ssi">397</field>
+    <field name="page_id_ssi">idm140253716153840</field>
+    <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
+    <field name="author_name">Goldschmidt, M. A.</field>
+    <field name="author_id_ssi">Goldschmidt,%20M.%20A.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1896-98</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">902</field>
+    <field name="text_tesim">                                                                                                              </field>
+  </doc>
+</add>

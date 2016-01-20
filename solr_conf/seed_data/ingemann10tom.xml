@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Historiske Romaner; : I. Valdemar Seier</field>
+    <field name="id">ingemann10tom</field>
+    <field name="volume_id_ssi">ingemann10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann10tom#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Historiske Romaner; : I. Valdemar Seier</field>
+    <field name="author_name">Ingemann, B. S.</field>
+    <field name="author_id_ssi">Ingemann,%20B.%20S.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1911-1912</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Erik Mentveds Barndom</field>
+    <field name="id">ingemann10tom#workid54262</field>
+    <field name="volume_id_ssi">ingemann10tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann10tom#workid54262</field>
+    <field name="page_ssi">5</field>
+    <field name="page_id_ssi">n5</field>
+    <field name="volume_title_tesim">Historiske Romaner; : I. Valdemar Seier</field>
+    <field name="author_name">Ingemann, B. S.</field>
+    <field name="author_id_ssi">Ingemann,%20B.%20S.</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1911-1912</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">79</field>
+    <field name="text_tesim">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </field>
+  </doc>
+</add>

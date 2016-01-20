@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="id">hertz07tom</field>
+    <field name="volume_id_ssi">hertz07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz07tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140475572703440</field>
+    <field name="volume_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="author_name">Hertz, Henrik</field>
+    <field name="author_id_ssi">Hertz,%20Henrik</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1897</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Et Offer</field>
+    <field name="id">hertz07tom#workid54241</field>
+    <field name="volume_id_ssi">hertz07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz07tom#workid54241</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">n1</field>
+    <field name="volume_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="author_name">Hertz, Henrik</field>
+    <field name="author_id_ssi">Hertz,%20Henrik</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1897</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">72</field>
+    <field name="text_tesim">                                                                                                                                                     </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Den Yngste</field>
+    <field name="id">hertz07tom#workid55853</field>
+    <field name="volume_id_ssi">hertz07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hertz07tom#workid55853</field>
+    <field name="page_ssi">147</field>
+    <field name="page_id_ssi">n147</field>
+    <field name="volume_title_tesim">Udvalgte dramatiske Værker</field>
+    <field name="author_name">Hertz, Henrik</field>
+    <field name="author_id_ssi">Hertz,%20Henrik</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1897</field>
+    <field name="published_place_ssi">Kbh</field>
+    <field name="position_isi">372</field>
+    <field name="text_tesim">                                                                                                                                                                                              </field>
+  </doc>
+</add>

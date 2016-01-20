@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">portrait</field>
+    <field name="work_title_tesim"/>
+    <field name="id">s-mich-bibl</field>
+    <field name="volume_id_ssi">s-mich-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/s-mich-bibl#</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">s-mich-bibl#idm140150800072224</field>
+    <field name="volume_id_ssi">s-mich-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/s-mich-bibl#idm140150800072224</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Indledning</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">44</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">Indtil videre findes kun en bibliografi for Sophus Michaëlis. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">s-mich-bibl#idm140150800070656</field>
+    <field name="volume_id_ssi">s-mich-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/s-mich-bibl#idm140150800070656</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">53</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim"> Dansk Litteraturhistorisk Bibliografi.  </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">s-mich-bibl#idm140150800069760</field>
+    <field name="volume_id_ssi">s-mich-bibl</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/s-mich-bibl#idm140150800069760</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Bibliografi</field>
+    <field name="author_name"> </field>
+    <field name="author_id_ssi">%20</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">59</field>
+    <field name="genre_ssi">prose</field>
+    <field name="text_tesim">  C.E. Jensen: Vore Dages Digtere , 1898, s. 175-88.  Chr. Rimestad: Fra Stuckenberg til Seedorf 1, 1922, s. 55-77.   </field>
+  </doc>
+</add>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim">Skrifter af Paulus Helie 7. Bind  / ved Marius
+	  Kristensen og Niels-Knud Andersen. - 1948; Udgivet af Det danske Sprog- og Litteraturselskab</field>
+    <field name="id">helg07tom</field>
+    <field name="volume_id_ssi">helg07tom</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helg07tom#</field>
+    <field name="page_ssi">a</field>
+    <field name="page_id_ssi">idm140407107988272</field>
+    <field name="volume_title_tesim">Skrifter af Paulus Helie 7. Bind  / ved Marius
+	  Kristensen og Niels-Knud Andersen. - 1948; Udgivet af Det danske Sprog- og Litteraturselskab</field>
+    <field name="author_name">Helgesen, Poul</field>
+    <field name="author_id_ssi">Helgesen,%20Poul</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi">1932-1948</field>
+    <field name="published_place_ssi">Kbh.</field>
+    <field name="position_isi">0</field>
+  </doc>
+</add>

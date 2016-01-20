@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="type_ssi">trunk</field>
+    <field name="cat_ssi">work</field>
+    <field name="work_title_tesim"/>
+    <field name="id">tycho-08-tvillingebror</field>
+    <field name="volume_id_ssi">tycho-08-tvillingebror</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-08-tvillingebror#</field>
+    <field name="page_ssi">1</field>
+    <field name="page_id_ssi">idm140120597761344</field>
+    <field name="volume_title_tesim"/>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">0</field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-08-tvillingebror#idm140120597755984</field>
+    <field name="volume_id_ssi">tycho-08-tvillingebror</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-08-tvillingebror#idm140120597755984</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140120597757504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Helliget den højeste Gud</field>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">74</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Jeg, der før jeg fik liv, gik bort og fik livet tilbage, </field>
+    <field name="text_tesim">har her fået min grav - gætter du hvem jeg mon er? </field>
+    <field name="text_tesim">Født var jeg ikke endnu, lå stadig i livet hos moder </field>
+    <field name="text_tesim">dengang døden for mig åbned' en dør til mit liv. </field>
+    <field name="text_tesim">Dengang var der en anden der lå i selv samme livmor. </field>
+    <field name="text_tesim">Det var min bror, som i dag lever - en tvilling til mig. </field>
+    <field name="text_tesim">Han fik lov af Gud til at se alle jordens mirakler, </field>
+    <field name="text_tesim">Gud lod ham leve sit liv og blive ældre end mig. </field>
+    <field name="text_tesim">Dog, i forhold til hans er min ingen ringere skæbne, </field>
+    <field name="text_tesim">han har på jorden sit liv, mig ejer Himmelen nu. </field>
+    <field name="text_tesim">Han har på jorden sit liv, udsat for tusinde farer, </field>
+    <field name="text_tesim">farer fra hav og fra land, farer fra Himmelen selv. </field>
+    <field name="text_tesim">Mig ejer Himmelen nu, hvor jeg i forening med guder </field>
+    <field name="text_tesim">nyder den evige fred, nyder den evige fryd. </field>
+    <field name="text_tesim">Men når engang også han forlader sit jordiske hylster, </field>
+    <field name="text_tesim">lader sin mødige krop bag sig i jorden så kold, </field>
+    <field name="text_tesim">da vil vi begge igen forenes heroppe i Himlen, </field>
+    <field name="text_tesim">da vil til sidst også han vinde det evige liv. </field>
+    <field name="text_tesim">Men indtil da bær' han tålmodigt sit legemes byrde, </field>
+    <field name="text_tesim">bør ikke misunde mig, ønske den skæbne jeg fik. </field>
+    <field name="text_tesim">Døden der ramte så brat, lod mig aldrig få navn blandt de fødte </field>
+    <field name="text_tesim">han har arvet det navn som vores bedstefar bar. </field>
+    <field name="text_tesim">Bedstefars navn var Tyge,så Tyge kom han til at hedde. </field>
+    <field name="text_tesim">Brahe blev bedstefar kaldt, derfor er Brahe hans navn. </field>
+    <field name="text_tesim">Det var ham der skrev dette digt for at ære mit minde </field>
+    <field name="text_tesim">efter at fem gange fem år var forbi af hans liv. </field>
+  </doc>
+  <doc>
+    <field name="type_ssi">leaf</field>
+    <field name="id">tycho-08-tvillingebror#idm140120597742784</field>
+    <field name="volume_id_ssi">tycho-08-tvillingebror</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-08-tvillingebror#idm140120597742784</field>
+    <field name="page_ssi">2</field>
+    <field name="page_id_ssi">idm140120597757504</field>
+    <field name="volume_title_tesim"/>
+    <field name="head_tesim">Helliget den højeste Gud</field>
+    <field name="author_name">Tycho Brahe</field>
+    <field name="author_id_ssi">Tycho%20Brahe</field>
+    <field name="copyright_ssi"/>
+    <field name="editor_ssi"/>
+    <field name="editor_id_ssi"/>
+    <field name="publisher_ssi"/>
+    <field name="published_date_ssi"/>
+    <field name="published_place_ssi"/>
+    <field name="position_isi">155</field>
+    <field name="genre_ssi">poetry</field>
+    <field name="text_tesim">Sat til ære for en dødfødt tvillingebror </field>
+    <field name="text_tesim">Af Tycho Brahe Ottesen. </field>
+  </doc>
+</add>
