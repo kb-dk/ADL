@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Jeppe Aakjær</field>
     <field name="id">aakjaer-p</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
     <field name="author_id_ssi">bcdd51e8c4921256ceef038b8867de27</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278425024</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278425024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278425024</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">"Jens Vejmand" og "Havren"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278421104</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278421104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278421104</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">"Jens Vejmand" og "Havren"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278314848</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278314848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278314848</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">"Jens Vejmand" og "Havren"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278310416</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278310416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278310416</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">"Jens Vejmand" og "Havren"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278306656</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278306656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278306656</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">"Jens Vejmand" og "Havren"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278298432</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278298432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278298432</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">"Jens Vejmand" og "Havren"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278293664</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278293664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278293664</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">"Jens Vejmand" og "Havren"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278287312</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278287312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278287312</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær i det litterære landskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278274864</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278274864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278274864</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemme - Barndomsårene i Aakjær (1866-1884)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278272944</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278272944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278272944</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemme - Barndomsårene i Aakjær (1866-1884)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278265776</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278265776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278265776</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemme - Barndomsårene i Aakjær (1866-1884)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278258512</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278258512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278258512</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemme - Barndomsårene i Aakjær (1866-1884)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278255936</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278255936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278255936</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278251888</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278251888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278251888</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278246064</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278246064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278246064</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278243344</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278243344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278243344</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278240528</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278240528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278240528</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278239488</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278239488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278239488</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278235424</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278235424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278235424</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278234432</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278234432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278234432</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278231504</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278231504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278231504</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjemløs - Ungdomsårene i landflygtighed (1884-1907)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278227088</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278227088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278227088</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278226080</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278226080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278226080</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278223952</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278223952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278223952</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278221056</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278221056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278221056</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278218608</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278218608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278218608</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278217424</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278217424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278217424</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278215360</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278215360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278215360</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278212448</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278212448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278212448</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278210240</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278210240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278210240</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278205296</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278205296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278205296</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278192512</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278192512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278192512</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278191568</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278191568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278191568</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278181616</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278181616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278181616</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278177024</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278177024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278177024</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Hjem - Manddomsårene på Jenle (1907-1930)</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278413248</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278413248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278413248</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278156272</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278156272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278156272</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278155696</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278155696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278155696</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278154944</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278154944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278154944</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278150384</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278150384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278150384</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278146928</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278146928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278146928</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278140704</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278140704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278140704</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278139712</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278139712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278139712</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278132192</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278132192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278132192</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278124560</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278124560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278124560</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278119776</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278119776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278119776</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278117472</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278117472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278117472</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278113456</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278113456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278113456</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278109488</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278109488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278109488</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278103968</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278103968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278103968</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278099072</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278099072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278099072</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278094752</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278094752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278094752</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det religiøse spørgsmål - "disse evige Abespring mod Maanen"</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278086608</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278086608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278086608</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278079792</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278079792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278079792</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278078704</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278078704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278078704</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278075088</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278075088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278075088</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278071872</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278071872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278071872</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278068240</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278068240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278068240</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278065920</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278065920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278065920</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278060080</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278060080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278060080</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278054960</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278054960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278054960</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278048384</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278048384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278048384</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278047344</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278047344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278047344</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278033232</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278033232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278033232</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278032192</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278032192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278032192</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Det velsignede arbejde</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278021056</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278021056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278021056</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278018656</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278018656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278018656</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278016704</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278016704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278016704</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453278011984</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453278011984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453278011984</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277997136</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277997136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277997136</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277984624</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277984624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277984624</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277983744</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277983744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277983744</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277973680</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277973680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277973680</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277971008</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277971008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277971008</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277968192</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277968192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277968192</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277964048</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277964048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277964048</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1466,7 +1466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277960976</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277960976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277960976</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277960528</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277960528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277960528</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277954752</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277954752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277954752</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Det jyske bondeliv - Den forbandede udbytning</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1523,7 +1523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277950624</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277950624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277950624</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Tematisk sammenfatning - Mindets og forandringens digter</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1542,7 +1542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277948480</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277948480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277948480</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Tematisk sammenfatning - Mindets og forandringens digter</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1561,7 +1561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277944688</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277944688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277944688</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Tematisk sammenfatning - Mindets og forandringens digter</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1580,7 +1580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277942528</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277942528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277942528</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Tematisk sammenfatning - Mindets og forandringens digter</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1599,7 +1599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277938512</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277938512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277938512</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1618,7 +1618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277934784</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277934784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277934784</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1637,7 +1637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277933840</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277933840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277933840</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1656,7 +1656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277929840</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277929840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277929840</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1675,7 +1675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277925008</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277925008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277925008</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1694,7 +1694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277924000</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277924000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277924000</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1713,7 +1713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277920672</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277920672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277920672</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1732,7 +1732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277919872</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277919872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277919872</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1751,7 +1751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277917568</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277917568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277917568</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1770,7 +1770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277913568</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277913568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277913568</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1789,7 +1789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277911536</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277911536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277911536</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1808,7 +1808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277908416</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277908416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277908416</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1827,7 +1827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277900848</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277900848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277900848</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1846,7 +1846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277899472</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277899472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277899472</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1865,7 +1865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277898080</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277898080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277898080</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277896688</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277896688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277896688</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277895312</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277895312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277895312</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1922,7 +1922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277894336</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277894336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277894336</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1941,7 +1941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277893312</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277893312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277893312</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1960,7 +1960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277891920</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277891920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277891920</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1979,7 +1979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277890544</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277890544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277890544</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277889168</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277889168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277889168</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2017,7 +2017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277888176</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277888176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277888176</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2036,7 +2036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277886800</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277886800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277886800</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277885424</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277885424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277885424</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2074,7 +2074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277884432</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277884432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277884432</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2093,7 +2093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277883056</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277883056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277883056</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2112,7 +2112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277882080</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277882080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277882080</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2131,7 +2131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277880704</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277880704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277880704</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2150,7 +2150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277879712</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277879712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277879712</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277878320</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277878320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277878320</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2188,7 +2188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277876928</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277876928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277876928</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277875936</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277875936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277875936</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2226,7 +2226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277874960</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277874960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277874960</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2245,7 +2245,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277873968</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277873968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277873968</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2264,7 +2264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277872992</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277872992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277872992</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2283,7 +2283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277872016</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277872016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277872016</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2302,7 +2302,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277870592</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277870592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277870592</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277869200</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277869200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277869200</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2340,7 +2340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277868192</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277868192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277868192</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2359,7 +2359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277866512</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277866512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277866512</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2378,7 +2378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277859440</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277859440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277859440</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2397,7 +2397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277858032</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277858032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277858032</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2416,7 +2416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277856656</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277856656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277856656</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2435,7 +2435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277855664</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277855664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277855664</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2454,7 +2454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277854288</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277854288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277854288</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2473,7 +2473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277852912</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277852912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277852912</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2492,7 +2492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277851536</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277851536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277851536</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2511,7 +2511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277850464</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277850464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277850464</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2530,7 +2530,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277849488</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277849488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277849488</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2549,7 +2549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277848480</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277848480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277848480</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2568,7 +2568,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277847488</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277847488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277847488</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2587,7 +2587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277846080</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277846080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277846080</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2606,7 +2606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277845072</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277845072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277845072</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2625,7 +2625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277843376</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277843376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277843376</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2644,7 +2644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277842304</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277842304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277842304</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2663,7 +2663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277841328</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277841328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277841328</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2682,7 +2682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277839680</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277839680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277839680</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2701,7 +2701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277838640</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277838640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277838640</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2720,7 +2720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277837168</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277837168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277837168</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2739,7 +2739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277835792</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277835792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277835792</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2758,7 +2758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277834800</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277834800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277834800</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2777,7 +2777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277833696</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277833696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277833696</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2796,7 +2796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277832576</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277832576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277832576</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Aakjær-udgivelser</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2815,7 +2815,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277829520</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277829520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277829520</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2834,7 +2834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277828400</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277828400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277828400</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2853,7 +2853,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277827152</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277827152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277827152</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2872,7 +2872,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277825936</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277825936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277825936</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2891,7 +2891,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277824688</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277824688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277824688</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2910,7 +2910,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277823536</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277823536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277823536</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2929,7 +2929,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277822400</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277822400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277822400</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2948,7 +2948,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277821152</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277821152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277821152</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2967,7 +2967,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277820016</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277820016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277820016</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -2986,7 +2986,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277818816</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277818816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277818816</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3005,7 +3005,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277817648</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277817648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277817648</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3024,7 +3024,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277816432</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277816432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277816432</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3043,7 +3043,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277816016</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277816016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277816016</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3062,7 +3062,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277815456</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277815456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277815456</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3081,7 +3081,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277814288</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277814288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277814288</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3100,7 +3100,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277813136</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277813136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277813136</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3119,7 +3119,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277811872</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277811872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277811872</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3138,7 +3138,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277811456</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277811456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277811456</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3157,7 +3157,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277810224</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277810224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277810224</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3176,7 +3176,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277809056</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277809056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277809056</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3195,7 +3195,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277807168</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277807168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277807168</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3214,7 +3214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277805872</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277805872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277805872</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3233,7 +3233,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277804656</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277804656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277804656</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3252,7 +3252,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277804096</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277804096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277804096</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3271,7 +3271,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277803680</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277803680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277803680</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3290,7 +3290,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277802512</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277802512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277802512</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3309,7 +3309,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277801536</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277801536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277801536</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3328,7 +3328,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277800384</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277800384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277800384</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3347,7 +3347,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277799168</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277799168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277799168</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3366,7 +3366,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277797952</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277797952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277797952</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3385,7 +3385,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277796800</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277796800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277796800</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3404,7 +3404,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277795648</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277795648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277795648</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Jeppe Aakjær og hans forfatterskab</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3423,7 +3423,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277792896</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277792896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277792896</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3442,7 +3442,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277791680</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277791680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277791680</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3461,7 +3461,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277790592</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277790592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277790592</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3480,7 +3480,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277789360</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277789360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277789360</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3499,7 +3499,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277788128</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277788128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277788128</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3518,7 +3518,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277786352</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277786352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277786352</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3537,7 +3537,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277785920</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277785920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277785920</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3556,7 +3556,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277785504</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277785504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277785504</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3575,7 +3575,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277784928</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277784928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277784928</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3594,7 +3594,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277783792</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277783792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277783792</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3613,7 +3613,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277783376</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277783376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277783376</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3632,7 +3632,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277782160</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277782160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277782160</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3651,7 +3651,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277780928</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277780928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277780928</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3670,7 +3670,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277780112</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277780112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277780112</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3689,7 +3689,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277779696</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277779696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277779696</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3708,7 +3708,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277779136</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277779136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277779136</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3727,7 +3727,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277777504</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277777504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277777504</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3746,7 +3746,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277775584</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277775584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277775584</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3765,7 +3765,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277775168</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277775168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277775168</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3784,7 +3784,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277774000</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277774000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277774000</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3803,7 +3803,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277773584</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277773584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277773584</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3822,7 +3822,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277772384</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277772384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277772384</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3841,7 +3841,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277771968</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277771968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277771968</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3860,7 +3860,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277771552</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277771552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277771552</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3879,7 +3879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277770384</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277770384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277770384</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3898,7 +3898,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277769936</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277769936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277769936</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3917,7 +3917,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277769376</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277769376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277769376</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3936,7 +3936,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277768272</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277768272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277768272</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3955,7 +3955,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277767104</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277767104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277767104</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs lyrik</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3974,7 +3974,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277764608</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277764608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277764608</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -3993,7 +3993,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277763376</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277763376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277763376</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4012,7 +4012,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277762256</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277762256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277762256</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4031,7 +4031,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277761056</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277761056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277761056</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4050,7 +4050,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277759824</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277759824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277759824</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4069,7 +4069,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277759408</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277759408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277759408</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4088,7 +4088,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277758208</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277758208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277758208</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4107,7 +4107,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277757648</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277757648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277757648</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4126,7 +4126,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277756512</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277756512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277756512</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4145,7 +4145,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277755344</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277755344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277755344</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4164,7 +4164,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277754784</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277754784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277754784</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4183,7 +4183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277753648</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277753648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277753648</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4202,7 +4202,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277752544</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277752544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277752544</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4221,7 +4221,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277751360</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277751360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277751360</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4240,7 +4240,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277750928</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277750928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277750928</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4259,7 +4259,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277750352</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277750352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277750352</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4278,7 +4278,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277749168</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277749168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277749168</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Om Aakjærs prosa</field>
     <field name="author_name">Henrik Fibæk Jensen</field>
@@ -4297,7 +4297,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">aakjaer-p#idm140453277746624</field>
     <field name="volume_id_ssi">aakjaer-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/aakjaer-p#idm140453277746624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/aakjaer-p#idm140453277746624</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
     <field name="head_tesim">Henrik Fibæk Jensen</field>
     <field name="author_name">Henrik Fibæk Jensen</field>

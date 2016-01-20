@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Erna Juel-Hansen</field>
     <field name="id">juel-hansen-p</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
     <field name="author_id_ssi">d30020879841232e5b4d62c591164164</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836290496</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836290496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836290496</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836289584</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836289584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836289584</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836288864</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836288864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836288864</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836287584</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836287584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836287584</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836285536</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836285536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836285536</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836284464</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836284464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836284464</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836283552</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836283552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836283552</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836281552</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836281552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836281552</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836280560</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836280560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836280560</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836279520</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836279520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836279520</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836277920</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836277920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836277920</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836273888</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836273888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836273888</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836273504</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836273504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836273504</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836345088</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836345088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836345088</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836344048</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836344048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836344048</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836342976</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836342976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836342976</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836255760</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836255760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836255760</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836253824</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836253824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836253824</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836251120</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836251120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836251120</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836239936</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836239936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836239936</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836239328</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836239328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836239328</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836236512</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836236512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836236512</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836235520</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836235520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836235520</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836233536</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836233536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836233536</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836232480</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836232480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836232480</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836231440</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836231440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836231440</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836230432</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836230432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836230432</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836214256</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836214256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836214256</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836209712</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836209712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836209712</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836207152</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836207152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836207152</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836202448</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836202448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836202448</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836196048</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836196048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836196048</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836194000</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836194000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836194000</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836192912</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836192912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836192912</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836188832</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836188832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836188832</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836186080</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836186080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836186080</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kroppens lyst</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836181536</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836181536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836181536</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836179360</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836179360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836179360</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836177824</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836177824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836177824</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836173584</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836173584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836173584</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836172960</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836172960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836172960</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836169504</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836169504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836169504</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836167104</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836167104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836167104</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836162768</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836162768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836162768</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836161808</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836161808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836161808</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836159936</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836159936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836159936</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836158848</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836158848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836158848</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836156864</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836156864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836156864</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836154288</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836154288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836154288</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig eros</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836151936</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836151936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836151936</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836148800</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836148800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836148800</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836147536</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836147536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836147536</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836143424</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836143424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836143424</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836142032</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836142032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836142032</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836140928</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836140928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836140928</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836138992</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836138992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836138992</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836134160</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836134160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836134160</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836133408</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836133408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836133408</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836132352</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836132352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836132352</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836131152</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836131152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836131152</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836130352</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836130352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836130352</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Kvindelig dannelse</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836124976</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836124976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836124976</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836120512</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836120512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836120512</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836119664</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836119664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836119664</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836118080</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836118080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836118080</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836115824</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836115824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836115824</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836114816</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836114816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836114816</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836112704</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836112704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836112704</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836110128</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836110128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836110128</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836109232</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836109232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836109232</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne ægteskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836106368</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836106368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836106368</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836101968</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836101968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836101968</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836098848</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836098848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836098848</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836096480</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836096480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836096480</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836095088</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836095088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836095088</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836094064</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836094064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836094064</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1466,7 +1466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836093040</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836093040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836093040</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836092192</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836092192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836092192</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836089520</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836089520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836089520</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1523,7 +1523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836087504</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836087504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836087504</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1542,7 +1542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836085744</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836085744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836085744</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1561,7 +1561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836082832</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836082832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836082832</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Moderne moderskab</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1580,7 +1580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836080384</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836080384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836080384</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1599,7 +1599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836079264</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836079264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836079264</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1618,7 +1618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836077840</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836077840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836077840</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1637,7 +1637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836077056</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836077056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836077056</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1656,7 +1656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836071616</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836071616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836071616</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1675,7 +1675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836070608</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836070608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836070608</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1694,7 +1694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836067680</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836067680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836067680</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1713,7 +1713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836066672</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836066672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836066672</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1732,7 +1732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836062944</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836062944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836062944</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1751,7 +1751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836058368</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836058368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836058368</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1770,7 +1770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836051264</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836051264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836051264</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1789,7 +1789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836048704</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836048704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836048704</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1808,7 +1808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836046160</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836046160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836046160</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1827,7 +1827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836045136</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836045136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836045136</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1846,7 +1846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836044128</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836044128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836044128</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Realismens former</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1865,7 +1865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836040160</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836040160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836040160</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836036080</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836036080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836036080</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836034128</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836034128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836034128</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1922,7 +1922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836030224</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836030224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836030224</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1941,7 +1941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836027872</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836027872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836027872</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1960,7 +1960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836022832</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836022832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836022832</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1979,7 +1979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836021856</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836021856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836021856</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836020848</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836020848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836020848</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2017,7 +2017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836015872</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836015872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836015872</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2036,7 +2036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836014784</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836014784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836014784</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836010608</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836010608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836010608</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2074,7 +2074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836008528</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836008528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836008528</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2093,7 +2093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003836005264</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003836005264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003836005264</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2112,7 +2112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835999760</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835999760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835999760</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2131,7 +2131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835992176</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835992176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835992176</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2150,7 +2150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835989264</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835989264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835989264</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835988752</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835988752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835988752</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2188,7 +2188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835987504</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835987504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835987504</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835985360</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835985360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835985360</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2226,7 +2226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835984112</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835984112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835984112</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2245,7 +2245,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835982944</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835982944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835982944</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2264,7 +2264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835982400</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835982400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835982400</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2283,7 +2283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835981152</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835981152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835981152</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2302,7 +2302,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835979968</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835979968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835979968</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835977648</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835977648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835977648</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2340,7 +2340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835972640</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835972640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835972640</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2359,7 +2359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835971488</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835971488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835971488</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2378,7 +2378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835970352</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835970352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835970352</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2397,7 +2397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835969248</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835969248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835969248</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2416,7 +2416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835968096</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835968096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835968096</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2435,7 +2435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835966944</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835966944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835966944</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2454,7 +2454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835965792</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835965792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835965792</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2473,7 +2473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835964624</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835964624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835964624</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2492,7 +2492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835963472</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835963472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835963472</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2511,7 +2511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835962160</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835962160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835962160</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2530,7 +2530,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835960976</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835960976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835960976</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2549,7 +2549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835959872</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835959872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835959872</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2568,7 +2568,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835958656</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835958656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835958656</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2587,7 +2587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835957488</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835957488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835957488</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2606,7 +2606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835956304</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835956304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835956304</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2625,7 +2625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835955184</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835955184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835955184</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2644,7 +2644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835954048</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835954048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835954048</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2663,7 +2663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835952928</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835952928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835952928</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2682,7 +2682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835951776</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835951776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835951776</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2701,7 +2701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835950592</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835950592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835950592</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2720,7 +2720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835949456</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835949456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835949456</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2739,7 +2739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835948352</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835948352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835948352</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2758,7 +2758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835947168</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835947168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835947168</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2777,7 +2777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835946032</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835946032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835946032</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2796,7 +2796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835944880</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835944880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835944880</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2815,7 +2815,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835943568</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835943568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835943568</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2834,7 +2834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835942368</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835942368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835942368</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2853,7 +2853,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835941232</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835941232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835941232</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2872,7 +2872,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835939392</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835939392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835939392</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2891,7 +2891,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835938256</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835938256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835938256</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2910,7 +2910,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835937104</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835937104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835937104</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2929,7 +2929,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835936000</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835936000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835936000</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2948,7 +2948,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835934896</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835934896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835934896</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Af Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2967,7 +2967,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835932304</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835932304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835932304</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -2986,7 +2986,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835931136</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835931136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835931136</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3005,7 +3005,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835930000</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835930000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835930000</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3024,7 +3024,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835928736</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835928736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835928736</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3043,7 +3043,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835927552</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835927552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835927552</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3062,7 +3062,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835926208</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835926208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835926208</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3081,7 +3081,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835925024</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835925024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835925024</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3100,7 +3100,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835923840</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835923840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835923840</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3119,7 +3119,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835922448</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835922448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835922448</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3138,7 +3138,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835921216</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835921216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835921216</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3157,7 +3157,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835919904</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835919904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835919904</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Om Erna Juel-Hansen:</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>
@@ -3176,7 +3176,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">juel-hansen-p#idm140003835917472</field>
     <field name="volume_id_ssi">juel-hansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/juel-hansen-p#idm140003835917472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/juel-hansen-p#idm140003835917472</field>
     <field name="volume_title_tesim">Erna Juel-Hansen</field>
     <field name="head_tesim">Inger-Lise Hjordt-Vetlesen</field>
     <field name="author_name">Inger-Lise Hjordt-Vetlesen</field>

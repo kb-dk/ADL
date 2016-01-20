@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Ernesto Dalgas</field>
     <field name="id">dalgasref</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="author_name">Henrik Schovsbo</field>
     <field name="author_id_ssi">3d25b02ad488df570133102be8e865b1</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686937600</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686937600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686937600</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Indledende karakteristik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686932624</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686932624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686932624</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Indledende karakteristik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686930544</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686930544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686930544</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Indledende karakteristik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686924608</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686924608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686924608</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Indledende karakteristik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686922496</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686922496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686922496</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Indledende karakteristik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686918304</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686918304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686918304</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Indledende karakteristik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686888272</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686888272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686888272</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686884848</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686884848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686884848</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686882768</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686882768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686882768</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686877744</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686877744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686877744</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686875248</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686875248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686875248</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686870576</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686870576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686870576</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Ernesto Dalgas' forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686853376</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686853376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686853376</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686851424</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686851424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686851424</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686849584</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686849584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686849584</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686844448</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686844448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686844448</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686838480</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686838480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686838480</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686837264</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686837264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686837264</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686835392</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686835392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686835392</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686834736</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686834736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686834736</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686831888</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686831888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686831888</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686830832</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686830832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686830832</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686827920</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686827920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686827920</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686825936</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686825936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686825936</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686824384</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686824384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686824384</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686823280</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686823280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686823280</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686820864</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686820864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686820864</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686818688</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686818688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686818688</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686816576</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686816576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686816576</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686813648</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686813648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686813648</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686812544</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686812544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686812544</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686811488</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686811488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686811488</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686809696</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686809696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686809696</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686808656</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686808656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686808656</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686807728</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686807728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686807728</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686806784</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686806784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686806784</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686805728</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686805728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686805728</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686804000</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686804000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686804000</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkningen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686793488</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686793488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686793488</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Kritikken</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686790912</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686790912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686790912</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Kritikken</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686788640</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686788640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686788640</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Kritikken</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686786000</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686786000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686786000</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Kritikken</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686779312</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686779312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686779312</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Kritikken</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686774080</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686774080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686774080</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Teksten</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686766976</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686766976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686766976</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686764672</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686764672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686764672</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686763792</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686763792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686763792</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686760384</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686760384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686760384</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686759392</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686759392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686759392</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686756464</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686756464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686756464</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686755104</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686755104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686755104</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686754096</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686754096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686754096</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686753040</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686753040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686753040</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686752080</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686752080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686752080</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686750048</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686750048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686750048</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686749376</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686749376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686749376</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686747536</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686747536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686747536</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686746752</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686746752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686746752</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686744896</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686744896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686744896</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686742800</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686742800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686742800</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686740816</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686740816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686740816</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686739696</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686739696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686739696</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686738624</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686738624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686738624</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686737856</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686737856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686737856</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686735920</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686735920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686735920</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686734928</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686734928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686734928</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Komposition</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686729600</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686729600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686729600</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678687001088</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678687001088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678687001088</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686704192</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686704192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686704192</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686703664</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686703664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686703664</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686702672</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686702672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686702672</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686700096</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686700096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686700096</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686699168</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686699168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686699168</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686695792</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686695792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686695792</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686692048</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686692048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686692048</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686688928</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686688928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686688928</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1466,7 +1466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686685472</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686685472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686685472</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Fortolkning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686678928</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686678928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686678928</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686675968</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686675968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686675968</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1523,7 +1523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686674384</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686674384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686674384</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1542,7 +1542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686672096</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686672096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686672096</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1561,7 +1561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686668288</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686668288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686668288</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1580,7 +1580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">dalgasref#idm140678686665504</field>
     <field name="volume_id_ssi">dalgasref</field>
-    <field name="url_ssi">http://adl2.kb.dk/dalgasref#idm140678686665504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/dalgasref#idm140678686665504</field>
     <field name="volume_title_tesim">Ernesto Dalgas</field>
     <field name="head_tesim">Kritikken</field>
     <field name="author_name">Henrik Schovsbo</field>

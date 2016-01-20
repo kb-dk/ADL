@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Holger Drachmann</field>
     <field name="id">drachmann-p</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="author_name">Lars Peter Rømhild</field>
     <field name="author_id_ssi">a76c9ebeca16ffc6c8c5b017bcf33850</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147837136</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147837136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147837136</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147836096</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147836096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147836096</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147835040</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147835040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147835040</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147834432</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147834432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147834432</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147833472</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147833472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147833472</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147831792</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147831792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147831792</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147830752</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147830752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147830752</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147829600</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147829600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147829600</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147828576</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147828576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147828576</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147826336</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147826336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147826336</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147824432</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147824432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147824432</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147802032</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147802032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147802032</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet tager form</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147795696</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147795696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147795696</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="author_name">Lars Peter Rømhild</field>
     <field name="author_id_ssi">a76c9ebeca16ffc6c8c5b017bcf33850</field>
@@ -275,7 +275,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147788480</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147788480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147788480</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet tager form</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -294,7 +294,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147786128</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147786128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147786128</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet tager form</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -313,7 +313,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147783952</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147783952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147783952</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet tager form</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -332,7 +332,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147782192</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147782192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147782192</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet tager form</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -351,7 +351,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147780912</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147780912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147780912</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet tager form</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -370,7 +370,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147778480</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147778480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147778480</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -389,7 +389,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147768048</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147768048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147768048</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -408,7 +408,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147767184</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147767184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147767184</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -427,7 +427,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147759120</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147759120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147759120</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -446,7 +446,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147750768</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147750768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147750768</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -465,7 +465,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147748576</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147748576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147748576</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -484,7 +484,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147743136</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147743136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147743136</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="author_name">Lars Peter Rømhild</field>
     <field name="author_id_ssi">a76c9ebeca16ffc6c8c5b017bcf33850</field>
@@ -509,7 +509,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147736720</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147736720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147736720</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -528,7 +528,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147733920</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147733920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147733920</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -547,7 +547,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147731472</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147731472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147731472</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Versdigtning, lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -566,7 +566,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147725888</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147725888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147725888</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="author_name">Lars Peter Rømhild</field>
     <field name="author_id_ssi">a76c9ebeca16ffc6c8c5b017bcf33850</field>
@@ -589,7 +589,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147718848</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147718848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147718848</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -608,7 +608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147716080</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147716080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147716080</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -627,7 +627,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147714800</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147714800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147714800</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -646,7 +646,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147708832</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147708832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147708832</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -665,7 +665,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147703856</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147703856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147703856</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -684,7 +684,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147699936</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147699936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147699936</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -703,7 +703,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147698304</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147698304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147698304</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -722,7 +722,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147697328</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147697328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147697328</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -741,7 +741,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147692000</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147692000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147692000</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -760,7 +760,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147689456</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147689456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147689456</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -779,7 +779,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147683648</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147683648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147683648</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -798,7 +798,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147682512</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147682512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147682512</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -817,7 +817,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147675616</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147675616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147675616</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Fortællende og skildrende prosa</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -836,7 +836,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147668672</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147668672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147668672</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -855,7 +855,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147667680</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147667680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147667680</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -874,7 +874,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147662192</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147662192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147662192</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -893,7 +893,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147659984</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147659984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147659984</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -912,7 +912,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147659056</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147659056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147659056</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -931,7 +931,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147655088</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147655088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147655088</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -950,7 +950,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147652288</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147652288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147652288</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -969,7 +969,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147645360</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147645360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147645360</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -988,7 +988,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147639456</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147639456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147639456</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1007,7 +1007,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147636304</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147636304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147636304</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1026,7 +1026,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147633792</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147633792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147633792</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Romaner og fragmenter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1045,7 +1045,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147631328</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147631328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147631328</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1064,7 +1064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147629088</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147629088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147629088</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1083,7 +1083,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147626864</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147626864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147626864</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1102,7 +1102,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147894480</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147894480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147894480</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1121,7 +1121,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147892608</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147892608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147892608</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1140,7 +1140,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147891584</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147891584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147891584</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1159,7 +1159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147608592</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147608592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147608592</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1178,7 +1178,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147605024</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147605024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147605024</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1197,7 +1197,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147599248</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147599248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147599248</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1216,7 +1216,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147598240</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147598240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147598240</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1235,7 +1235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147595136</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147595136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147595136</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1254,7 +1254,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147593504</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147593504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147593504</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1273,7 +1273,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147584944</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147584944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147584944</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1292,7 +1292,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147574880</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147574880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147574880</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1311,7 +1311,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147568224</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147568224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147568224</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1330,7 +1330,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147560736</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147560736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147560736</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Efterliv i digtningen</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1349,7 +1349,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147558560</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147558560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147558560</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Efterliv i digtningen</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1368,7 +1368,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147556848</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147556848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147556848</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Efterliv i digtningen</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1387,7 +1387,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147553072</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147553072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147553072</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Efterliv i digtningen</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1406,7 +1406,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147547936</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147547936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147547936</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Efterliv i digtningen</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1425,7 +1425,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147546960</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147546960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147546960</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Efterliv i digtningen</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1444,7 +1444,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147899264</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147899264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147899264</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1463,7 +1463,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147898496</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147898496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147898496</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1482,7 +1482,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147519040</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147519040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147519040</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1501,7 +1501,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147516544</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147516544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147516544</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1520,7 +1520,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147514128</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147514128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147514128</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1539,7 +1539,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147507056</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147507056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147507056</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1558,7 +1558,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147503056</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147503056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147503056</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1577,7 +1577,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147496912</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147496912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147496912</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1596,7 +1596,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147493568</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147493568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147493568</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Receptions- og kritikhistorie</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1615,7 +1615,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147490992</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147490992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147490992</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1634,7 +1634,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147489168</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147489168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147489168</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1653,7 +1653,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147471760</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147471760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147471760</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1672,7 +1672,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147469376</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147469376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147469376</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1691,7 +1691,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147467312</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147467312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147467312</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Bibliografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1710,7 +1710,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147466560</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147466560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147466560</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Bibliografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1729,7 +1729,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147465392</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147465392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147465392</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Bibliografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1748,7 +1748,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147462800</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147462800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147462800</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1767,7 +1767,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147460384</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147460384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147460384</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1786,7 +1786,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147459200</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147459200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147459200</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1805,7 +1805,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147458032</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147458032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147458032</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1824,7 +1824,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147456928</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147456928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147456928</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1843,7 +1843,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147455760</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147455760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147455760</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1862,7 +1862,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147455264</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147455264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147455264</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1881,7 +1881,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147454064</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147454064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147454064</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1900,7 +1900,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147452896</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147452896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147452896</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1919,7 +1919,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147451760</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147451760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147451760</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1938,7 +1938,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147450544</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147450544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147450544</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1957,7 +1957,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147449376</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147449376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147449376</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1976,7 +1976,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147448960</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147448960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147448960</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1995,7 +1995,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147447088</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147447088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147447088</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2014,7 +2014,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147443792</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147443792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147443792</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Samtidskritik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2033,7 +2033,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147442560</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147442560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147442560</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Samtidskritik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2052,7 +2052,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147441456</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147441456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147441456</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Samtidskritik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2071,7 +2071,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147440320</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147440320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147440320</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Samtidskritik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2090,7 +2090,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147439168</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147439168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147439168</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Samtidskritik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2109,7 +2109,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147436640</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147436640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147436640</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Memoirer m.v.</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2128,7 +2128,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147435488</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147435488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147435488</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Memoirer m.v.</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2147,7 +2147,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147434336</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147434336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147434336</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Memoirer m.v.</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2166,7 +2166,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147431680</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147431680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147431680</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2185,7 +2185,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147430480</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147430480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147430480</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2204,7 +2204,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147429216</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147429216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147429216</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2223,7 +2223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147428064</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147428064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147428064</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2242,7 +2242,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147425456</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147425456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147425456</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Monografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2261,7 +2261,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147424320</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147424320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147424320</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Monografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2280,7 +2280,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147423168</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147423168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147423168</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Monografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2299,7 +2299,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147422016</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147422016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147422016</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Monografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2318,7 +2318,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147420864</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147420864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147420864</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Monografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2337,7 +2337,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147419632</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147419632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147419632</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Monografier</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2356,7 +2356,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147416912</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147416912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147416912</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Tværgående behandlinger</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2375,7 +2375,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147415008</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147415008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147415008</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Tværgående behandlinger</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2394,7 +2394,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147413840</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147413840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147413840</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Tværgående behandlinger</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2413,7 +2413,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147409856</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147409856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147409856</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">versdigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2432,7 +2432,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147406464</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147406464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147406464</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">prosa, sp. Forskrevet -:</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2451,7 +2451,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147405296</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147405296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147405296</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">prosa, sp. Forskrevet -:</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2470,7 +2470,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147404160</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147404160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147404160</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">prosa, sp. Forskrevet -:</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2489,7 +2489,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147402160</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147402160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147402160</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">prosa, sp. Forskrevet -:</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2508,7 +2508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147400000</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147400000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147400000</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">prosa, sp. Forskrevet -:</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2527,7 +2527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147397328</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147397328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147397328</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2546,7 +2546,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147396144</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147396144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147396144</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2565,7 +2565,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147394928</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147394928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147394928</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2584,7 +2584,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147393696</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147393696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147393696</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2603,7 +2603,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147392272</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147392272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147392272</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2622,7 +2622,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147390240</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147390240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147390240</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">dramadigtning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -2641,7 +2641,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann-p#idm140697147387792</field>
     <field name="volume_id_ssi">drachmann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann-p#idm140697147387792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann-p#idm140697147387792</field>
     <field name="volume_title_tesim">Holger Drachmann</field>
     <field name="head_tesim">Lars Peter Rømhild</field>
     <field name="author_name">Lars Peter Rømhild</field>

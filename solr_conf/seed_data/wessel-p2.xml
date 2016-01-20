@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Johan Herman Wessel</field>
     <field name="id">wessel-p2</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760982544</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760982544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760982544</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Generel karakteristik af forfatterskabet</field>
     <field name="author_name">Henrik Andersson</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760979568</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760979568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760979568</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Generel karakteristik af forfatterskabet</field>
     <field name="author_name">Henrik Andersson</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760978496</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760978496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760978496</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Generel karakteristik af forfatterskabet</field>
     <field name="author_name">Henrik Andersson</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760976560</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760976560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760976560</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Generel karakteristik af forfatterskabet</field>
     <field name="author_name">Henrik Andersson</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760973648</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760973648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760973648</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760968976</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760968976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760968976</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760966944</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760966944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760966944</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760964656</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760964656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760964656</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760963360</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760963360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760963360</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -195,7 +195,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760960976</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760960976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760960976</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -214,7 +214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760955408</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760955408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760955408</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -233,7 +233,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760950496</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760950496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760950496</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -252,7 +252,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760946704</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760946704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760946704</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -277,7 +277,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760942608</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760942608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760942608</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -296,7 +296,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760941536</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760941536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760941536</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -315,7 +315,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760940256</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760940256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760940256</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -339,7 +339,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760936688</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760936688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760936688</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -358,7 +358,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760936176</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760936176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760936176</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -377,7 +377,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476761056816</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476761056816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476761056816</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -396,7 +396,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476761053024</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476761053024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476761053024</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -429,7 +429,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760912896</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760912896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760912896</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -448,7 +448,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760912000</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760912000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760912000</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -473,7 +473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760907600</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760907600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760907600</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -492,7 +492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760906960</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760906960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760906960</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -517,7 +517,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760902512</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760902512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760902512</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -536,7 +536,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760900080</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760900080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760900080</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Det Norske Selskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -555,7 +555,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760899072</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760899072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760899072</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -576,7 +576,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760895440</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760895440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760895440</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Wessel og Ewald</field>
     <field name="author_name">Henrik Andersson</field>
@@ -595,7 +595,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760894336</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760894336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760894336</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Wessel og Ewald</field>
     <field name="author_name">Henrik Andersson</field>
@@ -614,7 +614,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760891776</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760891776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760891776</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Wessel og Ewald</field>
     <field name="author_name">Henrik Andersson</field>
@@ -633,7 +633,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760887904</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760887904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760887904</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -656,7 +656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760882624</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760882624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760882624</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Wessel og Ewald</field>
     <field name="author_name">Henrik Andersson</field>
@@ -675,7 +675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760877040</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760877040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760877040</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -694,7 +694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760875984</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760875984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760875984</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -713,7 +713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760874976</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760874976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760874976</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -732,7 +732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760873104</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760873104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760873104</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -751,7 +751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760872096</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760872096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760872096</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -770,7 +770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760871536</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760871536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760871536</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -789,7 +789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760870192</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760870192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760870192</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -808,7 +808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760866448</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760866448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760866448</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -845,7 +845,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760856304</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760856304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760856304</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -864,7 +864,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760855040</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760855040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760855040</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -883,7 +883,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760851440</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760851440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760851440</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -902,7 +902,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760850176</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760850176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760850176</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -921,7 +921,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760847440</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760847440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760847440</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -940,7 +940,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760846672</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760846672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760846672</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -961,7 +961,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760844400</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760844400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760844400</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -980,7 +980,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760842160</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760842160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760842160</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -999,7 +999,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760841104</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760841104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760841104</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1034,7 +1034,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760832544</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760832544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760832544</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1053,7 +1053,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760831152</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760831152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760831152</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1077,7 +1077,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760826896</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760826896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760826896</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1096,7 +1096,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760825888</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760825888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760825888</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1115,7 +1115,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760805904</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760805904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760805904</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1134,7 +1134,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760801328</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760801328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760801328</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1153,7 +1153,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760794992</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760794992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760794992</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1172,7 +1172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760794352</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760794352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760794352</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1191,7 +1191,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760792656</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760792656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760792656</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1210,7 +1210,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760791360</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760791360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760791360</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1229,7 +1229,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760788864</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760788864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760788864</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1251,7 +1251,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760786000</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760786000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760786000</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1270,7 +1270,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760785072</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760785072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760785072</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1289,7 +1289,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760783568</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760783568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760783568</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1308,7 +1308,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760782304</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760782304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760782304</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1327,7 +1327,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760777504</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760777504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760777504</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760773328</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760773328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760773328</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760772304</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760772304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760772304</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760771184</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760771184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760771184</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1415,7 +1415,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760767072</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760767072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760767072</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1434,7 +1434,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760766352</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760766352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760766352</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1453,7 +1453,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760765248</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760765248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760765248</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1484,7 +1484,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760758480</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760758480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760758480</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1503,7 +1503,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760757488</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760757488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760757488</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1522,7 +1522,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760755792</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760755792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760755792</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1541,7 +1541,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760750320</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760750320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760750320</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1567,7 +1567,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760745488</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760745488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760745488</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1586,7 +1586,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760743760</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760743760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760743760</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1605,7 +1605,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760734048</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760734048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760734048</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1624,7 +1624,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760731872</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760731872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760731872</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Kierlighed uden Strømper</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1643,7 +1643,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760729664</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760729664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760729664</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -1662,7 +1662,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760726576</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760726576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760726576</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Lykken bedre end Forstanden</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1681,7 +1681,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760723264</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760723264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760723264</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Lykken bedre end Forstanden</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1700,7 +1700,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760722240</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760722240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760722240</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Lykken bedre end Forstanden</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1719,7 +1719,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760719856</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760719856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760719856</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Lykken bedre end Forstanden</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1738,7 +1738,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760715600</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760715600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760715600</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Lykken bedre end Forstanden</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1757,7 +1757,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760713072</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760713072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760713072</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Lykken bedre end Forstanden</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1776,7 +1776,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760708832</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760708832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760708832</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1795,7 +1795,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760704928</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760704928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760704928</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1814,7 +1814,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760703888</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760703888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760703888</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1833,7 +1833,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760702816</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760702816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760702816</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1852,7 +1852,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760701792</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760701792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760701792</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1871,7 +1871,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760698144</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760698144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760698144</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1890,7 +1890,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760692368</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760692368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760692368</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1909,7 +1909,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760691328</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760691328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760691328</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Anno 7603</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1928,7 +1928,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760686944</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760686944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760686944</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1947,7 +1947,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760685072</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760685072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760685072</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1966,7 +1966,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760679392</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760679392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760679392</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -1985,7 +1985,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760678384</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760678384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760678384</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2004,7 +2004,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760675712</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760675712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760675712</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2023,7 +2023,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760672496</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760672496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760672496</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2042,7 +2042,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760668960</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760668960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760668960</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2073,7 +2073,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760662144</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760662144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760662144</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2092,7 +2092,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760660928</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760660928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760660928</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2114,7 +2114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760658368</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760658368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760658368</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2136,7 +2136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760655808</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760655808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760655808</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2158,7 +2158,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760653024</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760653024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760653024</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2177,7 +2177,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760652016</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760652016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760652016</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Komiske fortællinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2196,7 +2196,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760648784</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760648784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760648784</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2215,7 +2215,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760645888</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760645888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760645888</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Småvers</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2234,7 +2234,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760643232</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760643232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760643232</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2253,7 +2253,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760641856</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760641856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760641856</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2272,7 +2272,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760640752</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760640752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760640752</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2291,7 +2291,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760639584</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760639584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760639584</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2312,7 +2312,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760637280</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760637280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760637280</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2331,7 +2331,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760636560</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760636560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760636560</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2352,7 +2352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760634320</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760634320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760634320</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2371,7 +2371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760633168</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760633168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760633168</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2399,7 +2399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760627984</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760627984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760627984</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2420,7 +2420,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760625760</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760625760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760625760</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2439,7 +2439,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760624576</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760624576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760624576</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2460,7 +2460,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760619200</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760619200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760619200</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2479,7 +2479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760618448</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760618448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760618448</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2504,7 +2504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760614384</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760614384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760614384</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Impromptuer</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2523,7 +2523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760612368</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760612368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760612368</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2545,7 +2545,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760608240</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760608240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760608240</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Gravskrifter</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2564,7 +2564,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760607216</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760607216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760607216</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2585,7 +2585,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760604944</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760604944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760604944</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Gravskrifter</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2604,7 +2604,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760603824</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760603824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760603824</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2631,7 +2631,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760598912</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760598912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760598912</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Gravskrifter</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2650,7 +2650,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760597984</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760597984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760597984</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2670,7 +2670,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760596224</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760596224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760596224</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Gravskrifter</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2689,7 +2689,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760595296</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760595296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760595296</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -2708,7 +2708,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760592368</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760592368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760592368</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2727,7 +2727,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760591712</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760591712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760591712</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2746,7 +2746,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760587824</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760587824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760587824</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2765,7 +2765,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760586720</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760586720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760586720</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2784,7 +2784,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760583936</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760583936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760583936</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2803,7 +2803,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760580368</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760580368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760580368</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2822,7 +2822,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760578800</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760578800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760578800</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2841,7 +2841,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760575776</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760575776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760575776</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2860,7 +2860,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760572064</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760572064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760572064</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2879,7 +2879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760566128</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760566128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760566128</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2898,7 +2898,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760564912</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760564912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760564912</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2917,7 +2917,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760558576</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760558576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760558576</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2936,7 +2936,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760558016</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760558016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760558016</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2955,7 +2955,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760556848</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760556848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760556848</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2974,7 +2974,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760553904</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760553904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760553904</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -2993,7 +2993,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760550416</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760550416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760550416</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3012,7 +3012,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760548720</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760548720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760548720</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3031,7 +3031,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760546192</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760546192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760546192</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="author_name">Henrik Andersson</field>
     <field name="author_id_ssi">14e83eec836eafde912d9eca169bda08</field>
@@ -3052,7 +3052,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760543808</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760543808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760543808</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Modtagelse og efterliv</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3071,7 +3071,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760541904</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760541904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760541904</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Tekstkritiske oplysninger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3090,7 +3090,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760539872</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760539872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760539872</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Tekstkritiske oplysninger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3109,7 +3109,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760537680</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760537680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760537680</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Tekstkritiske oplysninger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3128,7 +3128,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760535456</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760535456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760535456</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3147,7 +3147,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760527888</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760527888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760527888</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3166,7 +3166,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760526752</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760526752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760526752</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3185,7 +3185,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760525632</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760525632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760525632</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3204,7 +3204,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760524464</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760524464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760524464</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3223,7 +3223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760524000</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760524000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760524000</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3242,7 +3242,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760521792</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760521792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760521792</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3261,7 +3261,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760520608</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760520608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760520608</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3280,7 +3280,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760520096</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760520096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760520096</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Udvalgte Wessel-udgaver</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3299,7 +3299,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760518112</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760518112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760518112</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Litteraturhistoriske behandlinger af Wessels forfatterskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3318,7 +3318,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760516976</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760516976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760516976</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Litteraturhistoriske behandlinger af Wessels forfatterskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3337,7 +3337,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760515808</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760515808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760515808</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Litteraturhistoriske behandlinger af Wessels forfatterskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3356,7 +3356,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760514608</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760514608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760514608</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Litteraturhistoriske behandlinger af Wessels forfatterskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3375,7 +3375,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760513440</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760513440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760513440</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Litteraturhistoriske behandlinger af Wessels forfatterskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3394,7 +3394,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760512256</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760512256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760512256</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Litteraturhistoriske behandlinger af Wessels forfatterskab</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3413,7 +3413,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760509520</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760509520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760509520</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Monografier og større afhandlinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3432,7 +3432,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760507696</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760507696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760507696</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Monografier og større afhandlinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3451,7 +3451,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760505648</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760505648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760505648</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Monografier og større afhandlinger</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3470,7 +3470,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760502688</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760502688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760502688</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3489,7 +3489,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760501488</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760501488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760501488</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3508,7 +3508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760500304</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760500304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760500304</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3527,7 +3527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760498240</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760498240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760498240</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3546,7 +3546,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760497088</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760497088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760497088</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3565,7 +3565,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760495840</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760495840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760495840</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3584,7 +3584,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760494464</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760494464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760494464</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3603,7 +3603,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760493280</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760493280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760493280</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3622,7 +3622,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760492080</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760492080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760492080</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3641,7 +3641,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760490880</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760490880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760490880</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3660,7 +3660,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760489680</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760489680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760489680</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Artikler</field>
     <field name="author_name">Henrik Andersson</field>
@@ -3679,7 +3679,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wessel-p2#idm140476760487088</field>
     <field name="volume_id_ssi">wessel-p2</field>
-    <field name="url_ssi">http://adl2.kb.dk/wessel-p2#idm140476760487088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wessel-p2#idm140476760487088</field>
     <field name="volume_title_tesim">Johan Herman Wessel</field>
     <field name="head_tesim">Henrik Andersson</field>
     <field name="author_name">Henrik Andersson</field>

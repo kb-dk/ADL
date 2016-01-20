@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Knud Hjortø</field>
     <field name="id">hjort-p-valid</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="author_name">Henrik Schovsbo</field>
     <field name="author_id_ssi">3d25b02ad488df570133102be8e865b1</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695920176</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695920176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695920176</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695918192</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695918192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695918192</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695916416</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695916416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695916416</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695913472</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695913472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695913472</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695911264</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695911264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695911264</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695909472</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695909472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695909472</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695908496</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695908496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695908496</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695908064</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695908064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695908064</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695903472</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695903472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695903472</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695902416</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695902416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695902416</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695902032</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695902032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695902032</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695980128</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695980128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695980128</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695978016</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695978016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695978016</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695975680</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695975680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695975680</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695882512</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695882512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695882512</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695880800</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695880800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695880800</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695878784</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695878784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695878784</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695857536</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695857536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695857536</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695854144</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695854144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695854144</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695851504</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695851504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695851504</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695843040</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695843040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695843040</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695840672</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695840672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695840672</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695837552</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695837552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695837552</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695834880</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695834880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695834880</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695831696</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695831696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695831696</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695827936</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695827936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695827936</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695825312</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695825312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695825312</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695822224</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695822224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695822224</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695820224</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695820224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695820224</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695816624</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695816624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695816624</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695813104</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695813104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695813104</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695810816</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695810816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695810816</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695807072</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695807072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695807072</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695802864</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695802864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695802864</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Ungdomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695798320</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695798320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695798320</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695794128</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695794128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695794128</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695792032</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695792032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695792032</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695790928</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695790928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695790928</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695787728</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695787728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695787728</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695784640</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695784640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695784640</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695781120</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695781120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695781120</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695778896</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695778896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695778896</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695778064</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695778064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695778064</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695776496</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695776496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695776496</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695775456</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695775456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695775456</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695773264</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695773264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695773264</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695769376</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695769376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695769376</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695767632</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695767632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695767632</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695766608</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695766608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695766608</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695765600</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695765600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695765600</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695764656</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695764656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695764656</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695762880</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695762880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695762880</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695761120</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695761120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695761120</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695758800</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695758800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695758800</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695757824</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695757824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695757824</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695751776</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695751776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695751776</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695748416</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695748416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695748416</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Hovedværkerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695745584</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695745584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695745584</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695745136</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695745136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695745136</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695744224</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695744224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695744224</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695736288</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695736288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695736288</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695734544</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695734544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695734544</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695731088</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695731088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695731088</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695727008</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695727008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695727008</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695725920</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695725920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695725920</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695724672</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695724672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695724672</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695720032</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695720032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695720032</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695716016</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695716016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695716016</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695712432</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695712432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695712432</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695708048</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695708048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695708048</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Manddomsromanerne</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695704864</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695704864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695704864</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695703520</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695703520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695703520</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695699264</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695699264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695699264</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695687536</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695687536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695687536</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Sprogvidenskabelige og andre essays</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695682160</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695682160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695682160</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Sprogvidenskabelige og andre essays</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695679744</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695679744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695679744</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1466,7 +1466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695677296</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695677296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695677296</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695675264</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695675264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695675264</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695669392</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695669392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695669392</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1523,7 +1523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695666688</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695666688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695666688</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1542,7 +1542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695664832</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695664832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695664832</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1561,7 +1561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695662144</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695662144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695662144</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1580,7 +1580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695660528</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695660528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695660528</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1599,7 +1599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695659520</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695659520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695659520</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1618,7 +1618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695656704</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695656704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695656704</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1637,7 +1637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695653744</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695653744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695653744</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Modtagelse og den senere kritik</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1656,7 +1656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695650688</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695650688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695650688</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Forfatterskabets Efterliv</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1675,7 +1675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695647984</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695647984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695647984</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Forfatterskabets Efterliv</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1694,7 +1694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695644592</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695644592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695644592</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Forfatterskabets Efterliv</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1713,7 +1713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695638528</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695638528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695638528</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Forfatterskabets Efterliv</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1732,7 +1732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695634880</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695634880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695634880</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Forfatterskabets Efterliv</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1751,7 +1751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695633168</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695633168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695633168</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1770,7 +1770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695629504</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695629504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695629504</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1789,7 +1789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695624080</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695624080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695624080</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1808,7 +1808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695623136</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695623136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695623136</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1827,7 +1827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695622160</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695622160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695622160</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1846,7 +1846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695621184</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695621184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695621184</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1865,7 +1865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695620208</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695620208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695620208</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695619216</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695619216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695619216</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695618240</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695618240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695618240</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1922,7 +1922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695617248</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695617248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695617248</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1941,7 +1941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695616272</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695616272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695616272</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1960,7 +1960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695615296</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695615296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695615296</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1979,7 +1979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695614320</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695614320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695614320</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695613344</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695613344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695613344</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2017,7 +2017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695612352</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695612352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695612352</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2036,7 +2036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695611344</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695611344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695611344</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695610352</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695610352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695610352</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2074,7 +2074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695609376</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695609376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695609376</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2093,7 +2093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695608400</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695608400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695608400</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2112,7 +2112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695607392</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695607392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695607392</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2131,7 +2131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695606416</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695606416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695606416</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2150,7 +2150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695605440</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695605440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695605440</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695604464</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695604464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695604464</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2188,7 +2188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695603488</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695603488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695603488</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695602496</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695602496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695602496</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2226,7 +2226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695601520</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695601520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695601520</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2245,7 +2245,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695600528</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695600528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695600528</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2264,7 +2264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695599536</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695599536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695599536</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2283,7 +2283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695598560</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695598560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695598560</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2302,7 +2302,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695597568</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695597568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695597568</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695596592</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695596592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695596592</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2340,7 +2340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695595600</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695595600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695595600</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2359,7 +2359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695594624</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695594624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695594624</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2378,7 +2378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695593648</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695593648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695593648</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2397,7 +2397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695592656</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695592656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695592656</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2416,7 +2416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695591664</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695591664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695591664</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2435,7 +2435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695590672</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695590672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695590672</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2454,7 +2454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695589648</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695589648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695589648</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2473,7 +2473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695588640</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695588640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695588640</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2492,7 +2492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695587568</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695587568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695587568</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2511,7 +2511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695586528</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695586528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695586528</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker af Knud Hjortø - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2530,7 +2530,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695584016</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695584016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695584016</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Udgaver - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2549,7 +2549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695580896</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695580896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695580896</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Udgaver - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2568,7 +2568,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695579856</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695579856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695579856</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Udgaver - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2587,7 +2587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695578096</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695578096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695578096</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Udgaver - efter årstal</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2606,7 +2606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695575648</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695575648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695575648</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2625,7 +2625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695574448</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695574448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695574448</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2644,7 +2644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695573296</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695573296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695573296</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2663,7 +2663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695572144</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695572144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695572144</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2682,7 +2682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695571008</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695571008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695571008</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2701,7 +2701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695569824</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695569824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695569824</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2720,7 +2720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695568608</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695568608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695568608</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2739,7 +2739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695567328</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695567328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695567328</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2758,7 +2758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695565936</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695565936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695565936</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2777,7 +2777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695564752</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695564752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695564752</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2796,7 +2796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695563488</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695563488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695563488</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2815,7 +2815,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695562336</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695562336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695562336</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2834,7 +2834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695560912</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695560912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695560912</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Værker om Knud Hjortøs forfatterskab</field>
     <field name="author_name">Henrik Schovsbo</field>
@@ -2853,7 +2853,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">hjort-p-valid#idm140426695558688</field>
     <field name="volume_id_ssi">hjort-p-valid</field>
-    <field name="url_ssi">http://adl2.kb.dk/hjort-p-valid#idm140426695558688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/hjort-p-valid#idm140426695558688</field>
     <field name="volume_title_tesim">Knud Hjortø</field>
     <field name="head_tesim">Cand.mag. et art. Henrik Schovsbo</field>
     <field name="author_name">Henrik Schovsbo</field>

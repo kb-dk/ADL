@@ -6,7 +6,7 @@
     <field name="work_title_tesim">B.S. Ingemann</field>
     <field name="id">ingemann-p</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009523088</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009523088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009523088</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009520768</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009520768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009520768</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009516400</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009516400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009516400</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009495376</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009495376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009495376</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009478752</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009478752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009478752</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Barndom på Falster 1789-1800</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009474736</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009474736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009474736</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Barndom på Falster 1789-1800</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009468800</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009468800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009468800</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Barndom på Falster 1789-1800</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009463888</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009463888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009463888</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Skolegang i Slagelse 1800-06</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009462848</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009462848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009462848</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Skolegang i Slagelse 1800-06</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009460288</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009460288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009460288</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Student og digter i København 1806-18</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009457904</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009457904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009457904</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Student og digter i København 1806-18</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009455888</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009455888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009455888</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Student og digter i København 1806-18</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009452640</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009452640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009452640</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Dannelsesrejse og hjemkomst 1818-22</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009451600</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009451600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009451600</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -290,7 +290,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009447680</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009447680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009447680</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Dannelsesrejse og hjemkomst 1818-22</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -309,7 +309,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009446464</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009446464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009446464</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Dannelsesrejse og hjemkomst 1818-22</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -328,7 +328,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009444000</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009444000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009444000</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sorø 1822-62</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -347,7 +347,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009441984</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009441984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009441984</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sorø 1822-62</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -366,7 +366,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009440880</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009440880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009440880</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sorø 1822-62</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -385,7 +385,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009439552</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009439552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009439552</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -408,7 +408,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009435072</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009435072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009435072</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sorø 1822-62</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -427,7 +427,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009382768</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009382768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009382768</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -446,7 +446,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009380400</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009380400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009380400</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ungdomsdigtningen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -465,7 +465,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009376352</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009376352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009376352</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">"Varners pöetiske Vandringer"</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -484,7 +484,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009374832</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009374832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009374832</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">"Varners pöetiske Vandringer"</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -503,7 +503,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009373104</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009373104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009373104</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">"Varners pöetiske Vandringer"</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -522,7 +522,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009371840</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009371840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009371840</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -547,7 +547,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009366016</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009366016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009366016</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">"Varners pöetiske Vandringer"</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -566,7 +566,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009363456</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009363456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009363456</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -587,7 +587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009359472</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009359472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009359472</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">"Varners pöetiske Vandringer"</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -606,7 +606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009358448</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009358448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009358448</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">"Varners pöetiske Vandringer"</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -625,7 +625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009354976</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009354976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009354976</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">De øvrige ungdomsværker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -644,7 +644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009351616</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009351616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009351616</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">De øvrige ungdomsværker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -663,7 +663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009344368</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009344368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009344368</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">De øvrige ungdomsværker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -682,7 +682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009340736</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009340736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009340736</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">De øvrige ungdomsværker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -701,7 +701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009337216</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009337216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009337216</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af ungdomsdigtningen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -720,7 +720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009333808</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009333808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009333808</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af ungdomsdigtningen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -739,7 +739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009326576</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009326576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009326576</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af ungdomsdigtningen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -758,7 +758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009323872</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009323872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009323872</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Fantastikken mellem romantik og realisme</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -777,7 +777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009319824</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009319824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009319824</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Fantastikken mellem romantik og realisme</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -796,7 +796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009317088</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009317088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009317088</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Eventyr og Fortællinger
@@ -817,7 +817,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009315392</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009315392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009315392</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Eventyr og Fortællinger
@@ -838,7 +838,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009312864</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009312864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009312864</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Eventyr og Fortællinger
@@ -859,7 +859,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009309520</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009309520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009309520</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Eventyr og Fortællinger
@@ -880,7 +880,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009305984</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009305984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009305984</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Eventyr og Fortællinger
@@ -901,7 +901,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009304976</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009304976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009304976</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Eventyr og Fortællinger
@@ -922,7 +922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009301648</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009301648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009301648</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Senere fantastik</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -941,7 +941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009297280</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009297280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009297280</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Senere fantastik</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -960,7 +960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009294608</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009294608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009294608</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Senere fantastik</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -979,7 +979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009292480</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009292480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009292480</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Senere fantastik</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -998,7 +998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009289968</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009289968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009289968</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af fantastikken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1017,7 +1017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009283472</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009283472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009283472</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af fantastikken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1036,7 +1036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009281696</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009281696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009281696</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af fantastikken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1055,7 +1055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009277920</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009277920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009277920</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">De nationalromantiske værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1074,7 +1074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009585408</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009585408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009585408</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1093,7 +1093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009583728</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009583728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009583728</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1112,7 +1112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009582480</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009582480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009582480</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1131,7 +1131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009246480</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009246480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009246480</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1150,7 +1150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009244560</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009244560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009244560</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1169,7 +1169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009242832</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009242832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009242832</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1192,7 +1192,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009239328</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009239328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009239328</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1211,7 +1211,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009237392</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009237392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009237392</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1230,7 +1230,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009235632</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009235632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009235632</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Den nationalhistoriske cyklus</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1249,7 +1249,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009231744</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009231744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009231744</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af de historiske romaner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1268,7 +1268,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009227584</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009227584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009227584</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af de historiske romaner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1287,7 +1287,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009221232</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009221232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009221232</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af de historiske romaner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1306,7 +1306,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009217376</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009217376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009217376</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1327,7 +1327,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009215664</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009215664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009215664</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1348,7 +1348,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009214352</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009214352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009214352</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1370,7 +1370,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009210048</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009210048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009210048</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1391,7 +1391,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009209008</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009209008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009209008</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1412,7 +1412,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009206864</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009206864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009206864</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1433,7 +1433,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009205984</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009205984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009205984</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1454,7 +1454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009203824</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009203824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009203824</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1475,7 +1475,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009199872</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009199872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009199872</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1496,7 +1496,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009198320</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009198320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009198320</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1517,7 +1517,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009196528</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009196528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009196528</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Holger Danske
@@ -1538,7 +1538,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009192784</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009192784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009192784</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af Holger Danske
 							</field>
@@ -1558,7 +1558,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009191168</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009191168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009191168</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af Holger Danske
 							</field>
@@ -1578,7 +1578,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009188640</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009188640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009188640</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af Holger Danske
 							</field>
@@ -1598,7 +1598,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009184176</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009184176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009184176</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Salmer og religiøse digte</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1617,7 +1617,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009182208</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009182208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009182208</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Salmer og religiøse digte</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1636,7 +1636,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009177328</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009177328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009177328</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Morgen og Aftensange
@@ -1657,7 +1657,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009173872</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009173872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009173872</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Morgen og Aftensange
@@ -1678,7 +1678,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009162800</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009162800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009162800</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Morgen og Aftensange
@@ -1699,7 +1699,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009161792</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009161792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009161792</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Morgen og Aftensange
@@ -1720,7 +1720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009158592</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009158592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009158592</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Senere salmer</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1739,7 +1739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009156672</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009156672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009156672</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1759,7 +1759,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009151536</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009151536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009151536</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af salmerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1778,7 +1778,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009148896</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009148896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009148896</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af salmerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1797,7 +1797,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009147856</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009147856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009147856</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af salmerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1816,7 +1816,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009143584</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009143584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009143584</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Samtidsromanerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1835,7 +1835,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009137536</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009137536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009137536</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Samtidsromanerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1854,7 +1854,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009134704</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009134704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009134704</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Den stumme Frøken
@@ -1875,7 +1875,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009130624</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009130624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009130624</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Den stumme Frøken
@@ -1896,7 +1896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009127728</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009127728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009127728</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -1917,7 +1917,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009125808</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009125808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009125808</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -1938,7 +1938,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009124720</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009124720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009124720</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -1959,7 +1959,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009123696</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009123696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009123696</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -1980,7 +1980,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009121120</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009121120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009121120</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -2001,7 +2001,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009120352</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009120352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009120352</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -2022,7 +2022,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009119200</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009119200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009119200</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -2043,7 +2043,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009117120</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009117120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009117120</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Landsbybørnene
@@ -2064,7 +2064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009113376</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009113376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009113376</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af samtidsromanerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2083,7 +2083,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009108240</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009108240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009108240</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Selvbiografiske værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2102,7 +2102,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009105296</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009105296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009105296</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Tilbageblik
@@ -2123,7 +2123,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009102496</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009102496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009102496</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Tilbageblik
@@ -2144,7 +2144,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009100832</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009100832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009100832</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Tilbageblik
@@ -2165,7 +2165,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009097856</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009097856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009097856</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Levnetsbog
@@ -2186,7 +2186,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009092416</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009092416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009092416</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Levnetsbog
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009091408</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009091408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009091408</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Levnetsbog
@@ -2228,7 +2228,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009090400</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009090400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009090400</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Levnetsbog
@@ -2249,7 +2249,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009088368</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009088368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009088368</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Levnetsbog
@@ -2270,7 +2270,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009085152</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009085152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009085152</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">
                 Levnetsbog
@@ -2291,7 +2291,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009081056</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009081056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009081056</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Vurderingerne af selvbiografierne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2310,7 +2310,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009077984</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009077984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009077984</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2329,7 +2329,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009076880</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009076880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009076880</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2348,7 +2348,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009075728</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009075728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009075728</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2367,7 +2367,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009074752</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009074752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009074752</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2386,7 +2386,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009072976</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009072976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009072976</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2405,7 +2405,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009069408</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009069408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009069408</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2424,7 +2424,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009065056</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009065056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009065056</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2443,7 +2443,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009051520</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009051520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009051520</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2462,7 +2462,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009048496</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009048496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009048496</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2481,7 +2481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009041328</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009041328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009041328</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2500,7 +2500,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009040176</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009040176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009040176</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2519,7 +2519,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009038896</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009038896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009038896</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2538,7 +2538,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009037792</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009037792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009037792</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2557,7 +2557,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009036688</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009036688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009036688</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2576,7 +2576,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009035584</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009035584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009035584</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2595,7 +2595,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009034464</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009034464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009034464</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2614,7 +2614,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009033360</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009033360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009033360</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2633,7 +2633,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009032256</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009032256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009032256</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2652,7 +2652,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009030992</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009030992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009030992</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2671,7 +2671,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009029872</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009029872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009029872</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2690,7 +2690,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009028768</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009028768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009028768</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2709,7 +2709,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009027664</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009027664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009027664</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2728,7 +2728,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009026528</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009026528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009026528</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2747,7 +2747,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009025376</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009025376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009025376</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2766,7 +2766,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009024256</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009024256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009024256</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2785,7 +2785,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009023152</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009023152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009023152</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2804,7 +2804,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009021936</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009021936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009021936</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2823,7 +2823,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009020768</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009020768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009020768</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2842,7 +2842,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009019584</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009019584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009019584</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2861,7 +2861,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009018432</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009018432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009018432</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2880,7 +2880,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009017248</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009017248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009017248</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2899,7 +2899,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009016144</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009016144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009016144</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2918,7 +2918,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009015040</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009015040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009015040</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2937,7 +2937,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009013936</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009013936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009013936</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2956,7 +2956,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009012752</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009012752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009012752</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2975,7 +2975,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009011632</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009011632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009011632</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2994,7 +2994,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009010512</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009010512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009010512</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3013,7 +3013,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009009392</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009009392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009009392</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3032,7 +3032,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009008272</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009008272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009008272</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3051,7 +3051,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009007136</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009007136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009007136</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3070,7 +3070,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009005296</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009005296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009005296</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3089,7 +3089,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009004096</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009004096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009004096</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3108,7 +3108,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009002992</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009002992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009002992</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3127,7 +3127,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009001888</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009001888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009001888</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3146,7 +3146,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649009000752</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649009000752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649009000752</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3165,7 +3165,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008999648</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008999648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008999648</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3184,7 +3184,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008997728</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008997728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008997728</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3203,7 +3203,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008996624</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008996624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008996624</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3222,7 +3222,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008995328</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008995328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008995328</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3241,7 +3241,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008994192</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008994192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008994192</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3260,7 +3260,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008992896</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008992896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008992896</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3279,7 +3279,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008991776</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008991776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008991776</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3298,7 +3298,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008990592</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008990592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008990592</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3317,7 +3317,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008989408</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008989408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008989408</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3336,7 +3336,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008988208</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008988208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008988208</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3355,7 +3355,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008987056</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008987056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008987056</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3374,7 +3374,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008985840</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008985840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008985840</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3393,7 +3393,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008984736</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008984736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008984736</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3412,7 +3412,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008983600</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008983600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008983600</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3431,7 +3431,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008982480</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008982480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008982480</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3450,7 +3450,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008981360</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008981360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008981360</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3469,7 +3469,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008980144</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008980144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008980144</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3488,7 +3488,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008979008</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008979008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008979008</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3507,7 +3507,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008977904</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008977904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008977904</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3526,7 +3526,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008976720</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008976720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008976720</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3545,7 +3545,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008975488</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008975488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008975488</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3564,7 +3564,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008974336</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008974336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008974336</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3583,7 +3583,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008973088</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008973088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008973088</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3602,7 +3602,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008971984</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008971984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008971984</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3621,7 +3621,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008970816</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008970816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008970816</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3640,7 +3640,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008969600</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008969600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008969600</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3659,7 +3659,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008968448</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008968448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008968448</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3678,7 +3678,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008967328</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008967328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008967328</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Ingemanns værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3697,7 +3697,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008964720</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008964720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008964720</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Brevudgaver</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3716,7 +3716,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008963584</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008963584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008963584</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Brevudgaver</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3735,7 +3735,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008962368</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008962368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008962368</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Brevudgaver</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3754,7 +3754,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008961216</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008961216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008961216</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Brevudgaver</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3773,7 +3773,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008960080</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008960080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008960080</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Brevudgaver</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3792,7 +3792,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008958944</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008958944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008958944</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Brevudgaver</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3811,7 +3811,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008956320</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008956320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008956320</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Biografier</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3830,7 +3830,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008955136</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008955136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008955136</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Biografier</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3849,7 +3849,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008953232</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008953232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008953232</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Biografier</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3868,7 +3868,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008950672</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008950672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008950672</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Biografier</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3887,7 +3887,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008949504</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008949504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008949504</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Biografier</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3906,7 +3906,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008946176</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008946176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008946176</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3925,7 +3925,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008945040</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008945040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008945040</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3944,7 +3944,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008943872</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008943872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008943872</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3963,7 +3963,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008942704</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008942704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008942704</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -3982,7 +3982,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008941552</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008941552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008941552</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4001,7 +4001,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008940368</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008940368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008940368</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4020,7 +4020,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008939232</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008939232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008939232</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4039,7 +4039,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008937920</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008937920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008937920</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4058,7 +4058,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008936576</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008936576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008936576</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4077,7 +4077,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008935232</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008935232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008935232</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4096,7 +4096,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008934032</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008934032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008934032</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4115,7 +4115,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008932784</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008932784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008932784</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4134,7 +4134,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008931424</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008931424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008931424</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4153,7 +4153,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008930288</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008930288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008930288</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4172,7 +4172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008928784</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008928784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008928784</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4191,7 +4191,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008927552</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008927552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008927552</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4210,7 +4210,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008926352</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008926352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008926352</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4229,7 +4229,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008925088</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008925088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008925088</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4248,7 +4248,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008923936</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008923936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008923936</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4267,7 +4267,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008922736</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008922736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008922736</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4286,7 +4286,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008921568</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008921568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008921568</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4305,7 +4305,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008920400</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008920400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008920400</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4324,7 +4324,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008918896</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008918896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008918896</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4343,7 +4343,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008917472</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008917472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008917472</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4362,7 +4362,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008916192</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008916192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008916192</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4381,7 +4381,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008914896</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008914896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008914896</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4400,7 +4400,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008913728</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008913728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008913728</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4419,7 +4419,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008912592</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008912592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008912592</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4438,7 +4438,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008911200</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008911200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008911200</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4457,7 +4457,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008909952</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008909952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008909952</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4476,7 +4476,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008908560</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008908560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008908560</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -4495,7 +4495,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">ingemann-p#idm139649008907360</field>
     <field name="volume_id_ssi">ingemann-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/ingemann-p#idm139649008907360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/ingemann-p#idm139649008907360</field>
     <field name="volume_title_tesim">B.S. Ingemann</field>
     <field name="head_tesim">Litteratur om enkelte emner</field>
     <field name="author_name">Marita Akhøj Nielsen</field>

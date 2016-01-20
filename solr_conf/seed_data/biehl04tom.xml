@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Moralske Fortællinger</field>
     <field name="id">biehl04tom</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Moralske Fortællinger II</field>
     <field name="id">biehl04tom#workid54233</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#workid54233</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#workid54233</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">n3</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Den Foranderlige</field>
     <field name="id">biehl04tom#workid54257</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#workid54257</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#workid54257</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">n5</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -68,7 +68,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">biehl04tom#idm140688107432256</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#idm140688107432256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#idm140688107432256</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">n74</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -93,7 +93,7 @@
     <field name="work_title_tesim">Den falske Ben eller hertil og ikke længere</field>
     <field name="id">biehl04tom#workid55086</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#workid55086</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#workid55086</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">n75</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -114,7 +114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">biehl04tom#idm140688107327792</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#idm140688107327792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#idm140688107327792</field>
     <field name="page_ssi">158</field>
     <field name="page_id_ssi">n158</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -139,7 +139,7 @@
     <field name="work_title_tesim">Den forklædte Maler</field>
     <field name="id">biehl04tom#workid55955</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#workid55955</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#workid55955</field>
     <field name="page_ssi">159</field>
     <field name="page_id_ssi">n159</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -160,7 +160,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">biehl04tom#idm140688107130704</field>
     <field name="volume_id_ssi">biehl04tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl04tom#idm140688107130704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl04tom#idm140688107130704</field>
     <field name="page_ssi">319</field>
     <field name="page_id_ssi">n319</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>

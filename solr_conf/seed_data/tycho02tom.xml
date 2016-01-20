@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Tychonis Brahe Dani opera omnia</field>
     <field name="id">tycho02tom</field>
     <field name="volume_id_ssi">tycho02tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/tycho02tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho02tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm139905714212320</field>
     <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Paræneticum ad Astronomiae Cultores</field>
     <field name="id">tycho02tom#workid54250</field>
     <field name="volume_id_ssi">tycho02tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/tycho02tom#workid54250</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho02tom#workid54250</field>
     <field name="page_ssi">302</field>
     <field name="page_id_ssi">n302</field>
     <field name="volume_title_tesim">Tychonis Brahe Dani opera omnia</field>

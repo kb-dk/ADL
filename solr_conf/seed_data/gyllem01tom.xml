@@ -6,7 +6,7 @@
     <field name="work_title_tesim">samlede skrifter af Forf</field>
     <field name="id">gyllem01tom</field>
     <field name="volume_id_ssi">gyllem01tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem01tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem01tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm139803981358816</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Fru Gyllembourgs litterære Testamente</field>
     <field name="id">gyllem01tom#workid54254</field>
     <field name="volume_id_ssi">gyllem01tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem01tom#workid54254</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem01tom#workid54254</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Familien Polonius (1827)</field>
     <field name="id">gyllem01tom#workid54843</field>
     <field name="volume_id_ssi">gyllem01tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem01tom#workid54843</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem01tom#workid54843</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">n45</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -68,7 +68,7 @@
     <field name="work_title_tesim">En Hverdags-Historie (1828)</field>
     <field name="id">gyllem01tom#workid56016</field>
     <field name="volume_id_ssi">gyllem01tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem01tom#workid56016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem01tom#workid56016</field>
     <field name="page_ssi">161</field>
     <field name="page_id_ssi">n161</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -89,7 +89,7 @@
     <field name="work_title_tesim">Den magiske Nøgle (1830)</field>
     <field name="id">gyllem01tom#workid56603</field>
     <field name="volume_id_ssi">gyllem01tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem01tom#workid56603</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem01tom#workid56603</field>
     <field name="page_ssi">219</field>
     <field name="page_id_ssi">n219</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -110,7 +110,7 @@
     <field name="work_title_tesim">Kong Hjort (1830)</field>
     <field name="id">gyllem01tom#workid54318</field>
     <field name="volume_id_ssi">gyllem01tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem01tom#workid54318</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem01tom#workid54318</field>
     <field name="page_ssi">279</field>
     <field name="page_id_ssi">n279</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>

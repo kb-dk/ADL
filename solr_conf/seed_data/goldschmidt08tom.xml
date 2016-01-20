@@ -6,7 +6,7 @@
     <field name="work_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
     <field name="id">goldschmidt08tom</field>
     <field name="volume_id_ssi">goldschmidt08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt08tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt08tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm140161562639152</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Hjemløs, En Fortælling (2)</field>
     <field name="id">goldschmidt08tom#workid54145</field>
     <field name="volume_id_ssi">goldschmidt08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt08tom#workid54145</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt08tom#workid54145</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm140161562635584</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Hjemløs (Anden Bog)</field>
     <field name="id">goldschmidt08tom#workid54149</field>
     <field name="volume_id_ssi">goldschmidt08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt08tom#workid54149</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt08tom#workid54149</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm140161562635584</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -68,7 +68,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt08tom#idm140161562320000</field>
     <field name="volume_id_ssi">goldschmidt08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt08tom#idm140161562320000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt08tom#idm140161562320000</field>
     <field name="page_ssi">371</field>
     <field name="page_id_ssi">idm140161562320768</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>

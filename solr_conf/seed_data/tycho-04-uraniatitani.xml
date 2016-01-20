@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Urania Titani</field>
     <field name="id">tycho-04-uraniatitani</field>
     <field name="volume_id_ssi">tycho-04-uraniatitani</field>
-    <field name="url_ssi">http://adl2.kb.dk/tycho-04-uraniatitani#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-04-uraniatitani#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Urania Titani</field>
@@ -24,7 +24,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">tycho-04-uraniatitani#idm140049346757040</field>
     <field name="volume_id_ssi">tycho-04-uraniatitani</field>
-    <field name="url_ssi">http://adl2.kb.dk/tycho-04-uraniatitani#idm140049346757040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-04-uraniatitani#idm140049346757040</field>
     <field name="page_ssi">2</field>
     <field name="page_id_ssi">s2</field>
     <field name="volume_title_tesim">Urania Titani</field>
@@ -48,7 +48,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">tycho-04-uraniatitani#idm140049346754624</field>
     <field name="volume_id_ssi">tycho-04-uraniatitani</field>
-    <field name="url_ssi">http://adl2.kb.dk/tycho-04-uraniatitani#idm140049346754624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-04-uraniatitani#idm140049346754624</field>
     <field name="page_ssi">2</field>
     <field name="page_id_ssi">s2</field>
     <field name="volume_title_tesim">Urania Titani</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">tycho-04-uraniatitani#idm140049346367824</field>
     <field name="volume_id_ssi">tycho-04-uraniatitani</field>
-    <field name="url_ssi">http://adl2.kb.dk/tycho-04-uraniatitani#idm140049346367824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-04-uraniatitani#idm140049346367824</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">s26</field>
     <field name="volume_title_tesim">Urania Titani</field>

@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Dynæs Digte</field>
     <field name="id">skjold_03</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Dynæs Digte</field>
     <field name="id">skjold_03#workid54088</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid54088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid54088</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -45,7 +45,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115834880</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115834880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115834880</field>
     <field name="page_ssi">2</field>
     <field name="page_id_ssi">s2</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -67,7 +67,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115690192</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115690192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115690192</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">s5</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -89,7 +89,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115687504</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115687504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115687504</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">s5</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -113,7 +113,7 @@
     <field name="work_title_tesim">Kabbelejen</field>
     <field name="id">skjold_03#workid54677</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid54677</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid54677</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -135,7 +135,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115679264</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115679264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115679264</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -159,7 +159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115677744</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115677744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115677744</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -183,7 +183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115676416</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115676416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115676416</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -207,7 +207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115674880</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115674880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115674880</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115672368</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115672368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115672368</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -255,7 +255,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115670848</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115670848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115670848</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -279,7 +279,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115669424</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115669424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115669424</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -305,7 +305,7 @@
     <field name="work_title_tesim">Dynæs-Kilderne</field>
     <field name="id">skjold_03#workid54788</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid54788</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid54788</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -327,7 +327,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115665264</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115665264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115665264</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -351,7 +351,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115663888</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115663888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115663888</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -375,7 +375,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115662592</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115662592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115662592</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -399,7 +399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115661328</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115661328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115661328</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -423,7 +423,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115658800</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115658800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115658800</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -447,7 +447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115657536</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115657536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115657536</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -473,7 +473,7 @@
     <field name="work_title_tesim">Rørsangeren</field>
     <field name="id">skjold_03#workid54882</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid54882</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid54882</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -495,7 +495,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115653728</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115653728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115653728</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -519,7 +519,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115651440</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115651440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115651440</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -543,7 +543,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115649328</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115649328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115649328</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -567,7 +567,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115646064</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115646064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115646064</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -593,7 +593,7 @@
     <field name="work_title_tesim">Nu drager de vilde Svaner</field>
     <field name="id">skjold_03#workid54983</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid54983</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid54983</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -615,7 +615,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115641168</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115641168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115641168</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -639,7 +639,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115639152</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115639152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115639152</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -663,7 +663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115637104</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115637104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115637104</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115633936</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115633936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115633936</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -711,7 +711,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115631904</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115631904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115631904</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -735,7 +735,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115629904</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115629904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115629904</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -761,7 +761,7 @@
     <field name="work_title_tesim">Hjemkomst</field>
     <field name="id">skjold_03#workid55111</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid55111</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid55111</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -783,7 +783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115624736</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115624736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115624736</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -807,7 +807,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115621600</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115621600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115621600</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -831,7 +831,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115617664</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115617664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115617664</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -855,7 +855,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115616208</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115616208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115616208</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -879,7 +879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115614672</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115614672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115614672</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -903,7 +903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115613232</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115613232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115613232</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -927,7 +927,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115610976</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115610976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115610976</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -951,7 +951,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115608528</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115608528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115608528</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -975,7 +975,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115607136</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115607136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115607136</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -999,7 +999,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115605792</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115605792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115605792</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1023,7 +1023,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115604416</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115604416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115604416</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1047,7 +1047,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115603040</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115603040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115603040</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1071,7 +1071,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115600560</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115600560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115600560</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1095,7 +1095,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115599184</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115599184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115599184</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1119,7 +1119,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115597776</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115597776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115597776</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115596416</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115596416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115596416</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1167,7 +1167,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115594240</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115594240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115594240</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1191,7 +1191,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115590752</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115590752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115590752</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1215,7 +1215,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115588336</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115588336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115588336</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1239,7 +1239,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115585984</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115585984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115585984</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1263,7 +1263,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115581712</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115581712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115581712</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1287,7 +1287,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115580272</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115580272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115580272</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1311,7 +1311,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115578816</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115578816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115578816</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1335,7 +1335,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115577328</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115577328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115577328</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1359,7 +1359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115575856</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115575856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115575856</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1383,7 +1383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115572464</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115572464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115572464</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1407,7 +1407,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115570944</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115570944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115570944</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1431,7 +1431,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115569488</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115569488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115569488</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1457,7 +1457,7 @@
     <field name="work_title_tesim">Husmandssangen</field>
     <field name="id">skjold_03#workid55639</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid55639</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid55639</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1479,7 +1479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115561056</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115561056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115561056</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1503,7 +1503,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115559264</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115559264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115559264</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1527,7 +1527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115557424</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115557424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115557424</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1551,7 +1551,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115554560</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115554560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115554560</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1577,7 +1577,7 @@
     <field name="work_title_tesim">Hjemmet</field>
     <field name="id">skjold_03#workid55723</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid55723</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid55723</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1599,7 +1599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115546272</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115546272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115546272</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1623,7 +1623,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115543696</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115543696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115543696</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1647,7 +1647,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115539872</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115539872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115539872</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">s30</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1673,7 +1673,7 @@
     <field name="work_title_tesim">Du Husmand</field>
     <field name="id">skjold_03#workid55813</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid55813</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid55813</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1695,7 +1695,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115534800</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115534800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115534800</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1719,7 +1719,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115532336</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115532336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115532336</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1743,7 +1743,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115529936</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115529936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115529936</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1767,7 +1767,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115526224</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115526224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115526224</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">s32</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1791,7 +1791,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115523760</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115523760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115523760</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">s32</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1817,7 +1817,7 @@
     <field name="work_title_tesim">Den gamle Husmand </field>
     <field name="id">skjold_03#workid55940</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid55940</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid55940</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1839,7 +1839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115518864</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115518864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115518864</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1863,7 +1863,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115516224</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115516224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115516224</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1887,7 +1887,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115512400</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115512400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115512400</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1911,7 +1911,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115509840</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115509840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115509840</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1937,7 +1937,7 @@
     <field name="work_title_tesim">Ungkarlen</field>
     <field name="id">skjold_03#workid56054</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56054</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56054</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1959,7 +1959,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115504544</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115504544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115504544</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -1983,7 +1983,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115503168</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115503168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115503168</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2007,7 +2007,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115501808</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115501808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115501808</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2031,7 +2031,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115500416</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115500416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115500416</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115497888</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115497888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115497888</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2079,7 +2079,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115496512</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115496512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115496512</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2105,7 +2105,7 @@
     <field name="work_title_tesim">Hyttesang</field>
     <field name="id">skjold_03#workid56148</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56148</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56148</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2127,7 +2127,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115492592</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115492592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115492592</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2151,7 +2151,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115492128</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115492128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115492128</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2175,7 +2175,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115489312</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115489312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115489312</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2199,7 +2199,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115485328</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115485328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115485328</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2223,7 +2223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115482496</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115482496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115482496</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2249,7 +2249,7 @@
     <field name="work_title_tesim">Ny Signaler</field>
     <field name="id">skjold_03#workid56271</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56271</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56271</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2271,7 +2271,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115477008</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115477008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115477008</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2295,7 +2295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115474480</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115474480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115474480</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2319,7 +2319,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115470704</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115470704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115470704</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2345,7 +2345,7 @@
     <field name="work_title_tesim">Der vokser Skov paa Heden</field>
     <field name="id">skjold_03#workid56361</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56361</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56361</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2367,7 +2367,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115465392</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115465392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115465392</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2391,7 +2391,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115462800</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115462800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115462800</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2415,7 +2415,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115459040</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115459040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115459040</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2441,7 +2441,7 @@
     <field name="work_title_tesim">Skolesang</field>
     <field name="id">skjold_03#workid56452</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56452</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56452</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2463,7 +2463,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115453824</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115453824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115453824</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2487,7 +2487,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115453392</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115453392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115453392</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2511,7 +2511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115450560</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115450560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115450560</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2535,7 +2535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115446704</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115446704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115446704</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2559,7 +2559,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115443856</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115443856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115443856</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2583,7 +2583,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115441040</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115441040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115441040</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2609,7 +2609,7 @@
     <field name="work_title_tesim">Grundlovssang</field>
     <field name="id">skjold_03#workid56598</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56598</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56598</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2631,7 +2631,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115435664</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115435664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115435664</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2655,7 +2655,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115432896</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115432896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115432896</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2679,7 +2679,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115430000</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115430000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115430000</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2705,7 +2705,7 @@
     <field name="work_title_tesim">Kvinden</field>
     <field name="id">skjold_03#workid56694</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56694</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56694</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2727,7 +2727,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115423424</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115423424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115423424</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2751,7 +2751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115422960</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115422960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115422960</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2775,7 +2775,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115420096</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115420096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115420096</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2799,7 +2799,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115416240</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115416240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115416240</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2823,7 +2823,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115413472</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115413472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115413472</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2847,7 +2847,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115410672</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115410672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115410672</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2873,7 +2873,7 @@
     <field name="work_title_tesim">Morgensang</field>
     <field name="id">skjold_03#workid56866</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56866</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56866</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2895,7 +2895,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115402096</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115402096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115402096</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2919,7 +2919,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115400576</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115400576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115400576</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2943,7 +2943,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115398944</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115398944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115398944</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2967,7 +2967,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115397424</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115397424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115397424</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -2991,7 +2991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115394752</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115394752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115394752</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3017,7 +3017,7 @@
     <field name="work_title_tesim">Majsang</field>
     <field name="id">skjold_03#workid56956</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid56956</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid56956</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">s53</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3039,7 +3039,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115390576</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115390576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115390576</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">s53</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3063,7 +3063,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115387840</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115387840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115387840</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">s53</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3087,7 +3087,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115385168</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115385168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115385168</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">s53</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3113,7 +3113,7 @@
     <field name="work_title_tesim">Sytten Aar</field>
     <field name="id">skjold_03#workid57050</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid57050</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid57050</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3135,7 +3135,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115378544</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115378544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115378544</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3159,7 +3159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115376832</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115376832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115376832</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3183,7 +3183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115375184</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115375184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115375184</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3207,7 +3207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115372304</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115372304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115372304</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3233,7 +3233,7 @@
     <field name="work_title_tesim">Sommerdaw</field>
     <field name="id">skjold_03#workid57131</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid57131</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid57131</field>
     <field name="page_ssi">57</field>
     <field name="page_id_ssi">s57</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3255,7 +3255,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115367920</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115367920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115367920</field>
     <field name="page_ssi">57</field>
     <field name="page_id_ssi">s57</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3279,7 +3279,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115366496</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115366496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115366496</field>
     <field name="page_ssi">57</field>
     <field name="page_id_ssi">s57</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3303,7 +3303,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115365072</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115365072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115365072</field>
     <field name="page_ssi">57</field>
     <field name="page_id_ssi">s57</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3327,7 +3327,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115363584</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115363584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115363584</field>
     <field name="page_ssi">57</field>
     <field name="page_id_ssi">s57</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3351,7 +3351,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115360896</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115360896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115360896</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">s58</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3377,7 +3377,7 @@
     <field name="work_title_tesim">Jeppe Aakjær</field>
     <field name="id">skjold_03#workid57218</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid57218</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid57218</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3399,7 +3399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115356752</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115356752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115356752</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3423,7 +3423,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115353952</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115353952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115353952</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3447,7 +3447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115351120</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115351120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115351120</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3471,7 +3471,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115347184</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115347184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115347184</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3495,7 +3495,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115344464</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115344464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115344464</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3521,7 +3521,7 @@
     <field name="work_title_tesim">I æ Awtægtsstow</field>
     <field name="id">skjold_03#workid57360</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid57360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid57360</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">s61</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3543,7 +3543,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115338944</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115338944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115338944</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">s61</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3567,7 +3567,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115336528</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115336528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115336528</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">s61</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3591,7 +3591,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115334016</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115334016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115334016</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">s61</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3615,7 +3615,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115330464</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115330464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115330464</field>
     <field name="page_ssi">62</field>
     <field name="page_id_ssi">s62</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3639,7 +3639,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115327936</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115327936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115327936</field>
     <field name="page_ssi">62</field>
     <field name="page_id_ssi">s62</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3665,7 +3665,7 @@
     <field name="work_title_tesim">Hjemm fræ</field>
     <field name="id">skjold_03#workid57490</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#workid57490</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#workid57490</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3687,7 +3687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115322816</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115322816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115322816</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3711,7 +3711,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115322336</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115322336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115322336</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3735,7 +3735,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115320960</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115320960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115320960</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3759,7 +3759,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115319520</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115319520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115319520</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3783,7 +3783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115318080</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115318080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115318080</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3807,7 +3807,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115315584</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115315584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115315584</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3831,7 +3831,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115314192</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115314192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115314192</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3855,7 +3855,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115312784</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115312784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115312784</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3879,7 +3879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115311376</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115311376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115311376</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3903,7 +3903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115309984</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115309984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115309984</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3927,7 +3927,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115307376</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115307376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115307376</field>
     <field name="page_ssi">65</field>
     <field name="page_id_ssi">s65</field>
     <field name="volume_title_tesim">Dynæs Digte</field>
@@ -3951,7 +3951,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">skjold_03#idm140608115305904</field>
     <field name="volume_id_ssi">skjold_03</field>
-    <field name="url_ssi">http://adl2.kb.dk/skjold_03#idm140608115305904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/skjold_03#idm140608115305904</field>
     <field name="page_ssi">65</field>
     <field name="page_id_ssi">s65</field>
     <field name="volume_title_tesim">Dynæs Digte</field>

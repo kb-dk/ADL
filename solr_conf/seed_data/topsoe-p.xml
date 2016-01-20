@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="id">topsoe-p</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="author_name">Johan de Mylius</field>
     <field name="author_id_ssi">99844533cb421fed7f33da7ec2c72428</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849789520</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849789520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849789520</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Johan de Mylius</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849788496</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849788496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849788496</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Johan de Mylius</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849787488</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849787488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849787488</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Johan de Mylius</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849784672</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849784672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849784672</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849781232</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849781232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849781232</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849774848</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849774848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849774848</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849773920</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849773920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849773920</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849771728</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849771728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849771728</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849770224</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849770224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849770224</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849768224</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849768224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849768224</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849767120</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849767120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849767120</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849763152</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849763152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849763152</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849760752</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849760752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849760752</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849756672</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849756672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849756672</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849755520</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849755520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849755520</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849752896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849752896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849752896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849752144</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849752144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849752144</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849747232</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849747232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849747232</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849745040</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849745040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849745040</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849744016</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849744016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849744016</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849741920</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849741920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849741920</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849740976</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849740976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849740976</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849738496</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849738496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849738496</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849734896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849734896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849734896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849725552</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849725552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849725552</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849722112</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849722112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849722112</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849721008</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849721008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849721008</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849719712</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849719712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849719712</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849716640</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849716640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849716640</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849714736</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849714736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849714736</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849712000</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849712000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849712000</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849710832</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849710832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849710832</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849706192</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849706192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849706192</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849703984</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849703984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849703984</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849702896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849702896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849702896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Johan de Mylius</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849683824</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849683824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849683824</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849848176</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849848176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849848176</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849847104</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849847104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849847104</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849846160</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849846160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849846160</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849845056</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849845056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849845056</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849842048</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849842048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849842048</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849840992</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849840992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849840992</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849664752</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849664752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849664752</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849662656</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849662656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849662656</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849661632</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849661632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849661632</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849658576</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849658576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849658576</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849656704</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849656704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849656704</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Personlig og social identitet:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849654208</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849654208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849654208</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849653360</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849653360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849653360</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849652208</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849652208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849652208</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849650752</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849650752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849650752</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849649952</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849649952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849649952</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849648944</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849648944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849648944</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849647904</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849647904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849647904</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849646880</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849646880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849646880</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849645952</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849645952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849645952</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849644032</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849644032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849644032</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849643024</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849643024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849643024</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849642000</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849642000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849642000</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Borgerskab og aristokrati:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849638272</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849638272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849638272</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849636592</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849636592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849636592</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849635824</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849635824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849635824</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849632912</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849632912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849632912</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849631872</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849631872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849631872</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849630816</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849630816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849630816</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849629760</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849629760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849629760</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849628688</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849628688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849628688</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849627680</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849627680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849627680</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849626400</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849626400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849626400</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="author_name">Johan de Mylius</field>
     <field name="author_id_ssi">99844533cb421fed7f33da7ec2c72428</field>
@@ -1335,7 +1335,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849623632</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849623632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849623632</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1354,7 +1354,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849622576</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849622576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849622576</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1373,7 +1373,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849621936</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849621936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849621936</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1392,7 +1392,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849620928</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849620928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849620928</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1411,7 +1411,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849617232</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849617232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849617232</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1430,7 +1430,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849613312</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849613312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849613312</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1449,7 +1449,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849608800</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849608800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849608800</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1468,7 +1468,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849607792</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849607792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849607792</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1487,7 +1487,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849605120</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849605120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849605120</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1506,7 +1506,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849604064</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849604064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849604064</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Metafysik eller nirvana:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1525,7 +1525,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849601632</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849601632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849601632</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">En dannelsesroman?</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1544,7 +1544,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849600704</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849600704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849600704</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">En dannelsesroman?</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1563,7 +1563,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849599680</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849599680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849599680</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">En dannelsesroman?</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1582,7 +1582,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849598608</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849598608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849598608</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">En dannelsesroman?</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1601,7 +1601,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849593728</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849593728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849593728</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">En dannelsesroman?</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1620,7 +1620,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849591072</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849591072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849591072</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Det ubevidste og det tilfældige:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1639,7 +1639,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849590496</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849590496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849590496</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Det ubevidste og det tilfældige:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1658,7 +1658,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849589776</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849589776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849589776</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Det ubevidste og det tilfældige:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1677,7 +1677,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849588128</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849588128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849588128</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Det ubevidste og det tilfældige:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1696,7 +1696,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849587360</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849587360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849587360</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Det ubevidste og det tilfældige:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1715,7 +1715,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849582704</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849582704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849582704</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Det ubevidste og det tilfældige:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1734,7 +1734,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849580224</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849580224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849580224</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1753,7 +1753,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849579488</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849579488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849579488</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1772,7 +1772,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849578496</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849578496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849578496</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1791,7 +1791,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849574896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849574896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849574896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1810,7 +1810,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849572848</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849572848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849572848</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1829,7 +1829,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849568336</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849568336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849568336</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1848,7 +1848,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849567312</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849567312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849567312</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1867,7 +1867,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849566208</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849566208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849566208</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1886,7 +1886,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849561296</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849561296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849561296</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1905,7 +1905,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849558384</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849558384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849558384</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1924,7 +1924,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849555296</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849555296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849555296</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1943,7 +1943,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849554688</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849554688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849554688</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1962,7 +1962,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849552272</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849552272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849552272</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -1981,7 +1981,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849549408</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849549408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849549408</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2000,7 +2000,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849548080</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849548080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849548080</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2019,7 +2019,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849546896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849546896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849546896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2038,7 +2038,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849546256</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849546256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849546256</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2057,7 +2057,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849545776</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849545776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849545776</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2076,7 +2076,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849544016</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849544016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849544016</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2095,7 +2095,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849542256</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849542256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849542256</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2114,7 +2114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849541232</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849541232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849541232</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2133,7 +2133,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849540288</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849540288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849540288</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2152,7 +2152,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849539040</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849539040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849539040</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2171,7 +2171,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849537232</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849537232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849537232</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2190,7 +2190,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849536128</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849536128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849536128</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2209,7 +2209,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849534848</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849534848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849534848</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2228,7 +2228,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849533840</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849533840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849533840</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2247,7 +2247,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849531552</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849531552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849531552</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2266,7 +2266,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849530496</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849530496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849530496</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2285,7 +2285,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849528832</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849528832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849528832</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2304,7 +2304,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849528400</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849528400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849528400</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2323,7 +2323,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849526480</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849526480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849526480</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Begyndende impressionisme:</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2342,7 +2342,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849522272</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849522272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849522272</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2361,7 +2361,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849520512</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849520512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849520512</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2380,7 +2380,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849513968</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849513968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849513968</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2399,7 +2399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849506704</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849506704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849506704</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2418,7 +2418,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849505152</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849505152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849505152</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2437,7 +2437,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849504016</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849504016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849504016</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2456,7 +2456,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849672960</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849672960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849672960</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2475,7 +2475,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849666240</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849666240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849666240</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2494,7 +2494,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849465392</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849465392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849465392</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2513,7 +2513,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849463520</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849463520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849463520</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2532,7 +2532,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849456848</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849456848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849456848</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2551,7 +2551,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849454576</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849454576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849454576</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2570,7 +2570,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849452512</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849452512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849452512</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2589,7 +2589,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849446608</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849446608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849446608</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2608,7 +2608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849441008</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849441008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849441008</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2627,7 +2627,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849437248</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849437248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849437248</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2646,7 +2646,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849435344</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849435344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849435344</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2665,7 +2665,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849430656</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849430656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849430656</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2684,7 +2684,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849426816</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849426816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849426816</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2703,7 +2703,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849424896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849424896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849424896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2722,7 +2722,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849423120</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849423120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849423120</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2741,7 +2741,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849415552</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849415552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849415552</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Efterliv</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2760,7 +2760,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849413088</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849413088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849413088</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2779,7 +2779,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849405856</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849405856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849405856</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2798,7 +2798,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849404592</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849404592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849404592</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2817,7 +2817,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849403232</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849403232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849403232</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2836,7 +2836,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849402064</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849402064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849402064</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2855,7 +2855,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849400896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849400896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849400896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2874,7 +2874,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849399792</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849399792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849399792</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2893,7 +2893,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849397952</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849397952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849397952</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2912,7 +2912,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849396832</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849396832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849396832</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2931,7 +2931,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849395696</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849395696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849395696</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2950,7 +2950,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849394432</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849394432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849394432</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2969,7 +2969,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849393200</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849393200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849393200</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -2988,7 +2988,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849391312</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849391312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849391312</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Værkliste</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3007,7 +3007,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849388688</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849388688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849388688</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3026,7 +3026,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849387520</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849387520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849387520</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3045,7 +3045,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849385200</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849385200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849385200</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3064,7 +3064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849383808</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849383808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849383808</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3083,7 +3083,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849382624</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849382624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849382624</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3102,7 +3102,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849379840</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849379840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849379840</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Topsøes papirer</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3121,7 +3121,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849376704</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849376704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849376704</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3140,7 +3140,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849374768</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849374768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849374768</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3159,7 +3159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849372896</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849372896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849372896</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3178,7 +3178,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849371056</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849371056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849371056</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3197,7 +3197,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849369088</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849369088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849369088</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3216,7 +3216,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849367136</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849367136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849367136</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3235,7 +3235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849364992</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849364992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849364992</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3254,7 +3254,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849363824</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849363824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849363824</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3273,7 +3273,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849362688</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849362688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849362688</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3292,7 +3292,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849361520</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849361520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849361520</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3311,7 +3311,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849360368</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849360368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849360368</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3330,7 +3330,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849359120</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849359120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849359120</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3349,7 +3349,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849357968</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849357968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849357968</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3368,7 +3368,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849356720</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849356720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849356720</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3387,7 +3387,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849355552</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849355552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849355552</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Sekundærlitteratur</field>
     <field name="author_name">Johan de Mylius</field>
@@ -3406,7 +3406,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">topsoe-p#idm139967849352128</field>
     <field name="volume_id_ssi">topsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/topsoe-p#idm139967849352128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/topsoe-p#idm139967849352128</field>
     <field name="volume_title_tesim">Topsøe, V.C.S. (Vilhelm Christian Sigurd)</field>
     <field name="head_tesim">Johan de Mylius</field>
     <field name="author_name">Johan de Mylius</field>

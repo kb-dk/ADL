@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Samlede skrifter 2</field>
     <field name="id">kingo02val</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#</field>
     <field name="page_ssi">III</field>
     <field name="page_id_ssi">idm140015369008176</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -24,7 +24,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015369000688</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015369000688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015369000688</field>
     <field name="page_ssi">IV</field>
     <field name="page_id_ssi">idm140015369005984</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -46,7 +46,7 @@
     <field name="work_title_tesim">Hosianna ved Chr. VI's Salving 1671</field>
     <field name="id">kingo02val#workid55055</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid55055</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid55055</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm140015368915200</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -66,7 +66,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368909904</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368909904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368909904</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">idm140015368910976</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -111,7 +111,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368898416</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368898416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368898416</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">idm140015368910976</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368893808</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368893808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368893808</field>
     <field name="page_ssi">4</field>
     <field name="page_id_ssi">idm140015368894576</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -217,7 +217,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368862384</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368862384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368862384</field>
     <field name="page_ssi">6</field>
     <field name="page_id_ssi">idm140015368863152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -242,7 +242,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368860176</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368860176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368860176</field>
     <field name="page_ssi">6</field>
     <field name="page_id_ssi">idm140015368863152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -349,7 +349,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368816160</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368816160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368816160</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">idm140015368816928</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -382,7 +382,7 @@
     <field name="work_title_tesim">Lyk-ynske til Prinds Friderichs Fødsel 1672</field>
     <field name="id">kingo02val#workid55922</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid55922</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid55922</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">idm140015368808768</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368800672</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368800672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368800672</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">idm140015368808768</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -433,7 +433,7 @@
     <field name="work_title_tesim">Velkom til Prinds Friderich ved hans Fødsel 1672</field>
     <field name="id">kingo02val#workid56100</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid56100</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid56100</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">idm140015368786816</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -453,7 +453,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368780560</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368780560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368780560</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">idm140015368786816</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -490,7 +490,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368761184</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368761184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368761184</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">idm140015368761952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -541,7 +541,7 @@
     <field name="work_title_tesim">Chr. V's HiemKomst fra Holstein til Kiøbenhafn 1672</field>
     <field name="id">kingo02val#workid56521</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid56521</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid56521</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">idm140015368735744</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -561,7 +561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368732224</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368732224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368732224</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">idm140015368735744</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -601,7 +601,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="work_title_tesim">Kroneborgs Beskrifvelse 1672</field>
     <field name="id">kingo02val#workid56647</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid56647</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid56647</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">idm140015368720016</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -621,7 +621,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368715392</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368715392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368715392</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">idm140015368717200</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -662,7 +662,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368705680</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368705680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368705680</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">idm140015368717200</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -691,7 +691,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368699088</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368699088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368699088</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">idm140015368699856</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -732,7 +732,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368689088</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368689088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368689088</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">idm140015368699856</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -973,7 +973,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368577792</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368577792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368577792</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">idm140015368578560</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1014,7 +1014,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368567920</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368567920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368567920</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">idm140015368578560</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1041,7 +1041,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="work_title_tesim">Overskrifter til Kronborgs første og anden Port [1690]</field>
     <field name="id">kingo02val#workid57931</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid57931</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid57931</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">idm140015368565360</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1061,7 +1061,7 @@ Hiemkomst fra Holstein til Kiøbenhafhden i May 1672.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368561328</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368561328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368561328</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">idm140015368565360</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1096,7 +1096,7 @@ Første Poort.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368555920</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368555920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368555920</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">idm140015368565360</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1131,7 +1131,7 @@ Første Poort.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368546160</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368546160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368546160</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">idm140015368547600</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1163,7 +1163,7 @@ Første Poort.
     <field name="work_title_tesim">Chr. V's første Ledings-Tog 1676</field>
     <field name="id">kingo02val#workid58139</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid58139</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid58139</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">idm140015368539776</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1183,7 +1183,7 @@ Første Poort.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368535776</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368535776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368535776</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">idm140015368537856</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1216,7 +1216,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368529456</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368529456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368529456</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">idm140015368531264</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1265,7 +1265,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368513328</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368513328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368513328</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">idm140015368514144</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1316,7 +1316,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368497168</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368497168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368497168</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">idm140015368497936</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1425,7 +1425,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368451040</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368451040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368451040</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">idm140015368451808</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1474,7 +1474,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368435664</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368435664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368435664</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">idm140015368436432</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1523,7 +1523,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368419760</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368419760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368419760</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">idm140015368420528</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1636,7 +1636,7 @@ Hans Kongl. Majest.
     <field name="work_title_tesim">Anhang til Chr. V's første Ledings-Tog [1677]</field>
     <field name="id">kingo02val#workid59503</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid59503</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid59503</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">idm140015368375408</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1656,7 +1656,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368369680</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368369680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368369680</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">idm140015368370960</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1705,7 +1705,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368352864</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368352864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368352864</field>
     <field name="page_ssi">46</field>
     <field name="page_id_ssi">idm140015368353680</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1752,7 +1752,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368335952</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368335952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368335952</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">idm140015368336768</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1831,7 +1831,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368302256</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368302256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368302256</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">idm140015368303024</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1938,7 +1938,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368236672</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368236672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368236672</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">idm140015368237440</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -1983,7 +1983,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368208000</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368208000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368208000</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">idm140015368208768</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2028,7 +2028,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368183488</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368183488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368183488</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">idm140015368184256</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2079,7 +2079,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368166976</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368166976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368166976</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">idm140015368167792</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2212,7 +2212,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368095744</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368095744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368095744</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">idm140015368096512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2261,7 +2261,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368077328</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368077328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368077328</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">idm140015368078144</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2310,7 +2310,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368060512</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368060512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368060512</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">idm140015368061280</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2361,7 +2361,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368044336</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368044336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368044336</field>
     <field name="page_ssi">62</field>
     <field name="page_id_ssi">idm140015368045104</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2412,7 +2412,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368027840</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368027840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368027840</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">idm140015368028608</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2459,7 +2459,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015368008896</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015368008896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015368008896</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">idm140015368009664</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2510,7 +2510,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367991536</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367991536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367991536</field>
     <field name="page_ssi">65</field>
     <field name="page_id_ssi">idm140015367992304</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2555,7 +2555,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367971920</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367971920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367971920</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">idm140015367972736</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2626,7 +2626,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367936752</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367936752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367936752</field>
     <field name="page_ssi">68</field>
     <field name="page_id_ssi">idm140015367937568</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2707,7 +2707,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367904848</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367904848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367904848</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">idm140015367905616</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2756,7 +2756,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367889456</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367889456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367889456</field>
     <field name="page_ssi">71</field>
     <field name="page_id_ssi">idm140015367890224</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2859,7 +2859,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367840736</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367840736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367840736</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">idm140015367841552</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2910,7 +2910,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367824352</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367824352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367824352</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">idm140015367825120</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -2959,7 +2959,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367808128</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367808128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367808128</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">idm140015367808944</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3006,7 +3006,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367792336</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367792336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367792336</field>
     <field name="page_ssi">77</field>
     <field name="page_id_ssi">idm140015367793152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3085,7 +3085,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367760928</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367760928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367760928</field>
     <field name="page_ssi">79</field>
     <field name="page_id_ssi">idm140015367761696</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3136,7 +3136,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367741856</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367741856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367741856</field>
     <field name="page_ssi">80</field>
     <field name="page_id_ssi">idm140015367742672</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3181,7 +3181,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367722720</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367722720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367722720</field>
     <field name="page_ssi">83</field>
     <field name="page_id_ssi">idm140015367723536</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3262,7 +3262,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367690880</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367690880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367690880</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">idm140015367691696</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3303,7 +3303,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367677888</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367677888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367677888</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">idm140015367678656</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3354,7 +3354,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367657632</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367657632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367657632</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">idm140015367658400</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3433,7 +3433,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367618992</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367618992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367618992</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">idm140015367619808</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3460,7 +3460,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367615024</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367615024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367615024</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">idm140015367619808</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3501,7 +3501,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367602864</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367602864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367602864</field>
     <field name="page_ssi">90</field>
     <field name="page_id_ssi">idm140015367603632</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3550,7 +3550,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367586144</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367586144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367586144</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">idm140015367586960</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3591,7 +3591,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367574944</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367574944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367574944</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">idm140015367586960</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3616,7 +3616,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367565024</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367565024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367565024</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">idm140015367566048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3641,7 +3641,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367562752</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367562752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367562752</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">idm140015367566048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3666,7 +3666,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367560544</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367560544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367560544</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">idm140015367566048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3691,7 +3691,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367558256</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367558256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367558256</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">idm140015367566048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3716,7 +3716,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367555920</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367555920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367555920</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">idm140015367566048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3741,7 +3741,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367553696</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367553696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367553696</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">idm140015367566048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3766,7 +3766,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367551408</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367551408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367551408</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">idm140015367566048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3789,7 +3789,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367547680</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367547680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367547680</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">idm140015367548496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3812,7 +3812,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367546400</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367546400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367546400</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">idm140015367548496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3837,7 +3837,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367544064</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367544064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367544064</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">idm140015367548496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3862,7 +3862,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367541744</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367541744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367541744</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">idm140015367548496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3887,7 +3887,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367539488</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367539488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367539488</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">idm140015367548496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3912,7 +3912,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367537120</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367537120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367537120</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">idm140015367548496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3937,7 +3937,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367534848</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367534848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367534848</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">idm140015367548496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3962,7 +3962,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367531008</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367531008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367531008</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">idm140015367532032</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -3984,7 +3984,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367529984</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367529984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367529984</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">idm140015367532032</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4006,7 +4006,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367526848</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367526848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367526848</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">idm140015367532032</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4028,7 +4028,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367526000</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367526000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367526000</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">idm140015367532032</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4052,7 +4052,7 @@ Hans Kongl. Majest.
     <field name="work_title_tesim">Anden Anhang til Chr. V's første Ledings-Tog [1677]</field>
     <field name="id">kingo02val#workid66633</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid66633</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid66633</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">idm140015367522592</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4072,7 +4072,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367514176</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367514176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367514176</field>
     <field name="page_ssi">101</field>
     <field name="page_id_ssi">idm140015367519776</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4110,7 +4110,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367502816</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367502816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367502816</field>
     <field name="page_ssi">102</field>
     <field name="page_id_ssi">idm140015367503584</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4141,7 +4141,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367497600</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367497600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367497600</field>
     <field name="page_ssi">102</field>
     <field name="page_id_ssi">idm140015367503584</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4181,7 +4181,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367487840</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367487840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367487840</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">idm140015367488608</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4261,7 +4261,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367454640</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367454640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367454640</field>
     <field name="page_ssi">105</field>
     <field name="page_id_ssi">idm140015367457872</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4289,7 +4289,7 @@ Hans Kongl. Majest.
     <field name="work_title_tesim">Opskrift paa Ankeret 1677</field>
     <field name="id">kingo02val#workid67234</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid67234</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid67234</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">idm140015367449952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4309,7 +4309,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367445504</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367445504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367445504</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">idm140015367449952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4338,7 +4338,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367441184</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367441184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367441184</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">idm140015367449952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4369,7 +4369,7 @@ Hans Kongl. Majest.
     <field name="work_title_tesim">Begrædelser ofver Valentin Korn 1676</field>
     <field name="id">kingo02val#workid67402</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid67402</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid67402</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">idm140015367429184</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4389,7 +4389,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367420992</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367420992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367420992</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">idm140015367429184</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4426,7 +4426,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367409248</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367409248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367409248</field>
     <field name="page_ssi">108</field>
     <field name="page_id_ssi">idm140015367410016</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4475,7 +4475,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367391072</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367391072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367391072</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">idm140015367391840</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4499,7 +4499,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367388656</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367388656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367388656</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">idm140015367391840</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4536,7 +4536,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367380224</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367380224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367380224</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">idm140015367391840</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4559,7 +4559,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367378912</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367378912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367378912</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">idm140015367391840</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4584,7 +4584,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367375824</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367375824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367375824</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">idm140015367391840</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4607,7 +4607,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367373744</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367373744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367373744</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">idm140015367374512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4636,7 +4636,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367368912</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367368912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367368912</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">idm140015367374512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4658,7 +4658,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367368064</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367368064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367368064</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">idm140015367374512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4683,7 +4683,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367365760</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367365760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367365760</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">idm140015367374512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4705,7 +4705,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367364928</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367364928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367364928</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">idm140015367374512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4734,7 +4734,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367360736</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367360736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367360736</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">idm140015367374512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4756,7 +4756,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367359904</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367359904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367359904</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">idm140015367374512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4781,7 +4781,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367356208</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367356208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367356208</field>
     <field name="page_ssi">111</field>
     <field name="page_id_ssi">idm140015367358048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4804,7 +4804,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367352176</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367352176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367352176</field>
     <field name="page_ssi">111</field>
     <field name="page_id_ssi">idm140015367358048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4841,7 +4841,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367329280</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367329280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367329280</field>
     <field name="page_ssi">112</field>
     <field name="page_id_ssi">idm140015367330048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4864,7 +4864,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367327936</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367327936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367327936</field>
     <field name="page_ssi">112</field>
     <field name="page_id_ssi">idm140015367330048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4893,7 +4893,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367322080</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367322080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367322080</field>
     <field name="page_ssi">112</field>
     <field name="page_id_ssi">idm140015367330048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4915,7 +4915,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367319760</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367319760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367319760</field>
     <field name="page_ssi">112</field>
     <field name="page_id_ssi">idm140015367330048</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4969,7 +4969,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367298432</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367298432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367298432</field>
     <field name="page_ssi">114</field>
     <field name="page_id_ssi">idm140015367299248</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -4996,7 +4996,7 @@ Hans Kongl. Majest.
     <field name="work_title_tesim">De Svenskes Far vel fra Tydskland 1678</field>
     <field name="id">kingo02val#workid68568</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid68568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid68568</field>
     <field name="page_ssi">115</field>
     <field name="page_id_ssi">idm140015367288544</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5016,7 +5016,7 @@ Hans Kongl. Majest.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367284720</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367284720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367284720</field>
     <field name="page_ssi">115</field>
     <field name="page_id_ssi">idm140015367288544</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5065,7 +5065,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Nytaarsønske til Chr. V 1677</field>
     <field name="id">kingo02val#workid68728</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid68728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid68728</field>
     <field name="page_ssi">116</field>
     <field name="page_id_ssi">idm140015367268736</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5085,7 +5085,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367262784</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367262784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367262784</field>
     <field name="page_ssi">116</field>
     <field name="page_id_ssi">idm140015367268736</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5122,7 +5122,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367252432</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367252432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367252432</field>
     <field name="page_ssi">117</field>
     <field name="page_id_ssi">idm140015367253248</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5149,7 +5149,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Til Kongl: Majestets Tredie Feldtog 1678</field>
     <field name="id">kingo02val#workid68888</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid68888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid68888</field>
     <field name="page_ssi">118</field>
     <field name="page_id_ssi">idm140015367248928</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5169,7 +5169,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367245568</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367245568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367245568</field>
     <field name="page_ssi">118</field>
     <field name="page_id_ssi">idm140015367248928</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5214,7 +5214,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367231024</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367231024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367231024</field>
     <field name="page_ssi">119</field>
     <field name="page_id_ssi">idm140015367231792</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5249,7 +5249,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Nytaarsønske til Chr. V 1679</field>
     <field name="id">kingo02val#workid69089</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid69089</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid69089</field>
     <field name="page_ssi">120</field>
     <field name="page_id_ssi">idm140015367224192</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5269,7 +5269,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367217664</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367217664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367217664</field>
     <field name="page_ssi">120</field>
     <field name="page_id_ssi">idm140015367224192</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5306,7 +5306,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367207216</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367207216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367207216</field>
     <field name="page_ssi">121</field>
     <field name="page_id_ssi">idm140015367207984</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5341,7 +5341,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Chr. V's Igienkomst fra Holstein til Fyen 1679</field>
     <field name="id">kingo02val#workid69279</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid69279</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid69279</field>
     <field name="page_ssi">122</field>
     <field name="page_id_ssi">idm140015367200736</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5361,7 +5361,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367194352</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367194352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367194352</field>
     <field name="page_ssi">122</field>
     <field name="page_id_ssi">idm140015367200736</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5398,7 +5398,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367183856</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367183856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367183856</field>
     <field name="page_ssi">123</field>
     <field name="page_id_ssi">idm140015367184624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5437,7 +5437,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Nytaarsønske til Chr. V 1681</field>
     <field name="id">kingo02val#workid69497</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid69497</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid69497</field>
     <field name="page_ssi">124</field>
     <field name="page_id_ssi">idm140015367173952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5457,7 +5457,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367167168</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367167168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367167168</field>
     <field name="page_ssi">124</field>
     <field name="page_id_ssi">idm140015367173952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5494,7 +5494,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367156864</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367156864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367156864</field>
     <field name="page_ssi">125</field>
     <field name="page_id_ssi">idm140015367157680</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5529,7 +5529,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Chr. V's Velkom til Fyn [1681?]</field>
     <field name="id">kingo02val#workid69685</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid69685</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid69685</field>
     <field name="page_ssi">126</field>
     <field name="page_id_ssi">idm140015367150624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5549,7 +5549,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367145968</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367145968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367145968</field>
     <field name="page_ssi">126</field>
     <field name="page_id_ssi">idm140015367150624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5592,7 +5592,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367128464</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367128464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367128464</field>
     <field name="page_ssi">127</field>
     <field name="page_id_ssi">idm140015367129232</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5625,7 +5625,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Nytaarsønske til Chr. V 1682</field>
     <field name="id">kingo02val#workid69928</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid69928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid69928</field>
     <field name="page_ssi">128</field>
     <field name="page_id_ssi">idm140015367120768</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5645,7 +5645,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367114272</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367114272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367114272</field>
     <field name="page_ssi">128</field>
     <field name="page_id_ssi">idm140015367120768</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5682,7 +5682,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367103856</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367103856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367103856</field>
     <field name="page_ssi">129</field>
     <field name="page_id_ssi">idm140015367104624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5713,7 +5713,7 @@ Far vel fra Tydskland
     <field name="work_title_tesim">Festspil ved Chr. V's Fødselsdag 1683</field>
     <field name="id">kingo02val#workid70108</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid70108</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid70108</field>
     <field name="page_ssi">130</field>
     <field name="page_id_ssi">idm140015367098480</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5733,7 +5733,7 @@ Far vel fra Tydskland
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367093776</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367093776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367093776</field>
     <field name="page_ssi">130</field>
     <field name="page_id_ssi">idm140015367098480</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5765,7 +5765,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367090208</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367090208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367090208</field>
     <field name="page_ssi">130</field>
     <field name="page_id_ssi">idm140015367098480</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5797,7 +5797,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367086752</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367086752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367086752</field>
     <field name="page_ssi">130</field>
     <field name="page_id_ssi">idm140015367098480</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5829,7 +5829,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367080368</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367080368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367080368</field>
     <field name="page_ssi">131</field>
     <field name="page_id_ssi">idm140015367081136</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5861,7 +5861,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367076880</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367076880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367076880</field>
     <field name="page_ssi">131</field>
     <field name="page_id_ssi">idm140015367081136</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5893,7 +5893,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367072032</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367072032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367072032</field>
     <field name="page_ssi">131</field>
     <field name="page_id_ssi">idm140015367081136</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5924,7 +5924,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367063856</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367063856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367063856</field>
     <field name="page_ssi">132</field>
     <field name="page_id_ssi">idm140015367064624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5955,7 +5955,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367059616</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367059616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367059616</field>
     <field name="page_ssi">132</field>
     <field name="page_id_ssi">idm140015367064624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -5986,7 +5986,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367053696</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367053696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367053696</field>
     <field name="page_ssi">132</field>
     <field name="page_id_ssi">idm140015367064624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6014,7 +6014,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367049568</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367049568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367049568</field>
     <field name="page_ssi">133</field>
     <field name="page_id_ssi">idm140015367050336</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6042,7 +6042,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367044496</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367044496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367044496</field>
     <field name="page_ssi">133</field>
     <field name="page_id_ssi">idm140015367050336</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6068,7 +6068,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367041216</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367041216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367041216</field>
     <field name="page_ssi">133</field>
     <field name="page_id_ssi">idm140015367050336</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6094,7 +6094,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367038672</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367038672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367038672</field>
     <field name="page_ssi">133</field>
     <field name="page_id_ssi">idm140015367050336</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6120,7 +6120,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367035248</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367035248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367035248</field>
     <field name="page_ssi">134</field>
     <field name="page_id_ssi">idm140015367036064</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6146,7 +6146,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367031872</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367031872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367031872</field>
     <field name="page_ssi">134</field>
     <field name="page_id_ssi">idm140015367036064</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6172,7 +6172,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367026880</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367026880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367026880</field>
     <field name="page_ssi">134</field>
     <field name="page_id_ssi">idm140015367036064</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6198,7 +6198,7 @@ omKong CHRISTIAN Dend Femte etc. etc.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367021792</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367021792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367021792</field>
     <field name="page_ssi">134</field>
     <field name="page_id_ssi">idm140015367036064</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6225,7 +6225,7 @@ Kong Dan kommer nedog ynskerKong Christian dend femtetil lykke.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367016400</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367016400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367016400</field>
     <field name="page_ssi">135</field>
     <field name="page_id_ssi">idm140015367017216</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6252,7 +6252,7 @@ Kong Dan kommer nedog ynskerKong Christian dend femtetil lykke.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367014640</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367014640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367014640</field>
     <field name="page_ssi">135</field>
     <field name="page_id_ssi">idm140015367017216</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6282,7 +6282,7 @@ Kong Dan kommer nedog ynskerKong Christian dend femtetil lykke.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367009792</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367009792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367009792</field>
     <field name="page_ssi">135</field>
     <field name="page_id_ssi">idm140015367017216</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6312,7 +6312,7 @@ Kong Dan kommer nedog ynskerKong Christian dend femtetil lykke.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015367005584</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015367005584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015367005584</field>
     <field name="page_ssi">135</field>
     <field name="page_id_ssi">idm140015367017216</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6344,7 +6344,7 @@ Kong Dan kommer nedog ynskerKong Christian dend femtetil lykke.
     <field name="work_title_tesim">Under Chr. V's Portræt i Danske Lov 1683</field>
     <field name="id">kingo02val#workid70928</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid70928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid70928</field>
     <field name="page_ssi">136</field>
     <field name="page_id_ssi">idm140015366999424</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6364,7 +6364,7 @@ Kong Dan kommer nedog ynskerKong Christian dend femtetil lykke.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366996752</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366996752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366996752</field>
     <field name="page_ssi">136</field>
     <field name="page_id_ssi">idm140015366999424</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6396,7 +6396,7 @@ Under Christian V's Portræt iDanske Lov.
     <field name="work_title_tesim">De Fattige udj Odensee Hospital [1683 dl. 1684?]</field>
     <field name="id">kingo02val#workid70992</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid70992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid70992</field>
     <field name="page_ssi">137</field>
     <field name="page_id_ssi">idm140015366991136</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6416,7 +6416,7 @@ Under Christian V's Portræt iDanske Lov.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366987728</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366987728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366987728</field>
     <field name="page_ssi">137</field>
     <field name="page_id_ssi">idm140015366991136</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6457,7 +6457,7 @@ Under Christian V's Portræt iDanske Lov.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366969312</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366969312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366969312</field>
     <field name="page_ssi">138</field>
     <field name="page_id_ssi">idm140015366970080</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6504,7 +6504,7 @@ Under Christian V's Portræt iDanske Lov.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366945744</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366945744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366945744</field>
     <field name="page_ssi">139</field>
     <field name="page_id_ssi">idm140015366946512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6551,7 +6551,7 @@ Under Christian V's Portræt iDanske Lov.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366924592</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366924592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366924592</field>
     <field name="page_ssi">140</field>
     <field name="page_id_ssi">idm140015366925408</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6582,7 +6582,7 @@ Under Christian V's Portræt iDanske Lov.
     <field name="work_title_tesim">Chr. V's Reise i Norge 1685</field>
     <field name="id">kingo02val#workid71586</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid71586</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid71586</field>
     <field name="page_ssi">141</field>
     <field name="page_id_ssi">idm140015366919184</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6602,7 +6602,7 @@ Under Christian V's Portræt iDanske Lov.
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366915792</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366915792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366915792</field>
     <field name="page_ssi">141</field>
     <field name="page_id_ssi">idm140015366919184</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6641,7 +6641,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Paa Chr. V's Sundhed af den norske Guld-Velkom [1685?]</field>
     <field name="id">kingo02val#workid71844</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid71844</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid71844</field>
     <field name="page_ssi">142</field>
     <field name="page_id_ssi">idm140015366887536</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6661,7 +6661,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366884384</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366884384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366884384</field>
     <field name="page_ssi">142</field>
     <field name="page_id_ssi">idm140015366887536</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6696,7 +6696,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Tanker over Sølv-Bierget ved Kongsberg 1687</field>
     <field name="id">kingo02val#workid71977</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid71977</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid71977</field>
     <field name="page_ssi">145</field>
     <field name="page_id_ssi">idm140015366870768</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6716,7 +6716,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366866576</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366866576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366866576</field>
     <field name="page_ssi">147</field>
     <field name="page_id_ssi">idm140015366867904</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6767,7 +6767,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366849552</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366849552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366849552</field>
     <field name="page_ssi">148</field>
     <field name="page_id_ssi">idm140015366850320</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6798,7 +6798,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366843648</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366843648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366843648</field>
     <field name="page_ssi">148</field>
     <field name="page_id_ssi">idm140015366850320</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6835,7 +6835,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Lyck-Ønske og Bøn til Printz Friderich Nytaar 1686</field>
     <field name="id">kingo02val#workid72271</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid72271</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid72271</field>
     <field name="page_ssi">149</field>
     <field name="page_id_ssi">idm140015366834880</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6855,7 +6855,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366825808</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366825808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366825808</field>
     <field name="page_ssi">149</field>
     <field name="page_id_ssi">idm140015366834880</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6886,7 +6886,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366809872</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366809872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366809872</field>
     <field name="page_ssi">150</field>
     <field name="page_id_ssi">idm140015366810640</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6935,7 +6935,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366787552</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366787552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366787552</field>
     <field name="page_ssi">151</field>
     <field name="page_id_ssi">idm140015366788320</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -6982,7 +6982,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366760864</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366760864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366760864</field>
     <field name="page_ssi">152</field>
     <field name="page_id_ssi">idm140015366761632</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7021,7 +7021,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Til Skibet Prinds Frederich 1686</field>
     <field name="id">kingo02val#workid72984</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid72984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid72984</field>
     <field name="page_ssi">153</field>
     <field name="page_id_ssi">idm140015366748624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7041,7 +7041,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366743888</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366743888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366743888</field>
     <field name="page_ssi">153</field>
     <field name="page_id_ssi">idm140015366748624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7082,7 +7082,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366726544</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366726544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366726544</field>
     <field name="page_ssi">154</field>
     <field name="page_id_ssi">idm140015366727312</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7109,7 +7109,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Under Chr. V's Portræt i Norske Lov 1687</field>
     <field name="id">kingo02val#workid73197</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid73197</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid73197</field>
     <field name="page_ssi">155</field>
     <field name="page_id_ssi">idm140015366722256</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7129,7 +7129,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366719536</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366719536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366719536</field>
     <field name="page_ssi">155</field>
     <field name="page_id_ssi">idm140015366722256</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7161,7 +7161,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Til Chr. V's Sundhed, Effter et Anstød aff en Feber 1687 </field>
     <field name="id">kingo02val#workid73266</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid73266</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid73266</field>
     <field name="page_ssi">156</field>
     <field name="page_id_ssi">idm140015366713376</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7181,7 +7181,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366708400</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366708400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366708400</field>
     <field name="page_ssi">156</field>
     <field name="page_id_ssi">idm140015366713376</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7218,7 +7218,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366698304</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366698304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366698304</field>
     <field name="page_ssi">157</field>
     <field name="page_id_ssi">idm140015366699072</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7245,7 +7245,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Nytaarsønske til Chr. V 1690</field>
     <field name="id">kingo02val#workid73418</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid73418</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid73418</field>
     <field name="page_ssi">158</field>
     <field name="page_id_ssi">idm140015366694576</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7265,7 +7265,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366688304</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366688304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366688304</field>
     <field name="page_ssi">158</field>
     <field name="page_id_ssi">idm140015366694576</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7300,7 +7300,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Til Chr. V's 20 Aars Regeringsjubilæum 1690</field>
     <field name="id">kingo02val#workid73529</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid73529</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid73529</field>
     <field name="page_ssi">159</field>
     <field name="page_id_ssi">idm140015366680560</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7320,7 +7320,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366673216</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366673216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366673216</field>
     <field name="page_ssi">159</field>
     <field name="page_id_ssi">idm140015366680560</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7355,7 +7355,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366663904</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366663904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366663904</field>
     <field name="page_ssi">160</field>
     <field name="page_id_ssi">idm140015366664720</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7388,7 +7388,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">To Arier ved Kongens og Arveprindsens Besøg i Odense 1690</field>
     <field name="id">kingo02val#workid73707</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid73707</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid73707</field>
     <field name="page_ssi">161</field>
     <field name="page_id_ssi">idm140015366658576</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7408,7 +7408,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366653792</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366653792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366653792</field>
     <field name="page_ssi">161</field>
     <field name="page_id_ssi">idm140015366658576</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7445,7 +7445,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366645744</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366645744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366645744</field>
     <field name="page_ssi">161</field>
     <field name="page_id_ssi">idm140015366658576</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7472,7 +7472,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366640784</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366640784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366640784</field>
     <field name="page_ssi">162</field>
     <field name="page_id_ssi">idm140015366641600</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7505,7 +7505,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366636144</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366636144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366636144</field>
     <field name="page_ssi">162</field>
     <field name="page_id_ssi">idm140015366641600</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7542,7 +7542,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366624928</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366624928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366624928</field>
     <field name="page_ssi">163</field>
     <field name="page_id_ssi">idm140015366627152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7571,7 +7571,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366621584</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366621584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366621584</field>
     <field name="page_ssi">163</field>
     <field name="page_id_ssi">idm140015366627152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7600,7 +7600,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366617536</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366617536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366617536</field>
     <field name="page_ssi">163</field>
     <field name="page_id_ssi">idm140015366627152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7629,7 +7629,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366614112</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366614112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366614112</field>
     <field name="page_ssi">163</field>
     <field name="page_id_ssi">idm140015366627152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7658,7 +7658,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366609984</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366609984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366609984</field>
     <field name="page_ssi">164</field>
     <field name="page_id_ssi">idm140015366612192</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7689,7 +7689,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Chr. V's Ankomst til Odense fra det Ratzebufgiske Tog 1693</field>
     <field name="id">kingo02val#workid74176</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid74176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid74176</field>
     <field name="page_ssi">166</field>
     <field name="page_id_ssi">idm140015366601472</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7709,7 +7709,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366594272</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366594272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366594272</field>
     <field name="page_ssi">166</field>
     <field name="page_id_ssi">idm140015366601472</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7742,7 +7742,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366585856</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366585856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366585856</field>
     <field name="page_ssi">167</field>
     <field name="page_id_ssi">idm140015366586672</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7773,7 +7773,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Dend Seylende Venus 1695</field>
     <field name="id">kingo02val#workid74364</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid74364</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid74364</field>
     <field name="page_ssi">169</field>
     <field name="page_id_ssi">idm140015366578272</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7793,7 +7793,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366574272</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366574272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366574272</field>
     <field name="page_ssi">171</field>
     <field name="page_id_ssi">idm140015366575296</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7844,7 +7844,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366557552</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366557552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366557552</field>
     <field name="page_ssi">172</field>
     <field name="page_id_ssi">idm140015366558368</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -7923,7 +7923,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366522992</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366522992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366522992</field>
     <field name="page_ssi">174</field>
     <field name="page_id_ssi">idm140015366523760</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8030,7 +8030,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Nytaarsønske til Chr. V 1696</field>
     <field name="id">kingo02val#workid75221</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid75221</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid75221</field>
     <field name="page_ssi">177</field>
     <field name="page_id_ssi">idm140015366474624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8050,7 +8050,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366467888</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366467888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366467888</field>
     <field name="page_ssi">177</field>
     <field name="page_id_ssi">idm140015366474624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8085,7 +8085,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366458464</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366458464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366458464</field>
     <field name="page_ssi">178</field>
     <field name="page_id_ssi">idm140015366459232</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8122,7 +8122,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Lykønske til Chr. V's Fødsels Dag 1697</field>
     <field name="id">kingo02val#workid75423</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid75423</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid75423</field>
     <field name="page_ssi">179</field>
     <field name="page_id_ssi">idm140015366449648</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8142,7 +8142,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366444064</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366444064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366444064</field>
     <field name="page_ssi">179</field>
     <field name="page_id_ssi">idm140015366449648</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8181,7 +8181,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366432672</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366432672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366432672</field>
     <field name="page_ssi">180</field>
     <field name="page_id_ssi">idm140015366433440</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8210,7 +8210,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Paa Chr.V's Fødselsdag [udateret Fragment]</field>
     <field name="id">kingo02val#workid75588</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid75588</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid75588</field>
     <field name="page_ssi">181</field>
     <field name="page_id_ssi">idm140015366429120</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8230,7 +8230,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366424016</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366424016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366424016</field>
     <field name="page_ssi">181</field>
     <field name="page_id_ssi">idm140015366429120</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8257,7 +8257,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Ved Fr. IV's Tronbestigelse 1699</field>
     <field name="id">kingo02val#workid75683</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid75683</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid75683</field>
     <field name="page_ssi">182</field>
     <field name="page_id_ssi">idm140015366416976</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8277,7 +8277,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366410624</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366410624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366410624</field>
     <field name="page_ssi">182</field>
     <field name="page_id_ssi">idm140015366416976</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8310,7 +8310,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366404496</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366404496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366404496</field>
     <field name="page_ssi">182</field>
     <field name="page_id_ssi">idm140015366416976</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8333,7 +8333,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366400832</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366400832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366400832</field>
     <field name="page_ssi">183</field>
     <field name="page_id_ssi">idm140015366401600</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8372,7 +8372,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366392016</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366392016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366392016</field>
     <field name="page_ssi">183</field>
     <field name="page_id_ssi">idm140015366401600</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8399,7 +8399,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Over Holmer-Skandse 1700</field>
     <field name="id">kingo02val#workid75913</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid75913</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid75913</field>
     <field name="page_ssi">185</field>
     <field name="page_id_ssi">idm140015366388640</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8419,7 +8419,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366382928</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366382928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366382928</field>
     <field name="page_ssi">185</field>
     <field name="page_id_ssi">idm140015366388640</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8446,7 +8446,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Lykønske til Fr. IV paa hans Fødsels Dag 1702</field>
     <field name="id">kingo02val#workid76006</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid76006</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid76006</field>
     <field name="page_ssi">186</field>
     <field name="page_id_ssi">idm140015366376832</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8466,7 +8466,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366370336</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366370336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366370336</field>
     <field name="page_ssi">186</field>
     <field name="page_id_ssi">idm140015366376832</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8505,7 +8505,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Nytaarsønske til Fr. IV 1703</field>
     <field name="id">kingo02val#workid76155</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid76155</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid76155</field>
     <field name="page_ssi">187</field>
     <field name="page_id_ssi">idm140015366358320</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8525,7 +8525,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366352720</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366352720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366352720</field>
     <field name="page_ssi">187</field>
     <field name="page_id_ssi">idm140015366358320</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8564,7 +8564,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Trøste-Skrift over Karen Nansens Død [1672]</field>
     <field name="id">kingo02val#workid76315</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid76315</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid76315</field>
     <field name="page_ssi">191</field>
     <field name="page_id_ssi">idm140015366338496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8584,7 +8584,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366326048</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366326048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366326048</field>
     <field name="page_ssi">191</field>
     <field name="page_id_ssi">idm140015366338496</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8613,7 +8613,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366317072</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366317072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366317072</field>
     <field name="page_ssi">192</field>
     <field name="page_id_ssi">idm140015366317840</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8662,7 +8662,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366300688</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366300688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366300688</field>
     <field name="page_ssi">193</field>
     <field name="page_id_ssi">idm140015366301456</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8711,7 +8711,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366283712</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366283712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366283712</field>
     <field name="page_ssi">194</field>
     <field name="page_id_ssi">idm140015366285152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8749,7 +8749,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366273968</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366273968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366273968</field>
     <field name="page_ssi">195</field>
     <field name="page_id_ssi">idm140015366275408</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8777,7 +8777,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Lykønskning [1673?]</field>
     <field name="id">kingo02val#workid76889</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid76889</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid76889</field>
     <field name="page_ssi">196</field>
     <field name="page_id_ssi">idm140015366269024</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8797,7 +8797,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366261072</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366261072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366261072</field>
     <field name="page_ssi">196</field>
     <field name="page_id_ssi">idm140015366269024</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8828,7 +8828,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Lyk-Ynske, der Griffenfeld blev Rigets Cantzeler [1674?]</field>
     <field name="id">kingo02val#workid77026</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid77026</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid77026</field>
     <field name="page_ssi">197</field>
     <field name="page_id_ssi">idm140015366251808</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8848,7 +8848,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366247520</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366247520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366247520</field>
     <field name="page_ssi">197</field>
     <field name="page_id_ssi">idm140015366251808</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8891,7 +8891,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366234160</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366234160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366234160</field>
     <field name="page_ssi">198</field>
     <field name="page_id_ssi">idm140015366234928</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8932,7 +8932,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Samsøes Beskrivelse 1675</field>
     <field name="id">kingo02val#workid77256</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid77256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid77256</field>
     <field name="page_ssi">199</field>
     <field name="page_id_ssi">idm140015366223632</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -8952,7 +8952,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366219696</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366219696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366219696</field>
     <field name="page_ssi">201</field>
     <field name="page_id_ssi">idm140015366220720</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9001,7 +9001,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366202352</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366202352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366202352</field>
     <field name="page_ssi">202</field>
     <field name="page_id_ssi">idm140015366203120</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9080,7 +9080,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366167888</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366167888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366167888</field>
     <field name="page_ssi">204</field>
     <field name="page_id_ssi">idm140015366168704</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9129,7 +9129,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366145312</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366145312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366145312</field>
     <field name="page_ssi">205</field>
     <field name="page_id_ssi">idm140015366146080</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9180,7 +9180,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366126032</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366126032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366126032</field>
     <field name="page_ssi">206</field>
     <field name="page_id_ssi">idm140015366126848</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9229,7 +9229,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366108800</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366108800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366108800</field>
     <field name="page_ssi">207</field>
     <field name="page_id_ssi">idm140015366109568</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9280,7 +9280,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366091648</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366091648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366091648</field>
     <field name="page_ssi">208</field>
     <field name="page_id_ssi">idm140015366092416</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9329,7 +9329,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366071648</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366071648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366071648</field>
     <field name="page_ssi">209</field>
     <field name="page_id_ssi">idm140015366072384</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9380,7 +9380,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366053024</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366053024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366053024</field>
     <field name="page_ssi">210</field>
     <field name="page_id_ssi">idm140015366053792</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9429,7 +9429,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366034672</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366034672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366034672</field>
     <field name="page_ssi">211</field>
     <field name="page_id_ssi">idm140015366035440</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9458,7 +9458,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366030560</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366030560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366030560</field>
     <field name="page_ssi">211</field>
     <field name="page_id_ssi">idm140015366035440</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9499,7 +9499,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366018784</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366018784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366018784</field>
     <field name="page_ssi">212</field>
     <field name="page_id_ssi">idm140015366019552</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9550,7 +9550,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015366001600</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015366001600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015366001600</field>
     <field name="page_ssi">213</field>
     <field name="page_id_ssi">idm140015366002416</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9587,7 +9587,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Binde Brev [1675?]</field>
     <field name="id">kingo02val#workid79186</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid79186</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid79186</field>
     <field name="page_ssi">214</field>
     <field name="page_id_ssi">idm140015365991232</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9607,7 +9607,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365988480</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365988480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365988480</field>
     <field name="page_ssi">214</field>
     <field name="page_id_ssi">idm140015365991232</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9649,7 +9649,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365972512</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365972512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365972512</field>
     <field name="page_ssi">215</field>
     <field name="page_id_ssi">idm140015365973280</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9679,7 +9679,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365968304</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365968304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365968304</field>
     <field name="page_ssi">215</field>
     <field name="page_id_ssi">idm140015365973280</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9711,7 +9711,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Velkoms Tanker over Griflfenfeld's Hiemkomst af Leding 1676</field>
     <field name="id">kingo02val#workid79443</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid79443</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid79443</field>
     <field name="page_ssi">216</field>
     <field name="page_id_ssi">idm140015365959776</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9731,7 +9731,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365952944</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365952944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365952944</field>
     <field name="page_ssi">216</field>
     <field name="page_id_ssi">idm140015365959776</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9770,7 +9770,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365941488</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365941488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365941488</field>
     <field name="page_ssi">217</field>
     <field name="page_id_ssi">idm140015365942256</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9803,7 +9803,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Indskrift i Kapellet paa Valdemars Slot 1687</field>
     <field name="id">kingo02val#workid79661</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid79661</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid79661</field>
     <field name="page_ssi">221</field>
     <field name="page_id_ssi">idm140015365932832</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9823,7 +9823,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365930192</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365930192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365930192</field>
     <field name="page_ssi">221</field>
     <field name="page_id_ssi">idm140015365932832</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9855,7 +9855,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Til Niels Juels Contrafey [1696?]</field>
     <field name="id">kingo02val#workid79727</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid79727</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid79727</field>
     <field name="page_ssi">222</field>
     <field name="page_id_ssi">idm140015365924192</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9875,7 +9875,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365916848</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365916848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365916848</field>
     <field name="page_ssi">222</field>
     <field name="page_id_ssi">idm140015365924192</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9912,7 +9912,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365905968</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365905968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365905968</field>
     <field name="page_ssi">223</field>
     <field name="page_id_ssi">idm140015365906736</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9939,7 +9939,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Under Niels Juels Portræt [1697?]</field>
     <field name="id">kingo02val#workid79903</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid79903</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid79903</field>
     <field name="page_ssi">224</field>
     <field name="page_id_ssi">idm140015365902608</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9959,7 +9959,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365900240</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365900240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365900240</field>
     <field name="page_ssi">224</field>
     <field name="page_id_ssi">idm140015365902608</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -9991,7 +9991,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Latinsk Sørgedigt [1697?]</field>
     <field name="id">kingo02val#workid79968</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid79968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid79968</field>
     <field name="page_ssi">225</field>
     <field name="page_id_ssi">idm140015365894064</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10011,7 +10011,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365890080</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365890080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365890080</field>
     <field name="page_ssi">227</field>
     <field name="page_id_ssi">idm140015365891152</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10058,7 +10058,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365875280</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365875280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365875280</field>
     <field name="page_ssi">228</field>
     <field name="page_id_ssi">idm140015365876096</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10089,7 +10089,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Samtale med Rygtet</field>
     <field name="id">kingo02val#workid80163</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid80163</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid80163</field>
     <field name="page_ssi">229</field>
     <field name="page_id_ssi">idm140015365869984</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10109,7 +10109,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365865056</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365865056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365865056</field>
     <field name="page_ssi">229</field>
     <field name="page_id_ssi">idm140015365869984</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10150,7 +10150,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365852816</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365852816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365852816</field>
     <field name="page_ssi">230</field>
     <field name="page_id_ssi">idm140015365853632</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10197,7 +10197,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365831728</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365831728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365831728</field>
     <field name="page_ssi">231</field>
     <field name="page_id_ssi">idm140015365832544</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10248,7 +10248,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365815136</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365815136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365815136</field>
     <field name="page_ssi">232</field>
     <field name="page_id_ssi">idm140015365815904</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10289,7 +10289,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365786320</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365786320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365786320</field>
     <field name="page_ssi">233</field>
     <field name="page_id_ssi">idm140015365787088</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10354,7 +10354,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365763360</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365763360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365763360</field>
     <field name="page_ssi">234</field>
     <field name="page_id_ssi">idm140015365771200</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10419,7 +10419,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365736832</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365736832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365736832</field>
     <field name="page_ssi">236</field>
     <field name="page_id_ssi">idm140015365737600</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10468,7 +10468,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365717856</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365717856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365717856</field>
     <field name="page_ssi">237</field>
     <field name="page_id_ssi">idm140015365718624</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10553,7 +10553,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365685552</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365685552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365685552</field>
     <field name="page_ssi">239</field>
     <field name="page_id_ssi">idm140015365688400</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10592,7 +10592,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Trøste-Brev til Fru Margarete Ulfeld 1697</field>
     <field name="id">kingo02val#workid81764</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid81764</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid81764</field>
     <field name="page_ssi">240</field>
     <field name="page_id_ssi">idm140015365677344</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10612,7 +10612,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365670960</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365670960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365670960</field>
     <field name="page_ssi">240</field>
     <field name="page_id_ssi">idm140015365677344</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10653,7 +10653,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365658896</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365658896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365658896</field>
     <field name="page_ssi">241</field>
     <field name="page_id_ssi">idm140015365659664</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10704,7 +10704,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365641744</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365641744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365641744</field>
     <field name="page_ssi">242</field>
     <field name="page_id_ssi">idm140015365642512</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10749,7 +10749,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Paa-Skriffter udi Niels Juels Epitaphio i Holmens kirke</field>
     <field name="id">kingo02val#workid82148</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid82148</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid82148</field>
     <field name="page_ssi">243</field>
     <field name="page_id_ssi">idm140015365630704</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10769,7 +10769,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365624144</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365624144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365624144</field>
     <field name="page_ssi">243</field>
     <field name="page_id_ssi">idm140015365630704</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10801,7 +10801,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365610800</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365610800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365610800</field>
     <field name="page_ssi">244</field>
     <field name="page_id_ssi">idm140015365613616</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10836,7 +10836,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365600608</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365600608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365600608</field>
     <field name="page_ssi">244</field>
     <field name="page_id_ssi">idm140015365613616</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10865,7 +10865,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365587744</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365587744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365587744</field>
     <field name="page_ssi">245</field>
     <field name="page_id_ssi">idm140015365588560</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10894,7 +10894,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365582512</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365582512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365582512</field>
     <field name="page_ssi">245</field>
     <field name="page_id_ssi">idm140015365588560</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10929,7 +10929,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365569392</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365569392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365569392</field>
     <field name="page_ssi">246</field>
     <field name="page_id_ssi">idm140015365572160</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10964,7 +10964,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365557408</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365557408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365557408</field>
     <field name="page_ssi">246</field>
     <field name="page_id_ssi">idm140015365572160</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -10993,7 +10993,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365546112</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365546112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365546112</field>
     <field name="page_ssi">247</field>
     <field name="page_id_ssi">idm140015365546880</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -11020,7 +11020,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365540096</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365540096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365540096</field>
     <field name="page_ssi">247</field>
     <field name="page_id_ssi">idm140015365546880</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -11055,7 +11055,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365524400</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365524400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365524400</field>
     <field name="page_ssi">248</field>
     <field name="page_id_ssi">idm140015365527248</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -11090,7 +11090,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365514816</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365514816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365514816</field>
     <field name="page_ssi">248</field>
     <field name="page_id_ssi">idm140015365527248</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -11119,7 +11119,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365506928</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365506928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365506928</field>
     <field name="page_ssi">249</field>
     <field name="page_id_ssi">idm140015365507696</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -11150,7 +11150,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="work_title_tesim">Taksigelsis Sonnet [1697?]</field>
     <field name="id">kingo02val#workid83231</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#workid83231</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#workid83231</field>
     <field name="page_ssi">250</field>
     <field name="page_id_ssi">idm140015365499952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>
@@ -11170,7 +11170,7 @@ A° 1685 in Julio, da Christianus 5t:
     <field name="type_ssi">leaf</field>
     <field name="id">kingo02val#idm140015365495408</field>
     <field name="volume_id_ssi">kingo02val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo02val#idm140015365495408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo02val#idm140015365495408</field>
     <field name="page_ssi">250</field>
     <field name="page_id_ssi">idm140015365499952</field>
     <field name="volume_title_tesim">Samlede skrifter 2</field>

@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Hvide Blomster. Digte</field>
     <field name="id">rode_01</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#</field>
     <field name="page_ssi">I</field>
     <field name="page_id_ssi">sI</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Hvide Blomster</field>
     <field name="id">rode_01#workid54087</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid54087</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid54087</field>
     <field name="page_ssi">I</field>
     <field name="page_id_ssi">sI</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -45,7 +45,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235689600</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235689600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235689600</field>
     <field name="page_ssi">I</field>
     <field name="page_id_ssi">sI</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -69,7 +69,7 @@
     <field name="work_title_tesim">Jeg stirrer ud</field>
     <field name="id">rode_01#workid54546</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid54546</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid54546</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -91,7 +91,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235647856</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235647856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235647856</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -119,7 +119,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235797792</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235797792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235797792</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -147,7 +147,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235620960</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235620960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235620960</field>
     <field name="page_ssi">2</field>
     <field name="page_id_ssi">s2</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -177,7 +177,7 @@
     <field name="work_title_tesim">Bøjet er dit Hoved</field>
     <field name="id">rode_01#workid54807</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid54807</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid54807</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">s3</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -199,7 +199,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235611744</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235611744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235611744</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">s3</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -234,7 +234,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235605152</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235605152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235605152</field>
     <field name="page_ssi">4</field>
     <field name="page_id_ssi">s4</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -267,7 +267,7 @@
     <field name="work_title_tesim">Liljekonval</field>
     <field name="id">rode_01#workid54913</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid54913</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid54913</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">s5</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -289,7 +289,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235598864</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235598864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235598864</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">s5</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -318,7 +318,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235596016</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235596016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235596016</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">s5</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235592864</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235592864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235592864</field>
     <field name="page_ssi">6</field>
     <field name="page_id_ssi">s6</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -372,7 +372,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235590864</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235590864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235590864</field>
     <field name="page_ssi">6</field>
     <field name="page_id_ssi">s6</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -401,7 +401,7 @@
     <field name="work_title_tesim">Skyggekunstnerens Melodi</field>
     <field name="id">rode_01#workid55015</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid55015</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid55015</field>
     <field name="page_ssi">7</field>
     <field name="page_id_ssi">s7</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -423,7 +423,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235586432</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235586432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235586432</field>
     <field name="page_ssi">7</field>
     <field name="page_id_ssi">s7</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -453,7 +453,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235582976</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235582976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235582976</field>
     <field name="page_ssi">7</field>
     <field name="page_id_ssi">s7</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -481,7 +481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235579120</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235579120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235579120</field>
     <field name="page_ssi">8</field>
     <field name="page_id_ssi">s8</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -512,7 +512,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235575136</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235575136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235575136</field>
     <field name="page_ssi">8</field>
     <field name="page_id_ssi">s8</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -539,7 +539,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235572960</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235572960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235572960</field>
     <field name="page_ssi">8</field>
     <field name="page_id_ssi">s8</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -566,7 +566,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235569632</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235569632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235569632</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -593,7 +593,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235567408</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235567408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235567408</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -619,7 +619,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235565728</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235565728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235565728</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -645,7 +645,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235563968</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235563968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235563968</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -672,7 +672,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235560720</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235560720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235560720</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -699,7 +699,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235558656</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235558656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235558656</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -726,7 +726,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235556448</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235556448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235556448</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -754,7 +754,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235553888</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235553888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235553888</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -780,7 +780,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235551088</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235551088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235551088</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -808,7 +808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235548576</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235548576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235548576</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235544560</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235544560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235544560</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -866,7 +866,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235541216</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235541216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235541216</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -895,7 +895,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235538096</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235538096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235538096</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -924,7 +924,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235534992</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235534992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235534992</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235530832</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235530832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235530832</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -984,7 +984,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235526944</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235526944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235526944</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1013,7 +1013,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235523728</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235523728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235523728</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1040,7 +1040,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235520368</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235520368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235520368</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235518160</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235518160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235518160</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1098,7 +1098,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235514192</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235514192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235514192</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1127,7 +1127,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235510032</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235510032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235510032</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1152,7 +1152,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235508768</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235508768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235508768</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1183,7 +1183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235504544</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235504544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235504544</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1214,7 +1214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235499312</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235499312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235499312</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1239,7 +1239,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235497904</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235497904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235497904</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1272,7 +1272,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235492736</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235492736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235492736</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1299,7 +1299,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235489296</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235489296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235489296</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1326,7 +1326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235487104</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235487104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235487104</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1356,7 +1356,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235483344</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235483344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235483344</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1383,7 +1383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235479952</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235479952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235479952</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1415,7 +1415,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235475312</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235475312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235475312</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1443,7 +1443,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235472672</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235472672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235472672</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1469,7 +1469,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235469888</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235469888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235469888</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1499,7 +1499,7 @@
     <field name="work_title_tesim">Stjerne og Morild</field>
     <field name="id">rode_01#workid56059</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid56059</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid56059</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1521,7 +1521,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235460560</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235460560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235460560</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1550,7 +1550,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235457504</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235457504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235457504</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1577,7 +1577,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235454240</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235454240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235454240</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1604,7 +1604,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235452048</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235452048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235452048</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1633,7 +1633,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235449072</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235449072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235449072</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1662,7 +1662,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235444944</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235444944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235444944</field>
     <field name="page_ssi">25</field>
     <field name="page_id_ssi">s25</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1699,7 +1699,7 @@
     <field name="work_title_tesim">Paa Klippeøen</field>
     <field name="id">rode_01#workid56252</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid56252</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid56252</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">s26</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1721,7 +1721,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235436656</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235436656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235436656</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">s26</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1753,7 +1753,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235432336</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235432336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235432336</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">s26</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1778,7 +1778,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235429952</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235429952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235429952</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1806,7 +1806,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235427424</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235427424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235427424</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1836,7 +1836,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235424048</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235424048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235424048</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1863,7 +1863,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235420768</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235420768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235420768</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1890,7 +1890,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235418640</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235418640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235418640</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1920,7 +1920,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235415152</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235415152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235415152</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1948,7 +1948,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235411584</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235411584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235411584</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -1974,7 +1974,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235409824</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235409824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235409824</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2002,7 +2002,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235407232</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235407232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235407232</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2028,7 +2028,7 @@
     <field name="work_title_tesim">Tro ikke, jeg hører til dem</field>
     <field name="id">rode_01#workid56519</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid56519</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid56519</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">s30</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2050,7 +2050,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235403728</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235403728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235403728</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">s30</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2087,7 +2087,7 @@
     <field name="work_title_tesim">Ja, var jeg Maler</field>
     <field name="id">rode_01#workid56583</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid56583</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid56583</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2109,7 +2109,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235395408</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235395408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235395408</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2142,7 +2142,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235390608</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235390608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235390608</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2170,7 +2170,7 @@
     <field name="work_title_tesim">Dagen spandt ud —</field>
     <field name="id">rode_01#workid56653</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid56653</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid56653</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">s32</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2192,7 +2192,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235386208</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235386208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235386208</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">s32</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2218,7 +2218,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235384544</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235384544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235384544</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">s32</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2246,7 +2246,7 @@
     <field name="work_title_tesim">Dialog</field>
     <field name="id">rode_01#workid56698</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid56698</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid56698</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2268,7 +2268,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235380128</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235380128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235380128</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2292,7 +2292,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235379136</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235379136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235379136</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235376064</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235376064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235376064</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2345,7 +2345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235375024</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235375024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235375024</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2370,7 +2370,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235372592</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235372592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235372592</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2398,7 +2398,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235369920</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235369920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235369920</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2432,7 +2432,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235363456</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235363456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235363456</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2461,7 +2461,7 @@
     <field name="work_title_tesim">Der er noget smukt —</field>
     <field name="id">rode_01#workid56871</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid56871</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid56871</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2483,7 +2483,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235358672</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235358672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235358672</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2508,7 +2508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235357376</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235357376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235357376</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2533,7 +2533,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235356032</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235356032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235356032</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2558,7 +2558,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235354704</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235354704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235354704</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2585,7 +2585,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235351376</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235351376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235351376</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2612,7 +2612,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235349216</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235349216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235349216</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2639,7 +2639,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235347056</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235347056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235347056</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2666,7 +2666,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235344912</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235344912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235344912</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2695,7 +2695,7 @@
     <field name="work_title_tesim">Forundrede Øjne</field>
     <field name="id">rode_01#workid57021</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57021</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57021</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2717,7 +2717,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235340064</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235340064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235340064</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2742,7 +2742,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235338720</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235338720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235338720</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2767,7 +2767,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235337472</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235337472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235337472</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2792,7 +2792,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235336128</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235336128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235336128</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2817,7 +2817,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235333680</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235333680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235333680</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2842,7 +2842,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235332384</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235332384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235332384</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2869,7 +2869,7 @@
     <field name="work_title_tesim">I Ensomheden</field>
     <field name="id">rode_01#workid57111</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57111</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57111</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2891,7 +2891,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235328448</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235328448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235328448</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2927,7 +2927,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235321328</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235321328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235321328</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2957,7 +2957,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235317296</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235317296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235317296</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -2989,7 +2989,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235311856</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235311856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235311856</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3014,7 +3014,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235310560</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235310560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235310560</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3043,7 +3043,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235307600</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235307600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235307600</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3070,7 +3070,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235305424</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235305424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235305424</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3098,7 +3098,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235301664</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235301664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235301664</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3123,7 +3123,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235300400</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235300400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235300400</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3154,7 +3154,7 @@
     <field name="work_title_tesim">Stambogsvers</field>
     <field name="id">rode_01#workid57388</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57388</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57388</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3176,7 +3176,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235294496</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235294496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235294496</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3207,7 +3207,7 @@
     <field name="work_title_tesim">Vinden</field>
     <field name="id">rode_01#workid57431</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57431</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57431</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3229,7 +3229,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235288848</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235288848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235288848</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3255,7 +3255,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235287040</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235287040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235287040</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3281,7 +3281,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235285280</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235285280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235285280</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3307,7 +3307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235282368</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235282368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235282368</field>
     <field name="page_ssi">46</field>
     <field name="page_id_ssi">s46</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3333,7 +3333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235280576</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235280576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235280576</field>
     <field name="page_ssi">46</field>
     <field name="page_id_ssi">s46</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3361,7 +3361,7 @@
     <field name="work_title_tesim">Drøm</field>
     <field name="id">rode_01#workid57530</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57530</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57530</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3383,7 +3383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235276272</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235276272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235276272</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3413,7 +3413,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235272848</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235272848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235272848</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3440,7 +3440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235269664</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235269664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235269664</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3467,7 +3467,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235267520</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235267520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235267520</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3502,7 +3502,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235261888</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235261888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235261888</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3527,7 +3527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235259504</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235259504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235259504</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">s49</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3552,7 +3552,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235258224</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235258224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235258224</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">s49</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3580,7 +3580,7 @@
     <field name="work_title_tesim">Leden</field>
     <field name="id">rode_01#workid57711</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57711</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57711</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3602,7 +3602,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235253952</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235253952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235253952</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3627,7 +3627,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235252608</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235252608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235252608</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3652,7 +3652,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235251328</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235251328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235251328</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3677,7 +3677,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235248880</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235248880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235248880</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3702,7 +3702,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235247584</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235247584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235247584</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3729,7 +3729,7 @@
     <field name="work_title_tesim">En Fabel</field>
     <field name="id">rode_01#workid57791</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57791</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57791</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3751,7 +3751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235243648</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235243648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235243648</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3780,7 +3780,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235240560</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235240560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235240560</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3809,7 +3809,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235236256</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235236256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235236256</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">s53</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3838,7 +3838,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235233248</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235233248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235233248</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">s53</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3867,7 +3867,7 @@
     <field name="work_title_tesim">En Ramme</field>
     <field name="id">rode_01#workid57911</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid57911</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid57911</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3889,7 +3889,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235228480</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235228480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235228480</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3916,7 +3916,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235226336</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235226336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235226336</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3943,7 +3943,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235223120</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235223120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235223120</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3970,7 +3970,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235220928</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235220928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235220928</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -3997,7 +3997,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235218704</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235218704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235218704</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4024,7 +4024,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235216496</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235216496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235216496</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4051,7 +4051,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235213200</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235213200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235213200</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4078,7 +4078,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235211024</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235211024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235211024</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4105,7 +4105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235208816</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235208816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235208816</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4132,7 +4132,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235206592</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235206592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235206592</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4159,7 +4159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235203280</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235203280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235203280</field>
     <field name="page_ssi">57</field>
     <field name="page_id_ssi">s57</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4188,7 +4188,7 @@
     <field name="work_title_tesim">Til dem af Eder —</field>
     <field name="id">rode_01#workid58157</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid58157</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid58157</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">s58</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4210,7 +4210,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235198400</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235198400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235198400</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">s58</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4235,7 +4235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235197152</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235197152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235197152</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">s58</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4260,7 +4260,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235195808</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235195808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235195808</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">s58</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4285,7 +4285,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235194464</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235194464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235194464</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">s58</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4310,7 +4310,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235192032</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235192032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235192032</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4339,7 +4339,7 @@
     <field name="work_title_tesim">Jeg fryser</field>
     <field name="id">rode_01#workid58244</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid58244</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid58244</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4361,7 +4361,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235187120</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235187120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235187120</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4396,7 +4396,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235180240</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235180240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235180240</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">s61</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4432,7 +4432,7 @@
     <field name="work_title_tesim">Elskov</field>
     <field name="id">rode_01#workid58360</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid58360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid58360</field>
     <field name="page_ssi">62</field>
     <field name="page_id_ssi">s62</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4454,7 +4454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235172448</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235172448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235172448</field>
     <field name="page_ssi">62</field>
     <field name="page_id_ssi">s62</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4489,7 +4489,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235165680</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235165680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235165680</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4518,7 +4518,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235162624</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235162624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235162624</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4547,7 +4547,7 @@
     <field name="work_title_tesim">Paa Havet ved Nat</field>
     <field name="id">rode_01#workid58476</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid58476</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid58476</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4569,7 +4569,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235157664</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235157664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235157664</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4601,7 +4601,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235152240</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235152240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235152240</field>
     <field name="page_ssi">65</field>
     <field name="page_id_ssi">s65</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4640,7 +4640,7 @@
     <field name="work_title_tesim">Jeg bygger et Alter</field>
     <field name="id">rode_01#workid58592</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid58592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid58592</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4662,7 +4662,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235143136</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235143136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235143136</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4689,7 +4689,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235140960</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235140960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235140960</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4716,7 +4716,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235137744</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235137744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235137744</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">s67</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4743,7 +4743,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235135584</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235135584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235135584</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">s67</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4772,7 +4772,7 @@
     <field name="work_title_tesim">Den fremmede</field>
     <field name="id">rode_01#workid58688</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid58688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid58688</field>
     <field name="page_ssi">68</field>
     <field name="page_id_ssi">s68</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4794,7 +4794,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235130832</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235130832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235130832</field>
     <field name="page_ssi">68</field>
     <field name="page_id_ssi">s68</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4821,7 +4821,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235128752</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235128752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235128752</field>
     <field name="page_ssi">68</field>
     <field name="page_id_ssi">s68</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4848,7 +4848,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235125536</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235125536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235125536</field>
     <field name="page_ssi">69</field>
     <field name="page_id_ssi">s69</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4875,7 +4875,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235123376</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235123376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235123376</field>
     <field name="page_ssi">69</field>
     <field name="page_id_ssi">s69</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4902,7 +4902,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235121328</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235121328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235121328</field>
     <field name="page_ssi">69</field>
     <field name="page_id_ssi">s69</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4929,7 +4929,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235119216</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235119216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235119216</field>
     <field name="page_ssi">69</field>
     <field name="page_id_ssi">s69</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4956,7 +4956,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235116064</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235116064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235116064</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">s70</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -4983,7 +4983,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235113920</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235113920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235113920</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">s70</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5010,7 +5010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235111760</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235111760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235111760</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">s70</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5037,7 +5037,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235109648</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235109648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235109648</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">s70</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5064,7 +5064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235106368</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235106368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235106368</field>
     <field name="page_ssi">71</field>
     <field name="page_id_ssi">s71</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5091,7 +5091,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235104224</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235104224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235104224</field>
     <field name="page_ssi">71</field>
     <field name="page_id_ssi">s71</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5118,7 +5118,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235102096</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235102096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235102096</field>
     <field name="page_ssi">71</field>
     <field name="page_id_ssi">s71</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5145,7 +5145,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235099984</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235099984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235099984</field>
     <field name="page_ssi">71</field>
     <field name="page_id_ssi">s71</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5172,7 +5172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235096784</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235096784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235096784</field>
     <field name="page_ssi">72</field>
     <field name="page_id_ssi">s72</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5199,7 +5199,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235094704</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235094704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235094704</field>
     <field name="page_ssi">72</field>
     <field name="page_id_ssi">s72</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5226,7 +5226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235092560</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235092560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235092560</field>
     <field name="page_ssi">72</field>
     <field name="page_id_ssi">s72</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5253,7 +5253,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235090384</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235090384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235090384</field>
     <field name="page_ssi">72</field>
     <field name="page_id_ssi">s72</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5280,7 +5280,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235087168</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235087168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235087168</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">s73</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5307,7 +5307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235085088</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235085088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235085088</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">s73</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5334,7 +5334,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235082944</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235082944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235082944</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">s73</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5363,7 +5363,7 @@
     <field name="work_title_tesim">Morgen</field>
     <field name="id">rode_01#workid59121</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid59121</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid59121</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">s74</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5385,7 +5385,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235078096</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235078096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235078096</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">s74</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5418,7 +5418,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235072320</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235072320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235072320</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">s75</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5446,7 +5446,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235069776</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235069776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235069776</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">s75</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5481,7 +5481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235063008</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235063008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235063008</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">s76</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5506,7 +5506,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235061792</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235061792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235061792</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">s76</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5534,7 +5534,7 @@
     <field name="work_title_tesim">Drøm (2)</field>
     <field name="id">rode_01#workid59286</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid59286</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid59286</field>
     <field name="page_ssi">77</field>
     <field name="page_id_ssi">s77</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5556,7 +5556,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235057296</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235057296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235057296</field>
     <field name="page_ssi">77</field>
     <field name="page_id_ssi">s77</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5591,7 +5591,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235050432</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235050432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235050432</field>
     <field name="page_ssi">78</field>
     <field name="page_id_ssi">s78</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5626,7 +5626,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235044848</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235044848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235044848</field>
     <field name="page_ssi">78</field>
     <field name="page_id_ssi">s78</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5655,7 +5655,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235040768</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235040768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235040768</field>
     <field name="page_ssi">79</field>
     <field name="page_id_ssi">s79</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5684,7 +5684,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235037792</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235037792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235037792</field>
     <field name="page_ssi">79</field>
     <field name="page_id_ssi">s79</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5719,7 +5719,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235030992</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235030992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235030992</field>
     <field name="page_ssi">80</field>
     <field name="page_id_ssi">s80</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5754,7 +5754,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235025296</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235025296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235025296</field>
     <field name="page_ssi">80</field>
     <field name="page_id_ssi">s80</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5783,7 +5783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235020976</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235020976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235020976</field>
     <field name="page_ssi">81</field>
     <field name="page_id_ssi">s81</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5812,7 +5812,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235017888</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235017888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235017888</field>
     <field name="page_ssi">81</field>
     <field name="page_id_ssi">s81</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5849,7 +5849,7 @@
     <field name="work_title_tesim">Ved Vuggen</field>
     <field name="id">rode_01#workid59711</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid59711</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid59711</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5871,7 +5871,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235009552</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235009552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235009552</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5895,7 +5895,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235008608</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235008608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235008608</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5922,7 +5922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235006464</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235006464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235006464</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5949,7 +5949,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235003136</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235003136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235003136</field>
     <field name="page_ssi">83</field>
     <field name="page_id_ssi">s83</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -5976,7 +5976,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217235000928</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217235000928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217235000928</field>
     <field name="page_ssi">83</field>
     <field name="page_id_ssi">s83</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6003,7 +6003,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234998704</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234998704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234998704</field>
     <field name="page_ssi">83</field>
     <field name="page_id_ssi">s83</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6027,7 +6027,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234997760</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234997760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234997760</field>
     <field name="page_ssi">83</field>
     <field name="page_id_ssi">s83</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6054,7 +6054,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234994432</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234994432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234994432</field>
     <field name="page_ssi">84</field>
     <field name="page_id_ssi">s84</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6081,7 +6081,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234992320</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234992320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234992320</field>
     <field name="page_ssi">84</field>
     <field name="page_id_ssi">s84</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6108,7 +6108,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234990176</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234990176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234990176</field>
     <field name="page_ssi">84</field>
     <field name="page_id_ssi">s84</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6132,7 +6132,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234989232</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234989232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234989232</field>
     <field name="page_ssi">84</field>
     <field name="page_id_ssi">s84</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6159,7 +6159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234985840</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234985840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234985840</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6183,7 +6183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234984896</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234984896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234984896</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6210,7 +6210,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234982752</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234982752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234982752</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6234,7 +6234,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234981808</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234981808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234981808</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6263,7 +6263,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234978768</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234978768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234978768</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6289,7 +6289,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234975904</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234975904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234975904</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6314,7 +6314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234974688</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234974688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234974688</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6344,7 +6344,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234971104</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234971104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234971104</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6368,7 +6368,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234970160</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234970160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234970160</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6397,7 +6397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234965856</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234965856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234965856</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6421,7 +6421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234964912</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234964912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234964912</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6447,7 +6447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234963184</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234963184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234963184</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6473,7 +6473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234961488</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234961488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234961488</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6497,7 +6497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234960544</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234960544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234960544</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6524,7 +6524,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234958368</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234958368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234958368</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6551,7 +6551,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234955072</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234955072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234955072</field>
     <field name="page_ssi">88</field>
     <field name="page_id_ssi">s88</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6575,7 +6575,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234954128</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234954128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234954128</field>
     <field name="page_ssi">88</field>
     <field name="page_id_ssi">s88</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6607,7 +6607,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234949904</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234949904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234949904</field>
     <field name="page_ssi">88</field>
     <field name="page_id_ssi">s88</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6631,7 +6631,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234948832</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234948832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234948832</field>
     <field name="page_ssi">88</field>
     <field name="page_id_ssi">s88</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6658,7 +6658,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234945472</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234945472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234945472</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">s89</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6682,7 +6682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234944384</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234944384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234944384</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">s89</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6709,7 +6709,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234942176</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234942176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234942176</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">s89</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6736,7 +6736,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234939984</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234939984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234939984</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">s89</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6763,7 +6763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234936736</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234936736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234936736</field>
     <field name="page_ssi">90</field>
     <field name="page_id_ssi">s90</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6787,7 +6787,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234935792</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234935792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234935792</field>
     <field name="page_ssi">90</field>
     <field name="page_id_ssi">s90</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6816,7 +6816,7 @@
     <field name="work_title_tesim">Morgen (2)</field>
     <field name="id">rode_01#workid60361</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid60361</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid60361</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6838,7 +6838,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234930992</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234930992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234930992</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6865,7 +6865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234928784</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234928784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234928784</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6892,7 +6892,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234926640</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234926640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234926640</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6919,7 +6919,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234923280</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234923280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234923280</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6946,7 +6946,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234921136</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234921136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234921136</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -6973,7 +6973,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234918928</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234918928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234918928</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7000,7 +7000,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234916768</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234916768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234916768</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7027,7 +7027,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234913456</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234913456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234913456</field>
     <field name="page_ssi">93</field>
     <field name="page_id_ssi">s93</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7056,7 +7056,7 @@
     <field name="work_title_tesim">Sang</field>
     <field name="id">rode_01#workid60541</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid60541</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid60541</field>
     <field name="page_ssi">94</field>
     <field name="page_id_ssi">s94</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7078,7 +7078,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234908704</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234908704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234908704</field>
     <field name="page_ssi">94</field>
     <field name="page_id_ssi">s94</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7105,7 +7105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234906560</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234906560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234906560</field>
     <field name="page_ssi">94</field>
     <field name="page_id_ssi">s94</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7132,7 +7132,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234903200</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234903200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234903200</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">s95</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7161,7 +7161,7 @@
     <field name="work_title_tesim">Højtid</field>
     <field name="id">rode_01#workid60622</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid60622</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid60622</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7183,7 +7183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234898272</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234898272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234898272</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7210,7 +7210,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234896144</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234896144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234896144</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7237,7 +7237,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234893968</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234893968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234893968</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7264,7 +7264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234890688</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234890688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234890688</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7291,7 +7291,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234888528</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234888528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234888528</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7318,7 +7318,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234886368</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234886368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234886368</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7345,7 +7345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234884192</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234884192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234884192</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7372,7 +7372,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234880800</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234880800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234880800</field>
     <field name="page_ssi">98</field>
     <field name="page_id_ssi">s98</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7399,7 +7399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234878656</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234878656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234878656</field>
     <field name="page_ssi">98</field>
     <field name="page_id_ssi">s98</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7428,7 +7428,7 @@
     <field name="work_title_tesim">Hvem er jeg?</field>
     <field name="id">rode_01#workid60820</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid60820</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid60820</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7450,7 +7450,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234873808</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234873808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234873808</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7479,7 +7479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234870656</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234870656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234870656</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7508,7 +7508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234866304</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234866304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234866304</field>
     <field name="page_ssi">100</field>
     <field name="page_id_ssi">s100</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7537,7 +7537,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234863136</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234863136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234863136</field>
     <field name="page_ssi">100</field>
     <field name="page_id_ssi">s100</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7568,7 +7568,7 @@
     <field name="work_title_tesim">Middelalder</field>
     <field name="id">rode_01#workid60976</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid60976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid60976</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">s103</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7590,7 +7590,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234854000</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234854000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234854000</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">s103</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7623,7 +7623,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234849440</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234849440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234849440</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">s103</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7648,7 +7648,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234847072</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234847072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234847072</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7676,7 +7676,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234844496</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234844496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234844496</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7703,7 +7703,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234842400</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234842400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234842400</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7729,7 +7729,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234840688</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234840688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234840688</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7755,7 +7755,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234837792</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234837792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234837792</field>
     <field name="page_ssi">105</field>
     <field name="page_id_ssi">s105</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7781,7 +7781,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234836160</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234836160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234836160</field>
     <field name="page_ssi">105</field>
     <field name="page_id_ssi">s105</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7819,7 +7819,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234828016</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234828016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234828016</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">s106</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7860,7 +7860,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234818816</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234818816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234818816</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">s107</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7889,7 +7889,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234815840</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234815840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234815840</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">s107</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7924,7 +7924,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234809024</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234809024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234809024</field>
     <field name="page_ssi">108</field>
     <field name="page_id_ssi">s108</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7953,7 +7953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234806112</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234806112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234806112</field>
     <field name="page_ssi">108</field>
     <field name="page_id_ssi">s108</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -7988,7 +7988,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234799424</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234799424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234799424</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">s109</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8014,7 +8014,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234797728</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234797728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234797728</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">s109</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8048,7 +8048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234792512</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234792512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234792512</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">s109</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8074,7 +8074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234789616</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234789616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234789616</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">s110</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8104,7 +8104,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234786192</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234786192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234786192</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">s110</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8138,7 +8138,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234779792</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234779792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234779792</field>
     <field name="page_ssi">111</field>
     <field name="page_id_ssi">s111</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8172,7 +8172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234774640</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234774640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234774640</field>
     <field name="page_ssi">111</field>
     <field name="page_id_ssi">s111</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8201,7 +8201,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234770352</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234770352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234770352</field>
     <field name="page_ssi">112</field>
     <field name="page_id_ssi">s112</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8229,7 +8229,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234767744</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234767744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234767744</field>
     <field name="page_ssi">112</field>
     <field name="page_id_ssi">s112</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8260,7 +8260,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234763904</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234763904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234763904</field>
     <field name="page_ssi">112</field>
     <field name="page_id_ssi">s112</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8287,7 +8287,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234760496</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234760496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234760496</field>
     <field name="page_ssi">113</field>
     <field name="page_id_ssi">s113</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8328,7 +8328,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234751248</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234751248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234751248</field>
     <field name="page_ssi">114</field>
     <field name="page_id_ssi">s114</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8357,7 +8357,7 @@
     <field name="work_title_tesim">Slangetæmmeren</field>
     <field name="id">rode_01#workid61864</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid61864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid61864</field>
     <field name="page_ssi">115</field>
     <field name="page_id_ssi">s115</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8379,7 +8379,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234746400</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234746400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234746400</field>
     <field name="page_ssi">115</field>
     <field name="page_id_ssi">s115</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8405,7 +8405,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234744608</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234744608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234744608</field>
     <field name="page_ssi">115</field>
     <field name="page_id_ssi">s115</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8431,7 +8431,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234742832</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234742832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234742832</field>
     <field name="page_ssi">115</field>
     <field name="page_id_ssi">s115</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8457,7 +8457,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234739968</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234739968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234739968</field>
     <field name="page_ssi">116</field>
     <field name="page_id_ssi">s116</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8483,7 +8483,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234738240</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234738240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234738240</field>
     <field name="page_ssi">116</field>
     <field name="page_id_ssi">s116</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8510,7 +8510,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234736096</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234736096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234736096</field>
     <field name="page_ssi">116</field>
     <field name="page_id_ssi">s116</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8534,7 +8534,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234735248</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234735248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234735248</field>
     <field name="page_ssi">116</field>
     <field name="page_id_ssi">s116</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8564,7 +8564,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234730576</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234730576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234730576</field>
     <field name="page_ssi">117</field>
     <field name="page_id_ssi">s117</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8596,7 +8596,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234726304</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234726304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234726304</field>
     <field name="page_ssi">117</field>
     <field name="page_id_ssi">s117</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8622,7 +8622,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234724528</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234724528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234724528</field>
     <field name="page_ssi">117</field>
     <field name="page_id_ssi">s117</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8650,7 +8650,7 @@
     <field name="work_title_tesim">Den hvide Streg</field>
     <field name="id">rode_01#workid62075</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid62075</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid62075</field>
     <field name="page_ssi">118</field>
     <field name="page_id_ssi">s118</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8672,7 +8672,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234720096</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234720096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234720096</field>
     <field name="page_ssi">118</field>
     <field name="page_id_ssi">s118</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8704,7 +8704,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234714592</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234714592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234714592</field>
     <field name="page_ssi">119</field>
     <field name="page_id_ssi">s119</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8731,7 +8731,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234712496</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234712496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234712496</field>
     <field name="page_ssi">119</field>
     <field name="page_id_ssi">s119</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8768,7 +8768,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234704944</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234704944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234704944</field>
     <field name="page_ssi">120</field>
     <field name="page_id_ssi">s120</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8798,7 +8798,7 @@
     <field name="work_title_tesim">Jeg vandrer omkring</field>
     <field name="id">rode_01#workid62239</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid62239</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid62239</field>
     <field name="page_ssi">121</field>
     <field name="page_id_ssi">s121</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8820,7 +8820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234699648</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234699648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234699648</field>
     <field name="page_ssi">121</field>
     <field name="page_id_ssi">s121</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8850,7 +8850,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234696320</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234696320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234696320</field>
     <field name="page_ssi">121</field>
     <field name="page_id_ssi">s121</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8875,7 +8875,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234693824</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234693824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234693824</field>
     <field name="page_ssi">122</field>
     <field name="page_id_ssi">s122</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8900,7 +8900,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234692512</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234692512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234692512</field>
     <field name="page_ssi">122</field>
     <field name="page_id_ssi">s122</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8924,7 +8924,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234691696</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234691696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234691696</field>
     <field name="page_ssi">122</field>
     <field name="page_id_ssi">s122</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8955,7 +8955,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234687872</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234687872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234687872</field>
     <field name="page_ssi">122</field>
     <field name="page_id_ssi">s122</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -8981,7 +8981,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234685056</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234685056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234685056</field>
     <field name="page_ssi">123</field>
     <field name="page_id_ssi">s123</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9010,7 +9010,7 @@
     <field name="work_title_tesim">Jeg</field>
     <field name="id">rode_01#workid62395</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid62395</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid62395</field>
     <field name="page_ssi">124</field>
     <field name="page_id_ssi">s124</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9032,7 +9032,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234680240</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234680240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234680240</field>
     <field name="page_ssi">124</field>
     <field name="page_id_ssi">s124</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9060,7 +9060,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234677648</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234677648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234677648</field>
     <field name="page_ssi">124</field>
     <field name="page_id_ssi">s124</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9089,7 +9089,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234673456</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234673456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234673456</field>
     <field name="page_ssi">125</field>
     <field name="page_id_ssi">s125</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9116,7 +9116,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234671280</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234671280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234671280</field>
     <field name="page_ssi">125</field>
     <field name="page_id_ssi">s125</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9143,7 +9143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234669040</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234669040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234669040</field>
     <field name="page_ssi">125</field>
     <field name="page_id_ssi">s125</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9170,7 +9170,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234666976</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234666976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234666976</field>
     <field name="page_ssi">125</field>
     <field name="page_id_ssi">s125</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9198,7 +9198,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234663056</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234663056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234663056</field>
     <field name="page_ssi">126</field>
     <field name="page_id_ssi">s126</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9227,7 +9227,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234660128</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234660128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234660128</field>
     <field name="page_ssi">126</field>
     <field name="page_id_ssi">s126</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9256,7 +9256,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234657104</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234657104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234657104</field>
     <field name="page_ssi">126</field>
     <field name="page_id_ssi">s126</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9283,7 +9283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234653840</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234653840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234653840</field>
     <field name="page_ssi">127</field>
     <field name="page_id_ssi">s127</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9310,7 +9310,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234651760</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234651760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234651760</field>
     <field name="page_ssi">127</field>
     <field name="page_id_ssi">s127</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9338,7 +9338,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234649072</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234649072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234649072</field>
     <field name="page_ssi">127</field>
     <field name="page_id_ssi">s127</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9370,7 +9370,7 @@
     <field name="work_title_tesim">De blege Blomster</field>
     <field name="id">rode_01#workid62699</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#workid62699</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#workid62699</field>
     <field name="page_ssi">128</field>
     <field name="page_id_ssi">s128</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9392,7 +9392,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234642976</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234642976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234642976</field>
     <field name="page_ssi">128</field>
     <field name="page_id_ssi">s128</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9426,7 +9426,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234636704</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234636704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234636704</field>
     <field name="page_ssi">129</field>
     <field name="page_id_ssi">s129</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9452,7 +9452,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234635008</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234635008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234635008</field>
     <field name="page_ssi">129</field>
     <field name="page_id_ssi">s129</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9487,7 +9487,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234629456</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234629456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234629456</field>
     <field name="page_ssi">129</field>
     <field name="page_id_ssi">s129</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9512,7 +9512,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234627040</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234627040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234627040</field>
     <field name="page_ssi">130</field>
     <field name="page_id_ssi">s130</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>
@@ -9538,7 +9538,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_01#idm140217234625328</field>
     <field name="volume_id_ssi">rode_01</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_01#idm140217234625328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_01#idm140217234625328</field>
     <field name="page_ssi">130</field>
     <field name="page_id_ssi">s130</field>
     <field name="volume_title_tesim">Hvide Blomster. Digte</field>

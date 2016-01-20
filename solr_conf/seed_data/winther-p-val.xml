@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Christian Winther</field>
     <field name="id">winther-p-val</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259400009600</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259400009600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259400009600</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259400008560</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259400008560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259400008560</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259400007712</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259400007712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259400007712</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259400005552</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259400005552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259400005552</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259400002544</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259400002544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259400002544</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259400001488</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259400001488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259400001488</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399999424</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399999424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399999424</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399998160</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399998160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399998160</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399995888</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399995888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399995888</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -196,7 +196,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399993312</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399993312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399993312</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Søren Baggesen</field>
@@ -215,7 +215,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399974144</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399974144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399974144</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dreng og student</field>
     <field name="author_name">Søren Baggesen</field>
@@ -234,7 +234,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399971840</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399971840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399971840</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dreng og student</field>
     <field name="author_name">Søren Baggesen</field>
@@ -253,7 +253,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399971456</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399971456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399971456</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dreng og student</field>
     <field name="author_name">Søren Baggesen</field>
@@ -272,7 +272,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259400062560</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259400062560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259400062560</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dreng og student</field>
     <field name="author_name">Søren Baggesen</field>
@@ -291,7 +291,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399952944</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399952944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399952944</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elegantier og fallent</field>
     <field name="author_name">Søren Baggesen</field>
@@ -310,7 +310,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399950592</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399950592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399950592</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elegantier og fallent</field>
     <field name="author_name">Søren Baggesen</field>
@@ -329,7 +329,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399949488</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399949488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399949488</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elegantier og fallent</field>
     <field name="author_name">Søren Baggesen</field>
@@ -348,7 +348,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399948320</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399948320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399948320</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elegantier og fallent</field>
     <field name="author_name">Søren Baggesen</field>
@@ -367,7 +367,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399947296</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399947296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399947296</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elegantier og fallent</field>
     <field name="author_name">Søren Baggesen</field>
@@ -386,7 +386,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399946176</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399946176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399946176</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elegantier og fallent</field>
     <field name="author_name">Søren Baggesen</field>
@@ -405,7 +405,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399943600</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399943600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399943600</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elsker og ægtemand</field>
     <field name="author_name">Søren Baggesen</field>
@@ -424,7 +424,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399942112</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399942112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399942112</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elsker og ægtemand</field>
     <field name="author_name">Søren Baggesen</field>
@@ -443,7 +443,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399941088</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399941088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399941088</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elsker og ægtemand</field>
     <field name="author_name">Søren Baggesen</field>
@@ -462,7 +462,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399938976</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399938976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399938976</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elsker og ægtemand</field>
     <field name="author_name">Søren Baggesen</field>
@@ -481,7 +481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399937904</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399937904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399937904</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elsker og ægtemand</field>
     <field name="author_name">Søren Baggesen</field>
@@ -500,7 +500,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399936880</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399936880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399936880</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Elsker og ægtemand</field>
     <field name="author_name">Søren Baggesen</field>
@@ -519,7 +519,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399930256</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399930256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399930256</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -538,7 +538,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399926688</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399926688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399926688</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -557,7 +557,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399924048</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399924048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399924048</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -579,7 +579,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399919648</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399919648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399919648</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -598,7 +598,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399916864</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399916864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399916864</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -617,7 +617,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399914368</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399914368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399914368</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -638,7 +638,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399912320</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399912320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399912320</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -657,7 +657,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399910672</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399910672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399910672</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -678,7 +678,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399908464</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399908464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399908464</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -699,7 +699,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399906208</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399906208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399906208</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -719,7 +719,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399904480</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399904480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399904480</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -739,7 +739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399901488</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399901488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399901488</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -758,7 +758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399969952</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399969952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399969952</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -776,7 +776,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399969136</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399969136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399969136</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399965168</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399965168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399965168</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -826,7 +826,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399961120</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399961120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399961120</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -851,7 +851,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399956976</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399956976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399956976</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -876,7 +876,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399867040</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399867040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399867040</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -901,7 +901,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399861952</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399861952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399861952</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -920,7 +920,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399860944</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399860944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399860944</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -939,7 +939,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399858736</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399858736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399858736</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -958,7 +958,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399857760</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399857760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399857760</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -977,7 +977,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399855952</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399855952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399855952</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1002,7 +1002,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399851104</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399851104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399851104</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1021,7 +1021,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399850304</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399850304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399850304</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399845888</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399845888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399845888</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1066,7 +1066,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399845088</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399845088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399845088</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1091,7 +1091,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399839232</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399839232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399839232</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1110,7 +1110,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399835808</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399835808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399835808</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1129,7 +1129,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399833136</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399833136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399833136</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1154,7 +1154,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399829360</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399829360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399829360</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1179,7 +1179,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399825520</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399825520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399825520</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1204,7 +1204,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399821680</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399821680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399821680</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1223,7 +1223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399819328</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399819328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399819328</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1248,7 +1248,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399815344</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399815344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399815344</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1267,7 +1267,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399814192</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399814192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399814192</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1292,7 +1292,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399810368</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399810368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399810368</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1317,7 +1317,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399806528</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399806528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399806528</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1336,7 +1336,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399804352</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399804352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399804352</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1355,7 +1355,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399801280</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399801280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399801280</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1374,7 +1374,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399798176</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399798176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399798176</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1399,7 +1399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399794144</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399794144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399794144</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1418,7 +1418,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399793056</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399793056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399793056</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1443,7 +1443,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399789152</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399789152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399789152</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1462,7 +1462,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399785680</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399785680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399785680</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1481,7 +1481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399783536</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399783536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399783536</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1500,7 +1500,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399781280</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399781280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399781280</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1519,7 +1519,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399776624</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399776624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399776624</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1545,7 +1545,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399772368</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399772368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399772368</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1564,7 +1564,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399768560</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399768560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399768560</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1585,7 +1585,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399766368</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399766368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399766368</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1606,7 +1606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399764224</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399764224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399764224</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1625,7 +1625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399760256</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399760256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399760256</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1644,7 +1644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399757456</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399757456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399757456</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1663,7 +1663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399756416</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399756416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399756416</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Dissonanser</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1682,7 +1682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399754192</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399754192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399754192</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1701,7 +1701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399750672</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399750672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399750672</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1720,7 +1720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399749600</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399749600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399749600</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1739,7 +1739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399748432</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399748432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399748432</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1772,7 +1772,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399739888</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399739888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399739888</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1791,7 +1791,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399738832</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399738832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399738832</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1810,7 +1810,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399736960</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399736960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399736960</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1831,7 +1831,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399734784</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399734784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399734784</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1852,7 +1852,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399732624</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399732624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399732624</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1873,7 +1873,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399730464</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399730464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399730464</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1894,7 +1894,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399727088</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399727088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399727088</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1913,7 +1913,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399724592</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399724592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399724592</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1934,7 +1934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399722464</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399722464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399722464</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1955,7 +1955,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399720160</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399720160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399720160</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -1974,7 +1974,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399719312</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399719312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399719312</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -1995,7 +1995,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399717200</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399717200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399717200</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2016,7 +2016,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399715040</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399715040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399715040</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2035,7 +2035,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399710560</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399710560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399710560</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2058,7 +2058,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399707360</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399707360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399707360</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2077,7 +2077,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399705072</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399705072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399705072</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2096,7 +2096,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399704128</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399704128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399704128</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2115,7 +2115,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399702880</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399702880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399702880</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2134,7 +2134,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399701600</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399701600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399701600</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2153,7 +2153,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399700352</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399700352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399700352</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2172,7 +2172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399699216</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399699216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399699216</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2191,7 +2191,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399697296</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399697296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399697296</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2210,7 +2210,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399696048</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399696048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399696048</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2229,7 +2229,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399694800</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399694800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399694800</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2248,7 +2248,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399693536</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399693536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399693536</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2267,7 +2267,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399692240</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399692240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399692240</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2286,7 +2286,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399690960</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399690960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399690960</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2305,7 +2305,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399689680</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399689680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399689680</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2324,7 +2324,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399687712</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399687712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399687712</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2345,7 +2345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399685568</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399685568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399685568</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2366,7 +2366,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399682688</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399682688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399682688</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2385,7 +2385,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399681744</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399681744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399681744</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2404,7 +2404,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399680784</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399680784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399680784</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2429,7 +2429,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399676928</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399676928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399676928</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2454,7 +2454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399673152</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399673152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399673152</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2479,7 +2479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399669344</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399669344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399669344</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2504,7 +2504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399665376</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399665376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399665376</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2523,7 +2523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399664272</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399664272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399664272</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2542,7 +2542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399662160</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399662160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399662160</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2563,7 +2563,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399660048</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399660048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399660048</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2585,7 +2585,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399656656</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399656656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399656656</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2604,7 +2604,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399656144</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399656144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399656144</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2625,7 +2625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399652176</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399652176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399652176</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2644,7 +2644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399650352</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399650352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399650352</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Digtene Til Een.</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2663,7 +2663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399647184</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399647184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399647184</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2682,7 +2682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399644960</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399644960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399644960</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2701,7 +2701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399642608</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399642608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399642608</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2720,7 +2720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399641344</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399641344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399641344</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2739,7 +2739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399640304</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399640304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399640304</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2758,7 +2758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399638528</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399638528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399638528</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2777,7 +2777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399634368</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399634368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399634368</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2796,7 +2796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399633136</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399633136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399633136</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2815,7 +2815,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399632448</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399632448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399632448</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2834,7 +2834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399631120</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399631120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399631120</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2853,7 +2853,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399628656</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399628656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399628656</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2872,7 +2872,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399627600</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399627600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399627600</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -2891,7 +2891,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399624320</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399624320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399624320</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2916,7 +2916,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399620448</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399620448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399620448</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2941,7 +2941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399616592</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399616592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399616592</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2966,7 +2966,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399612704</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399612704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399612704</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -2991,7 +2991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399608896</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399608896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399608896</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3016,7 +3016,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399605040</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399605040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399605040</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3035,7 +3035,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399602704</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399602704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399602704</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3054,7 +3054,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399599056</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399599056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399599056</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3073,7 +3073,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399596560</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399596560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399596560</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3092,7 +3092,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399595440</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399595440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399595440</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3117,7 +3117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399591568</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399591568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399591568</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3142,7 +3142,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399587696</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399587696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399587696</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3167,7 +3167,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399582736</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399582736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399582736</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3186,7 +3186,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399581584</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399581584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399581584</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3208,7 +3208,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399578016</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399578016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399578016</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3227,7 +3227,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399577104</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399577104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399577104</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3246,7 +3246,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399572960</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399572960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399572960</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3271,7 +3271,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399569056</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399569056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399569056</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3296,7 +3296,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399565216</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399565216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399565216</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3321,7 +3321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399561392</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399561392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399561392</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="author_name">Søren Baggesen</field>
     <field name="author_id_ssi">7b1a07365092aa64e1081099f6053853</field>
@@ -3346,7 +3346,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399556384</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399556384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399556384</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Hjortens Flugt</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3365,7 +3365,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399552560</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399552560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399552560</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3384,7 +3384,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399551488</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399551488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399551488</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3403,7 +3403,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399549552</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399549552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399549552</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3422,7 +3422,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399547472</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399547472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399547472</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3441,7 +3441,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399544432</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399544432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399544432</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3460,7 +3460,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399543664</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399543664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399543664</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3479,7 +3479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399542960</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399542960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399542960</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3498,7 +3498,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399541248</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399541248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399541248</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3517,7 +3517,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399538544</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399538544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399538544</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3536,7 +3536,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399536480</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399536480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399536480</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3555,7 +3555,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399533136</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399533136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399533136</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3574,7 +3574,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399529040</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399529040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399529040</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3593,7 +3593,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399525808</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399525808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399525808</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3612,7 +3612,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399524048</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399524048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399524048</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3631,7 +3631,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399518272</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399518272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399518272</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3650,7 +3650,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399507600</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399507600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399507600</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3669,7 +3669,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399506672</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399506672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399506672</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3688,7 +3688,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399503728</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399503728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399503728</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Søren Baggesen</field>
@@ -3707,7 +3707,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399499328</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399499328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399499328</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Udgaver: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3726,7 +3726,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399498752</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399498752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399498752</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Udgaver: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3745,7 +3745,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399498192</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399498192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399498192</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Udgaver: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3764,7 +3764,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399496304</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399496304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399496304</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3783,7 +3783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399495696</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399495696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399495696</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3802,7 +3802,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399495136</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399495136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399495136</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3821,7 +3821,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399494560</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399494560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399494560</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3840,7 +3840,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399493968</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399493968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399493968</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3859,7 +3859,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399493344</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399493344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399493344</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3878,7 +3878,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399492720</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399492720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399492720</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3897,7 +3897,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399492048</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399492048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399492048</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3916,7 +3916,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399491456</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399491456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399491456</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3935,7 +3935,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399490816</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399490816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399490816</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3954,7 +3954,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399490064</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399490064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399490064</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Behandlinger: </field>
     <field name="author_name">Søren Baggesen</field>
@@ -3973,7 +3973,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">winther-p-val#idm140259399488240</field>
     <field name="volume_id_ssi">winther-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/winther-p-val#idm140259399488240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/winther-p-val#idm140259399488240</field>
     <field name="volume_title_tesim">Christian Winther</field>
     <field name="head_tesim">Søren Baggesen</field>
     <field name="author_name">Søren Baggesen</field>

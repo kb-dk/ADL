@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Digte</field>
     <field name="id">knud08tom</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm140058960549776</field>
     <field name="volume_title_tesim">Digte</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Hrr Begstrups Haar</field>
     <field name="id">knud08tom#workid54493</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54493</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54493</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">n3</field>
     <field name="volume_title_tesim">Digte</field>
@@ -45,7 +45,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960509280</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960509280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960509280</field>
     <field name="page_ssi">8</field>
     <field name="page_id_ssi">n8</field>
     <field name="volume_title_tesim">Digte</field>
@@ -69,7 +69,7 @@
     <field name="work_title_tesim">Bent Kongebroder</field>
     <field name="id">knud08tom#workid54553</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54553</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54553</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">n9</field>
     <field name="volume_title_tesim">Digte</field>
@@ -88,7 +88,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960484560</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960484560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960484560</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">n29</field>
     <field name="volume_title_tesim">Digte</field>
@@ -112,7 +112,7 @@
     <field name="work_title_tesim">Kantate ved Holberg-Festen</field>
     <field name="id">knud08tom#workid54757</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54757</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54757</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">n30</field>
     <field name="volume_title_tesim">Digte</field>
@@ -131,7 +131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960475424</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960475424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960475424</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">n36</field>
     <field name="volume_title_tesim">Digte</field>
@@ -155,7 +155,7 @@
     <field name="work_title_tesim">Foraarssang</field>
     <field name="id">knud08tom#workid54827</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54827</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54827</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">n37</field>
     <field name="volume_title_tesim">Digte</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960471936</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960471936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960471936</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">n38</field>
     <field name="volume_title_tesim">Digte</field>
@@ -198,7 +198,7 @@
     <field name="work_title_tesim">Prinsessen og Junkeren</field>
     <field name="id">knud08tom#workid54851</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54851</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54851</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">n39</field>
     <field name="volume_title_tesim">Digte</field>
@@ -217,7 +217,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960468384</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960468384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960468384</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">n40</field>
     <field name="volume_title_tesim">Digte</field>
@@ -241,7 +241,7 @@
     <field name="work_title_tesim">Til mine Dansk-Lærlinge (i sommeren 1886)</field>
     <field name="id">knud08tom#workid54876</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54876</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54876</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">n41</field>
     <field name="volume_title_tesim">Digte</field>
@@ -260,7 +260,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960460768</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960460768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960460768</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">n42</field>
     <field name="volume_title_tesim">Digte</field>
@@ -284,7 +284,7 @@
     <field name="work_title_tesim">Bryllupssang [Som Blomst til liden Tue]</field>
     <field name="id">knud08tom#workid54899</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54899</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54899</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">n43</field>
     <field name="volume_title_tesim">Digte</field>
@@ -303,7 +303,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960458448</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960458448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960458448</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">n43</field>
     <field name="volume_title_tesim">Digte</field>
@@ -327,7 +327,7 @@
     <field name="work_title_tesim">Haab</field>
     <field name="id">knud08tom#workid54914</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54914</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54914</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">n44</field>
     <field name="volume_title_tesim">Digte</field>
@@ -346,7 +346,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960454768</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960454768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960454768</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">n45</field>
     <field name="volume_title_tesim">Digte</field>
@@ -370,7 +370,7 @@
     <field name="work_title_tesim">Jul [Julen er kommen med Klokkeklang]</field>
     <field name="id">knud08tom#workid54938</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54938</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54938</field>
     <field name="page_ssi">46</field>
     <field name="page_id_ssi">n46</field>
     <field name="volume_title_tesim">Digte</field>
@@ -389,7 +389,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960451232</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960451232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960451232</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">n47</field>
     <field name="volume_title_tesim">Digte</field>
@@ -413,7 +413,7 @@
     <field name="work_title_tesim">H. Nutzhorn (20. Febr. 1890)</field>
     <field name="id">knud08tom#workid54962</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54962</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54962</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">n48</field>
     <field name="volume_title_tesim">Digte</field>
@@ -432,7 +432,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960448736</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960448736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960448736</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">n48</field>
     <field name="volume_title_tesim">Digte</field>
@@ -456,7 +456,7 @@
     <field name="work_title_tesim">Aftenvers [Tunge, mørke Natteskyer]</field>
     <field name="id">knud08tom#workid54977</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid54977</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid54977</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">n49</field>
     <field name="volume_title_tesim">Digte</field>
@@ -475,7 +475,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960445136</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960445136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960445136</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">n50</field>
     <field name="volume_title_tesim">Digte</field>
@@ -499,7 +499,7 @@
     <field name="work_title_tesim">Morgensang [Sé, nu stiger Solen af Havets Skjød,]</field>
     <field name="id">knud08tom#workid55001</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55001</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55001</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">n51</field>
     <field name="volume_title_tesim">Digte</field>
@@ -518,7 +518,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960441600</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960441600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960441600</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">n52</field>
     <field name="volume_title_tesim">Digte</field>
@@ -542,7 +542,7 @@
     <field name="work_title_tesim">Christenliv [Salme]</field>
     <field name="id">knud08tom#workid55025</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55025</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55025</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">n53</field>
     <field name="volume_title_tesim">Digte</field>
@@ -561,7 +561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960437904</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960437904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960437904</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">n54</field>
     <field name="volume_title_tesim">Digte</field>
@@ -585,7 +585,7 @@
     <field name="work_title_tesim">Jul [Det er Jul paa Jord]</field>
     <field name="id">knud08tom#workid55049</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55049</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55049</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">n55</field>
     <field name="volume_title_tesim">Digte</field>
@@ -604,7 +604,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960433248</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960433248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960433248</field>
     <field name="page_ssi">57</field>
     <field name="page_id_ssi">n57</field>
     <field name="volume_title_tesim">Digte</field>
@@ -628,7 +628,7 @@
     <field name="work_title_tesim">Hjertensguld</field>
     <field name="id">knud08tom#workid55083</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55083</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55083</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">n58</field>
     <field name="volume_title_tesim">Digte</field>
@@ -647,7 +647,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960430704</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960430704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960430704</field>
     <field name="page_ssi">58</field>
     <field name="page_id_ssi">n58</field>
     <field name="volume_title_tesim">Digte</field>
@@ -671,7 +671,7 @@
     <field name="work_title_tesim">Guldbryllupsvers</field>
     <field name="id">knud08tom#workid55098</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55098</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55098</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">n59</field>
     <field name="volume_title_tesim">Digte</field>
@@ -690,7 +690,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960423680</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960423680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960423680</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">n63</field>
     <field name="volume_title_tesim">Digte</field>
@@ -714,7 +714,7 @@
     <field name="work_title_tesim">Foraarssang (Ved Roskilde Højskolen Indvielse 1907)</field>
     <field name="id">knud08tom#workid55151</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55151</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55151</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">n64</field>
     <field name="volume_title_tesim">Digte</field>
@@ -733,7 +733,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960420144</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960420144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960420144</field>
     <field name="page_ssi">65</field>
     <field name="page_id_ssi">n65</field>
     <field name="volume_title_tesim">Digte</field>
@@ -757,7 +757,7 @@
     <field name="work_title_tesim">Sølvbryllupssang [Elskovens Rige]</field>
     <field name="id">knud08tom#workid55175</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55175</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55175</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">n66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -776,7 +776,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960417648</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960417648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960417648</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">n66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -800,7 +800,7 @@
     <field name="work_title_tesim">Herdis</field>
     <field name="id">knud08tom#workid55190</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55190</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55190</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">n67</field>
     <field name="volume_title_tesim">Digte</field>
@@ -819,7 +819,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960415216</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960415216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960415216</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">n67</field>
     <field name="volume_title_tesim">Digte</field>
@@ -843,7 +843,7 @@
     <field name="work_title_tesim">Solsorten</field>
     <field name="id">knud08tom#workid55205</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55205</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55205</field>
     <field name="page_ssi">68</field>
     <field name="page_id_ssi">n68</field>
     <field name="volume_title_tesim">Digte</field>
@@ -862,7 +862,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960410480</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960410480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960410480</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">n70</field>
     <field name="volume_title_tesim">Digte</field>
@@ -886,7 +886,7 @@
     <field name="work_title_tesim">Høstsalme [Oversat fra Engelsk]</field>
     <field name="id">knud08tom#workid55263</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55263</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55263</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">n73</field>
     <field name="volume_title_tesim">Digte</field>
@@ -905,7 +905,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960403888</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960403888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960403888</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">n74</field>
     <field name="volume_title_tesim">Digte</field>
@@ -929,7 +929,7 @@
     <field name="work_title_tesim">Engelsk Salme [Oversat]</field>
     <field name="id">knud08tom#workid55287</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55287</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55287</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">n75</field>
     <field name="volume_title_tesim">Digte</field>
@@ -948,7 +948,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960400336</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960400336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960400336</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">n76</field>
     <field name="volume_title_tesim">Digte</field>
@@ -972,7 +972,7 @@
     <field name="work_title_tesim">Sømandens Kone Synger [Skotsk Folkevise oversat til Jydsk]</field>
     <field name="id">knud08tom#workid55311</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#workid55311</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#workid55311</field>
     <field name="page_ssi">77</field>
     <field name="page_id_ssi">n77</field>
     <field name="volume_title_tesim">Digte</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">knud08tom#idm140058960396672</field>
     <field name="volume_id_ssi">knud08tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud08tom#idm140058960396672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud08tom#idm140058960396672</field>
     <field name="page_ssi">78</field>
     <field name="page_id_ssi">n78</field>
     <field name="volume_title_tesim">Digte</field>

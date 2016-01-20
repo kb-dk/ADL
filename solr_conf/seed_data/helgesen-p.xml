@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Paulus Helie</field>
     <field name="id">helgesen-p</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
     <field name="author_id_ssi">ab030b9750d9ca5d539a90e0a9e21a12</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528753216</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528753216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528753216</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528732000</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528732000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528732000</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Ca. 1485-1523</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528725408</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528725408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528725408</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Ca. 1485-1523</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528723152</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528723152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528723152</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Ca. 1485-1523</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528718880</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528718880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528718880</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Ca. 1485-1523</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528698208</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528698208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528698208</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528692272</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528692272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528692272</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528691248</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528691248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528691248</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528686176</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528686176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528686176</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528683504</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528683504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528683504</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528680928</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528680928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528680928</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528676768</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528676768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528676768</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528672720</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528672720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528672720</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528668672</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528668672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528668672</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1523-33</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528666720</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528666720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528666720</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1533-34/39</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528660560</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528660560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528660560</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">1533-34/39</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528647696</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528647696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528647696</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528645312</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528645312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528645312</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De historiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528641328</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528641328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528641328</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De historiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528635808</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528635808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528635808</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De historiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528631600</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528631600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528631600</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
     <field name="author_id_ssi">ab030b9750d9ca5d539a90e0a9e21a12</field>
@@ -425,7 +425,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528626240</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528626240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528626240</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De historiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -444,7 +444,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528614192</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528614192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528614192</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De historiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -463,7 +463,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528609664</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528609664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528609664</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De historiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -482,7 +482,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528602016</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528602016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528602016</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De politisk-moralske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -501,7 +501,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528596656</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528596656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528596656</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De politisk-moralske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -520,7 +520,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528589088</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528589088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528589088</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De politisk-moralske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -539,7 +539,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528579712</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528579712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528579712</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De opbyggelige skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -558,7 +558,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528572592</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528572592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528572592</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De opbyggelige skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -577,7 +577,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528568128</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528568128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528568128</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De opbyggelige skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -596,7 +596,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528563552</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528563552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528563552</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De teologisk-polemiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -615,7 +615,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528559776</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528559776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528559776</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De teologisk-polemiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -634,7 +634,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528539984</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528539984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528539984</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De teologisk-polemiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -653,7 +653,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528536576</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528536576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528536576</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De teologisk-polemiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -672,7 +672,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528532000</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528532000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528532000</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De teologisk-polemiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -691,7 +691,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528526480</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528526480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528526480</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">De teologisk-polemiske skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -710,7 +710,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528520704</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528520704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528520704</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Øvrige skrifter</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -729,7 +729,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528509744</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528509744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528509744</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Forfatterskabets modtagelse</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -748,7 +748,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528497664</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528497664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528497664</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Forfatterskabets modtagelse</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -767,7 +767,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528486848</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528486848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528486848</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -786,7 +786,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528479808</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528479808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528479808</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -805,7 +805,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528474576</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528474576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528474576</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -824,7 +824,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528465216</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528465216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528465216</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -843,7 +843,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528463104</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528463104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528463104</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -862,7 +862,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528462544</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528462544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528462544</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -881,7 +881,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528460352</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528460352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528460352</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -900,7 +900,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528457120</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528457120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528457120</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -919,7 +919,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528446944</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528446944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528446944</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -938,7 +938,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528443760</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528443760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528443760</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -957,7 +957,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528441296</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528441296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528441296</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -976,7 +976,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528437584</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528437584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528437584</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -995,7 +995,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528433888</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528433888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528433888</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1014,7 +1014,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528430224</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528430224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528430224</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1033,7 +1033,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528426848</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528426848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528426848</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1052,7 +1052,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528423616</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528423616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528423616</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1071,7 +1071,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528420304</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528420304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528420304</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1090,7 +1090,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528416656</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528416656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528416656</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1109,7 +1109,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528412192</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528412192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528412192</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1128,7 +1128,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528408048</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528408048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528408048</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1147,7 +1147,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528403632</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528403632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528403632</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1166,7 +1166,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528399120</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528399120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528399120</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Trykte værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1185,7 +1185,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528394448</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528394448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528394448</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1204,7 +1204,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528391856</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528391856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528391856</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1223,7 +1223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528388448</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528388448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528388448</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1242,7 +1242,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528385312</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528385312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528385312</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1261,7 +1261,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528382816</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528382816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528382816</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1280,7 +1280,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528379680</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528379680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528379680</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1299,7 +1299,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528376080</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528376080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528376080</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1318,7 +1318,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528372736</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528372736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528372736</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1337,7 +1337,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528369440</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528369440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528369440</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1356,7 +1356,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528367024</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528367024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528367024</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1375,7 +1375,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528362656</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528362656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528362656</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1394,7 +1394,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528359536</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528359536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528359536</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Håndskrevne værker</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1413,7 +1413,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528354864</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528354864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528354864</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Diverse</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1432,7 +1432,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528352448</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528352448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528352448</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Diverse</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1451,7 +1451,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528348640</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528348640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528348640</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Samlede skrifter:</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1470,7 +1470,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528345024</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528345024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528345024</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Enkelte skrifter:</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1489,7 +1489,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528343120</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528343120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528343120</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Enkelte skrifter:</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1508,7 +1508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528340864</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528340864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528340864</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Enkelte skrifter:</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1527,7 +1527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528339728</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528339728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528339728</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Enkelte skrifter:</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1546,7 +1546,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528338256</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528338256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528338256</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Enkelte skrifter:</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1565,7 +1565,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528336160</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528336160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528336160</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Enkelte skrifter:</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1584,7 +1584,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528333232</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528333232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528333232</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1603,7 +1603,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528332640</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528332640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528332640</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1622,7 +1622,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528331344</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528331344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528331344</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1641,7 +1641,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528330096</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528330096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528330096</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1660,7 +1660,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528328784</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528328784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528328784</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1679,7 +1679,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528327552</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528327552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528327552</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1698,7 +1698,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528326400</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528326400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528326400</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1717,7 +1717,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528325104</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528325104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528325104</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1736,7 +1736,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528323872</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528323872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528323872</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1755,7 +1755,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528322528</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528322528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528322528</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1774,7 +1774,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528321216</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528321216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528321216</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1793,7 +1793,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528319904</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528319904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528319904</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1812,7 +1812,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528318560</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528318560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528318560</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1831,7 +1831,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528317152</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528317152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528317152</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1850,7 +1850,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528315936</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528315936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528315936</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1869,7 +1869,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528314640</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528314640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528314640</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1888,7 +1888,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528313392</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528313392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528313392</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1907,7 +1907,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528312048</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528312048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528312048</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1926,7 +1926,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528310800</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528310800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528310800</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1945,7 +1945,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528309584</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528309584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528309584</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1964,7 +1964,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528308320</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528308320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528308320</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -1983,7 +1983,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528307088</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528307088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528307088</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -2002,7 +2002,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528305792</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528305792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528305792</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -2021,7 +2021,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528303728</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528303728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528303728</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -2040,7 +2040,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528302288</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528302288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528302288</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -2059,7 +2059,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528300832</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528300832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528300832</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Afhandlinger</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>
@@ -2078,7 +2078,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">helgesen-p#idm140124528298064</field>
     <field name="volume_id_ssi">helgesen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/helgesen-p#idm140124528298064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/helgesen-p#idm140124528298064</field>
     <field name="volume_title_tesim">Paulus Helie</field>
     <field name="head_tesim">Sebastian Olden-Jørgensen</field>
     <field name="author_name">Sebastian Olden-Jørgensen</field>

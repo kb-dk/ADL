@@ -6,7 +6,7 @@
     <field name="work_title_tesim">J.P. Jacobsen</field>
     <field name="id">jpjacobsen-p</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
     <field name="author_id_ssi">bce981d707c9cf125593c1ba572c2d0f</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736821488</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736821488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736821488</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736821104</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736821104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736821104</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736813312</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736813312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736813312</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736808400</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736808400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736808400</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736804400</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736804400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736804400</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736802368</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736802368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736802368</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736792960</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736792960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736792960</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736788512</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736788512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736788512</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736785184</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736785184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736785184</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736781744</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736781744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736781744</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736774640</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736774640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736774640</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736768336</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736768336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736768336</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736765808</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736765808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736765808</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736762880</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736762880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736762880</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736758352</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736758352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736758352</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736753904</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736753904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736753904</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736748416</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736748416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736748416</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
     <field name="author_id_ssi">bce981d707c9cf125593c1ba572c2d0f</field>
@@ -352,7 +352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736739824</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736739824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736739824</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -371,7 +371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736722480</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736722480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736722480</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -390,7 +390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736690208</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736690208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736690208</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Generelt</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -409,7 +409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736686336</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736686336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736686336</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Generelt</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -428,7 +428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736876752</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736876752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736876752</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -447,7 +447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736875824</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736875824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736875824</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -466,7 +466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736871872</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736871872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736871872</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -485,7 +485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736662160</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736662160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736662160</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -504,7 +504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736656400</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736656400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736656400</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -523,7 +523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736654624</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736654624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736654624</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -542,7 +542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736648704</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736648704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736648704</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -561,7 +561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736683168</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736683168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736683168</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -580,7 +580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736679696</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736679696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736679696</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -599,7 +599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736676688</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736676688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736676688</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -618,7 +618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736673104</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736673104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736673104</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -637,7 +637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736671040</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736671040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736671040</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -656,7 +656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736609392</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736609392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736609392</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -675,7 +675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736608336</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736608336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736608336</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -694,7 +694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736603888</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736603888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736603888</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -713,7 +713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736602480</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736602480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736602480</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Noveller</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -732,7 +732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736597008</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736597008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736597008</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Digte</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -751,7 +751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736593936</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736593936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736593936</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Digte</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -770,7 +770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736591040</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736591040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736591040</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Digte</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -789,7 +789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736588736</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736588736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736588736</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Digte</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -808,7 +808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736587936</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736587936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736587936</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Digte</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -827,7 +827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736583872</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736583872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736583872</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -846,7 +846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736582128</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736582128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736582128</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -865,7 +865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736571152</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736571152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736571152</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -884,7 +884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736567600</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736567600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736567600</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -903,7 +903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736543584</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736543584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736543584</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -922,7 +922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736539936</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736539936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736539936</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -941,7 +941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736535200</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736535200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736535200</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -960,7 +960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736531744</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736531744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736531744</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -979,7 +979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736530624</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736530624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736530624</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -998,7 +998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736520752</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736520752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736520752</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1017,7 +1017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736518352</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736518352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736518352</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1036,7 +1036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736515776</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736515776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736515776</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1055,7 +1055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736511712</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736511712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736511712</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1074,7 +1074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736509952</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736509952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736509952</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1093,7 +1093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736505792</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736505792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736505792</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1112,7 +1112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736503872</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736503872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736503872</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Eros. De løvbrune Silkestrømpers Form og den røde Syning opad Skaftet</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1131,7 +1131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736499712</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736499712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736499712</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Menneskenatur</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1150,7 +1150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736495568</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736495568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736495568</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Menneskenatur</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1169,7 +1169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736494800</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736494800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736494800</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Menneskenatur</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1188,7 +1188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736489488</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736489488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736489488</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Menneskenatur</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1207,7 +1207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736488240</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736488240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736488240</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Menneskenatur</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1226,7 +1226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736487120</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736487120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736487120</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Menneskenatur</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1245,7 +1245,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736474864</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736474864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736474864</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Generelt</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1264,7 +1264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736466160</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736466160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736466160</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Naturalisme?</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1283,7 +1283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736459456</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736459456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736459456</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Naturalisme?</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1302,7 +1302,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736455952</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736455952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736455952</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Naturalisme?</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1321,7 +1321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736450064</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736450064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736450064</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Naturalisme?</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1340,7 +1340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736446816</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736446816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736446816</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Sado-masochisme?</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1359,7 +1359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736440224</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736440224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736440224</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Proto-(post)-modernisme?</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1378,7 +1378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736436288</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736436288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736436288</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Proto-(post)-modernisme?</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1397,7 +1397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736432704</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736432704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736432704</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1416,7 +1416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736426768</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736426768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736426768</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1435,7 +1435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736425056</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736425056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736425056</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1454,7 +1454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736423280</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736423280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736423280</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1473,7 +1473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736417264</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736417264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736417264</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1492,7 +1492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736415760</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736415760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736415760</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1511,7 +1511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736414528</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736414528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736414528</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1530,7 +1530,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736413504</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736413504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736413504</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Breve</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1549,7 +1549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736411024</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736411024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736411024</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Bibliografier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1568,7 +1568,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736409504</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736409504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736409504</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Bibliografier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1587,7 +1587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736408096</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736408096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736408096</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Bibliografier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1606,7 +1606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736406256</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736406256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736406256</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Nyttige antologier med tekster om Jacobsen</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1625,7 +1625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736404848</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736404848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736404848</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Nyttige antologier med tekster om Jacobsen</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1644,7 +1644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736401360</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736401360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736401360</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Nyttige antologier med tekster om Jacobsen</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1663,7 +1663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736398288</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736398288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736398288</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1682,7 +1682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736397168</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736397168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736397168</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1701,7 +1701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736396000</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736396000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736396000</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1720,7 +1720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736394112</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736394112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736394112</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1739,7 +1739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736392960</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736392960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736392960</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1758,7 +1758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736391008</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736391008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736391008</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1777,7 +1777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736389808</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736389808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736389808</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1796,7 +1796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736387920</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736387920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736387920</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1815,7 +1815,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736386768</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736386768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736386768</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1834,7 +1834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736384880</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736384880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736384880</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1853,7 +1853,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736383696</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736383696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736383696</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1872,7 +1872,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736382400</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736382400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736382400</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1891,7 +1891,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736381232</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736381232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736381232</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1910,7 +1910,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736380080</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736380080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736380080</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1929,7 +1929,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736378832</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736378832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736378832</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1948,7 +1948,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736377680</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736377680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736377680</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1967,7 +1967,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736375952</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736375952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736375952</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -1986,7 +1986,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736374080</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736374080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736374080</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2005,7 +2005,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736372880</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736372880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736372880</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2024,7 +2024,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736371680</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736371680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736371680</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2043,7 +2043,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736370496</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736370496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736370496</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2062,7 +2062,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736367728</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736367728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736367728</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2081,7 +2081,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736366016</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736366016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736366016</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2100,7 +2100,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736364336</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736364336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736364336</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2119,7 +2119,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736362384</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736362384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736362384</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2138,7 +2138,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736360576</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736360576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736360576</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2157,7 +2157,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736359232</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736359232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736359232</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2176,7 +2176,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736357184</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736357184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736357184</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2195,7 +2195,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736355936</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736355936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736355936</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2214,7 +2214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736354592</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736354592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736354592</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2233,7 +2233,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736353440</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736353440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736353440</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2252,7 +2252,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736352224</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736352224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736352224</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2271,7 +2271,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736350352</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736350352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736350352</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2290,7 +2290,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736348416</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736348416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736348416</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2309,7 +2309,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736347168</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736347168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736347168</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2328,7 +2328,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736345136</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736345136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736345136</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2347,7 +2347,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736344000</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736344000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736344000</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2366,7 +2366,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736342816</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736342816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736342816</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2385,7 +2385,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736341504</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736341504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736341504</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2404,7 +2404,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736340336</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736340336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736340336</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2423,7 +2423,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736338176</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736338176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736338176</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2442,7 +2442,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736336912</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736336912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736336912</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2461,7 +2461,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736334448</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736334448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736334448</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2480,7 +2480,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736333072</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736333072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736333072</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2499,7 +2499,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736331360</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736331360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736331360</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2518,7 +2518,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736329616</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736329616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736329616</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2537,7 +2537,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736327520</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736327520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736327520</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2556,7 +2556,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736326144</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736326144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736326144</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2575,7 +2575,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736324960</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736324960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736324960</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2594,7 +2594,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736322480</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736322480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736322480</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2613,7 +2613,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736321296</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736321296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736321296</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2632,7 +2632,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736320112</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736320112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736320112</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2651,7 +2651,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736318672</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736318672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736318672</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2670,7 +2670,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736317488</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736317488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736317488</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2689,7 +2689,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736315056</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736315056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736315056</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2708,7 +2708,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736313792</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736313792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736313792</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2727,7 +2727,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736312608</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736312608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736312608</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2746,7 +2746,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736310560</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736310560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736310560</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2765,7 +2765,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736309248</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736309248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736309248</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2784,7 +2784,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736308000</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736308000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736308000</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2803,7 +2803,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736305136</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736305136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736305136</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2822,7 +2822,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736303904</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736303904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736303904</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2841,7 +2841,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736302704</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736302704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736302704</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2860,7 +2860,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736300800</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736300800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736300800</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2879,7 +2879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736299600</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736299600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736299600</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2898,7 +2898,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736298224</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736298224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736298224</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2917,7 +2917,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736296032</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736296032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736296032</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2936,7 +2936,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736294832</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736294832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736294832</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2955,7 +2955,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736293632</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736293632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736293632</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2974,7 +2974,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736292480</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736292480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736292480</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -2993,7 +2993,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736291248</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736291248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736291248</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -3012,7 +3012,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736289872</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736289872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736289872</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -3031,7 +3031,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736287808</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736287808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736287808</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -3050,7 +3050,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736286448</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736286448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736286448</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -3069,7 +3069,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736284336</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736284336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736284336</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -3088,7 +3088,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736282576</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736282576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736282576</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Enkelte studier</field>
     <field name="author_name">Jørgen Erslev Andersen</field>
@@ -3107,7 +3107,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jpjacobsen-p#idm139718736280288</field>
     <field name="volume_id_ssi">jpjacobsen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/jpjacobsen-p#idm139718736280288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jpjacobsen-p#idm139718736280288</field>
     <field name="volume_title_tesim">J.P. Jacobsen</field>
     <field name="head_tesim">Jørn Erslev Andersen</field>
     <field name="author_name">Jørgen Erslev Andersen</field>

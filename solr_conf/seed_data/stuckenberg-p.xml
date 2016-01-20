@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Viggo Stuckenberg</field>
     <field name="id">stuckenberg-p</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084565472</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084565472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084565472</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Morten Tjalve</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084563344</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084563344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084563344</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Morten Tjalve</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084559856</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084559856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084559856</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Morten Tjalve</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084558752</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084558752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084558752</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Morten Tjalve</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084553120</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084553120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084553120</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Morten Tjalve</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084550944</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084550944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084550944</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084547408</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084547408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084547408</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084546688</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084546688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084546688</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084545648</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084545648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084545648</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084544512</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084544512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084544512</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084538432</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084538432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084538432</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084537440</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084537440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084537440</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -253,7 +253,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084534752</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084534752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084534752</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -275,7 +275,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084532144</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084532144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084532144</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -297,7 +297,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084529504</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084529504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084529504</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -319,7 +319,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084523904</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084523904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084523904</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -338,7 +338,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084522976</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084522976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084522976</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -357,7 +357,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084519696</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084519696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084519696</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -376,7 +376,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084619328</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084619328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084619328</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -395,7 +395,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084498224</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084498224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084498224</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -414,7 +414,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084495008</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084495008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084495008</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -433,7 +433,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084489168</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084489168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084489168</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -452,7 +452,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084486528</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084486528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084486528</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -471,7 +471,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084482832</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084482832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084482832</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -490,7 +490,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084480816</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084480816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084480816</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -509,7 +509,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084478368</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084478368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084478368</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -528,7 +528,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084476016</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084476016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084476016</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -547,7 +547,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084472112</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084472112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084472112</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -566,7 +566,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084470304</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084470304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084470304</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -587,7 +587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084468160</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084468160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084468160</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -608,7 +608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084463392</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084463392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084463392</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -627,7 +627,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084459584</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084459584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084459584</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -646,7 +646,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084457232</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084457232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084457232</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -667,7 +667,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084455104</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084455104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084455104</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -688,7 +688,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084452800</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084452800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084452800</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -708,7 +708,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084450992</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084450992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084450992</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -728,7 +728,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084445856</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084445856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084445856</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -747,7 +747,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084393440</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084393440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084393440</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Tilblivelseshistorie</field>
     <field name="author_name">Morten Tjalve</field>
@@ -766,7 +766,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084379792</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084379792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084379792</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Tilblivelseshistorie</field>
     <field name="author_name">Morten Tjalve</field>
@@ -785,7 +785,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084365872</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084365872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084365872</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Ingeborgs andel i forfatterskabet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -804,7 +804,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084361216</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084361216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084361216</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Ingeborgs andel i forfatterskabet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -823,7 +823,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084357568</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084357568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084357568</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Ingeborgs andel i forfatterskabet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -842,7 +842,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084355840</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084355840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084355840</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Ingeborgs andel i forfatterskabet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -861,7 +861,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084350352</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084350352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084350352</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Digte - den mørke vinter</field>
     <field name="author_name">Morten Tjalve</field>
@@ -880,7 +880,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084347360</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084347360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084347360</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -907,7 +907,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084339712</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084339712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084339712</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Digte - den mørke vinter</field>
     <field name="author_name">Morten Tjalve</field>
@@ -926,7 +926,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084338560</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084338560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084338560</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -948,7 +948,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084335920</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084335920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084335920</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -971,7 +971,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084330176</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084330176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084330176</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Digte - den mørke vinter</field>
     <field name="author_name">Morten Tjalve</field>
@@ -990,7 +990,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084325296</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084325296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084325296</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Flyvende Sommer - lykketemaet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1009,7 +1009,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084321872</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084321872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084321872</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1030,7 +1030,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084319696</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084319696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084319696</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1051,7 +1051,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084314848</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084314848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084314848</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Flyvende Sommer - lykketemaet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1070,7 +1070,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084311824</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084311824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084311824</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1096,7 +1096,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084307232</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084307232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084307232</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Flyvende Sommer - lykketemaet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1115,7 +1115,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084305392</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084305392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084305392</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1141,7 +1141,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084300992</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084300992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084300992</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084296160</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084296160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084296160</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Flyvende Sommer - lykketemaet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084292832</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084292832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084292832</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1211,7 +1211,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084286672</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084286672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084286672</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Flyvende Sommer - lykketemaet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1230,7 +1230,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084284832</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084284832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084284832</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Flyvende Sommer - lykketemaet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1249,7 +1249,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084280960</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084280960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084280960</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Sne - de centrale digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1268,7 +1268,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084279296</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084279296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084279296</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Sne - de centrale digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1287,7 +1287,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084277920</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084277920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084277920</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1308,7 +1308,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084275744</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084275744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084275744</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1329,7 +1329,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084273632</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084273632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084273632</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1350,7 +1350,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084268912</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084268912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084268912</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Sne - de centrale digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1369,7 +1369,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084267552</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084267552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084267552</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1392,7 +1392,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084261872</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084261872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084261872</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Sne - de centrale digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1411,7 +1411,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084260592</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084260592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084260592</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1432,7 +1432,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084255808</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084255808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084255808</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Sne - de centrale digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1451,7 +1451,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084253680</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084253680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084253680</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1473,7 +1473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084251056</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084251056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084251056</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1498,7 +1498,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084247040</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084247040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084247040</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1524,7 +1524,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084242640</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084242640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084242640</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -1548,7 +1548,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084235760</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084235760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084235760</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Sne - de centrale digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1567,7 +1567,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084233120</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084233120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084233120</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Sne - de centrale digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1586,7 +1586,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084227952</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084227952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084227952</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Aarsens Tid og Sidste Digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1605,7 +1605,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084226640</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084226640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084226640</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Aarsens Tid og Sidste Digte</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1624,7 +1624,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084221424</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084221424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084221424</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Prosaen</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1643,7 +1643,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084220304</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084220304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084220304</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Prosaen</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1662,7 +1662,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084215600</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084215600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084215600</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Prosaen</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1681,7 +1681,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084208208</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084208208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084208208</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   I Gennembrud
@@ -1702,7 +1702,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084203488</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084203488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084203488</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   I Gennembrud
@@ -1723,7 +1723,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084197632</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084197632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084197632</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Messias,  Sol og Hjemfalden</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1742,7 +1742,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084193936</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084193936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084193936</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Messias,  Sol og Hjemfalden</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1761,7 +1761,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084190688</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084190688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084190688</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Messias,  Sol og Hjemfalden</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1780,7 +1780,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084186784</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084186784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084186784</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Messias,  Sol og Hjemfalden</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1799,7 +1799,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084182960</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084182960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084182960</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Asmadæus
@@ -1820,7 +1820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084177776</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084177776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084177776</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Asmadæus
@@ -1841,7 +1841,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084170496</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084170496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084170496</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Asmadæus
@@ -1862,7 +1862,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084168272</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084168272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084168272</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Asmadæus
@@ -1883,7 +1883,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084163088</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084163088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084163088</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Vejbred
@@ -1904,7 +1904,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084158048</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084158048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084158048</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Vejbred
@@ -1925,7 +1925,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084150288</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084150288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084150288</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Kærligheden og ægteskabet</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1944,7 +1944,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084142480</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084142480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084142480</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1963,7 +1963,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084138448</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084138448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084138448</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -1982,7 +1982,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084136720</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084136720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084136720</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2001,7 +2001,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084133936</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084133936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084133936</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="author_name">Morten Tjalve</field>
     <field name="author_id_ssi">09919fa97e2b19a6af7c8d18e8262d23</field>
@@ -2035,7 +2035,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084123264</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084123264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084123264</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2054,7 +2054,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084121360</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084121360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084121360</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2073,7 +2073,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084119216</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084119216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084119216</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2092,7 +2092,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084116336</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084116336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084116336</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2111,7 +2111,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084114528</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084114528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084114528</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Gylden Ungdom, Den vilde Jæger og Romerske Scener</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2130,7 +2130,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084107312</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084107312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084107312</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Fagre Ord
@@ -2151,7 +2151,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084104784</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084104784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084104784</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Fagre Ord
@@ -2172,7 +2172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084101728</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084101728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084101728</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Fagre Ord
@@ -2193,7 +2193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084095488</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084095488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084095488</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Fagre Ord
@@ -2214,7 +2214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084089824</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084089824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084089824</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Fagre Ord
@@ -2235,7 +2235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084084032</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084084032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084084032</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Fagre Ord
@@ -2256,7 +2256,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084079488</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084079488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084079488</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Fagre Ord
@@ -2277,7 +2277,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084075888</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084075888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084075888</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Valravn
@@ -2298,7 +2298,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084073536</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084073536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084073536</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Valravn
@@ -2319,7 +2319,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084068880</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084068880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084068880</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Valravn
@@ -2340,7 +2340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084062832</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084062832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084062832</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Valravn
@@ -2361,7 +2361,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084061824</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084061824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084061824</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Valravn
@@ -2382,7 +2382,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084056000</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084056000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084056000</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">
                   Valravn
@@ -2403,7 +2403,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084045680</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084045680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084045680</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2422,7 +2422,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084033712</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084033712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084033712</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2441,7 +2441,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084029840</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084029840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084029840</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2460,7 +2460,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084026784</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084026784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084026784</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2479,7 +2479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084023440</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084023440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084023440</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2498,7 +2498,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084018496</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084018496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084018496</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2517,7 +2517,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084017408</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084017408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084017408</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2536,7 +2536,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084014048</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084014048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084014048</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Forfatterskabets modtagelse og efterliv</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2555,7 +2555,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084011728</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084011728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084011728</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Tekstkritiske oplysninger</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2574,7 +2574,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084008512</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084008512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084008512</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Tekstkritiske oplysninger</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2593,7 +2593,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638084005488</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638084005488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638084005488</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2612,7 +2612,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083999184</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083999184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083999184</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2631,7 +2631,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083997248</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083997248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083997248</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2650,7 +2650,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083996176</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083996176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083996176</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2669,7 +2669,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083995024</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083995024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083995024</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2688,7 +2688,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083993872</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083993872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083993872</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2707,7 +2707,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083991440</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083991440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083991440</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2726,7 +2726,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083990288</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083990288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083990288</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2745,7 +2745,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083989152</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083989152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083989152</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2764,7 +2764,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083988048</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083988048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083988048</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2783,7 +2783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083986912</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083986912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083986912</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2802,7 +2802,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083985760</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083985760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083985760</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2821,7 +2821,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083984624</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083984624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083984624</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2840,7 +2840,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083983504</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083983504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083983504</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2859,7 +2859,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083982368</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083982368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083982368</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2878,7 +2878,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083980576</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083980576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083980576</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2897,7 +2897,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083979440</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083979440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083979440</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2916,7 +2916,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083978304</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083978304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083978304</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2935,7 +2935,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083977200</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083977200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083977200</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2954,7 +2954,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083957424</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083957424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083957424</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2973,7 +2973,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083956240</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083956240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083956240</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -2992,7 +2992,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083955824</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083955824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083955824</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3011,7 +3011,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083954672</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083954672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083954672</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3030,7 +3030,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083953008</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083953008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083953008</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3049,7 +3049,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083951808</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083951808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083951808</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3068,7 +3068,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083950640</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083950640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083950640</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3087,7 +3087,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083947824</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083947824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083947824</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3106,7 +3106,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083946416</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083946416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083946416</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3125,7 +3125,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083945232</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083945232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083945232</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3144,7 +3144,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083943312</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083943312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083943312</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3163,7 +3163,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083941952</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083941952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083941952</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3182,7 +3182,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083940672</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083940672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083940672</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3201,7 +3201,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083939424</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083939424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083939424</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3220,7 +3220,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083938256</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083938256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083938256</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - primærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3239,7 +3239,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083935472</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083935472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083935472</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3258,7 +3258,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083934160</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083934160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083934160</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3277,7 +3277,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083932272</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083932272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083932272</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3296,7 +3296,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083931104</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083931104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083931104</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3315,7 +3315,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083929888</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083929888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083929888</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3334,7 +3334,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083928576</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083928576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083928576</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3353,7 +3353,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083927408</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083927408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083927408</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3372,7 +3372,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083926240</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083926240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083926240</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3391,7 +3391,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083925088</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083925088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083925088</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3410,7 +3410,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083923904</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083923904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083923904</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3429,7 +3429,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083922752</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083922752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083922752</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3448,7 +3448,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083920752</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083920752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083920752</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3467,7 +3467,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083919584</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083919584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083919584</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3486,7 +3486,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083918352</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083918352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083918352</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3505,7 +3505,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083915632</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083915632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083915632</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3524,7 +3524,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083914256</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083914256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083914256</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3543,7 +3543,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083913104</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083913104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083913104</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3562,7 +3562,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083911920</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083911920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083911920</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3581,7 +3581,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083909920</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083909920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083909920</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3600,7 +3600,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083907984</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083907984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083907984</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3619,7 +3619,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083905984</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083905984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083905984</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3638,7 +3638,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083904816</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083904816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083904816</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3657,7 +3657,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083903664</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083903664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083903664</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - sekundærlitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3676,7 +3676,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083900976</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083900976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083900976</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - fiktionslitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3695,7 +3695,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083899840</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083899840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083899840</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - fiktionslitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3714,7 +3714,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083898704</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083898704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083898704</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Litteraturliste - fiktionslitteratur</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3733,7 +3733,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083895984</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083895984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083895984</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3752,7 +3752,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083895600</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083895600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083895600</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3771,7 +3771,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083895104</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083895104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083895104</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3790,7 +3790,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083893920</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083893920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083893920</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3809,7 +3809,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083893424</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083893424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083893424</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3828,7 +3828,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083892800</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083892800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083892800</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3847,7 +3847,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083892160</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083892160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083892160</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3866,7 +3866,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083890928</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083890928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083890928</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3885,7 +3885,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083888304</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083888304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083888304</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3904,7 +3904,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083887168</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083887168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083887168</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3923,7 +3923,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083885072</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083885072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083885072</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3942,7 +3942,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083883856</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083883856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083883856</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3961,7 +3961,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083882704</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083882704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083882704</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3980,7 +3980,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083881440</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083881440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083881440</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -3999,7 +3999,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083879680</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083879680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083879680</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4018,7 +4018,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083877328</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083877328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083877328</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4037,7 +4037,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083876320</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083876320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083876320</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4056,7 +4056,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083875904</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083875904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083875904</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4075,7 +4075,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083865696</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083865696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083865696</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4094,7 +4094,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083862416</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083862416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083862416</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4113,7 +4113,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083856944</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083856944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083856944</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4132,7 +4132,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083856528</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083856528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083856528</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4151,7 +4151,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083856096</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083856096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083856096</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4170,7 +4170,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083855680</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083855680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083855680</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4189,7 +4189,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083854560</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083854560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083854560</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4208,7 +4208,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083854112</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083854112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083854112</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4227,7 +4227,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083852224</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083852224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083852224</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Manuskripter på Det Kongelige Bibliotek</field>
     <field name="author_name">Morten Tjalve</field>
@@ -4246,7 +4246,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stuckenberg-p#idm140638083850400</field>
     <field name="volume_id_ssi">stuckenberg-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/stuckenberg-p#idm140638083850400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stuckenberg-p#idm140638083850400</field>
     <field name="volume_title_tesim">Viggo Stuckenberg</field>
     <field name="head_tesim">Morten Tjalve</field>
     <field name="author_name">Morten Tjalve</field>

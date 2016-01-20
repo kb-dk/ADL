@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
     <field name="id">munp3</field>
     <field name="volume_id_ssi">munp3</field>
-    <field name="url_ssi">http://adl2.kb.dk/munp3#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/munp3#</field>
     <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
     <field name="author_name">Munch-Petersen, Gustaf</field>
     <field name="author_id_ssi">80b3d97f946e6f751d1ff6e93b3d2d9c</field>
@@ -24,7 +24,7 @@
     <field name="work_title_tesim">et indiskret svar paa et diskret spørgsmaal - upubliceret, 1931</field>
     <field name="id">munp3#workid54091</field>
     <field name="volume_id_ssi">munp3</field>
-    <field name="url_ssi">http://adl2.kb.dk/munp3#workid54091</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/munp3#workid54091</field>
     <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
     <field name="head_tesim">Upubliceret</field>
     <field name="author_name">Munch-Petersen, Gustaf</field>
@@ -42,7 +42,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">munp3#idm139786700562640</field>
     <field name="volume_id_ssi">munp3</field>
-    <field name="url_ssi">http://adl2.kb.dk/munp3#idm139786700562640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/munp3#idm139786700562640</field>
     <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
     <field name="head_tesim">et indiskret svar paa et diskret spørgsmaal
 	  

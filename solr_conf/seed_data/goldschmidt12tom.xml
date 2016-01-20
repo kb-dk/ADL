@@ -6,7 +6,7 @@
     <field name="work_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
     <field name="id">goldschmidt12tom</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">ssa</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Smaa Fortællinger</field>
     <field name="id">goldschmidt12tom#workid54263</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid54263</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid54263</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">ss1</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Maser</field>
     <field name="id">goldschmidt12tom#workid54287</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid54287</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid54287</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">ss3</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -68,7 +68,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252666384</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252666384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252666384</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">ss52</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -93,7 +93,7 @@
     <field name="work_title_tesim">Levi og Ibald</field>
     <field name="id">goldschmidt12tom#workid54937</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid54937</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid54937</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">ss53</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -114,7 +114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252597376</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252597376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252597376</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">ss106</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -139,7 +139,7 @@
     <field name="work_title_tesim">Den flyvende Post</field>
     <field name="id">goldschmidt12tom#workid55498</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid55498</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid55498</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">ss107</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -160,7 +160,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252545712</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252545712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252545712</field>
     <field name="page_ssi">148</field>
     <field name="page_id_ssi">ss148</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -185,7 +185,7 @@
     <field name="work_title_tesim">Hævnen</field>
     <field name="id">goldschmidt12tom#workid55926</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid55926</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid55926</field>
     <field name="page_ssi">149</field>
     <field name="page_id_ssi">ss149</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -206,7 +206,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252478560</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252478560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252478560</field>
     <field name="page_ssi">202</field>
     <field name="page_id_ssi">ss202</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -231,7 +231,7 @@
     <field name="work_title_tesim">Bjergtagen. I.</field>
     <field name="id">goldschmidt12tom#workid56473</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid56473</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid56473</field>
     <field name="page_ssi">203</field>
     <field name="page_id_ssi">ss203</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -252,7 +252,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252455552</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252455552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252455552</field>
     <field name="page_ssi">220</field>
     <field name="page_id_ssi">ss220</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -277,7 +277,7 @@
     <field name="work_title_tesim">Bjergtagen. II.</field>
     <field name="id">goldschmidt12tom#workid56658</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid56658</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid56658</field>
     <field name="page_ssi">221</field>
     <field name="page_id_ssi">ss221</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -298,7 +298,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252434816</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252434816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252434816</field>
     <field name="page_ssi">236</field>
     <field name="page_id_ssi">ss236</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -323,7 +323,7 @@
     <field name="work_title_tesim">I en Postvogn</field>
     <field name="id">goldschmidt12tom#workid56823</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid56823</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid56823</field>
     <field name="page_ssi">237</field>
     <field name="page_id_ssi">ss237</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -344,7 +344,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252391936</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252391936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252391936</field>
     <field name="page_ssi">270</field>
     <field name="page_id_ssi">ss270</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -369,7 +369,7 @@
     <field name="work_title_tesim">Ekko'et</field>
     <field name="id">goldschmidt12tom#workid57171</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid57171</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid57171</field>
     <field name="page_ssi">271</field>
     <field name="page_id_ssi">ss271</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -390,7 +390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252262672</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252262672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252262672</field>
     <field name="page_ssi">394</field>
     <field name="page_id_ssi">ss394</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -415,7 +415,7 @@
     <field name="work_title_tesim">Avrohmche Nattergal</field>
     <field name="id">goldschmidt12tom#workid58234</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#workid58234</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#workid58234</field>
     <field name="page_ssi">395</field>
     <field name="page_id_ssi">ss395</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>
@@ -436,7 +436,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">goldschmidt12tom#idm139899252202976</field>
     <field name="volume_id_ssi">goldschmidt12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/goldschmidt12tom#idm139899252202976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/goldschmidt12tom#idm139899252202976</field>
     <field name="page_ssi">443</field>
     <field name="page_id_ssi">ss443</field>
     <field name="volume_title_tesim">M. Goldschmidts Poetiske Skrifter</field>

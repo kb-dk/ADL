@@ -6,7 +6,7 @@
     <field name="work_title_tesim">samlede skrifter af Forf</field>
     <field name="id">gyllem11tom</field>
     <field name="volume_id_ssi">gyllem11tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem11tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem11tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm139854786945152</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Korsveien (1844)</field>
     <field name="id">gyllem11tom#workid54255</field>
     <field name="volume_id_ssi">gyllem11tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem11tom#workid54255</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem11tom#workid54255</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Castor og Pollux (1844)</field>
     <field name="id">gyllem11tom#workid56507</field>
     <field name="volume_id_ssi">gyllem11tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem11tom#workid56507</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem11tom#workid56507</field>
     <field name="page_ssi">211</field>
     <field name="page_id_ssi">n211</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>

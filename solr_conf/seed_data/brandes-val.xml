@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Georg Brandes</field>
     <field name="id">brandes-val</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="author_name">Jørgen Knudsen</field>
     <field name="author_id_ssi">6ae71ff45f99f90ac242b46771af925b</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658044096</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658044096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658044096</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658043040</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658043040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658043040</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658040800</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658040800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658040800</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658038384</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658038384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658038384</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658036384</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658036384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658036384</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658034576</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658034576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658034576</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658015984</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658015984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658015984</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658014208</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658014208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658014208</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658009344</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658009344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658009344</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658008224</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658008224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658008224</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658007424</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658007424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658007424</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658003632</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658003632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658003632</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658002752</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658002752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658002752</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657999536</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657999536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657999536</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658102384</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658102384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658102384</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658101328</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658101328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658101328</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Barndom og ungdom</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696658096464</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696658096464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696658096464</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Kærlighed og udlandsrejse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657978304</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657978304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657978304</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Kærlighed og udlandsrejse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657974688</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657974688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657974688</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Kærlighed og udlandsrejse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657973616</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657973616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657973616</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Kærlighed og udlandsrejse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657969648</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657969648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657969648</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Kærlighed og udlandsrejse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657968528</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657968528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657968528</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Kærlighed og udlandsrejse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657964960</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657964960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657964960</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Kærlighed og udlandsrejse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657945296</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657945296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657945296</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Gennembrud og modgang</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657942192</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657942192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657942192</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Gennembrud og modgang</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657936784</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657936784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657936784</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Gennembrud og modgang</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657921792</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657921792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657921792</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657914448</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657914448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657914448</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657911472</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657911472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657911472</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657905504</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657905504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657905504</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657899872</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657899872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657899872</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657898832</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657898832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657898832</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657897776</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657897776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657897776</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657894880</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657894880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657894880</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657892752</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657892752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657892752</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657891728</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657891728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657891728</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657890720</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657890720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657890720</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657888544</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657888544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657888544</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Flere Hovedstrømninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657884768</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657884768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657884768</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657882976</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657882976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657882976</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657880080</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657880080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657880080</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657877456</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657877456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657877456</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657875552</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657875552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657875552</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657872176</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657872176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657872176</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657868384</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657868384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657868384</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657862928</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657862928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657862928</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657857760</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657857760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657857760</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657855920</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657855920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657855920</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657851968</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657851968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657851968</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Produktivt eksil</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657848336</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657848336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657848336</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Glad hjemkomst til ny skuffelse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657843568</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657843568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657843568</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Glad hjemkomst til ny skuffelse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657837488</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657837488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657837488</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Glad hjemkomst til ny skuffelse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657834336</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657834336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657834336</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Glad hjemkomst til ny skuffelse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657833456</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657833456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657833456</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Glad hjemkomst til ny skuffelse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657829840</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657829840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657829840</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Glad hjemkomst til ny skuffelse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657819824</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657819824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657819824</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Glad hjemkomst til ny skuffelse</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657816432</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657816432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657816432</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Sortsyn og sædelighedskamp, Polen og Rusland</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657814016</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657814016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657814016</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Sortsyn og sædelighedskamp, Polen og Rusland</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657811552</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657811552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657811552</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Sortsyn og sædelighedskamp, Polen og Rusland</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657806560</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657806560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657806560</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Sortsyn og sædelighedskamp, Polen og Rusland</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657800544</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657800544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657800544</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Sortsyn og sædelighedskamp, Polen og Rusland</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657795088</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657795088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657795088</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Sortsyn og sædelighedskamp, Polen og Rusland</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657794544</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657794544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657794544</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Sortsyn og sædelighedskamp, Polen og Rusland</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657788528</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657788528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657788528</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657783392</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657783392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657783392</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657780016</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657780016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657780016</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657775056</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657775056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657775056</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657772816</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657772816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657772816</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657768080</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657768080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657768080</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657764384</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657764384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657764384</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657762208</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657762208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657762208</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Nietzsche, Det store Menneske og Hovedstrømningernes afslutning </field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657760112</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657760112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657760112</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Hyldest til åndens høvding</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657747776</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657747776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657747776</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Hyldest til åndens høvding</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657743872</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657743872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657743872</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">William Shakespeare, Samlede Skrifter, forfulgte folkeslag</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657735344</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657735344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657735344</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">William Shakespeare, Samlede Skrifter, forfulgte folkeslag</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657733440</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657733440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657733440</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">William Shakespeare, Samlede Skrifter, forfulgte folkeslag</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1466,7 +1466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657731504</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657731504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657731504</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">William Shakespeare, Samlede Skrifter, forfulgte folkeslag</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657729600</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657729600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657729600</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">William Shakespeare, Samlede Skrifter, forfulgte folkeslag</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657723072</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657723072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657723072</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">William Shakespeare, Samlede Skrifter, forfulgte folkeslag</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1523,7 +1523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657717856</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657717856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657717856</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Stædig opposition efter systemskiftet</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1542,7 +1542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657707920</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657707920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657707920</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Stædig opposition efter systemskiftet</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1561,7 +1561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657704512</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657704512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657704512</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Stædig opposition efter systemskiftet</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1580,7 +1580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657700480</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657700480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657700480</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Stædig opposition efter systemskiftet</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1599,7 +1599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657693424</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657693424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657693424</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Verdenskrigen og de fire store biografier</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1618,7 +1618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657690032</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657690032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657690032</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Verdenskrigen og de fire store biografier</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1637,7 +1637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657687520</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657687520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657687520</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Verdenskrigen og de fire store biografier</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1656,7 +1656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657682592</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657682592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657682592</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Verdenskrigen og de fire store biografier</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1675,7 +1675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657679424</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657679424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657679424</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Verdenskrigen og de fire store biografier</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1694,7 +1694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657677680</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657677680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657677680</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Verdenskrigen og de fire store biografier</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1713,7 +1713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657673664</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657673664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657673664</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">De sidste stædige år</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1732,7 +1732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657668800</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657668800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657668800</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">De sidste stædige år</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1751,7 +1751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657666496</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657666496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657666496</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">De sidste stædige år</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1770,7 +1770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657663952</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657663952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657663952</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">De sidste stædige år</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1789,7 +1789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657662176</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657662176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657662176</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1808,7 +1808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657661280</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657661280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657661280</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1827,7 +1827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657655232</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657655232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657655232</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Annoteret bibliografi</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1846,7 +1846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657654304</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657654304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657654304</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Annoteret bibliografi</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1865,7 +1865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657652384</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657652384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657652384</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brev- og bogudgivelser</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657639312</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657639312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657639312</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brev- og bogudgivelser</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657624560</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657624560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657624560</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brev- og bogudgivelser</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1922,7 +1922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657617584</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657617584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657617584</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1941,7 +1941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657613424</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657613424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657613424</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1960,7 +1960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657608784</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657608784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657608784</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1979,7 +1979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657603856</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657603856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657603856</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657602960</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657602960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657602960</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2017,7 +2017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657601872</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657601872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657601872</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2036,7 +2036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657600144</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657600144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657600144</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657598976</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657598976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657598976</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2074,7 +2074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657596640</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657596640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657596640</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2093,7 +2093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657594320</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657594320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657594320</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2112,7 +2112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657593376</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657593376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657593376</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2131,7 +2131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657588528</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657588528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657588528</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2150,7 +2150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657586944</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657586944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657586944</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657582976</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657582976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657582976</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Vurderinger</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2188,7 +2188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657579008</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657579008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657579008</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657577776</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657577776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657577776</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2226,7 +2226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657576928</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657576928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657576928</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2245,7 +2245,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657575056</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657575056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657575056</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2264,7 +2264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657574240</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657574240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657574240</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2283,7 +2283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657570016</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657570016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657570016</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2302,7 +2302,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657568464</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657568464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657568464</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657566976</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657566976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657566976</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2340,7 +2340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657563184</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657563184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657563184</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2359,7 +2359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657560688</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657560688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657560688</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2378,7 +2378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657557552</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657557552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657557552</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2397,7 +2397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657555520</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657555520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657555520</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2416,7 +2416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657554176</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657554176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657554176</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2435,7 +2435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657549536</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657549536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657549536</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2454,7 +2454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657548096</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657548096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657548096</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2473,7 +2473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657547088</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657547088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657547088</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2492,7 +2492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657542672</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657542672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657542672</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2511,7 +2511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657539328</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657539328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657539328</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2530,7 +2530,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657537632</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657537632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657537632</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2549,7 +2549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657536272</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657536272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657536272</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2568,7 +2568,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657531280</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657531280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657531280</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2587,7 +2587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657529872</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657529872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657529872</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2606,7 +2606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657527808</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657527808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657527808</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2625,7 +2625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657526160</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657526160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657526160</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2644,7 +2644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657525008</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657525008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657525008</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>
@@ -2663,7 +2663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brandes-val#idm140696657523856</field>
     <field name="volume_id_ssi">brandes-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes-val#idm140696657523856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes-val#idm140696657523856</field>
     <field name="volume_title_tesim">Georg Brandes</field>
     <field name="head_tesim">Brandes-forskning</field>
     <field name="author_name">Jørgen Knudsen</field>

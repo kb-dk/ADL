@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Saxo</field>
     <field name="id">saxo-p-val</field>
     <field name="volume_id_ssi">saxo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/saxo-p-val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#</field>
     <field name="volume_title_tesim">Saxo</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">saxo-p-val#idm140020983661280</field>
     <field name="volume_id_ssi">saxo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/saxo-p-val#idm140020983661280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983661280</field>
     <field name="volume_title_tesim">Saxo</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -47,7 +47,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">saxo-p-val#idm140020983657440</field>
     <field name="volume_id_ssi">saxo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/saxo-p-val#idm140020983657440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983657440</field>
     <field name="volume_title_tesim">Saxo</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -72,7 +72,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">saxo-p-val#idm140020983652896</field>
     <field name="volume_id_ssi">saxo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/saxo-p-val#idm140020983652896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983652896</field>
     <field name="volume_title_tesim">Saxo</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -106,7 +106,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">saxo-p-val#idm140020983632960</field>
     <field name="volume_id_ssi">saxo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/saxo-p-val#idm140020983632960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/saxo-p-val#idm140020983632960</field>
     <field name="volume_title_tesim">Saxo</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>

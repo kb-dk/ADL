@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Romaner og Fortællinger, bind 2A</field>
     <field name="id">knud04atom</field>
     <field name="volume_id_ssi">knud04atom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud04atom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud04atom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm140576200642864</field>
     <field name="volume_title_tesim">Romaner og Fortællinger, bind 2A</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Gjæring</field>
     <field name="id">knud04atom#workid54241</field>
     <field name="volume_id_ssi">knud04atom</field>
-    <field name="url_ssi">http://adl2.kb.dk/knud04atom#workid54241</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/knud04atom#workid54241</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">Romaner og Fortællinger, bind 2A</field>

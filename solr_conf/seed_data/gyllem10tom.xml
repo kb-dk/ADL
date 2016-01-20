@@ -6,7 +6,7 @@
     <field name="work_title_tesim">samlede skrifter af Forf</field>
     <field name="id">gyllem10tom</field>
     <field name="volume_id_ssi">gyllem10tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem10tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem10tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm139655190728688</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Nær og Fjern (1841)</field>
     <field name="id">gyllem10tom#workid54255</field>
     <field name="volume_id_ssi">gyllem10tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem10tom#workid54255</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem10tom#workid54255</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">En Brevveksling (1843)</field>
     <field name="id">gyllem10tom#workid56465</field>
     <field name="volume_id_ssi">gyllem10tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/gyllem10tom#workid56465</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/gyllem10tom#workid56465</field>
     <field name="page_ssi">207</field>
     <field name="page_id_ssi">n207</field>
     <field name="volume_title_tesim">samlede skrifter af Forf</field>

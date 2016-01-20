@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Slægten. 1967</field>
     <field name="id">wied06val</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm140460780555392</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">SLÆGTEN</field>
     <field name="id">wied06val#workid54308</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#workid54308</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#workid54308</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">idm140460780532992</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -45,7 +45,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460779567872</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460779567872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460779567872</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">idm140460779575152</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -68,7 +68,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460779565552</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460779565552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460779565552</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">idm140460779575152</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -91,7 +91,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460779563040</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460779563040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460779563040</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">idm140460779575152</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -114,7 +114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778936208</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778936208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778936208</field>
     <field name="page_ssi">166</field>
     <field name="page_id_ssi">idm140460778939024</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -137,7 +137,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778932832</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778932832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778932832</field>
     <field name="page_ssi">166</field>
     <field name="page_id_ssi">idm140460778939024</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -160,7 +160,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778922224</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778922224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778922224</field>
     <field name="page_ssi">168</field>
     <field name="page_id_ssi">idm140460778924304</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -184,7 +184,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778862128</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778862128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778862128</field>
     <field name="page_ssi">174</field>
     <field name="page_id_ssi">idm140460778873328</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -214,7 +214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778725776</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778725776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778725776</field>
     <field name="page_ssi">187</field>
     <field name="page_id_ssi">idm140460778727328</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -237,7 +237,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778679904</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778679904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778679904</field>
     <field name="page_ssi">192</field>
     <field name="page_id_ssi">idm140460778682912</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -260,7 +260,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778673952</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778673952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778673952</field>
     <field name="page_ssi">192</field>
     <field name="page_id_ssi">idm140460778682912</field>
     <field name="volume_title_tesim">Slægten. 1967</field>
@@ -283,7 +283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">wied06val#idm140460778655872</field>
     <field name="volume_id_ssi">wied06val</field>
-    <field name="url_ssi">http://adl2.kb.dk/wied06val#idm140460778655872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/wied06val#idm140460778655872</field>
     <field name="page_ssi">194</field>
     <field name="page_id_ssi">idm140460778657184</field>
     <field name="volume_title_tesim">Slægten. 1967</field>

@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Moralske Fortællinger 1761-1805</field>
     <field name="id">biehl07tom</field>
     <field name="volume_id_ssi">biehl07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl07tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl07tom#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">Moralske Fortællinger 1761-1805</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Den Foranderlige</field>
     <field name="id">biehl07tom#workid54265</field>
     <field name="volume_id_ssi">biehl07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl07tom#workid54265</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl07tom#workid54265</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">n52</field>
     <field name="volume_title_tesim">Moralske Fortællinger 1761-1805</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Den Unge Wartwig</field>
     <field name="id">biehl07tom#workid53741</field>
     <field name="volume_id_ssi">biehl07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl07tom#workid53741</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl07tom#workid53741</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">n97</field>
     <field name="volume_title_tesim">Moralske Fortællinger 1761-1805</field>

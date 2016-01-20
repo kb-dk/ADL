@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Peter Nansen</field>
     <field name="id">nansen-p</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="author_name">Sten Rasmussen</field>
     <field name="author_id_ssi">5e7c56679a252de37c288579a7c6b46b</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488692112</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488692112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488692112</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488690752</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488690752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488690752</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488686656</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488686656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488686656</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488685600</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488685600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488685600</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488683552</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488683552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488683552</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488663056</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488663056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488663056</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488661184</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488661184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488661184</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488655920</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488655920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488655920</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488654912</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488654912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488654912</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488653872</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488653872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488653872</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488747712</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488747712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488747712</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488746736</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488746736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488746736</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488745696</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488745696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488745696</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488632416</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488632416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488632416</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Slægt og barndom</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488629904</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488629904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488629904</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488629040</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488629040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488629040</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488628096</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488628096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488628096</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488623200</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488623200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488623200</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488618960</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488618960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488618960</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488617280</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488617280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488617280</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488615840</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488615840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488615840</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488614016</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488614016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488614016</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488612912</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488612912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488612912</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488608544</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488608544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488608544</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488606960</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488606960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488606960</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488599136</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488599136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488599136</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Ungdom og journalistisk karriere</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488594992</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488594992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488594992</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Gyldendal</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488593872</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488593872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488593872</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Gyldendal</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488592032</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488592032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488592032</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Gyldendal</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488589776</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488589776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488589776</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Gyldendal</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488586160</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488586160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488586160</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Gyldendal</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488576224</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488576224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488576224</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488575264</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488575264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488575264</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488569584</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488569584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488569584</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488565168</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488565168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488565168</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488559264</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488559264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488559264</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488558192</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488558192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488558192</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488557184</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488557184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488557184</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488548400</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488548400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488548400</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488546592</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488546592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488546592</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488544736</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488544736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488544736</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488543088</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488543088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488543088</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488540496</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488540496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488540496</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488533840</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488533840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488533840</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488532208</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488532208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488532208</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488530432</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488530432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488530432</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488529568</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488529568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488529568</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488522288</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488522288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488522288</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488520448</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488520448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488520448</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488517920</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488517920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488517920</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488516224</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488516224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488516224</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488514416</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488514416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488514416</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Mindre skrifter: Noveller og journalistisk kronikvirksomhed</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488507904</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488507904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488507904</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sceniske arbejder</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488504288</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488504288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488504288</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sceniske arbejder</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488499248</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488499248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488499248</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sceniske arbejder</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488496992</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488496992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488496992</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sceniske arbejder</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488494240</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488494240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488494240</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sceniske arbejder</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488491792</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488491792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488491792</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488490784</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488490784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488490784</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488489232</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488489232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488489232</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488488240</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488488240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488488240</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488485856</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488485856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488485856</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488478928</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488478928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488478928</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488477904</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488477904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488477904</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488473856</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488473856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488473856</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488470688</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488470688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488470688</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488469648</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488469648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488469648</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488467424</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488467424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488467424</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488464176</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488464176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488464176</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488459184</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488459184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488459184</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488458160</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488458160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488458160</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488457728</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488457728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488457728</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488457232</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488457232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488457232</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488456400</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488456400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488456400</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488455504</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488455504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488455504</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488454784</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488454784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488454784</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1466,7 +1466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488453024</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488453024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488453024</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488445168</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488445168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488445168</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488442144</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488442144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488442144</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1523,7 +1523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488439984</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488439984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488439984</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1542,7 +1542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488433616</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488433616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488433616</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1561,7 +1561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488430976</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488430976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488430976</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1580,7 +1580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488429024</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488429024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488429024</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1599,7 +1599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488420912</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488420912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488420912</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1618,7 +1618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488417584</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488417584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488417584</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1637,7 +1637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488416560</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488416560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488416560</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1656,7 +1656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488411952</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488411952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488411952</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1675,7 +1675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488409584</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488409584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488409584</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1694,7 +1694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488403200</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488403200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488403200</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1713,7 +1713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488399728</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488399728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488399728</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1732,7 +1732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488399072</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488399072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488399072</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1751,7 +1751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488397872</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488397872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488397872</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1770,7 +1770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488396768</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488396768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488396768</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1789,7 +1789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488395792</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488395792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488395792</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1808,7 +1808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488394720</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488394720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488394720</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1827,7 +1827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488389456</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488389456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488389456</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Romaner</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1846,7 +1846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488383904</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488383904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488383904</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1865,7 +1865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488383040</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488383040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488383040</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488379984</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488379984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488379984</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488378000</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488378000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488378000</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1922,7 +1922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488377104</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488377104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488377104</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1941,7 +1941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488374304</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488374304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488374304</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1960,7 +1960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488373312</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488373312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488373312</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1979,7 +1979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488372304</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488372304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488372304</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sammenfatning</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488368272</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488368272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488368272</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2017,7 +2017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488365600</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488365600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488365600</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2036,7 +2036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488363552</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488363552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488363552</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488362464</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488362464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488362464</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2074,7 +2074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488358160</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488358160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488358160</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2093,7 +2093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488355984</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488355984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488355984</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2112,7 +2112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488354976</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488354976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488354976</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2131,7 +2131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488353856</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488353856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488353856</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2150,7 +2150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488350992</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488350992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488350992</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488347536</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488347536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488347536</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2188,7 +2188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488341136</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488341136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488341136</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Generelt</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488336544</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488336544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488336544</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Generelt</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2226,7 +2226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488335200</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488335200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488335200</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Generelt</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2245,7 +2245,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488333488</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488333488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488333488</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Generelt</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2264,7 +2264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488330496</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488330496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488330496</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2283,7 +2283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488328496</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488328496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488328496</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2302,7 +2302,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488326096</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488326096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488326096</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488324224</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488324224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488324224</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2340,7 +2340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488322992</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488322992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488322992</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2359,7 +2359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488321424</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488321424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488321424</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2378,7 +2378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488318848</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488318848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488318848</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2397,7 +2397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488316528</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488316528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488316528</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Specielle aspekter</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2416,7 +2416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488313680</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488313680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488313680</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2435,7 +2435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488311472</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488311472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488311472</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Sten Rasmussen</field>
@@ -2454,7 +2454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">nansen-p#idm140083488309936</field>
     <field name="volume_id_ssi">nansen-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/nansen-p#idm140083488309936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/nansen-p#idm140083488309936</field>
     <field name="volume_title_tesim">Peter Nansen</field>
     <field name="head_tesim">Sten Rasmussen</field>
     <field name="author_name">Sten Rasmussen</field>

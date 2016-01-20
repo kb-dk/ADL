@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Ludvig Holberg</field>
     <field name="id">holberg--p-val</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="author_name">Jens Kristian Andersen</field>
     <field name="author_id_ssi">575eff79ff6f37010bfc382ed956db47</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997852912</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997852912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997852912</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Ludvig Holberg</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997848560</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997848560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997848560</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997846048</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997846048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997846048</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997843824</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997843824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997843824</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997841184</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997841184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997841184</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997834336</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997834336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997834336</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997831552</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997831552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997831552</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Biografisk overblik</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997829504</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997829504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997829504</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Biografisk overblik</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997828768</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997828768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997828768</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Biografisk overblik</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997826256</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997826256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997826256</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Biografisk overblik</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997823904</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997823904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997823904</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Biografisk overblik</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997821568</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997821568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997821568</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Biografisk overblik</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997819632</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997819632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997819632</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Biografisk overblik</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997788736</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997788736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997788736</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Kronologisk og genremæssig oversigt:</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997785936</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997785936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997785936</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Kronologisk og genremæssig oversigt:</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997779920</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997779920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997779920</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Kronologisk og genremæssig oversigt:</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997774096</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997774096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997774096</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Kronologisk og genremæssig oversigt:</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997765184</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997765184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997765184</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Kronologisk og genremæssig oversigt:</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997761248</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997761248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997761248</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Tilblivelseshistorie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997759328</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997759328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997759328</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Tilblivelseshistorie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997757712</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997757712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997757712</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Tilblivelseshistorie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997756144</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997756144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997756144</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Tilblivelseshistorie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997751456</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997751456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997751456</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Tilblivelseshistorie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997746192</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997746192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997746192</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997745104</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997745104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997745104</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997744480</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997744480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997744480</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997743664</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997743664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997743664</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997742848</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997742848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997742848</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997741472</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997741472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997741472</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997740656</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997740656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997740656</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997739840</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997739840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997739840</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997738848</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997738848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997738848</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997738032</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997738032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997738032</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997737216</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997737216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997737216</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997736400</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997736400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997736400</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997735568</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997735568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997735568</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997734752</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997734752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997734752</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997734368</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997734368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997734368</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997906256</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997906256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997906256</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997903824</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997903824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997903824</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997902752</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997902752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997902752</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997717216</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997717216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997717216</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997716096</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997716096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997716096</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997713984</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997713984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997713984</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997711776</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997711776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997711776</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997711280</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997711280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997711280</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997710528</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997710528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997710528</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997709712</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997709712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997709712</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997708896</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997708896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997708896</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997708080</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997708080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997708080</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997707264</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997707264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997707264</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997706448</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997706448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997706448</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997705632</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997705632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997705632</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997704784</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997704784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997704784</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997704000</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997704000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997704000</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997703136</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997703136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997703136</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997702304</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997702304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997702304</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997701440</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997701440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997701440</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997700624</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997700624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997700624</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997699648</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997699648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997699648</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997698144</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997698144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997698144</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997696976</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997696976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997696976</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs komedier - en gruppering</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1200,7 +1200,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997689664</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997689664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997689664</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Holbergs forhold til religion og videnskab</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1219,7 +1219,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997687664</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997687664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997687664</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1238,7 +1238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997687136</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997687136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997687136</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997683824</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997683824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997683824</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997682320</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997682320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997682320</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1295,7 +1295,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997680512</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997680512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997680512</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997678976</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997678976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997678976</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997677120</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997677120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997677120</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997676208</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997676208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997676208</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997673136</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997673136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997673136</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997670560</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997670560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997670560</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Religion</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997667792</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997667792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997667792</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Videnskaber</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997664416</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997664416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997664416</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Filosofi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997663488</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997663488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997663488</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Filosofi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1466,7 +1466,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997654624</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997654624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997654624</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Naturvidenskab</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997651376</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997651376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997651376</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Naturvidenskab</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997646240</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997646240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997646240</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Naturvidenskab</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1523,7 +1523,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997643936</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997643936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997643936</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Historie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1542,7 +1542,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997638688</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997638688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997638688</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Historie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1561,7 +1561,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997636224</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997636224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997636224</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Historie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1580,7 +1580,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997635216</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997635216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997635216</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Historie</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1599,7 +1599,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997628944</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997628944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997628944</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Jura</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1618,7 +1618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997623744</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997623744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997623744</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Jura</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1637,7 +1637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997621680</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997621680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997621680</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Jura</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1656,7 +1656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997618608</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997618608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997618608</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1675,7 +1675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997616752</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997616752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997616752</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1694,7 +1694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997614720</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997614720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997614720</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1713,7 +1713,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997613856</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997613856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997613856</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1732,7 +1732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997611680</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997611680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997611680</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1751,7 +1751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997610512</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997610512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997610512</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1770,7 +1770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997609680</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997609680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997609680</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1789,7 +1789,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997607104</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997607104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997607104</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1808,7 +1808,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997605056</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997605056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997605056</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Økonomi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1827,7 +1827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997603504</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997603504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997603504</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1846,7 +1846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997602480</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997602480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997602480</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1865,7 +1865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997598416</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997598416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997598416</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997593792</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997593792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997593792</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997589536</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997589536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997589536</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1922,7 +1922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997588416</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997588416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997588416</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1941,7 +1941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997587312</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997587312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997587312</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1960,7 +1960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997586368</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997586368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997586368</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1979,7 +1979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997580720</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997580720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997580720</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Textkritiske oplysninger</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997572640</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997572640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997572640</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Annoteret bibliografi</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2017,7 +2017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997567952</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997567952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997567952</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2036,7 +2036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997553488</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997553488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997553488</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997547456</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997547456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997547456</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Behandlinger af forfatterskabet</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2074,7 +2074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997542480</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997542480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997542480</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Behandlinger af forfatterskabet</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2093,7 +2093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997533488</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997533488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997533488</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Behandlinger af forfatterskabet</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2112,7 +2112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997521056</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997521056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997521056</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Behandlinger af forfatterskabet</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2131,7 +2131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997518944</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997518944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997518944</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Behandlinger af forfatterskabet</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2150,7 +2150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997514880</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997514880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997514880</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Behandlinger af forfatterskabet</field>
     <field name="author_name">Jens Kristian Andersen</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">holberg--p-val#idm140449997513504</field>
     <field name="volume_id_ssi">holberg--p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/holberg--p-val#idm140449997513504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/holberg--p-val#idm140449997513504</field>
     <field name="volume_title_tesim">Ludvig Holberg</field>
     <field name="head_tesim">Behandlinger af forfatterskabet</field>
     <field name="author_name">Jens Kristian Andersen</field>

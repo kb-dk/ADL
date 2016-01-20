@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Digte</field>
     <field name="id">rode_02</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Digte</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Digte</field>
     <field name="id">rode_02#workid54087</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid54087</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid54087</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Digte</field>
@@ -45,7 +45,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244206448</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244206448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244206448</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Digte</field>
@@ -67,7 +67,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244198560</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244198560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244198560</field>
     <field name="page_ssi">4</field>
     <field name="page_id_ssi">s4</field>
     <field name="volume_title_tesim">Digte</field>
@@ -91,7 +91,7 @@
     <field name="work_title_tesim">Delfin</field>
     <field name="id">rode_02#workid54788</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid54788</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid54788</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Digte</field>
@@ -113,7 +113,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244157456</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244157456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244157456</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Digte</field>
@@ -144,7 +144,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244153664</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244153664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244153664</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Digte</field>
@@ -173,7 +173,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244149472</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244149472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244149472</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Digte</field>
@@ -203,7 +203,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244146112</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244146112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244146112</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Digte</field>
@@ -233,7 +233,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244142656</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244142656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244142656</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Digte</field>
@@ -265,7 +265,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244137152</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244137152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244137152</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Digte</field>
@@ -292,7 +292,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244134976</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244134976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244134976</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Digte</field>
@@ -319,7 +319,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244132688</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244132688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244132688</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Digte</field>
@@ -346,7 +346,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244130512</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244130512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244130512</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Digte</field>
@@ -375,7 +375,7 @@
     <field name="work_title_tesim">Saa skær en Jomfru</field>
     <field name="id">rode_02#workid55042</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55042</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55042</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Digte</field>
@@ -397,7 +397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244125696</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244125696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244125696</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Digte</field>
@@ -424,7 +424,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244123488</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244123488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244123488</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Digte</field>
@@ -451,7 +451,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244121312</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244121312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244121312</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Digte</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244117968</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244117968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244117968</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Digte</field>
@@ -505,7 +505,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244115824</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244115824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244115824</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Digte</field>
@@ -532,7 +532,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244113616</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244113616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244113616</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Digte</field>
@@ -559,7 +559,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244111440</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244111440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244111440</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Digte</field>
@@ -586,7 +586,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244109280</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244109280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244109280</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Digte</field>
@@ -613,7 +613,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244106064</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244106064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244106064</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Digte</field>
@@ -640,7 +640,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244103984</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244103984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244103984</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Digte</field>
@@ -667,7 +667,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244101872</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244101872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244101872</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Digte</field>
@@ -694,7 +694,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244099728</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244099728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244099728</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Digte</field>
@@ -723,7 +723,7 @@
     <field name="work_title_tesim">Stjernenat</field>
     <field name="id">rode_02#workid55291</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55291</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55291</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Digte</field>
@@ -745,7 +745,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244094976</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244094976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244094976</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Digte</field>
@@ -774,7 +774,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244091936</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244091936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244091936</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Digte</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244089760</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244089760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244089760</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Digte</field>
@@ -830,7 +830,7 @@
     <field name="work_title_tesim">Oh, Menneske</field>
     <field name="id">rode_02#workid55369</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55369</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55369</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Digte</field>
@@ -852,7 +852,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244085072</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244085072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244085072</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Digte</field>
@@ -879,7 +879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244082896</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244082896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244082896</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Digte</field>
@@ -908,7 +908,7 @@
     <field name="work_title_tesim">Jeg ejer -</field>
     <field name="id">rode_02#workid55421</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55421</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55421</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Digte</field>
@@ -930,7 +930,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244078144</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244078144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244078144</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Digte</field>
@@ -957,7 +957,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244075936</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244075936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244075936</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Digte</field>
@@ -984,7 +984,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244073792</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244073792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244073792</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1011,7 +1011,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244071600</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244071600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244071600</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1040,7 +1040,7 @@
     <field name="work_title_tesim">Elven</field>
     <field name="id">rode_02#workid55514</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55514</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55514</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1062,7 +1062,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244066160</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244066160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244066160</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1089,7 +1089,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244064032</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244064032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244064032</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1116,7 +1116,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244061904</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244061904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244061904</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244059776</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244059776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244059776</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1172,7 +1172,7 @@
     <field name="work_title_tesim">Hvid Nat</field>
     <field name="id">rode_02#workid55602</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55602</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55602</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1194,7 +1194,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244055040</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244055040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244055040</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1220,7 +1220,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244053312</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244053312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244053312</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1247,7 +1247,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244051184</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244051184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244051184</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1276,7 +1276,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244048288</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244048288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244048288</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1303,7 +1303,7 @@
     <field name="work_title_tesim">Min Sorg er -</field>
     <field name="id">rode_02#workid55684</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55684</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55684</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1325,7 +1325,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244044336</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244044336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244044336</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1358,7 +1358,7 @@
     <field name="work_title_tesim">Aften</field>
     <field name="id">rode_02#workid55733</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55733</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55733</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1380,7 +1380,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244037824</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244037824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244037824</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1410,7 +1410,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244034320</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244034320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244034320</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1442,7 +1442,7 @@
     <field name="work_title_tesim">Jeg, Menneske</field>
     <field name="id">rode_02#workid55807</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid55807</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid55807</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1464,7 +1464,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244027568</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244027568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244027568</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1497,7 +1497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244021712</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244021712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244021712</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1524,7 +1524,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244018384</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244018384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244018384</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1553,7 +1553,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244014416</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244014416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244014416</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1586,7 +1586,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244008448</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244008448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244008448</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1613,7 +1613,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244004960</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244004960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244004960</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1642,7 +1642,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340244000912</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340244000912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340244000912</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1675,7 +1675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243995808</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243995808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243995808</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1701,7 +1701,7 @@
     <field name="work_title_tesim">Oh, Søvn</field>
     <field name="id">rode_02#workid56127</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56127</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56127</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1723,7 +1723,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243988880</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243988880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243988880</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1749,7 +1749,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243987056</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243987056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243987056</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1775,7 +1775,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243985232</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243985232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243985232</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1801,7 +1801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243983424</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243983424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243983424</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1829,7 +1829,7 @@
     <field name="work_title_tesim">Den syge Pige</field>
     <field name="id">rode_02#workid56203</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56203</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56203</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1851,7 +1851,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243978928</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243978928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243978928</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1878,7 +1878,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243976752</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243976752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243976752</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1905,7 +1905,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243974544</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243974544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243974544</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1932,7 +1932,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243971296</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243971296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243971296</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1959,7 +1959,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243969152</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243969152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243969152</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Digte</field>
@@ -1986,7 +1986,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243966960</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243966960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243966960</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2013,7 +2013,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243964832</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243964832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243964832</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2042,7 +2042,7 @@
     <field name="work_title_tesim">Hvor er mit Haab -</field>
     <field name="id">rode_02#workid56355</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56355</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56355</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">s30</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2064,7 +2064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243959968</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243959968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243959968</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">s30</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2091,7 +2091,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243957824</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243957824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243957824</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">s30</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2118,7 +2118,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243955648</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243955648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243955648</field>
     <field name="page_ssi">30</field>
     <field name="page_id_ssi">s30</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2147,7 +2147,7 @@
     <field name="work_title_tesim">Midienat</field>
     <field name="id">rode_02#workid56425</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56425</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56425</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243950816</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243950816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243950816</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2196,7 +2196,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243948672</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243948672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243948672</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2223,7 +2223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243946528</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243946528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243946528</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2250,7 +2250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243943264</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243943264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243943264</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">s32</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2279,7 +2279,7 @@
     <field name="work_title_tesim">Mod Høst</field>
     <field name="id">rode_02#workid56522</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56522</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56522</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2301,7 +2301,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243938560</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243938560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243938560</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2328,7 +2328,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243936352</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243936352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243936352</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2355,7 +2355,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243934208</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243934208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243934208</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2382,7 +2382,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243930832</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243930832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243930832</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2409,7 +2409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243928672</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243928672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243928672</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2438,7 +2438,7 @@
     <field name="work_title_tesim">Nat</field>
     <field name="id">rode_02#workid56638</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56638</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56638</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2460,7 +2460,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243923920</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243923920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243923920</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2495,7 +2495,7 @@
     <field name="work_title_tesim">Gadevise</field>
     <field name="id">rode_02#workid56693</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56693</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56693</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2517,7 +2517,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243916640</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243916640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243916640</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2552,7 +2552,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243910992</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243910992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243910992</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2576,7 +2576,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243908912</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243908912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243908912</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2611,7 +2611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243903392</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243903392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243903392</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2635,7 +2635,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243902576</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243902576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243902576</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2666,7 +2666,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243897504</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243897504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243897504</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2693,7 +2693,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243895264</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243895264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243895264</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2719,7 +2719,7 @@
     <field name="work_title_tesim">Vi gik til Vandet</field>
     <field name="id">rode_02#workid56892</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid56892</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid56892</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2741,7 +2741,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243891856</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243891856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243891856</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2770,7 +2770,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243888752</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243888752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243888752</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2799,7 +2799,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243885680</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243885680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243885680</field>
     <field name="page_ssi">39</field>
     <field name="page_id_ssi">s39</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2825,7 +2825,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243882800</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243882800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243882800</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2851,7 +2851,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243881024</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243881024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243881024</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2880,7 +2880,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243877872</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243877872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243877872</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2909,7 +2909,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243874768</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243874768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243874768</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2940,7 +2940,7 @@
     <field name="work_title_tesim">Sletten</field>
     <field name="id">rode_02#workid57076</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57076</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57076</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2962,7 +2962,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243869120</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243869120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243869120</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Digte</field>
@@ -2989,7 +2989,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243867008</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243867008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243867008</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3016,7 +3016,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243864832</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243864832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243864832</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3045,7 +3045,7 @@
     <field name="work_title_tesim">Ingen kender mig</field>
     <field name="id">rode_02#workid57146</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57146</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57146</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3067,7 +3067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243860160</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243860160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243860160</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3094,7 +3094,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243857952</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243857952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243857952</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3123,7 +3123,7 @@
     <field name="work_title_tesim">Forbi</field>
     <field name="id">rode_02#workid57199</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57199</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57199</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3145,7 +3145,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243853168</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243853168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243853168</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3172,7 +3172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243851024</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243851024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243851024</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3199,7 +3199,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243848944</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243848944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243848944</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3226,7 +3226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243845552</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243845552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243845552</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3253,7 +3253,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243843376</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243843376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243843376</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3282,7 +3282,7 @@
     <field name="work_title_tesim">Paa Gaden</field>
     <field name="id">rode_02#workid57314</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57314</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57314</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3304,7 +3304,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243838480</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243838480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243838480</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3331,7 +3331,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243836272</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243836272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243836272</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3358,7 +3358,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243834144</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243834144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243834144</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3385,7 +3385,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243830896</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243830896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243830896</field>
     <field name="page_ssi">46</field>
     <field name="page_id_ssi">s46</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3412,7 +3412,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243828784</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243828784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243828784</field>
     <field name="page_ssi">46</field>
     <field name="page_id_ssi">s46</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3441,7 +3441,7 @@
     <field name="work_title_tesim">Gule og hvide Baade</field>
     <field name="id">rode_02#workid57430</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57430</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57430</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3463,7 +3463,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243823968</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243823968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243823968</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3492,7 +3492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243820992</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243820992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243820992</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3519,7 +3519,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243818848</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243818848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243818848</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3545,7 +3545,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243817120</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243817120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243817120</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3572,7 +3572,7 @@
     <field name="work_title_tesim">Den, der har Dødens Tanke</field>
     <field name="id">rode_02#workid57514</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57514</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57514</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3594,7 +3594,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243813216</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243813216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243813216</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3621,7 +3621,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243811072</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243811072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243811072</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3648,7 +3648,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243808960</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243808960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243808960</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3675,7 +3675,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243806816</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243806816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243806816</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3704,7 +3704,7 @@
     <field name="work_title_tesim">Og se, hun -</field>
     <field name="id">rode_02#workid57601</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57601</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57601</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">s49</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3726,7 +3726,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243802144</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243802144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243802144</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">s49</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3753,7 +3753,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243800080</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243800080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243800080</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">s49</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3780,7 +3780,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243797968</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243797968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243797968</field>
     <field name="page_ssi">49</field>
     <field name="page_id_ssi">s49</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3809,7 +3809,7 @@
     <field name="work_title_tesim">Som en Blomst -</field>
     <field name="id">rode_02#workid57670</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57670</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57670</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3831,7 +3831,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243793168</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243793168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243793168</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3858,7 +3858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243790864</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243790864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243790864</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3885,7 +3885,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243788560</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243788560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243788560</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3912,7 +3912,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243785024</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243785024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243785024</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3939,7 +3939,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243782688</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243782688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243782688</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3968,7 +3968,7 @@
     <field name="work_title_tesim">Vuggevise</field>
     <field name="id">rode_02#workid57792</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57792</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Digte</field>
@@ -3990,7 +3990,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243777776</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243777776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243777776</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4017,7 +4017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243775568</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243775568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243775568</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4044,7 +4044,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243773424</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243773424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243773424</field>
     <field name="page_ssi">52</field>
     <field name="page_id_ssi">s52</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4071,7 +4071,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243770128</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243770128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243770128</field>
     <field name="page_ssi">53</field>
     <field name="page_id_ssi">s53</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4100,7 +4100,7 @@
     <field name="work_title_tesim">Stille</field>
     <field name="id">rode_02#workid57890</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid57890</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid57890</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4122,7 +4122,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243765344</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243765344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243765344</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4151,7 +4151,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243762288</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243762288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243762288</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4179,7 +4179,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243759728</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243759728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243759728</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4206,7 +4206,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243756464</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243756464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243756464</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4238,7 +4238,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243752032</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243752032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243752032</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4266,7 +4266,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243749408</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243749408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243749408</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4295,7 +4295,7 @@
     <field name="work_title_tesim">Vuggevers</field>
     <field name="id">rode_02#workid58057</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58057</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58057</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4317,7 +4317,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243744624</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243744624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243744624</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4341,7 +4341,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243744176</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243744176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243744176</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4372,7 +4372,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243740224</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243740224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243740224</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4405,7 +4405,7 @@
     <field name="work_title_tesim">Det nye Foraar</field>
     <field name="id">rode_02#workid58168</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58168</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4427,7 +4427,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243730640</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243730640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243730640</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4454,7 +4454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243728480</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243728480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243728480</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4481,7 +4481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243726272</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243726272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243726272</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4508,7 +4508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243724080</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243724080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243724080</field>
     <field name="page_ssi">59</field>
     <field name="page_id_ssi">s59</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4537,7 +4537,7 @@
     <field name="work_title_tesim">Planten</field>
     <field name="id">rode_02#workid58256</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58256</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4559,7 +4559,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243719376</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243719376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243719376</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4588,7 +4588,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243716352</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243716352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243716352</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4613,7 +4613,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243715056</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243715056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243715056</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4642,7 +4642,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243712016</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243712016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243712016</field>
     <field name="page_ssi">60</field>
     <field name="page_id_ssi">s60</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4667,7 +4667,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243709600</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243709600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243709600</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">s61</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4696,7 +4696,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243706544</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243706544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243706544</field>
     <field name="page_ssi">61</field>
     <field name="page_id_ssi">s61</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4723,7 +4723,7 @@
     <field name="work_title_tesim">Blomsterne er vore bedste Venner</field>
     <field name="id">rode_02#workid58390</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58390</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58390</field>
     <field name="page_ssi">62</field>
     <field name="page_id_ssi">s62</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4745,7 +4745,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243702624</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243702624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243702624</field>
     <field name="page_ssi">62</field>
     <field name="page_id_ssi">s62</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4782,7 +4782,7 @@
     <field name="work_title_tesim">Morgenen</field>
     <field name="id">rode_02#workid58455</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58455</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58455</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4804,7 +4804,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243693984</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243693984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243693984</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4831,7 +4831,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243691824</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243691824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243691824</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4858,7 +4858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243689648</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243689648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243689648</field>
     <field name="page_ssi">63</field>
     <field name="page_id_ssi">s63</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4885,7 +4885,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243686368</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243686368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243686368</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4912,7 +4912,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243684224</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243684224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243684224</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4939,7 +4939,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243682048</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243682048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243682048</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4966,7 +4966,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243679872</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243679872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243679872</field>
     <field name="page_ssi">64</field>
     <field name="page_id_ssi">s64</field>
     <field name="volume_title_tesim">Digte</field>
@@ -4995,7 +4995,7 @@
     <field name="work_title_tesim">Foraar</field>
     <field name="id">rode_02#workid58607</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58607</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58607</field>
     <field name="page_ssi">65</field>
     <field name="page_id_ssi">s65</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5017,7 +5017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243675088</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243675088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243675088</field>
     <field name="page_ssi">65</field>
     <field name="page_id_ssi">s65</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5050,7 +5050,7 @@
     <field name="work_title_tesim">Sommer -</field>
     <field name="id">rode_02#workid58655</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58655</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58655</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5072,7 +5072,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243668624</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243668624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243668624</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5097,7 +5097,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243667312</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243667312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243667312</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5122,7 +5122,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243666000</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243666000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243666000</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5147,7 +5147,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243664672</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243664672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243664672</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5172,7 +5172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243663440</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243663440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243663440</field>
     <field name="page_ssi">66</field>
     <field name="page_id_ssi">s66</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5201,7 +5201,7 @@
     <field name="work_title_tesim">Purpur</field>
     <field name="id">rode_02#workid58731</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58731</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58731</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">s67</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5223,7 +5223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243658720</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243658720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243658720</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">s67</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5250,7 +5250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243656512</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243656512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243656512</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">s67</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5277,7 +5277,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243654352</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243654352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243654352</field>
     <field name="page_ssi">67</field>
     <field name="page_id_ssi">s67</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5304,7 +5304,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243650928</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243650928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243650928</field>
     <field name="page_ssi">68</field>
     <field name="page_id_ssi">s68</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5331,7 +5331,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243648784</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243648784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243648784</field>
     <field name="page_ssi">68</field>
     <field name="page_id_ssi">s68</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5360,7 +5360,7 @@
     <field name="work_title_tesim">Philosofens Vise</field>
     <field name="id">rode_02#workid58848</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid58848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid58848</field>
     <field name="page_ssi">69</field>
     <field name="page_id_ssi">s69</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5382,7 +5382,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243643968</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243643968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243643968</field>
     <field name="page_ssi">69</field>
     <field name="page_id_ssi">s69</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5411,7 +5411,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243640848</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243640848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243640848</field>
     <field name="page_ssi">69</field>
     <field name="page_id_ssi">s69</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5440,7 +5440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243636592</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243636592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243636592</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">s70</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5469,7 +5469,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243633584</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243633584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243633584</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">s70</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5498,7 +5498,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243630528</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243630528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243630528</field>
     <field name="page_ssi">70</field>
     <field name="page_id_ssi">s70</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5529,7 +5529,7 @@
     <field name="work_title_tesim">Træet</field>
     <field name="id">rode_02#workid59006</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59006</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59006</field>
     <field name="page_ssi">71</field>
     <field name="page_id_ssi">s71</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5551,7 +5551,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243624272</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243624272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243624272</field>
     <field name="page_ssi">71</field>
     <field name="page_id_ssi">s71</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5584,7 +5584,7 @@
     <field name="work_title_tesim">Det er et gammelt Kvæde</field>
     <field name="id">rode_02#workid59055</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59055</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59055</field>
     <field name="page_ssi">72</field>
     <field name="page_id_ssi">s72</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5606,7 +5606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243617552</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243617552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243617552</field>
     <field name="page_ssi">72</field>
     <field name="page_id_ssi">s72</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5637,7 +5637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243613712</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243613712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243613712</field>
     <field name="page_ssi">72</field>
     <field name="page_id_ssi">s72</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5670,7 +5670,7 @@
     <field name="work_title_tesim">Lykke</field>
     <field name="id">rode_02#workid59135</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59135</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59135</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">s73</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5692,7 +5692,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243607136</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243607136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243607136</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">s73</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5719,7 +5719,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243604944</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243604944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243604944</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">s73</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5746,7 +5746,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243602800</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243602800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243602800</field>
     <field name="page_ssi">73</field>
     <field name="page_id_ssi">s73</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5775,7 +5775,7 @@
     <field name="work_title_tesim">Sommeraften</field>
     <field name="id">rode_02#workid59205</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59205</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59205</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">s74</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5797,7 +5797,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243598032</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243598032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243598032</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">s74</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5826,7 +5826,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243594944</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243594944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243594944</field>
     <field name="page_ssi">74</field>
     <field name="page_id_ssi">s74</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5855,7 +5855,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243590672</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243590672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243590672</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">s75</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5884,7 +5884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243587536</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243587536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243587536</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">s75</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5913,7 +5913,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243584352</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243584352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243584352</field>
     <field name="page_ssi">75</field>
     <field name="page_id_ssi">s75</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5944,7 +5944,7 @@
     <field name="work_title_tesim">Midsommervise</field>
     <field name="id">rode_02#workid59360</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59360</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">s76</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5966,7 +5966,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243578544</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243578544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243578544</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">s76</field>
     <field name="volume_title_tesim">Digte</field>
@@ -5990,7 +5990,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243578096</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243578096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243578096</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">s76</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6019,7 +6019,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243575088</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243575088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243575088</field>
     <field name="page_ssi">76</field>
     <field name="page_id_ssi">s76</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6048,7 +6048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243570784</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243570784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243570784</field>
     <field name="page_ssi">77</field>
     <field name="page_id_ssi">s77</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6077,7 +6077,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243567760</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243567760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243567760</field>
     <field name="page_ssi">77</field>
     <field name="page_id_ssi">s77</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6108,7 +6108,7 @@
     <field name="work_title_tesim">Høst</field>
     <field name="id">rode_02#workid59490</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59490</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59490</field>
     <field name="page_ssi">78</field>
     <field name="page_id_ssi">s78</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6130,7 +6130,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243562144</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243562144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243562144</field>
     <field name="page_ssi">78</field>
     <field name="page_id_ssi">s78</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6157,7 +6157,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243559952</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243559952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243559952</field>
     <field name="page_ssi">78</field>
     <field name="page_id_ssi">s78</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6184,7 +6184,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243557776</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243557776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243557776</field>
     <field name="page_ssi">78</field>
     <field name="page_id_ssi">s78</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6211,7 +6211,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243554336</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243554336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243554336</field>
     <field name="page_ssi">79</field>
     <field name="page_id_ssi">s79</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6241,7 +6241,7 @@
     <field name="work_title_tesim">December</field>
     <field name="id">rode_02#workid59593</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59593</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59593</field>
     <field name="page_ssi">80</field>
     <field name="page_id_ssi">s80</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6263,7 +6263,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243548992</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243548992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243548992</field>
     <field name="page_ssi">80</field>
     <field name="page_id_ssi">s80</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6296,7 +6296,7 @@
     <field name="work_title_tesim">Sne</field>
     <field name="id">rode_02#workid59642</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59642</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59642</field>
     <field name="page_ssi">81</field>
     <field name="page_id_ssi">s81</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6318,7 +6318,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243542352</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243542352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243542352</field>
     <field name="page_ssi">81</field>
     <field name="page_id_ssi">s81</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6347,7 +6347,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243539328</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243539328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243539328</field>
     <field name="page_ssi">81</field>
     <field name="page_id_ssi">s81</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6376,7 +6376,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243536400</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243536400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243536400</field>
     <field name="page_ssi">81</field>
     <field name="page_id_ssi">s81</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6407,7 +6407,7 @@
     <field name="work_title_tesim">Sang</field>
     <field name="id">rode_02#workid59731</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59731</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59731</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6429,7 +6429,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243530848</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243530848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243530848</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6457,7 +6457,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243528224</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243528224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243528224</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6485,7 +6485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243525648</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243525648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243525648</field>
     <field name="page_ssi">82</field>
     <field name="page_id_ssi">s82</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6511,7 +6511,7 @@
     <field name="work_title_tesim">Havet</field>
     <field name="id">rode_02#workid59826</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid59826</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid59826</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6533,7 +6533,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243518768</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243518768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243518768</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6564,7 +6564,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243514912</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243514912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243514912</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6590,7 +6590,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243513184</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243513184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243513184</field>
     <field name="page_ssi">85</field>
     <field name="page_id_ssi">s85</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6618,7 +6618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243509440</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243509440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243509440</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6644,7 +6644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243507680</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243507680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243507680</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6671,7 +6671,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243505616</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243505616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243505616</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6699,7 +6699,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243503040</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243503040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243503040</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6725,7 +6725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243501280</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243501280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243501280</field>
     <field name="page_ssi">86</field>
     <field name="page_id_ssi">s86</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6752,7 +6752,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243497872</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243497872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243497872</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6783,7 +6783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243493968</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243493968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243493968</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6807,7 +6807,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243493584</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243493584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243493584</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">s87</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6843,7 +6843,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243486160</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243486160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243486160</field>
     <field name="page_ssi">88</field>
     <field name="page_id_ssi">s88</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6871,7 +6871,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243483536</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243483536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243483536</field>
     <field name="page_ssi">88</field>
     <field name="page_id_ssi">s88</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6904,7 +6904,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243478720</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243478720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243478720</field>
     <field name="page_ssi">88</field>
     <field name="page_id_ssi">s88</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6934,7 +6934,7 @@
     <field name="work_title_tesim">Nu kommer Natten -</field>
     <field name="id">rode_02#workid60230</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid60230</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid60230</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">s89</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6956,7 +6956,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243473456</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243473456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243473456</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">s89</field>
     <field name="volume_title_tesim">Digte</field>
@@ -6985,7 +6985,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243470416</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243470416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243470416</field>
     <field name="page_ssi">89</field>
     <field name="page_id_ssi">s89</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7014,7 +7014,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243466160</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243466160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243466160</field>
     <field name="page_ssi">90</field>
     <field name="page_id_ssi">s90</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7043,7 +7043,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243463072</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243463072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243463072</field>
     <field name="page_ssi">90</field>
     <field name="page_id_ssi">s90</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7072,7 +7072,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243459968</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243459968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243459968</field>
     <field name="page_ssi">90</field>
     <field name="page_id_ssi">s90</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7096,7 +7096,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243459584</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243459584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243459584</field>
     <field name="page_ssi">90</field>
     <field name="page_id_ssi">s90</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7127,7 +7127,7 @@
     <field name="work_title_tesim">Jeg saa, Du var lidt trist -</field>
     <field name="id">rode_02#workid60387</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid60387</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid60387</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7149,7 +7149,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243453840</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243453840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243453840</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7177,7 +7177,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243451200</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243451200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243451200</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7205,7 +7205,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243448528</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243448528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243448528</field>
     <field name="page_ssi">91</field>
     <field name="page_id_ssi">s91</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7230,7 +7230,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243446016</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243446016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243446016</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7256,7 +7256,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243444208</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243444208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243444208</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7284,7 +7284,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243441600</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243441600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243441600</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7312,7 +7312,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243438944</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243438944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243438944</field>
     <field name="page_ssi">92</field>
     <field name="page_id_ssi">s92</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7342,7 +7342,7 @@
     <field name="work_title_tesim">Himmel og Hav</field>
     <field name="id">rode_02#workid60550</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid60550</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid60550</field>
     <field name="page_ssi">93</field>
     <field name="page_id_ssi">s93</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7364,7 +7364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243433408</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243433408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243433408</field>
     <field name="page_ssi">93</field>
     <field name="page_id_ssi">s93</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7398,7 +7398,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243428224</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243428224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243428224</field>
     <field name="page_ssi">93</field>
     <field name="page_id_ssi">s93</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7427,7 +7427,7 @@
     <field name="work_title_tesim">Uden Frygt</field>
     <field name="id">rode_02#workid60627</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid60627</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid60627</field>
     <field name="page_ssi">94</field>
     <field name="page_id_ssi">s94</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7449,7 +7449,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243423488</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243423488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243423488</field>
     <field name="page_ssi">94</field>
     <field name="page_id_ssi">s94</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7478,7 +7478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243420432</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243420432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243420432</field>
     <field name="page_ssi">94</field>
     <field name="page_id_ssi">s94</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7507,7 +7507,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243416272</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243416272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243416272</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">s95</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7536,7 +7536,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243413136</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243413136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243413136</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">s95</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7565,7 +7565,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243410096</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243410096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243410096</field>
     <field name="page_ssi">95</field>
     <field name="page_id_ssi">s95</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7596,7 +7596,7 @@
     <field name="work_title_tesim">Sandhed og Skønhed</field>
     <field name="id">rode_02#workid60781</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid60781</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid60781</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7618,7 +7618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243404256</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243404256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243404256</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7645,7 +7645,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243402176</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243402176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243402176</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7672,7 +7672,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243400080</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243400080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243400080</field>
     <field name="page_ssi">96</field>
     <field name="page_id_ssi">s96</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7699,7 +7699,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243396880</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243396880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243396880</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7726,7 +7726,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243394832</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243394832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243394832</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7753,7 +7753,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243392736</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243392736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243392736</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7780,7 +7780,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243390688</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243390688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243390688</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7807,7 +7807,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243388608</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243388608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243388608</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7834,7 +7834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243386528</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243386528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243386528</field>
     <field name="page_ssi">97</field>
     <field name="page_id_ssi">s97</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7860,7 +7860,7 @@
     <field name="work_title_tesim">Legeme</field>
     <field name="id">rode_02#workid60948</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid60948</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid60948</field>
     <field name="page_ssi">98</field>
     <field name="page_id_ssi">s98</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7882,7 +7882,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243383536</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243383536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243383536</field>
     <field name="page_ssi">98</field>
     <field name="page_id_ssi">s98</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7915,7 +7915,7 @@
     <field name="work_title_tesim">Beklag ej -</field>
     <field name="id">rode_02#workid60997</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid60997</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid60997</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7937,7 +7937,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243376992</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243376992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243376992</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7964,7 +7964,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243374848</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243374848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243374848</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Digte</field>
@@ -7991,7 +7991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243372736</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243372736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243372736</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8018,7 +8018,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243370576</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243370576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243370576</field>
     <field name="page_ssi">99</field>
     <field name="page_id_ssi">s99</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8047,7 +8047,7 @@
     <field name="work_title_tesim">Aand</field>
     <field name="id">rode_02#workid61085</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid61085</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid61085</field>
     <field name="page_ssi">100</field>
     <field name="page_id_ssi">s100</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8069,7 +8069,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243365696</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243365696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243365696</field>
     <field name="page_ssi">100</field>
     <field name="page_id_ssi">s100</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8096,7 +8096,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243363488</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243363488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243363488</field>
     <field name="page_ssi">100</field>
     <field name="page_id_ssi">s100</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8126,7 +8126,7 @@
     <field name="work_title_tesim">Kommer og gaar</field>
     <field name="id">rode_02#workid61142</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid61142</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid61142</field>
     <field name="page_ssi">101</field>
     <field name="page_id_ssi">s101</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8148,7 +8148,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243358240</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243358240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243358240</field>
     <field name="page_ssi">101</field>
     <field name="page_id_ssi">s101</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8176,7 +8176,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243355664</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243355664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243355664</field>
     <field name="page_ssi">101</field>
     <field name="page_id_ssi">s101</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8204,7 +8204,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243353040</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243353040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243353040</field>
     <field name="page_ssi">101</field>
     <field name="page_id_ssi">s101</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8232,7 +8232,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243349280</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243349280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243349280</field>
     <field name="page_ssi">102</field>
     <field name="page_id_ssi">s102</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8260,7 +8260,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243346736</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243346736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243346736</field>
     <field name="page_ssi">102</field>
     <field name="page_id_ssi">s102</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8288,7 +8288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243344128</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243344128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243344128</field>
     <field name="page_ssi">102</field>
     <field name="page_id_ssi">s102</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8312,7 +8312,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243343744</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243343744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243343744</field>
     <field name="page_ssi">102</field>
     <field name="page_id_ssi">s102</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8340,7 +8340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243341184</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243341184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243341184</field>
     <field name="page_ssi">102</field>
     <field name="page_id_ssi">s102</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8368,7 +8368,7 @@
     <field name="work_title_tesim">Da Nansen kom hjem</field>
     <field name="id">rode_02#workid61314</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid61314</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid61314</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">s103</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8390,7 +8390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243336736</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243336736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243336736</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">s103</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8420,7 +8420,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243333168</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243333168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243333168</field>
     <field name="page_ssi">103</field>
     <field name="page_id_ssi">s103</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8450,7 +8450,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243328448</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243328448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243328448</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8480,7 +8480,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243324912</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243324912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243324912</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8510,7 +8510,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243321344</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243321344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243321344</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8534,7 +8534,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243320960</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243320960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243320960</field>
     <field name="page_ssi">104</field>
     <field name="page_id_ssi">s104</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8564,7 +8564,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243316192</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243316192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243316192</field>
     <field name="page_ssi">105</field>
     <field name="page_id_ssi">s105</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8594,7 +8594,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243312640</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243312640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243312640</field>
     <field name="page_ssi">105</field>
     <field name="page_id_ssi">s105</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8624,7 +8624,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243309024</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243309024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243309024</field>
     <field name="page_ssi">105</field>
     <field name="page_id_ssi">s105</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8654,7 +8654,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243304240</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243304240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243304240</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">s106</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8684,7 +8684,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243300672</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243300672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243300672</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">s106</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8714,7 +8714,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243297120</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243297120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243297120</field>
     <field name="page_ssi">106</field>
     <field name="page_id_ssi">s106</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8744,7 +8744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243292240</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243292240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243292240</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">s107</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8774,7 +8774,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243288608</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243288608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243288608</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">s107</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8804,7 +8804,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243284928</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243284928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243284928</field>
     <field name="page_ssi">107</field>
     <field name="page_id_ssi">s107</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8834,7 +8834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243280048</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243280048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243280048</field>
     <field name="page_ssi">108</field>
     <field name="page_id_ssi">s108</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8866,7 +8866,7 @@
     <field name="work_title_tesim">Svømmeren</field>
     <field name="id">rode_02#workid61830</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#workid61830</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#workid61830</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">s109</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8888,7 +8888,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243273744</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243273744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243273744</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">s109</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8917,7 +8917,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243270608</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243270608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243270608</field>
     <field name="page_ssi">109</field>
     <field name="page_id_ssi">s109</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8946,7 +8946,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243266480</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243266480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243266480</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">s110</field>
     <field name="volume_title_tesim">Digte</field>
@@ -8975,7 +8975,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243263456</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243263456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243263456</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">s110</field>
     <field name="volume_title_tesim">Digte</field>
@@ -9002,7 +9002,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243261248</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243261248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243261248</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">s110</field>
     <field name="volume_title_tesim">Digte</field>
@@ -9033,7 +9033,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243257232</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243257232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243257232</field>
     <field name="page_ssi">110</field>
     <field name="page_id_ssi">s110</field>
     <field name="volume_title_tesim">Digte</field>
@@ -9060,7 +9060,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243253920</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243253920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243253920</field>
     <field name="page_ssi">111</field>
     <field name="page_id_ssi">s111</field>
     <field name="volume_title_tesim">Digte</field>
@@ -9088,7 +9088,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243251344</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243251344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243251344</field>
     <field name="page_ssi">111</field>
     <field name="page_id_ssi">s111</field>
     <field name="volume_title_tesim">Digte</field>
@@ -9116,7 +9116,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">rode_02#idm140340243248800</field>
     <field name="volume_id_ssi">rode_02</field>
-    <field name="url_ssi">http://adl2.kb.dk/rode_02#idm140340243248800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/rode_02#idm140340243248800</field>
     <field name="page_ssi">111</field>
     <field name="page_id_ssi">s111</field>
     <field name="volume_title_tesim">Digte</field>

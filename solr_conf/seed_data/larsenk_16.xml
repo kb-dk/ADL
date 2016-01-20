@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
     <field name="id">larsenk_16</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Levende Musik * Mekanisk Musik</field>
     <field name="id">larsenk_16#workid54099</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#workid54099</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#workid54099</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -45,7 +45,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060472704</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060472704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060472704</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">s1</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -67,7 +67,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060435216</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060435216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060435216</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">s5</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -90,7 +90,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060434048</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060434048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060434048</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">s5</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -113,7 +113,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060431520</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060431520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060431520</field>
     <field name="page_ssi">6</field>
     <field name="page_id_ssi">s6</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060427072</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060427072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060427072</field>
     <field name="page_ssi">6</field>
     <field name="page_id_ssi">s6</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -159,7 +159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060424208</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060424208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060424208</field>
     <field name="page_ssi">7</field>
     <field name="page_id_ssi">s7</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -182,7 +182,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060420848</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060420848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060420848</field>
     <field name="page_ssi">7</field>
     <field name="page_id_ssi">s7</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -205,7 +205,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060415856</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060415856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060415856</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -228,7 +228,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060413632</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060413632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060413632</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -251,7 +251,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060412656</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060412656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060412656</field>
     <field name="page_ssi">9</field>
     <field name="page_id_ssi">s9</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -274,7 +274,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060409696</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060409696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060409696</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -297,7 +297,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060406416</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060406416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060406416</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -320,7 +320,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060404480</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060404480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060404480</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -343,7 +343,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060403520</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060403520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060403520</field>
     <field name="page_ssi">10</field>
     <field name="page_id_ssi">s10</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -366,7 +366,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060398640</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060398640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060398640</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -389,7 +389,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060396704</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060396704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060396704</field>
     <field name="page_ssi">11</field>
     <field name="page_id_ssi">s11</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -412,7 +412,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060394336</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060394336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060394336</field>
     <field name="page_ssi">12</field>
     <field name="page_id_ssi">s12</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -435,7 +435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060389792</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060389792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060389792</field>
     <field name="page_ssi">13</field>
     <field name="page_id_ssi">s13</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -458,7 +458,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060386688</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060386688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060386688</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -481,7 +481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060384240</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060384240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060384240</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -504,7 +504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060382912</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060382912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060382912</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -527,7 +527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060381376</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060381376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060381376</field>
     <field name="page_ssi">14</field>
     <field name="page_id_ssi">s14</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -550,7 +550,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060378944</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060378944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060378944</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060375376</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060375376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060375376</field>
     <field name="page_ssi">15</field>
     <field name="page_id_ssi">s15</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -596,7 +596,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060373472</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060373472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060373472</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -619,7 +619,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060372832</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060372832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060372832</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -642,7 +642,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060369248</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060369248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060369248</field>
     <field name="page_ssi">16</field>
     <field name="page_id_ssi">s16</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -665,7 +665,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060365920</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060365920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060365920</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -688,7 +688,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060365280</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060365280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060365280</field>
     <field name="page_ssi">17</field>
     <field name="page_id_ssi">s17</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -711,7 +711,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060361408</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060361408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060361408</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -734,7 +734,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060359376</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060359376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060359376</field>
     <field name="page_ssi">18</field>
     <field name="page_id_ssi">s18</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -757,7 +757,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060353616</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060353616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060353616</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -780,7 +780,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060545616</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060545616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060545616</field>
     <field name="page_ssi">19</field>
     <field name="page_id_ssi">s19</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -803,7 +803,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060543040</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060543040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060543040</field>
     <field name="page_ssi">20</field>
     <field name="page_id_ssi">s20</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -826,7 +826,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060330880</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060330880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060330880</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -849,7 +849,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060329856</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060329856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060329856</field>
     <field name="page_ssi">21</field>
     <field name="page_id_ssi">s21</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -872,7 +872,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060327424</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060327424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060327424</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -895,7 +895,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060322096</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060322096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060322096</field>
     <field name="page_ssi">22</field>
     <field name="page_id_ssi">s22</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -918,7 +918,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060319936</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060319936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060319936</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -941,7 +941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060316624</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060316624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060316624</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -964,7 +964,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060313632</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060313632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060313632</field>
     <field name="page_ssi">23</field>
     <field name="page_id_ssi">s23</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -987,7 +987,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060311216</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060311216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060311216</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060307808</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060307808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060307808</field>
     <field name="page_ssi">24</field>
     <field name="page_id_ssi">s24</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1033,7 +1033,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060305328</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060305328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060305328</field>
     <field name="page_ssi">25</field>
     <field name="page_id_ssi">s25</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1056,7 +1056,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060304704</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060304704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060304704</field>
     <field name="page_ssi">25</field>
     <field name="page_id_ssi">s25</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1079,7 +1079,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060304016</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060304016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060304016</field>
     <field name="page_ssi">25</field>
     <field name="page_id_ssi">s25</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1102,7 +1102,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060300144</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060300144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060300144</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">s26</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1125,7 +1125,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060299008</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060299008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060299008</field>
     <field name="page_ssi">26</field>
     <field name="page_id_ssi">s26</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1148,7 +1148,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060295744</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060295744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060295744</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1171,7 +1171,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060292064</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060292064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060292064</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1194,7 +1194,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060291008</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060291008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060291008</field>
     <field name="page_ssi">27</field>
     <field name="page_id_ssi">s27</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1217,7 +1217,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060286176</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060286176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060286176</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1240,7 +1240,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060281520</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060281520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060281520</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1263,7 +1263,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060281136</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060281136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060281136</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1286,7 +1286,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060280336</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060280336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060280336</field>
     <field name="page_ssi">28</field>
     <field name="page_id_ssi">s28</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1309,7 +1309,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060270960</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060270960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060270960</field>
     <field name="page_ssi">29</field>
     <field name="page_id_ssi">s29</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1332,7 +1332,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060261248</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060261248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060261248</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1355,7 +1355,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060257680</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060257680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060257680</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1378,7 +1378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060257296</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060257296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060257296</field>
     <field name="page_ssi">31</field>
     <field name="page_id_ssi">s31</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1401,7 +1401,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060248544</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060248544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060248544</field>
     <field name="page_ssi">32</field>
     <field name="page_id_ssi">s32</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1424,7 +1424,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060244160</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060244160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060244160</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060242416</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060242416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060242416</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1470,7 +1470,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060241376</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060241376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060241376</field>
     <field name="page_ssi">33</field>
     <field name="page_id_ssi">s33</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1493,7 +1493,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060237296</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060237296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060237296</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1516,7 +1516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060234848</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060234848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060234848</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1539,7 +1539,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060232928</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060232928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060232928</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1562,7 +1562,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060231184</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060231184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060231184</field>
     <field name="page_ssi">34</field>
     <field name="page_id_ssi">s34</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1585,7 +1585,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060228416</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060228416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060228416</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1608,7 +1608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060226224</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060226224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060226224</field>
     <field name="page_ssi">35</field>
     <field name="page_id_ssi">s35</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1631,7 +1631,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060220864</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060220864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060220864</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1654,7 +1654,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060219792</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060219792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060219792</field>
     <field name="page_ssi">36</field>
     <field name="page_id_ssi">s36</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1677,7 +1677,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060216080</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060216080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060216080</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1700,7 +1700,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060215056</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060215056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060215056</field>
     <field name="page_ssi">37</field>
     <field name="page_id_ssi">s37</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1723,7 +1723,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060211712</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060211712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060211712</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1746,7 +1746,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060210672</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060210672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060210672</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1769,7 +1769,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060209616</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060209616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060209616</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1792,7 +1792,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060208496</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060208496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060208496</field>
     <field name="page_ssi">38</field>
     <field name="page_id_ssi">s38</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1815,7 +1815,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060201584</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060201584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060201584</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1838,7 +1838,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060199872</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060199872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060199872</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1861,7 +1861,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060198240</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060198240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060198240</field>
     <field name="page_ssi">40</field>
     <field name="page_id_ssi">s40</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060194160</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060194160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060194160</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1907,7 +1907,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060193040</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060193040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060193040</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1930,7 +1930,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060188800</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060188800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060188800</field>
     <field name="page_ssi">41</field>
     <field name="page_id_ssi">s41</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1953,7 +1953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060179728</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060179728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060179728</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1976,7 +1976,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060177360</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060177360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060177360</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -1999,7 +1999,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060175504</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060175504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060175504</field>
     <field name="page_ssi">42</field>
     <field name="page_id_ssi">s42</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2022,7 +2022,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060172256</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060172256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060172256</field>
     <field name="page_ssi">43</field>
     <field name="page_id_ssi">s43</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2045,7 +2045,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060168464</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060168464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060168464</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2068,7 +2068,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060164704</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060164704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060164704</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2091,7 +2091,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060162528</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060162528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060162528</field>
     <field name="page_ssi">44</field>
     <field name="page_id_ssi">s44</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2114,7 +2114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060159760</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060159760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060159760</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2137,7 +2137,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060158752</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060158752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060158752</field>
     <field name="page_ssi">45</field>
     <field name="page_id_ssi">s45</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2160,7 +2160,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060149376</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060149376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060149376</field>
     <field name="page_ssi">46</field>
     <field name="page_id_ssi">s46</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2183,7 +2183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060143728</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060143728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060143728</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2206,7 +2206,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060140720</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060140720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060140720</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2229,7 +2229,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060139616</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060139616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060139616</field>
     <field name="page_ssi">47</field>
     <field name="page_id_ssi">s47</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2252,7 +2252,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060136112</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060136112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060136112</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2275,7 +2275,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060134336</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060134336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060134336</field>
     <field name="page_ssi">48</field>
     <field name="page_id_ssi">s48</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2298,7 +2298,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060125504</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060125504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060125504</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060123984</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060123984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060123984</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2344,7 +2344,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060122848</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060122848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060122848</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2367,7 +2367,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060122352</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060122352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060122352</field>
     <field name="page_ssi">50</field>
     <field name="page_id_ssi">s50</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2390,7 +2390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060118592</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060118592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060118592</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2413,7 +2413,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060117344</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060117344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060117344</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2436,7 +2436,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060114752</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060114752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060114752</field>
     <field name="page_ssi">51</field>
     <field name="page_id_ssi">s51</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2459,7 +2459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060103984</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060103984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060103984</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2482,7 +2482,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060101984</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060101984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060101984</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2505,7 +2505,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060099632</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060099632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060099632</field>
     <field name="page_ssi">54</field>
     <field name="page_id_ssi">s54</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2528,7 +2528,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060094528</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060094528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060094528</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2551,7 +2551,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060091232</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060091232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060091232</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2574,7 +2574,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060088992</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060088992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060088992</field>
     <field name="page_ssi">55</field>
     <field name="page_id_ssi">s55</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2597,7 +2597,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060086976</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060086976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060086976</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2620,7 +2620,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060086480</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060086480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060086480</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>
@@ -2643,7 +2643,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">larsenk_16#idm140708060085168</field>
     <field name="volume_id_ssi">larsenk_16</field>
-    <field name="url_ssi">http://adl2.kb.dk/larsenk_16#idm140708060085168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/larsenk_16#idm140708060085168</field>
     <field name="page_ssi">56</field>
     <field name="page_id_ssi">s56</field>
     <field name="volume_title_tesim">Levende Musik, mekanisk Musik. Kroniker med Diskussionsindlæg</field>

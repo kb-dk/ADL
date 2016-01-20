@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Was ich erlebte</field>
     <field name="id">stef11tom</field>
     <field name="volume_id_ssi">stef11tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/stef11tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stef11tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm140401591710368</field>
     <field name="volume_title_tesim">Was ich erlebte</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Was ich erlebte. Zehnter Band</field>
     <field name="id">stef11tom#workid54267</field>
     <field name="volume_id_ssi">stef11tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/stef11tom#workid54267</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stef11tom#workid54267</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">Was ich erlebte</field>
@@ -45,7 +45,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">stef11tom#idm140401591007472</field>
     <field name="volume_id_ssi">stef11tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/stef11tom#idm140401591007472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/stef11tom#idm140401591007472</field>
     <field name="page_ssi">566</field>
     <field name="page_id_ssi">n566</field>
     <field name="volume_title_tesim">Was ich erlebte</field>

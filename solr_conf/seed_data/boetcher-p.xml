@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Ludvig Bødtcher</field>
     <field name="id">boetcher-p</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181039920</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181039920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181039920</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181035344</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181035344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181035344</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181034080</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181034080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181034080</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -82,7 +82,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181029408</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181029408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181029408</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -101,7 +101,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181025520</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181025520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181025520</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -122,7 +122,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181021488</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181021488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181021488</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -141,7 +141,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181018320</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181018320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181018320</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -160,7 +160,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181014624</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181014624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181014624</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -179,7 +179,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181096272</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181096272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181096272</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -198,7 +198,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303181090800</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303181090800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303181090800</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -217,7 +217,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180991680</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180991680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180991680</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -236,7 +236,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180981024</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180981024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180981024</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -255,7 +255,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180977984</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180977984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180977984</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -274,7 +274,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180975936</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180975936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180975936</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -293,7 +293,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180965024</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180965024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180965024</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -312,7 +312,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180963536</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180963536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180963536</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -331,7 +331,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180961072</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180961072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180961072</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -357,7 +357,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180955808</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180955808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180955808</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -382,7 +382,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180950096</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180950096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180950096</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -401,7 +401,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180947776</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180947776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180947776</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -420,7 +420,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180942544</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180942544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180942544</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -439,7 +439,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180941376</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180941376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180941376</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -458,7 +458,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180938752</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180938752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180938752</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -479,7 +479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180934656</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180934656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180934656</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -498,7 +498,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180930848</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180930848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180930848</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -517,7 +517,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180907184</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180907184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180907184</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Poesi og formynderi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -536,7 +536,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180900736</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180900736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180900736</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -557,7 +557,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180896336</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180896336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180896336</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Poesi og formynderi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -576,7 +576,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180895216</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180895216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180895216</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -597,7 +597,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180892992</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180892992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180892992</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -618,7 +618,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180888256</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180888256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180888256</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Poesi og formynderi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -637,7 +637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180885792</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180885792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180885792</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -658,7 +658,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180879728</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180879728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180879728</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -677,7 +677,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180877424</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180877424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180877424</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -698,7 +698,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180875200</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180875200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180875200</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -723,7 +723,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180869392</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180869392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180869392</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -742,7 +742,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180868048</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180868048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180868048</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -776,7 +776,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180858160</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180858160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180858160</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -795,7 +795,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180853824</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180853824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180853824</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -816,7 +816,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180849200</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180849200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180849200</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -835,7 +835,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180844560</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180844560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180844560</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -860,7 +860,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180839088</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180839088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180839088</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -879,7 +879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180837664</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180837664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180837664</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -920,7 +920,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180824992</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180824992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180824992</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -939,7 +939,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180823728</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180823728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180823728</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -964,7 +964,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180817984</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180817984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180817984</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -983,7 +983,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180815408</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180815408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180815408</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1008,7 +1008,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180811472</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180811472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180811472</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1035,7 +1035,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180804768</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180804768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180804768</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1054,7 +1054,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180802304</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180802304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180802304</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1077,7 +1077,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180799312</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180799312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180799312</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1100,7 +1100,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180796320</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180796320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180796320</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1123,7 +1123,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180791520</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180791520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180791520</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1142,7 +1142,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180787424</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180787424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180787424</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1165,7 +1165,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180784416</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180784416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180784416</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1188,7 +1188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180778944</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180778944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180778944</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1207,7 +1207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180777712</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180777712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180777712</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1230,7 +1230,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180772192</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180772192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180772192</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1249,7 +1249,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180771200</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180771200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180771200</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1272,7 +1272,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180766592</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180766592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180766592</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1291,7 +1291,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180765280</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180765280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180765280</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1314,7 +1314,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180762368</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180762368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180762368</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1337,7 +1337,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180757616</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180757616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180757616</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1356,7 +1356,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180756240</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180756240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180756240</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1379,7 +1379,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180753296</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180753296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180753296</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1402,7 +1402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180748448</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180748448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180748448</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Italienske indtryk</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1421,7 +1421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180747104</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180747104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180747104</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1444,7 +1444,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180740832</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180740832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180740832</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1463,7 +1463,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180739536</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180739536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180739536</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1485,7 +1485,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180735184</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180735184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180735184</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1504,7 +1504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180733168</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180733168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180733168</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1526,7 +1526,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180730640</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180730640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180730640</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1548,7 +1548,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180727952</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180727952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180727952</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1570,7 +1570,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180723536</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180723536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180723536</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1589,7 +1589,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180720608</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180720608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180720608</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1611,7 +1611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180716144</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180716144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180716144</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1630,7 +1630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180715200</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180715200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180715200</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1649,7 +1649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180714304</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180714304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180714304</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1672,7 +1672,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180709360</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180709360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180709360</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1691,7 +1691,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180706048</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180706048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180706048</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1714,7 +1714,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180702880</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180702880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180702880</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1737,7 +1737,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180698048</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180698048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180698048</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1756,7 +1756,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180697040</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180697040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180697040</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1777,7 +1777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180694848</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180694848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180694848</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1798,7 +1798,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180692624</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180692624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180692624</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1819,7 +1819,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180690480</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180690480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180690480</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1840,7 +1840,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180688304</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180688304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180688304</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1861,7 +1861,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180684272</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180684272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180684272</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -1880,7 +1880,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180680288</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180680288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180680288</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180677328</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180677328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180677328</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1926,7 +1926,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180674352</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180674352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180674352</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1949,7 +1949,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180670640</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180670640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180670640</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1972,7 +1972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180667712</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180667712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180667712</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -1995,7 +1995,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180662864</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180662864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180662864</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2014,7 +2014,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180661584</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180661584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180661584</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2035,7 +2035,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180656208</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180656208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180656208</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2054,7 +2054,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180652880</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180652880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180652880</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2077,7 +2077,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180648000</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180648000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180648000</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2096,7 +2096,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180639696</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180639696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180639696</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2115,7 +2115,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180637024</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180637024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180637024</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2138,7 +2138,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180632000</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180632000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180632000</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2157,7 +2157,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180629504</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180629504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180629504</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2178,7 +2178,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180627248</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180627248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180627248</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2199,7 +2199,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180625072</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180625072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180625072</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2220,7 +2220,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180621040</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180621040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180621040</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2239,7 +2239,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180619664</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180619664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180619664</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2264,7 +2264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180615792</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180615792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180615792</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2289,7 +2289,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180610112</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180610112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180610112</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2308,7 +2308,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180602656</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180602656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180602656</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2331,7 +2331,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180599712</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180599712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180599712</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2354,7 +2354,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180596656</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180596656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180596656</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2377,7 +2377,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180591120</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180591120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180591120</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2396,7 +2396,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180589808</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180589808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180589808</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2422,7 +2422,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180584832</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180584832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180584832</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2448,7 +2448,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180578624</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180578624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180578624</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2467,7 +2467,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180575824</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180575824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180575824</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2488,7 +2488,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180571696</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180571696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180571696</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2507,7 +2507,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180570832</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180570832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180570832</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2528,7 +2528,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180568736</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180568736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180568736</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2549,7 +2549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180566608</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180566608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180566608</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2570,7 +2570,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180562640</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180562640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180562640</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2589,7 +2589,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180560400</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180560400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180560400</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2610,7 +2610,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180558240</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180558240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180558240</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2631,7 +2631,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180554240</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180554240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180554240</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2650,7 +2650,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180547504</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180547504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180547504</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2671,7 +2671,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180544112</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180544112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180544112</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2690,7 +2690,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180542816</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180542816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180542816</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2711,7 +2711,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180540768</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180540768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180540768</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2732,7 +2732,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180536832</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180536832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180536832</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Begrænsningens kunstner</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2751,7 +2751,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180535760</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180535760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180535760</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
     <field name="author_id_ssi">a3cdf9e31ba808a03d350fbf2a4467e2</field>
@@ -2772,7 +2772,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180530512</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180530512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180530512</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2791,7 +2791,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180526960</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180526960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180526960</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2810,7 +2810,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180513632</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180513632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180513632</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2829,7 +2829,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180505632</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180505632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180505632</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2848,7 +2848,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180499968</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180499968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180499968</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2867,7 +2867,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180493680</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180493680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180493680</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2886,7 +2886,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180489104</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180489104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180489104</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2905,7 +2905,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180482592</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180482592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180482592</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2924,7 +2924,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180475968</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180475968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180475968</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2943,7 +2943,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180470608</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180470608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180470608</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2962,7 +2962,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180464688</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180464688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180464688</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -2981,7 +2981,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180462656</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180462656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180462656</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3000,7 +3000,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180461488</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180461488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180461488</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3019,7 +3019,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180460368</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180460368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180460368</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3038,7 +3038,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180459200</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180459200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180459200</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3057,7 +3057,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180458064</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180458064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180458064</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3076,7 +3076,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180456784</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180456784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180456784</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3095,7 +3095,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180454624</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180454624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180454624</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3114,7 +3114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180453504</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180453504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180453504</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3133,7 +3133,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180452096</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180452096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180452096</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3152,7 +3152,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180450944</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180450944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180450944</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3171,7 +3171,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180450688</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180450688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180450688</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3190,7 +3190,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180450272</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180450272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180450272</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3209,7 +3209,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180449072</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180449072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180449072</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3228,7 +3228,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180447936</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180447936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180447936</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">I. Bødtcher-udgivelser:</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3247,7 +3247,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180445280</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180445280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180445280</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3266,7 +3266,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180444432</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180444432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180444432</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3285,7 +3285,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180443248</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180443248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180443248</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3304,7 +3304,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180442064</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180442064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180442064</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3323,7 +3323,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180439360</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180439360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180439360</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3342,7 +3342,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180438064</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180438064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180438064</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3361,7 +3361,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180436880</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180436880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180436880</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3380,7 +3380,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180435728</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180435728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180435728</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3399,7 +3399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180434320</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180434320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180434320</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3418,7 +3418,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180433136</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180433136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180433136</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3437,7 +3437,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180431936</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180431936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180431936</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3456,7 +3456,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180430720</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180430720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180430720</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3475,7 +3475,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180429520</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180429520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180429520</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3494,7 +3494,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180428304</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180428304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180428304</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3513,7 +3513,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180426880</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180426880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180426880</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3532,7 +3532,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180425744</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180425744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180425744</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3551,7 +3551,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180424432</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180424432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180424432</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3570,7 +3570,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180423216</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180423216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180423216</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3589,7 +3589,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180421984</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180421984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180421984</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3608,7 +3608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180420784</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180420784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180420784</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3627,7 +3627,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180419520</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180419520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180419520</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3646,7 +3646,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180418224</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180418224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180418224</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3665,7 +3665,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180417008</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180417008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180417008</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3684,7 +3684,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180415792</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180415792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180415792</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3703,7 +3703,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180414464</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180414464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180414464</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3722,7 +3722,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180413168</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180413168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180413168</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3741,7 +3741,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180411968</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180411968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180411968</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3760,7 +3760,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180409520</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180409520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180409520</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">II. Biografiske / litterære fremstillinger</field>
     <field name="author_name">Knud Bjarne Gjesing</field>
@@ -3779,7 +3779,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">boetcher-p#idm140303180407120</field>
     <field name="volume_id_ssi">boetcher-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/boetcher-p#idm140303180407120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/boetcher-p#idm140303180407120</field>
     <field name="volume_title_tesim">Ludvig Bødtcher</field>
     <field name="head_tesim">Knud Bjarne Gjesing</field>
     <field name="author_name">Knud Bjarne Gjesing</field>

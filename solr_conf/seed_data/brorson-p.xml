@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Hans Adolph Brorson</field>
     <field name="id">brorson-p</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620448736</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620448736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620448736</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Steffen Arndal</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620446672</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620446672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620446672</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Steffen Arndal</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620440800</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620440800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620440800</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620438144</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620438144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620438144</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620434448</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620434448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620434448</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620504016</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620504016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620504016</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620502160</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620502160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620502160</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620500048</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620500048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620500048</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -178,7 +178,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620413920</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620413920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620413920</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -197,7 +197,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620412768</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620412768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620412768</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -220,7 +220,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620408384</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620408384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620408384</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -239,7 +239,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620407440</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620407440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620407440</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -260,7 +260,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620403920</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620403920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620403920</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -279,7 +279,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620403184</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620403184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620403184</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -298,7 +298,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620398576</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620398576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620398576</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -323,7 +323,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620388240</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620388240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620388240</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Steffen Arndal</field>
@@ -342,7 +342,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620365968</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620365968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620365968</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Salmedigtningens begyndelse</field>
     <field name="author_name">Steffen Arndal</field>
@@ -361,7 +361,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620361424</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620361424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620361424</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Salmedigtningens begyndelse</field>
     <field name="author_name">Steffen Arndal</field>
@@ -380,7 +380,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620356752</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620356752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620356752</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -399,7 +399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620354704</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620354704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620354704</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -418,7 +418,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620349920</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620349920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620349920</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -437,7 +437,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620348560</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620348560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620348560</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -462,7 +462,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620344272</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620344272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620344272</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -481,7 +481,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620343232</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620343232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620343232</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -508,7 +508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620338080</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620338080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620338080</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -527,7 +527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620334560</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620334560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620334560</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -548,7 +548,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620332320</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620332320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620332320</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -567,7 +567,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620328896</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620328896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620328896</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -588,7 +588,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620326656</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620326656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620326656</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -607,7 +607,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620324416</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620324416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620324416</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -626,7 +626,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620323408</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620323408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620323408</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Tønderhefterne</field>
     <field name="author_name">Steffen Arndal</field>
@@ -645,7 +645,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620319136</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620319136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620319136</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -666,7 +666,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620316192</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620316192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620316192</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620311952</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620311952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620311952</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -708,7 +708,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620309696</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620309696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620309696</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -729,7 +729,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620307312</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620307312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620307312</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -750,7 +750,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620303888</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620303888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620303888</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -771,7 +771,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620297968</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620297968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620297968</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -796,7 +796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620292928</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620292928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620292928</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -817,7 +817,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620290608</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620290608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620290608</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -840,7 +840,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620286496</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620286496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620286496</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -861,7 +861,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620284080</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620284080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620284080</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -882,7 +882,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620280928</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620280928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620280928</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -903,7 +903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620276064</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620276064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620276064</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -930,7 +930,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620270240</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620270240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620270240</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -951,7 +951,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620267808</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620267808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620267808</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620265744</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620265744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620265744</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -993,7 +993,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620263600</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620263600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620263600</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -1014,7 +1014,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620261536</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620261536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620261536</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -1035,7 +1035,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620258208</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620258208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620258208</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Troens rare Klenodie
@@ -1056,7 +1056,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620254880</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620254880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620254880</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biskop i Ribe</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1075,7 +1075,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620252640</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620252640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620252640</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biskop i Ribe</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1094,7 +1094,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620249120</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620249120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620249120</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biskop i Ribe</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1113,7 +1113,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620246848</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620246848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620246848</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biskop i Ribe</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1132,7 +1132,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620244496</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620244496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620244496</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biskop i Ribe</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1151,7 +1151,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620242112</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620242112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620242112</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biskop i Ribe</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1170,7 +1170,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620240960</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620240960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620240960</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -1195,7 +1195,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620235472</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620235472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620235472</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Biskop i Ribe</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1214,7 +1214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620234352</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620234352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620234352</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="author_name">Steffen Arndal</field>
     <field name="author_id_ssi">6bf5f4cf22ba99dca5146a23236f59a2</field>
@@ -1235,7 +1235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620229120</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620229120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620229120</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Svane-Sang
@@ -1256,7 +1256,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620226144</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620226144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620226144</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Svane-Sang
@@ -1277,7 +1277,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620223280</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620223280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620223280</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">1. </field>
     <field name="author_name">Steffen Arndal</field>
@@ -1300,7 +1300,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620220400</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620220400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620220400</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">2. </field>
     <field name="author_name">Steffen Arndal</field>
@@ -1323,7 +1323,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620217472</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620217472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620217472</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">3.</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1346,7 +1346,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620214624</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620214624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620214624</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">4.</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1369,7 +1369,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620211744</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620211744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620211744</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">5. </field>
     <field name="author_name">Steffen Arndal</field>
@@ -1392,7 +1392,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620208816</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620208816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620208816</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">6. </field>
     <field name="author_name">Steffen Arndal</field>
@@ -1415,7 +1415,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620205744</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620205744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620205744</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Svane-Sang
@@ -1436,7 +1436,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620198864</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620198864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620198864</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Svane-Sang
@@ -1457,7 +1457,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620179552</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620179552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620179552</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">
               Svane-Sang
@@ -1478,7 +1478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620175328</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620175328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620175328</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1497,7 +1497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620171968</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620171968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620171968</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1516,7 +1516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620170288</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620170288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620170288</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1535,7 +1535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620167584</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620167584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620167584</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1554,7 +1554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620162912</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620162912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620162912</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1573,7 +1573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620159344</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620159344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620159344</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1592,7 +1592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620158320</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620158320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620158320</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1611,7 +1611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620152672</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620152672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620152672</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1630,7 +1630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620146240</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620146240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620146240</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1649,7 +1649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620142320</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620142320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620142320</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>
@@ -1668,7 +1668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brorson-p#idm140715620136992</field>
     <field name="volume_id_ssi">brorson-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brorson-p#idm140715620136992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brorson-p#idm140715620136992</field>
     <field name="volume_title_tesim">Hans Adolph Brorson</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Steffen Arndal</field>

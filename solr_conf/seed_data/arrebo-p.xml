@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Anders Arrebo</field>
     <field name="id">arrebo-p</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756185568</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756185568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756185568</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756181104</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756181104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756181104</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756178784</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756178784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756178784</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756171616</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756171616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756171616</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756167680</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756167680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756167680</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756239680</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756239680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756239680</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756237392</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756237392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756237392</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756117600</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756117600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756117600</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756115008</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756115008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756115008</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756102944</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756102944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756102944</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756099696</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756099696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756099696</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756097840</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756097840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756097840</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756092512</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756092512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756092512</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756080256</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756080256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756080256</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756078144</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756078144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756078144</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -313,7 +313,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756072240</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756072240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756072240</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -332,7 +332,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756070880</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756070880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756070880</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -353,7 +353,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756066944</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756066944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756066944</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -372,7 +372,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756063440</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756063440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756063440</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -397,7 +397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756057648</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756057648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756057648</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Prædikener og lejlighedsdigte</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -416,7 +416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756053952</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756053952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756053952</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">
               K. Davids Psalter
@@ -437,7 +437,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756052176</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756052176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756052176</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">
               K. Davids Psalter
@@ -458,7 +458,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756049136</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756049136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756049136</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">
               K. Davids Psalter
@@ -479,7 +479,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756048432</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756048432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756048432</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -504,7 +504,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756044560</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756044560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756044560</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -529,7 +529,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756038768</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756038768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756038768</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">
               K. Davids Psalter
@@ -550,7 +550,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756030640</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756030640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756030640</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Besynderlig nu Ijssen i slig maade første gang brydis</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -569,7 +569,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756026032</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756026032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756026032</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -590,7 +590,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756022080</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756022080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756022080</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756018048</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756018048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756018048</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Besynderlig nu Ijssen i slig maade første gang brydis</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756014464</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756014464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756014464</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Besynderlig nu Ijssen i slig maade første gang brydis</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756010208</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756010208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756010208</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -673,7 +673,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756006448</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756006448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756006448</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Besynderlig nu Ijssen i slig maade første gang brydis</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -692,7 +692,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756005760</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756005760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756005760</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -716,7 +716,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756000336</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756000336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756000336</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Besynderlig nu Ijssen i slig maade første gang brydis</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -735,7 +735,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755994320</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755994320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755994320</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -759,7 +759,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755989008</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755989008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755989008</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Besynderlig nu Ijssen i slig maade første gang brydis</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -778,7 +778,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755984832</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755984832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755984832</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -797,7 +797,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755976560</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755976560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755976560</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -816,7 +816,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755975808</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755975808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755975808</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -841,7 +841,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755969968</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755969968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755969968</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -860,7 +860,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755964640</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755964640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755964640</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -878,7 +878,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755963600</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755963600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755963600</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -897,7 +897,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755962912</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755962912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755962912</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -916,7 +916,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755959808</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755959808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755959808</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -935,7 +935,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755959120</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755959120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755959120</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755958032</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755958032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755958032</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755957392</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755957392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755957392</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -993,7 +993,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755953392</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755953392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755953392</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1012,7 +1012,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755952384</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755952384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755952384</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1031,7 +1031,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755945536</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755945536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755945536</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1050,7 +1050,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755940672</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755940672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755940672</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1069,7 +1069,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755939520</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755939520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755939520</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1088,7 +1088,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755937568</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755937568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755937568</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1107,7 +1107,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755936128</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755936128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755936128</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1126,7 +1126,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755934736</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755934736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755934736</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1145,7 +1145,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755932896</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755932896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755932896</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1164,7 +1164,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755930944</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755930944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755930944</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1183,7 +1183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755929824</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755929824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755929824</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1202,7 +1202,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755928448</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755928448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755928448</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1221,7 +1221,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755926192</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755926192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755926192</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1240,7 +1240,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755923568</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755923568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755923568</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Den luthersk korrekte salme</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1259,7 +1259,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755913184</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755913184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755913184</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1278,7 +1278,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755907296</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755907296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755907296</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1297,7 +1297,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755901104</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755901104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755901104</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1316,7 +1316,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755898192</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755898192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755898192</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1335,7 +1335,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756160336</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756160336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756160336</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1354,7 +1354,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756154896</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756154896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756154896</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1373,7 +1373,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088756152928</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088756152928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088756152928</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1392,7 +1392,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755857360</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755857360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755857360</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1411,7 +1411,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755852720</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755852720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755852720</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1430,7 +1430,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755851360</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755851360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755851360</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1455,7 +1455,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755845312</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755845312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755845312</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1480,7 +1480,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755839488</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755839488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755839488</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1499,7 +1499,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755836832</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755836832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755836832</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1520,7 +1520,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755834640</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755834640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755834640</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1541,7 +1541,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755832464</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755832464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755832464</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1562,7 +1562,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755828464</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755828464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755828464</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Sangvijß paa vort Danske Maal vdsat oc forferdiget</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1581,7 +1581,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755824720</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755824720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755824720</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Hexaëmeron - i Skaberens fodspor</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1600,7 +1600,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755817536</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755817536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755817536</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Hexaëmeron - i Skaberens fodspor</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1619,7 +1619,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755813456</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755813456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755813456</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Hexaëmeron - en måde at se verden på</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1638,7 +1638,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755809632</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755809632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755809632</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1671,7 +1671,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755799136</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755799136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755799136</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Hexaëmeron - en måde at se verden på</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1690,7 +1690,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755796672</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755796672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755796672</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Hexaëmeron - en måde at se verden på</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1709,7 +1709,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755783312</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755783312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755783312</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Hexaëmeron - en måde at se verden på</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1728,7 +1728,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755773360</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755773360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755773360</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Hexaëmeron - en måde at se verden på</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1747,7 +1747,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755765888</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755765888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755765888</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kulturpolitik og nationallitteratur</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1766,7 +1766,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755761584</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755761584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755761584</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kulturpolitik og nationallitteratur</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1785,7 +1785,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755751152</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755751152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755751152</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1806,7 +1806,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755746288</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755746288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755746288</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kulturpolitik og nationallitteratur</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1825,7 +1825,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755744432</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755744432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755744432</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kulturpolitik og nationallitteratur</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1844,7 +1844,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755738592</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755738592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755738592</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1863,7 +1863,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755737424</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755737424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755737424</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1882,7 +1882,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755736336</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755736336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755736336</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1901,7 +1901,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755735264</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755735264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755735264</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1920,7 +1920,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755732944</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755732944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755732944</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -1942,7 +1942,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755728752</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755728752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755728752</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1961,7 +1961,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755727424</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755727424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755727424</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -1980,7 +1980,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755726672</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755726672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755726672</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2015,7 +2015,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755715008</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755715008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755715008</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2034,7 +2034,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755711024</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755711024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755711024</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2053,7 +2053,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755706960</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755706960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755706960</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2080,7 +2080,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755699776</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755699776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755699776</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2099,7 +2099,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755688832</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755688832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755688832</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2124,7 +2124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755682816</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755682816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755682816</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2143,7 +2143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755680704</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755680704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755680704</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2172,7 +2172,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755672688</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755672688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755672688</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2191,7 +2191,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755669808</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755669808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755669808</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2216,7 +2216,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755663920</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755663920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755663920</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2235,7 +2235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755661728</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755661728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755661728</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2256,7 +2256,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755657536</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755657536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755657536</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2275,7 +2275,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755656528</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755656528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755656528</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2300,7 +2300,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755650544</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755650544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755650544</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2319,7 +2319,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755649504</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755649504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755649504</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2346,7 +2346,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755639920</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755639920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755639920</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2365,7 +2365,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755639136</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755639136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755639136</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2384,7 +2384,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755635264</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755635264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755635264</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2403,7 +2403,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755632800</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755632800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755632800</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2434,7 +2434,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755623072</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755623072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755623072</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2453,7 +2453,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755621648</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755621648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755621648</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2482,7 +2482,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755612336</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755612336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755612336</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2501,7 +2501,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755607376</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755607376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755607376</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2520,7 +2520,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755604672</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755604672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755604672</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2541,7 +2541,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755600544</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755600544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755600544</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2560,7 +2560,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755599696</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755599696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755599696</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2583,7 +2583,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755594624</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755594624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755594624</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2602,7 +2602,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755589120</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755589120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755589120</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2621,7 +2621,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755582560</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755582560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755582560</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2640,7 +2640,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755581520</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755581520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755581520</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2678,7 +2678,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755568096</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755568096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755568096</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Kunsten at skjule kunsten</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2697,7 +2697,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755565568</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755565568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755565568</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2716,7 +2716,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755562752</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755562752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755562752</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2735,7 +2735,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755560000</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755560000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755560000</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2754,7 +2754,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755558240</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755558240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755558240</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tematisk sammenfatning</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2773,7 +2773,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755553040</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755553040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755553040</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2792,7 +2792,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755545296</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755545296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755545296</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2811,7 +2811,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755537872</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755537872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755537872</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="author_name">Torben Mundbjerg</field>
     <field name="author_id_ssi">2adc30c6cbc2acdbb5f7d7201c6be038</field>
@@ -2840,7 +2840,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755530304</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755530304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755530304</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2859,7 +2859,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755523664</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755523664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755523664</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2878,7 +2878,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755522624</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755522624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755522624</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2897,7 +2897,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755515520</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755515520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755515520</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2916,7 +2916,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755510256</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755510256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755510256</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2935,7 +2935,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755507488</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755507488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755507488</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2954,7 +2954,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755500656</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755500656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755500656</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2973,7 +2973,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755493184</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755493184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755493184</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -2992,7 +2992,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755492624</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755492624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755492624</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3011,7 +3011,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755491408</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755491408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755491408</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3030,7 +3030,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755490944</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755490944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755490944</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3049,7 +3049,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755489648</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755489648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755489648</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3068,7 +3068,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755485568</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755485568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755485568</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3087,7 +3087,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755478816</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755478816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755478816</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3106,7 +3106,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755478192</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755478192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755478192</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3125,7 +3125,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755476960</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755476960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755476960</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3144,7 +3144,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755475472</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755475472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755475472</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3163,7 +3163,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755472448</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755472448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755472448</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3182,7 +3182,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755465216</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755465216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755465216</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3201,7 +3201,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755464416</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755464416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755464416</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3220,7 +3220,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755461712</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755461712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755461712</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3239,7 +3239,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755459712</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755459712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755459712</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3258,7 +3258,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755458496</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755458496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755458496</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3277,7 +3277,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755456384</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755456384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755456384</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3296,7 +3296,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755454496</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755454496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755454496</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3315,7 +3315,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755447360</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755447360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755447360</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Udgivelser</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3334,7 +3334,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755444176</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755444176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755444176</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografiske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3353,7 +3353,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755443568</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755443568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755443568</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografiske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3372,7 +3372,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755442112</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755442112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755442112</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografiske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3391,7 +3391,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755440880</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755440880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755440880</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografiske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3410,7 +3410,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755439312</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755439312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755439312</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Biografiske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3429,7 +3429,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755436496</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755436496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755436496</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3448,7 +3448,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755433792</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755433792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755433792</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3467,7 +3467,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755431952</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755431952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755431952</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3486,7 +3486,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755430032</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755430032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755430032</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3505,7 +3505,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755428000</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755428000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755428000</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3524,7 +3524,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755424352</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755424352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755424352</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3543,7 +3543,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755421568</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755421568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755421568</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3562,7 +3562,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755419376</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755419376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755419376</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Analyser af enkelte tekster</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3581,7 +3581,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755415728</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755415728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755415728</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3600,7 +3600,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755414576</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755414576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755414576</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3619,7 +3619,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755412528</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755412528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755412528</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3638,7 +3638,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755411392</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755411392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755411392</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3657,7 +3657,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755410224</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755410224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755410224</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3676,7 +3676,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755409040</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755409040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755409040</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3695,7 +3695,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755407840</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755407840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755407840</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3714,7 +3714,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755406640</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755406640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755406640</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3733,7 +3733,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755405440</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755405440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755405440</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3752,7 +3752,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755404288</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755404288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755404288</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3771,7 +3771,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755403024</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755403024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755403024</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3790,7 +3790,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755401856</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755401856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755401856</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3809,7 +3809,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755400672</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755400672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755400672</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3828,7 +3828,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755398752</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755398752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755398752</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3847,7 +3847,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755396848</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755396848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755396848</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3866,7 +3866,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755395472</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755395472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755395472</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3885,7 +3885,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755394160</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755394160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755394160</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3904,7 +3904,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755393008</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755393008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755393008</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3923,7 +3923,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755391632</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755391632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755391632</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Relevante litteraturhistoriske studier</field>
     <field name="author_name">Torben Mundbjerg</field>
@@ -3942,7 +3942,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">arrebo-p#idm140088755389232</field>
     <field name="volume_id_ssi">arrebo-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/arrebo-p#idm140088755389232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/arrebo-p#idm140088755389232</field>
     <field name="volume_title_tesim">Anders Arrebo</field>
     <field name="head_tesim">Torben Mundbjerg</field>
     <field name="author_name">Torben Mundbjerg</field>

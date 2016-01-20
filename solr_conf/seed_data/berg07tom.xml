@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
     <field name="id">berg07tom</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Pillone</field>
     <field name="id">berg07tom#workid54252</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54252</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54252</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">n5</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Italienske Noveller</field>
     <field name="id">berg07tom#workid55590</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid55590</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid55590</field>
     <field name="page_ssi">123</field>
     <field name="page_id_ssi">n123</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -68,7 +68,7 @@
     <field name="work_title_tesim">En Nat i Flaviernes Amfiteater</field>
     <field name="id">berg07tom#workid55635</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid55635</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid55635</field>
     <field name="page_ssi">127</field>
     <field name="page_id_ssi">n127</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -89,7 +89,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231312896</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231312896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231312896</field>
     <field name="page_ssi">146</field>
     <field name="page_id_ssi">n146</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -114,7 +114,7 @@
     <field name="work_title_tesim">Mezza notte</field>
     <field name="id">berg07tom#workid55841</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid55841</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid55841</field>
     <field name="page_ssi">147</field>
     <field name="page_id_ssi">n147</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -135,7 +135,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231260064</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231260064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231260064</field>
     <field name="page_ssi">188</field>
     <field name="page_id_ssi">n188</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -160,7 +160,7 @@
     <field name="work_title_tesim">Kløften med de klirrende Vaaben</field>
     <field name="id">berg07tom#workid56264</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56264</field>
     <field name="page_ssi">189</field>
     <field name="page_id_ssi">n189</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -181,7 +181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231211984</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231211984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231211984</field>
     <field name="page_ssi">226</field>
     <field name="page_id_ssi">n226</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -206,7 +206,7 @@
     <field name="work_title_tesim">I Ny og Næ</field>
     <field name="id">berg07tom#workid56652</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56652</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56652</field>
     <field name="page_ssi">227</field>
     <field name="page_id_ssi">n227</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -227,7 +227,7 @@
     <field name="work_title_tesim">Urformation (1854-62.)</field>
     <field name="id">berg07tom#workid56697</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56697</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56697</field>
     <field name="page_ssi">231</field>
     <field name="page_id_ssi">n231</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -250,7 +250,7 @@
     <field name="work_title_tesim">Drømme (I-VIII)</field>
     <field name="id">berg07tom#workid56719</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56719</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56719</field>
     <field name="page_ssi">233</field>
     <field name="page_id_ssi">n233</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -272,7 +272,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231193200</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231193200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231193200</field>
     <field name="page_ssi">238</field>
     <field name="page_id_ssi">n238</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -298,7 +298,7 @@
     <field name="work_title_tesim">Stemninger (I-IV)</field>
     <field name="id">berg07tom#workid56785</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56785</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56785</field>
     <field name="page_ssi">239</field>
     <field name="page_id_ssi">n239</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -320,7 +320,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231188032</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231188032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231188032</field>
     <field name="page_ssi">241</field>
     <field name="page_id_ssi">n241</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -346,7 +346,7 @@
     <field name="work_title_tesim">Huldrens Roser</field>
     <field name="id">berg07tom#workid56819</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56819</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56819</field>
     <field name="page_ssi">242</field>
     <field name="page_id_ssi">n242</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -368,7 +368,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231180512</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231180512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231180512</field>
     <field name="page_ssi">246</field>
     <field name="page_id_ssi">n246</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -394,7 +394,7 @@
     <field name="work_title_tesim">Til Storken</field>
     <field name="id">berg07tom#workid56873</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56873</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56873</field>
     <field name="page_ssi">247</field>
     <field name="page_id_ssi">n247</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -416,7 +416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231176736</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231176736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231176736</field>
     <field name="page_ssi">248</field>
     <field name="page_id_ssi">n248</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -442,7 +442,7 @@
     <field name="work_title_tesim">Helenes Grav</field>
     <field name="id">berg07tom#workid56899</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56899</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56899</field>
     <field name="page_ssi">249</field>
     <field name="page_id_ssi">n249</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -464,7 +464,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231172928</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231172928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231172928</field>
     <field name="page_ssi">250</field>
     <field name="page_id_ssi">n250</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -490,7 +490,7 @@
     <field name="work_title_tesim">Den syge Svale</field>
     <field name="id">berg07tom#workid56924</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56924</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56924</field>
     <field name="page_ssi">251</field>
     <field name="page_id_ssi">n251</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -512,7 +512,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231169152</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231169152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231169152</field>
     <field name="page_ssi">252</field>
     <field name="page_id_ssi">n252</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -538,7 +538,7 @@
     <field name="work_title_tesim">Græshopperne drage forbi</field>
     <field name="id">berg07tom#workid56948</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid56948</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid56948</field>
     <field name="page_ssi">253</field>
     <field name="page_id_ssi">n253</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -560,7 +560,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231161552</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231161552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231161552</field>
     <field name="page_ssi">257</field>
     <field name="page_id_ssi">n257</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -586,7 +586,7 @@
     <field name="work_title_tesim">Med en Flagermus</field>
     <field name="id">berg07tom#workid57003</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57003</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57003</field>
     <field name="page_ssi">258</field>
     <field name="page_id_ssi">n258</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -608,7 +608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231157616</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231157616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231157616</field>
     <field name="page_ssi">259</field>
     <field name="page_id_ssi">n259</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -634,7 +634,7 @@
     <field name="work_title_tesim">Stambogsblad [I Skoven ved mit kære Frederiksdal]</field>
     <field name="id">berg07tom#workid57030</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57030</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57030</field>
     <field name="page_ssi">260</field>
     <field name="page_id_ssi">n260</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -656,7 +656,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231155072</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231155072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231155072</field>
     <field name="page_ssi">260</field>
     <field name="page_id_ssi">n260</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -682,7 +682,7 @@
     <field name="work_title_tesim">Til en Ven</field>
     <field name="id">berg07tom#workid57045</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57045</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57045</field>
     <field name="page_ssi">261</field>
     <field name="page_id_ssi">n261</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -704,7 +704,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231151296</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231151296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231151296</field>
     <field name="page_ssi">262</field>
     <field name="page_id_ssi">n262</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -730,7 +730,7 @@
     <field name="work_title_tesim">Fem og tyve Aar [1836]</field>
     <field name="id">berg07tom#workid57071</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57071</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57071</field>
     <field name="page_ssi">263</field>
     <field name="page_id_ssi">n263</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -752,7 +752,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231144960</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231144960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231144960</field>
     <field name="page_ssi">266</field>
     <field name="page_id_ssi">n266</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -778,7 +778,7 @@
     <field name="work_title_tesim">Carl Johannes Nissen</field>
     <field name="id">berg07tom#workid57118</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57118</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57118</field>
     <field name="page_ssi">267</field>
     <field name="page_id_ssi">n267</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -800,7 +800,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231141072</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231141072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231141072</field>
     <field name="page_ssi">268</field>
     <field name="page_id_ssi">n268</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -826,7 +826,7 @@
     <field name="work_title_tesim">Overgangsperiode (Italien 1862-63)</field>
     <field name="id">berg07tom#workid57143</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57143</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57143</field>
     <field name="page_ssi">269</field>
     <field name="page_id_ssi">n269</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -849,7 +849,7 @@
     <field name="work_title_tesim">Indledning [Som en Ranke]</field>
     <field name="id">berg07tom#workid57166</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57166</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57166</field>
     <field name="page_ssi">271</field>
     <field name="page_id_ssi">n271</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -871,7 +871,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231134912</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231134912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231134912</field>
     <field name="page_ssi">271</field>
     <field name="page_id_ssi">n271</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -897,7 +897,7 @@
     <field name="work_title_tesim">Lykkens Terning</field>
     <field name="id">berg07tom#workid57171</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57171</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57171</field>
     <field name="page_ssi">271</field>
     <field name="page_id_ssi">n271</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -919,7 +919,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231132384</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231132384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231132384</field>
     <field name="page_ssi">272</field>
     <field name="page_id_ssi">n272</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -945,7 +945,7 @@
     <field name="work_title_tesim">Sonetter (I-V)</field>
     <field name="id">berg07tom#workid57197</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57197</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57197</field>
     <field name="page_ssi">273</field>
     <field name="page_id_ssi">n273</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -967,7 +967,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231127248</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231127248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231127248</field>
     <field name="page_ssi">275</field>
     <field name="page_id_ssi">n275</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -993,7 +993,7 @@
     <field name="work_title_tesim">Forskudt</field>
     <field name="id">berg07tom#workid54727</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54727</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54727</field>
     <field name="page_ssi">276</field>
     <field name="page_id_ssi">n276</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1015,7 +1015,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231123360</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231123360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231123360</field>
     <field name="page_ssi">277</field>
     <field name="page_id_ssi">n277</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1041,7 +1041,7 @@
     <field name="work_title_tesim">Resignation</field>
     <field name="id">berg07tom#workid54751</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54751</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54751</field>
     <field name="page_ssi">278</field>
     <field name="page_id_ssi">n278</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1063,7 +1063,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231118320</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231118320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231118320</field>
     <field name="page_ssi">280</field>
     <field name="page_id_ssi">n280</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1089,7 +1089,7 @@
     <field name="work_title_tesim">De tvende Kilder</field>
     <field name="id">berg07tom#workid54786</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54786</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54786</field>
     <field name="page_ssi">281</field>
     <field name="page_id_ssi">n281</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1111,7 +1111,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231113152</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231113152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231113152</field>
     <field name="page_ssi">283</field>
     <field name="page_id_ssi">n283</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1137,7 +1137,7 @@
     <field name="work_title_tesim">Længsel</field>
     <field name="id">berg07tom#workid54821</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54821</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54821</field>
     <field name="page_ssi">284</field>
     <field name="page_id_ssi">n284</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1159,7 +1159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231110576</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231110576</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231110576</field>
     <field name="page_ssi">284</field>
     <field name="page_id_ssi">n284</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1185,7 +1185,7 @@
     <field name="work_title_tesim">Paa Monte Pincio</field>
     <field name="id">berg07tom#workid54836</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54836</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54836</field>
     <field name="page_ssi">285</field>
     <field name="page_id_ssi">n285</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1207,7 +1207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231107984</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231107984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231107984</field>
     <field name="page_ssi">285</field>
     <field name="page_id_ssi">n285</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1233,7 +1233,7 @@
     <field name="work_title_tesim">Nemi</field>
     <field name="id">berg07tom#workid54852</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54852</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54852</field>
     <field name="page_ssi">286</field>
     <field name="page_id_ssi">n286</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1255,7 +1255,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231104048</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231104048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231104048</field>
     <field name="page_ssi">287</field>
     <field name="page_id_ssi">n287</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1281,7 +1281,7 @@
     <field name="work_title_tesim">Hun sover kun! (6te Mai 1863)</field>
     <field name="id">berg07tom#workid54877</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54877</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54877</field>
     <field name="page_ssi">288</field>
     <field name="page_id_ssi">n288</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1303,7 +1303,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231101408</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231101408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231101408</field>
     <field name="page_ssi">288</field>
     <field name="page_id_ssi">n288</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1329,7 +1329,7 @@
     <field name="work_title_tesim">Munken</field>
     <field name="id">berg07tom#workid54892</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid54892</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid54892</field>
     <field name="page_ssi">289</field>
     <field name="page_id_ssi">n289</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1351,7 +1351,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231097696</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231097696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231097696</field>
     <field name="page_ssi">290</field>
     <field name="page_id_ssi">n290</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1377,7 +1377,7 @@
     <field name="work_title_tesim">Sølyst</field>
     <field name="id">berg07tom#workid57218</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57218</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57218</field>
     <field name="page_ssi">291</field>
     <field name="page_id_ssi">n291</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1399,7 +1399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231093920</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231093920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231093920</field>
     <field name="page_ssi">292</field>
     <field name="page_id_ssi">n292</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1425,7 +1425,7 @@
     <field name="work_title_tesim">Til Vennerne I Hjemmet</field>
     <field name="id">berg07tom#workid57243</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57243</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57243</field>
     <field name="page_ssi">293</field>
     <field name="page_id_ssi">n293</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231087776</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231087776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231087776</field>
     <field name="page_ssi">296</field>
     <field name="page_id_ssi">n296</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1473,7 +1473,7 @@
     <field name="work_title_tesim">Nyere Dannelser (1863-67.)</field>
     <field name="id">berg07tom#workid57286</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57286</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57286</field>
     <field name="page_ssi">297</field>
     <field name="page_id_ssi">n297</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1496,7 +1496,7 @@
     <field name="work_title_tesim">Colosseum</field>
     <field name="id">berg07tom#workid57306</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57306</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57306</field>
     <field name="page_ssi">299</field>
     <field name="page_id_ssi">n299</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1518,7 +1518,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231077968</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231077968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231077968</field>
     <field name="page_ssi">302</field>
     <field name="page_id_ssi">n302</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1544,7 +1544,7 @@
     <field name="work_title_tesim">Havkrabberne</field>
     <field name="id">berg07tom#workid57348</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57348</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57348</field>
     <field name="page_ssi">303</field>
     <field name="page_id_ssi">n303</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1566,7 +1566,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231071632</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231071632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231071632</field>
     <field name="page_ssi">306</field>
     <field name="page_id_ssi">n306</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1592,7 +1592,7 @@
     <field name="work_title_tesim">Ridder Løvfrø</field>
     <field name="id">berg07tom#workid57390</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57390</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57390</field>
     <field name="page_ssi">307</field>
     <field name="page_id_ssi">n307</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1614,7 +1614,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231064064</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231064064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231064064</field>
     <field name="page_ssi">311</field>
     <field name="page_id_ssi">n311</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1640,7 +1640,7 @@
     <field name="work_title_tesim">Epigrammer</field>
     <field name="id">berg07tom#workid57440</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57440</field>
     <field name="page_ssi">312</field>
     <field name="page_id_ssi">n312</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1662,7 +1662,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231060336</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231060336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231060336</field>
     <field name="page_ssi">313</field>
     <field name="page_id_ssi">n313</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1688,7 +1688,7 @@
     <field name="work_title_tesim">Christian Winther [Hvi er hans Rytmers ...]</field>
     <field name="id">berg07tom#workid57463</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57463</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57463</field>
     <field name="page_ssi">314</field>
     <field name="page_id_ssi">n314</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1710,7 +1710,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231054048</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231054048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231054048</field>
     <field name="page_ssi">317</field>
     <field name="page_id_ssi">n317</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1736,7 +1736,7 @@
     <field name="work_title_tesim">Husker du?</field>
     <field name="id">berg07tom#workid57505</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57505</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57505</field>
     <field name="page_ssi">318</field>
     <field name="page_id_ssi">n318</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1758,7 +1758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231051472</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231051472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231051472</field>
     <field name="page_ssi">318</field>
     <field name="page_id_ssi">n318</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1784,7 +1784,7 @@
     <field name="work_title_tesim">Et Par</field>
     <field name="id">berg07tom#workid57519</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57519</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57519</field>
     <field name="page_ssi">319</field>
     <field name="page_id_ssi">n319</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1806,7 +1806,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231047696</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231047696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231047696</field>
     <field name="page_ssi">320</field>
     <field name="page_id_ssi">n320</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1832,7 +1832,7 @@
     <field name="work_title_tesim">I Skansen</field>
     <field name="id">berg07tom#workid57542</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57542</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57542</field>
     <field name="page_ssi">321</field>
     <field name="page_id_ssi">n321</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1854,7 +1854,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231042416</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231042416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231042416</field>
     <field name="page_ssi">323</field>
     <field name="page_id_ssi">n323</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1880,7 +1880,7 @@
     <field name="work_title_tesim">Hjemlandet</field>
     <field name="id">berg07tom#workid57573</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57573</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57573</field>
     <field name="page_ssi">324</field>
     <field name="page_id_ssi">n324</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1902,7 +1902,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231039840</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231039840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231039840</field>
     <field name="page_ssi">324</field>
     <field name="page_id_ssi">n324</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1928,7 +1928,7 @@
     <field name="work_title_tesim">Jentens Sang</field>
     <field name="id">berg07tom#workid57588</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57588</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57588</field>
     <field name="page_ssi">325</field>
     <field name="page_id_ssi">n325</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1950,7 +1950,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231037200</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231037200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231037200</field>
     <field name="page_ssi">325</field>
     <field name="page_id_ssi">n325</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1976,7 +1976,7 @@
     <field name="work_title_tesim">En Bøn [Jeg beder dig ikke om Rosen paa dit Bryst]</field>
     <field name="id">berg07tom#workid57594</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57594</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57594</field>
     <field name="page_ssi">325</field>
     <field name="page_id_ssi">n325</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231035872</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231035872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231035872</field>
     <field name="page_ssi">325</field>
     <field name="page_id_ssi">n325</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2024,7 +2024,7 @@
     <field name="work_title_tesim">Sangsvanen</field>
     <field name="id">berg07tom#workid57609</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57609</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57609</field>
     <field name="page_ssi">326</field>
     <field name="page_id_ssi">n326</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2046,7 +2046,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231032016</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231032016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231032016</field>
     <field name="page_ssi">327</field>
     <field name="page_id_ssi">n327</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2072,7 +2072,7 @@
     <field name="work_title_tesim">Den norske Maler</field>
     <field name="id">berg07tom#workid57634</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57634</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57634</field>
     <field name="page_ssi">328</field>
     <field name="page_id_ssi">n328</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2094,7 +2094,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231001856</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231001856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231001856</field>
     <field name="page_ssi">350</field>
     <field name="page_id_ssi">n350</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2120,7 +2120,7 @@
     <field name="work_title_tesim">Blomstervignetter</field>
     <field name="id">berg07tom#workid57870</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid57870</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid57870</field>
     <field name="page_ssi">351</field>
     <field name="page_id_ssi">n351</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2141,7 +2141,7 @@
     <field name="work_title_tesim">Hjemvé</field>
     <field name="id">berg07tom#workid58192</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58192</field>
     <field name="page_ssi">383</field>
     <field name="page_id_ssi">n383</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2162,7 +2162,7 @@
     <field name="work_title_tesim">Munkens Historie</field>
     <field name="id">berg07tom#workid58216</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58216</field>
     <field name="page_ssi">385</field>
     <field name="page_id_ssi">n385</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2185,7 +2185,7 @@
     <field name="work_title_tesim">Paa Forum Romanum</field>
     <field name="id">berg07tom#workid58218</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58218</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58218</field>
     <field name="page_ssi">385</field>
     <field name="page_id_ssi">n385</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231539824</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231539824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231539824</field>
     <field name="page_ssi">386</field>
     <field name="page_id_ssi">n386</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2233,7 +2233,7 @@
     <field name="work_title_tesim">To Veninder</field>
     <field name="id">berg07tom#workid58244</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58244</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58244</field>
     <field name="page_ssi">387</field>
     <field name="page_id_ssi">n387</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2255,7 +2255,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231532608</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231532608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231532608</field>
     <field name="page_ssi">391</field>
     <field name="page_id_ssi">n391</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2281,7 +2281,7 @@
     <field name="work_title_tesim">Afsked</field>
     <field name="id">berg07tom#workid58298</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58298</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58298</field>
     <field name="page_ssi">392</field>
     <field name="page_id_ssi">n392</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2303,7 +2303,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231526592</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231526592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231526592</field>
     <field name="page_ssi">395</field>
     <field name="page_id_ssi">n395</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2329,7 +2329,7 @@
     <field name="work_title_tesim">I Tvivl</field>
     <field name="id">berg07tom#workid58343</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58343</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58343</field>
     <field name="page_ssi">396</field>
     <field name="page_id_ssi">n396</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2351,7 +2351,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445231519248</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445231519248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445231519248</field>
     <field name="page_ssi">400</field>
     <field name="page_id_ssi">n400</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2377,7 +2377,7 @@
     <field name="work_title_tesim">Et Træf</field>
     <field name="id">berg07tom#workid58396</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58396</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58396</field>
     <field name="page_ssi">401</field>
     <field name="page_id_ssi">n401</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2399,7 +2399,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230931984</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230931984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230931984</field>
     <field name="page_ssi">405</field>
     <field name="page_id_ssi">n405</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2425,7 +2425,7 @@
     <field name="work_title_tesim">Alrunen</field>
     <field name="id">berg07tom#workid58452</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58452</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58452</field>
     <field name="page_ssi">406</field>
     <field name="page_id_ssi">n406</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2447,7 +2447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230927040</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230927040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230927040</field>
     <field name="page_ssi">408</field>
     <field name="page_id_ssi">n408</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2473,7 +2473,7 @@
     <field name="work_title_tesim">Raadstueballet</field>
     <field name="id">berg07tom#workid58487</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58487</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58487</field>
     <field name="page_ssi">409</field>
     <field name="page_id_ssi">n409</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2495,7 +2495,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230922096</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230922096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230922096</field>
     <field name="page_ssi">411</field>
     <field name="page_id_ssi">n411</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2521,7 +2521,7 @@
     <field name="work_title_tesim">I Kabinettet</field>
     <field name="id">berg07tom#workid58522</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58522</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58522</field>
     <field name="page_ssi">412</field>
     <field name="page_id_ssi">n412</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2543,7 +2543,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230914816</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230914816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230914816</field>
     <field name="page_ssi">416</field>
     <field name="page_id_ssi">n416</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2569,7 +2569,7 @@
     <field name="work_title_tesim">I Spillesalen</field>
     <field name="id">berg07tom#workid58578</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58578</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58578</field>
     <field name="page_ssi">417</field>
     <field name="page_id_ssi">n417</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2591,7 +2591,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230907536</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230907536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230907536</field>
     <field name="page_ssi">421</field>
     <field name="page_id_ssi">n421</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2617,7 +2617,7 @@
     <field name="work_title_tesim">Hjemkomsten</field>
     <field name="id">berg07tom#workid58633</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58633</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58633</field>
     <field name="page_ssi">422</field>
     <field name="page_id_ssi">n422</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2639,7 +2639,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230901392</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230901392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230901392</field>
     <field name="page_ssi">425</field>
     <field name="page_id_ssi">n425</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2665,7 +2665,7 @@
     <field name="work_title_tesim">Paa Heden</field>
     <field name="id">berg07tom#workid58679</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58679</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58679</field>
     <field name="page_ssi">426</field>
     <field name="page_id_ssi">n426</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2687,7 +2687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230898912</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230898912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230898912</field>
     <field name="page_ssi">426</field>
     <field name="page_id_ssi">n426</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2713,7 +2713,7 @@
     <field name="work_title_tesim">Via Crucis</field>
     <field name="id">berg07tom#workid58695</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58695</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58695</field>
     <field name="page_ssi">427</field>
     <field name="page_id_ssi">n427</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2735,7 +2735,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230894032</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230894032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230894032</field>
     <field name="page_ssi">429</field>
     <field name="page_id_ssi">n429</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2761,7 +2761,7 @@
     <field name="work_title_tesim">Hybenkrandsen</field>
     <field name="id">berg07tom#workid58731</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58731</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58731</field>
     <field name="page_ssi">430</field>
     <field name="page_id_ssi">n430</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2784,7 +2784,7 @@
     <field name="work_title_tesim">I Skoven</field>
     <field name="id">berg07tom#workid58733</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58733</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58733</field>
     <field name="page_ssi">430</field>
     <field name="page_id_ssi">n430</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2806,7 +2806,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230885600</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230885600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230885600</field>
     <field name="page_ssi">434</field>
     <field name="page_id_ssi">n434</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2832,7 +2832,7 @@
     <field name="work_title_tesim">Hos Baronen</field>
     <field name="id">berg07tom#workid58789</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58789</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58789</field>
     <field name="page_ssi">435</field>
     <field name="page_id_ssi">n435</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2854,7 +2854,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230866208</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230866208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230866208</field>
     <field name="page_ssi">450</field>
     <field name="page_id_ssi">n450</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2880,7 +2880,7 @@
     <field name="work_title_tesim">Blomsterne</field>
     <field name="id">berg07tom#workid58959</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58959</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58959</field>
     <field name="page_ssi">451</field>
     <field name="page_id_ssi">n451</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2901,7 +2901,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230862368</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230862368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230862368</field>
     <field name="page_ssi">452</field>
     <field name="page_id_ssi">n452</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2926,7 +2926,7 @@
     <field name="work_title_tesim">Ischia</field>
     <field name="id">berg07tom#workid58985</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid58985</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid58985</field>
     <field name="page_ssi">453</field>
     <field name="page_id_ssi">n453</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2947,7 +2947,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230858912</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230858912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230858912</field>
     <field name="page_ssi">454</field>
     <field name="page_id_ssi">n454</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2972,7 +2972,7 @@
     <field name="work_title_tesim">Ved Albanersøen</field>
     <field name="id">berg07tom#workid59011</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59011</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59011</field>
     <field name="page_ssi">455</field>
     <field name="page_id_ssi">n455</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -2993,7 +2993,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230855456</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230855456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230855456</field>
     <field name="page_ssi">456</field>
     <field name="page_id_ssi">n456</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3018,7 +3018,7 @@
     <field name="work_title_tesim">Ude</field>
     <field name="id">berg07tom#workid59036</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59036</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59036</field>
     <field name="page_ssi">457</field>
     <field name="page_id_ssi">n457</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3039,7 +3039,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230852000</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230852000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230852000</field>
     <field name="page_ssi">458</field>
     <field name="page_id_ssi">n458</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3064,7 +3064,7 @@
     <field name="work_title_tesim">Frederiksdal</field>
     <field name="id">berg07tom#workid59062</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59062</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59062</field>
     <field name="page_ssi">459</field>
     <field name="page_id_ssi">n459</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3085,7 +3085,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230848608</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230848608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230848608</field>
     <field name="page_ssi">460</field>
     <field name="page_id_ssi">n460</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3110,7 +3110,7 @@
     <field name="work_title_tesim">Ved Sundet</field>
     <field name="id">berg07tom#workid59088</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59088</field>
     <field name="page_ssi">461</field>
     <field name="page_id_ssi">n461</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3131,7 +3131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230846256</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230846256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230846256</field>
     <field name="page_ssi">461</field>
     <field name="page_id_ssi">n461</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3156,7 +3156,7 @@
     <field name="work_title_tesim">I Baaden</field>
     <field name="id">berg07tom#workid59103</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59103</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59103</field>
     <field name="page_ssi">462</field>
     <field name="page_id_ssi">n462</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3177,7 +3177,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230843904</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230843904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230843904</field>
     <field name="page_ssi">462</field>
     <field name="page_id_ssi">n462</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3202,7 +3202,7 @@
     <field name="work_title_tesim">Skibsdrengen</field>
     <field name="id">berg07tom#workid59119</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59119</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59119</field>
     <field name="page_ssi">463</field>
     <field name="page_id_ssi">n463</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3223,7 +3223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230839472</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230839472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230839472</field>
     <field name="page_ssi">465</field>
     <field name="page_id_ssi">n465</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3248,7 +3248,7 @@
     <field name="work_title_tesim">Den forladte</field>
     <field name="id">berg07tom#workid59154</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59154</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59154</field>
     <field name="page_ssi">466</field>
     <field name="page_id_ssi">n466</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3269,7 +3269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230837120</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230837120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230837120</field>
     <field name="page_ssi">466</field>
     <field name="page_id_ssi">n466</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3294,7 +3294,7 @@
     <field name="work_title_tesim">Bølgen</field>
     <field name="id">berg07tom#workid59169</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59169</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59169</field>
     <field name="page_ssi">467</field>
     <field name="page_id_ssi">n467</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3315,7 +3315,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230834768</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230834768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230834768</field>
     <field name="page_ssi">467</field>
     <field name="page_id_ssi">n467</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3340,7 +3340,7 @@
     <field name="work_title_tesim">Den gamle Digter</field>
     <field name="id">berg07tom#workid59185</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59185</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59185</field>
     <field name="page_ssi">468</field>
     <field name="page_id_ssi">n468</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3361,7 +3361,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230831312</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230831312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230831312</field>
     <field name="page_ssi">469</field>
     <field name="page_id_ssi">n469</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3386,7 +3386,7 @@
     <field name="work_title_tesim">Dødssejleren</field>
     <field name="id">berg07tom#workid59210</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59210</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59210</field>
     <field name="page_ssi">470</field>
     <field name="page_id_ssi">n470</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3407,7 +3407,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230825648</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230825648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230825648</field>
     <field name="page_ssi">473</field>
     <field name="page_id_ssi">n473</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3432,7 +3432,7 @@
     <field name="work_title_tesim">Et Spørgsmaal</field>
     <field name="id">berg07tom#workid59255</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59255</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59255</field>
     <field name="page_ssi">474</field>
     <field name="page_id_ssi">n474</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3453,7 +3453,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230819984</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230819984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230819984</field>
     <field name="page_ssi">477</field>
     <field name="page_id_ssi">n477</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3478,7 +3478,7 @@
     <field name="work_title_tesim">Skysamleren</field>
     <field name="id">berg07tom#workid59301</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59301</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59301</field>
     <field name="page_ssi">478</field>
     <field name="page_id_ssi">n478</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3499,7 +3499,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230816528</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230816528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230816528</field>
     <field name="page_ssi">479</field>
     <field name="page_id_ssi">n479</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3524,7 +3524,7 @@
     <field name="work_title_tesim">Nonnen</field>
     <field name="id">berg07tom#workid59327</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59327</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59327</field>
     <field name="page_ssi">480</field>
     <field name="page_id_ssi">n480</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3545,7 +3545,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230814176</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230814176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230814176</field>
     <field name="page_ssi">480</field>
     <field name="page_id_ssi">n480</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3570,7 +3570,7 @@
     <field name="work_title_tesim">Sommerfuglen</field>
     <field name="id">berg07tom#workid59342</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59342</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59342</field>
     <field name="page_ssi">481</field>
     <field name="page_id_ssi">n481</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3591,7 +3591,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230809616</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230809616</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230809616</field>
     <field name="page_ssi">483</field>
     <field name="page_id_ssi">n483</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3616,7 +3616,7 @@
     <field name="work_title_tesim">Før og Nu</field>
     <field name="id">berg07tom#workid59379</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59379</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59379</field>
     <field name="page_ssi">484</field>
     <field name="page_id_ssi">n484</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3637,7 +3637,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230806160</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230806160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230806160</field>
     <field name="page_ssi">485</field>
     <field name="page_id_ssi">n485</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3662,7 +3662,7 @@
     <field name="work_title_tesim">Forspildt</field>
     <field name="id">berg07tom#workid59405</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59405</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59405</field>
     <field name="page_ssi">486</field>
     <field name="page_id_ssi">n486</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3683,7 +3683,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230803808</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230803808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230803808</field>
     <field name="page_ssi">486</field>
     <field name="page_id_ssi">n486</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3708,7 +3708,7 @@
     <field name="work_title_tesim">Lystigt Liv</field>
     <field name="id">berg07tom#workid59410</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59410</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59410</field>
     <field name="page_ssi">486</field>
     <field name="page_id_ssi">n486</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3729,7 +3729,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230802560</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230802560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230802560</field>
     <field name="page_ssi">486</field>
     <field name="page_id_ssi">n486</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3754,7 +3754,7 @@
     <field name="work_title_tesim">Forskellig Opfattelse</field>
     <field name="id">berg07tom#workid59425</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59425</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59425</field>
     <field name="page_ssi">487</field>
     <field name="page_id_ssi">n487</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3775,7 +3775,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230800208</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230800208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230800208</field>
     <field name="page_ssi">487</field>
     <field name="page_id_ssi">n487</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3800,7 +3800,7 @@
     <field name="work_title_tesim">Soldatens Farvel</field>
     <field name="id">berg07tom#workid59441</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59441</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59441</field>
     <field name="page_ssi">488</field>
     <field name="page_id_ssi">n488</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3821,7 +3821,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230797856</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230797856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230797856</field>
     <field name="page_ssi">488</field>
     <field name="page_id_ssi">n488</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3846,7 +3846,7 @@
     <field name="work_title_tesim">Istedløven</field>
     <field name="id">berg07tom#workid59456</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59456</field>
     <field name="page_ssi">489</field>
     <field name="page_id_ssi">n489</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3867,7 +3867,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230793040</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230793040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230793040</field>
     <field name="page_ssi">491</field>
     <field name="page_id_ssi">n491</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3892,7 +3892,7 @@
     <field name="work_title_tesim">Korallerne</field>
     <field name="id">berg07tom#workid59493</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59493</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59493</field>
     <field name="page_ssi">492</field>
     <field name="page_id_ssi">n492</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3913,7 +3913,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230790496</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230790496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230790496</field>
     <field name="page_ssi">492</field>
     <field name="page_id_ssi">n492</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3938,7 +3938,7 @@
     <field name="work_title_tesim">Aakanderne</field>
     <field name="id">berg07tom#workid59509</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#workid59509</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#workid59509</field>
     <field name="page_ssi">493</field>
     <field name="page_id_ssi">n493</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>
@@ -3959,7 +3959,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">berg07tom#idm140445230786752</field>
     <field name="volume_id_ssi">berg07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/berg07tom#idm140445230786752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/berg07tom#idm140445230786752</field>
     <field name="page_ssi">494</field>
     <field name="page_id_ssi">n494</field>
     <field name="volume_title_tesim">Poetiske Skrifter, 1-7 - Bind VII</field>

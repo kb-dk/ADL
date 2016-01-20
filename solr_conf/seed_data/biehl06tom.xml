@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Moralske Fortællinger</field>
     <field name="id">biehl06tom</field>
     <field name="volume_id_ssi">biehl06tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl06tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl06tom#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Moralske Fortællinger IV</field>
     <field name="id">biehl06tom#workid54233</field>
     <field name="volume_id_ssi">biehl06tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl06tom#workid54233</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl06tom#workid54233</field>
     <field name="page_ssi">3</field>
     <field name="page_id_ssi">n3</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Den Staffede Stolthed</field>
     <field name="id">biehl06tom#workid54257</field>
     <field name="volume_id_ssi">biehl06tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl06tom#workid54257</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl06tom#workid54257</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">n5</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -68,7 +68,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">biehl06tom#idm140516277250176</field>
     <field name="volume_id_ssi">biehl06tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl06tom#idm140516277250176</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl06tom#idm140516277250176</field>
     <field name="page_ssi">264</field>
     <field name="page_id_ssi">n264</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -93,7 +93,7 @@
     <field name="work_title_tesim">Den unge Hartwig</field>
     <field name="id">biehl06tom#workid57007</field>
     <field name="volume_id_ssi">biehl06tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl06tom#workid57007</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl06tom#workid57007</field>
     <field name="page_ssi">265</field>
     <field name="page_id_ssi">n265</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -114,7 +114,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">biehl06tom#idm140516277146928</field>
     <field name="volume_id_ssi">biehl06tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl06tom#idm140516277146928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl06tom#idm140516277146928</field>
     <field name="page_ssi">346</field>
     <field name="page_id_ssi">n346</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>
@@ -137,7 +137,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">biehl06tom#idm140516277121376</field>
     <field name="volume_id_ssi">biehl06tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/biehl06tom#idm140516277121376</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/biehl06tom#idm140516277121376</field>
     <field name="page_ssi">366</field>
     <field name="page_id_ssi">n366</field>
     <field name="volume_title_tesim">Moralske Fortællinger</field>

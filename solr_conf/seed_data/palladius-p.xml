@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Peder Palladius</field>
     <field name="id">palladius-p</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="author_name">Carl Henrik Koch</field>
     <field name="author_id_ssi">19e6eea37886ec5dea865f6f2b4372ae</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386945952</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386945952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386945952</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386922688</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386922688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386922688</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Ungdom og skolegang</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386921744</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386921744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386921744</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Ungdom og skolegang</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386912288</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386912288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386912288</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Studier i Wittenberg</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386908256</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386908256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386908256</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Studier i Wittenberg</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386904880</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386904880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386904880</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Studier i Wittenberg</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559387001344</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559387001344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559387001344</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Studier i Wittenberg</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386997280</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386997280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386997280</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Reformationen i Danmark. Universitetets genåbning</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386884624</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386884624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386884624</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Reformationen i Danmark. Universitetets genåbning</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386881488</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386881488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386881488</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Reformationen i Danmark. Universitetets genåbning</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386877808</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386877808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386877808</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius og filippismen</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386870944</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386870944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386870944</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius og filippismen</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386869008</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386869008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386869008</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius og filippismen</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386868256</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386868256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386868256</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius og filippismen</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386854544</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386854544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386854544</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius og filippismen</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386852032</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386852032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386852032</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius og filippismen</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386850160</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386850160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386850160</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius og filippismen</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386840048</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386840048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386840048</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius' sidste år </field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386836384</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386836384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386836384</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius' sidste år </field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386825648</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386825648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386825648</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386822896</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386822896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386822896</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386819456</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386819456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386819456</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius som salmedigter</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386815648</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386815648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386815648</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius som salmedigter</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386812224</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386812224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386812224</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Palladius som salmedigter</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386810912</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386810912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386810912</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="author_name">Carl Henrik Koch</field>
     <field name="author_id_ssi">19e6eea37886ec5dea865f6f2b4372ae</field>
@@ -503,7 +503,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386806976</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386806976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386806976</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="author_name">Carl Henrik Koch</field>
     <field name="author_id_ssi">19e6eea37886ec5dea865f6f2b4372ae</field>
@@ -528,7 +528,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386798896</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386798896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386798896</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens tilblivelse og baggrund</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -547,7 +547,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386792000</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386792000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386792000</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens tilblivelse og baggrund</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -566,7 +566,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386787792</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386787792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386787792</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens tilblivelse og baggrund</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -585,7 +585,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386783520</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386783520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386783520</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens tilblivelse og baggrund</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -604,7 +604,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386774352</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386774352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386774352</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens tilblivelse og baggrund</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -623,7 +623,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386770240</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386770240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386770240</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens folkelige udtryksform</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -642,7 +642,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386764672</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386764672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386764672</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens folkelige udtryksform</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -661,7 +661,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386762240</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386762240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386762240</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens folkelige udtryksform</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -680,7 +680,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386759136</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386759136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386759136</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens folkelige udtryksform</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -699,7 +699,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386756352</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386756352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386756352</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Visitatsbogens folkelige udtryksform</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -718,7 +718,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386751648</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386751648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386751648</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -737,7 +737,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386750288</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386750288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386750288</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -756,7 +756,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386747408</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386747408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386747408</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -775,7 +775,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386744208</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386744208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386744208</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -794,7 +794,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386739904</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386739904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386739904</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -813,7 +813,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386737728</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386737728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386737728</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -832,7 +832,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386734624</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386734624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386734624</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -851,7 +851,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386732720</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386732720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386732720</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -870,7 +870,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386726640</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386726640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386726640</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Indhold</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -889,7 +889,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386719600</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386719600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386719600</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -908,7 +908,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386716400</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386716400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386716400</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -927,7 +927,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386713184</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386713184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386713184</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -946,7 +946,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386712016</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386712016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386712016</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -965,7 +965,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386710048</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386710048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386710048</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Modtagelse</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -984,7 +984,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386707872</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386707872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386707872</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1003,7 +1003,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386704304</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386704304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386704304</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1022,7 +1022,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386699296</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386699296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386699296</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1041,7 +1041,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386698112</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386698112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386698112</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1060,7 +1060,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386696160</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386696160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386696160</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1079,7 +1079,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386694432</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386694432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386694432</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1098,7 +1098,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386693152</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386693152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386693152</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1117,7 +1117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386691888</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386691888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386691888</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1136,7 +1136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386690704</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386690704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386690704</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1155,7 +1155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386689584</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386689584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386689584</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1174,7 +1174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386688304</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386688304</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386688304</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1193,7 +1193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386687184</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386687184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386687184</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1212,7 +1212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386685856</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386685856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386685856</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Udgaver</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1231,7 +1231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386683904</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386683904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386683904</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1250,7 +1250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386682640</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386682640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386682640</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1269,7 +1269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386681456</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386681456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386681456</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1288,7 +1288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386680272</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386680272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386680272</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1307,7 +1307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386679040</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386679040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386679040</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1326,7 +1326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386677872</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386677872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386677872</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1345,7 +1345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386675904</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386675904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386675904</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1364,7 +1364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386674736</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386674736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386674736</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1383,7 +1383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386673552</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386673552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386673552</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Behandlinger</field>
     <field name="author_name">Carl Henrik Koch</field>
@@ -1402,7 +1402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">palladius-p#idm140559386671200</field>
     <field name="volume_id_ssi">palladius-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/palladius-p#idm140559386671200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/palladius-p#idm140559386671200</field>
     <field name="volume_title_tesim">Peder Palladius</field>
     <field name="head_tesim">Carl Henrik Koch</field>
     <field name="author_name">Carl Henrik Koch</field>

@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Vilhelm Bergsøe</field>
     <field name="id">bergsoe-p</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="author_name">Lars Peter Rømhild</field>
     <field name="author_id_ssi">a76c9ebeca16ffc6c8c5b017bcf33850</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338392416</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338392416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338392416</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338391392</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338391392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338391392</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338390384</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338390384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338390384</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338387968</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338387968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338387968</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338386144</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338386144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338386144</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338385248</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338385248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338385248</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338380528</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338380528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338380528</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338379520</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338379520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338379520</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338378608</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338378608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338378608</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338374368</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338374368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338374368</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338372224</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338372224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338372224</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338341008</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338341008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338341008</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Tre fede romaner</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338339968</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338339968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338339968</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Tre fede romaner</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338338912</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338338912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338338912</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Tre fede romaner</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338333296</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338333296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338333296</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 Fra Piazza del Popolo
@@ -309,7 +309,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338330832</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338330832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338330832</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 Fra Piazza del Popolo
@@ -330,7 +330,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338327168</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338327168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338327168</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 Fra Piazza del Popolo
@@ -351,7 +351,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338324640</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338324640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338324640</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 Fra Piazza del Popolo
@@ -372,7 +372,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338323632</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338323632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338323632</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 Fra Piazza del Popolo
@@ -393,7 +393,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338319600</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338319600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338319600</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 Fra den gamle Fabrik
@@ -414,7 +414,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338316880</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338316880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338316880</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 Fra den gamle Fabrik
@@ -435,7 +435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338444448</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338444448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338444448</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">
                 I Sabinerbjergene
@@ -456,7 +456,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338291168</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338291168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338291168</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Stil og personer</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -475,7 +475,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338290160</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338290160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338290160</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Stil og personer</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -494,7 +494,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338284368</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338284368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338284368</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Stil og personer</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -513,7 +513,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338282816</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338282816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338282816</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Stil og personer</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -532,7 +532,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338275440</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338275440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338275440</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Øvrige værker</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -551,7 +551,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338273056</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338273056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338273056</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Øvrige værker</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -570,7 +570,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338264560</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338264560</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338264560</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Øvrige værker</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -589,7 +589,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338253824</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338253824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338253824</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Øvrige værker</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -608,7 +608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338250544</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338250544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338250544</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Lyrik</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -627,7 +627,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338244128</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338244128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338244128</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Erindringer</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -646,7 +646,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338236992</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338236992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338236992</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -665,7 +665,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338234112</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338234112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338234112</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -684,7 +684,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338231648</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338231648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338231648</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -703,7 +703,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338228736</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338228736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338228736</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -722,7 +722,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338224912</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338224912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338224912</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -741,7 +741,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338224064</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338224064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338224064</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -760,7 +760,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338222496</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338222496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338222496</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -779,7 +779,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338218912</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338218912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338218912</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -798,7 +798,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338215968</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338215968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338215968</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -817,7 +817,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338212688</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338212688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338212688</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -836,7 +836,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338209504</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338209504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338209504</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Modtagelse og placering: Bergsøe og det moderne gennembrud</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -855,7 +855,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338205968</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338205968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338205968</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -874,7 +874,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338202896</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338202896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338202896</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -893,7 +893,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338196432</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338196432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338196432</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Manuskripter</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -912,7 +912,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338193936</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338193936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338193936</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -931,7 +931,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338191440</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338191440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338191440</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -950,7 +950,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338191024</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338191024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338191024</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -969,7 +969,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338189104</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338189104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338189104</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -988,7 +988,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338187904</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338187904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338187904</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1007,7 +1007,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338186768</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338186768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338186768</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1026,7 +1026,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338185632</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338185632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338185632</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1045,7 +1045,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338184432</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338184432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338184432</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1064,7 +1064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338183280</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338183280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338183280</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1083,7 +1083,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338182160</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338182160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338182160</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1102,7 +1102,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338181744</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338181744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338181744</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1121,7 +1121,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338180608</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338180608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338180608</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1140,7 +1140,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338179472</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338179472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338179472</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1159,7 +1159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338178272</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338178272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338178272</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1178,7 +1178,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338177136</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338177136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338177136</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1197,7 +1197,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338175984</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338175984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338175984</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1216,7 +1216,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338174816</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338174816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338174816</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1235,7 +1235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338174400</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338174400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338174400</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Primærlitteratur</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1254,7 +1254,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338171648</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338171648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338171648</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1273,7 +1273,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338170480</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338170480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338170480</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1292,7 +1292,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338169344</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338169344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338169344</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1311,7 +1311,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338168208</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338168208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338168208</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1330,7 +1330,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338166880</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338166880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338166880</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1349,7 +1349,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338165648</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338165648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338165648</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1368,7 +1368,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338164016</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338164016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338164016</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1387,7 +1387,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338162848</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338162848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338162848</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Sekundærlitteratur i udvalg</field>
     <field name="author_name">Lars Peter Rømhild</field>
@@ -1406,7 +1406,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">bergsoe-p#idm139762338159840</field>
     <field name="volume_id_ssi">bergsoe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/bergsoe-p#idm139762338159840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/bergsoe-p#idm139762338159840</field>
     <field name="volume_title_tesim">Vilhelm Bergsøe</field>
     <field name="head_tesim">Lars Peter Rømhild</field>
     <field name="author_name">Lars Peter Rømhild</field>

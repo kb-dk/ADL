@@ -6,7 +6,7 @@
     <field name="work_title_tesim"> Jørgen-Frantz Jacobsen</field>
     <field name="id">jf-jacob-bibl</field>
     <field name="volume_id_ssi">jf-jacob-bibl</field>
-    <field name="url_ssi">http://adl2.kb.dk/jf-jacob-bibl#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#</field>
     <field name="volume_title_tesim"> Jørgen-Frantz Jacobsen</field>
     <field name="author_name"> </field>
     <field name="author_id_ssi">7215ee9c7d9dc229d2921a40e899ec5f</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jf-jacob-bibl#idm140520643390960</field>
     <field name="volume_id_ssi">jf-jacob-bibl</field>
-    <field name="url_ssi">http://adl2.kb.dk/jf-jacob-bibl#idm140520643390960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#idm140520643390960</field>
     <field name="volume_title_tesim"> Jørgen-Frantz Jacobsen</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> </field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jf-jacob-bibl#idm140520643389408</field>
     <field name="volume_id_ssi">jf-jacob-bibl</field>
-    <field name="url_ssi">http://adl2.kb.dk/jf-jacob-bibl#idm140520643389408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#idm140520643389408</field>
     <field name="volume_title_tesim"> Jørgen-Frantz Jacobsen</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> </field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">jf-jacob-bibl#idm140520643388512</field>
     <field name="volume_id_ssi">jf-jacob-bibl</field>
-    <field name="url_ssi">http://adl2.kb.dk/jf-jacob-bibl#idm140520643388512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/jf-jacob-bibl#idm140520643388512</field>
     <field name="volume_title_tesim"> Jørgen-Frantz Jacobsen</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> </field>

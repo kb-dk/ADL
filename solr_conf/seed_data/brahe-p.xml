@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Tycho Brahe</field>
     <field name="id">brahe-p</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509621856</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509621856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509621856</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509619072</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509619072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509619072</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509617712</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509617712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509617712</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509615920</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509615920</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509615920</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509613680</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509613680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509613680</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509612640</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509612640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509612640</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509610272</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509610272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509610272</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509608000</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509608000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509608000</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509606816</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509606816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509606816</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509604944</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509604944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509604944</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509603696</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509603696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509603696</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509603312</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509603312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509603312</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509676384</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509676384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509676384</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509672960</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509672960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509672960</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509671600</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509671600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509671600</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509583152</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509583152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509583152</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509579776</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509579776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509579776</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509578528</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509578528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509578528</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509577344</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509577344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509577344</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509575040</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509575040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509575040</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509573888</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509573888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509573888</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509602592</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509602592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509602592</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509601552</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509601552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509601552</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509599648</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509599648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509599648</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509595744</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509595744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509595744</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509594752</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509594752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509594752</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509591872</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509591872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509591872</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509588544</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509588544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509588544</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509538880</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509538880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509538880</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509536816</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509536816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509536816</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509535152</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509535152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509535152</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509534192</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509534192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509534192</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509515200</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509515200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509515200</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509513792</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509513792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509513792</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -677,7 +677,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509505552</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509505552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509505552</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -696,7 +696,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509503792</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509503792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509503792</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -715,7 +715,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509501360</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509501360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509501360</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -741,7 +741,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509494432</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509494432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509494432</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -760,7 +760,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509493552</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509493552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509493552</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -779,7 +779,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509491472</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509491472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509491472</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -798,7 +798,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509490544</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509490544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509490544</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -830,7 +830,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509480752</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509480752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509480752</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -849,7 +849,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509479584</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509479584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509479584</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -873,7 +873,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509473856</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509473856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509473856</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -892,7 +892,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509472768</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509472768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509472768</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -919,7 +919,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509465344</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509465344</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509465344</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -938,7 +938,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509464624</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509464624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509464624</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -957,7 +957,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509461536</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509461536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509461536</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -978,7 +978,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509457008</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509457008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509457008</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -997,7 +997,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509455728</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509455728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509455728</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1019,7 +1019,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509450848</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509450848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509450848</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1038,7 +1038,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509450096</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509450096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509450096</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1057,7 +1057,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509449040</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509449040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509449040</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1076,7 +1076,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509446432</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509446432</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509446432</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1095,7 +1095,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509445152</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509445152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509445152</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509436944</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509436944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509436944</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509434912</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509434912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509434912</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1162,7 +1162,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509433856</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509433856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509433856</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1181,7 +1181,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509432800</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509432800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509432800</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1206,7 +1206,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509426512</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509426512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509426512</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1225,7 +1225,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509425600</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509425600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509425600</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1268,7 +1268,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509409904</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509409904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509409904</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1287,7 +1287,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509408736</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509408736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509408736</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1306,7 +1306,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509406592</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509406592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509406592</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1333,7 +1333,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509399168</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509399168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509399168</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1352,7 +1352,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509398592</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509398592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509398592</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1371,7 +1371,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509397568</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509397568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509397568</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1390,7 +1390,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509396336</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509396336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509396336</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1409,7 +1409,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509394208</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509394208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509394208</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1428,7 +1428,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509393104</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509393104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509393104</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1447,7 +1447,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509392272</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509392272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509392272</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1472,7 +1472,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509385840</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509385840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509385840</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1491,7 +1491,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509384960</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509384960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509384960</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1518,7 +1518,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509377648</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509377648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509377648</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1537,7 +1537,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509376336</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509376336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509376336</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1560,7 +1560,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509370848</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509370848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509370848</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1579,7 +1579,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509368848</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509368848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509368848</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1598,7 +1598,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509367776</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509367776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509367776</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1619,7 +1619,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509363280</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509363280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509363280</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1638,7 +1638,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509362672</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509362672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509362672</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1657,7 +1657,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509360416</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509360416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509360416</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1682,7 +1682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509353952</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509353952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509353952</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1701,7 +1701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509350000</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509350000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509350000</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1720,7 +1720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509348000</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509348000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509348000</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1745,7 +1745,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509341440</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509341440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509341440</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1764,7 +1764,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509337840</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509337840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509337840</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1783,7 +1783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509336784</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509336784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509336784</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1802,7 +1802,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509336096</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509336096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509336096</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1821,7 +1821,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509333184</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509333184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509333184</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1840,7 +1840,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509330896</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509330896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509330896</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1859,7 +1859,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509330032</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509330032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509330032</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="author_name">Peter Zeeberg</field>
     <field name="author_id_ssi">5e95a13f96a14d9c06f93b781cfdbdb9</field>
@@ -1884,7 +1884,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509323520</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509323520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509323520</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1903,7 +1903,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509322448</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509322448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509322448</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1922,7 +1922,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509320704</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509320704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509320704</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes digtning</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1941,7 +1941,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509316464</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509316464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509316464</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstoverlevering</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1960,7 +1960,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509314032</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509314032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509314032</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1979,7 +1979,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509313024</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509313024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509313024</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -1998,7 +1998,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509309984</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509309984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509309984</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2017,7 +2017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509307776</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509307776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509307776</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2036,7 +2036,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509303104</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509303104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509303104</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2055,7 +2055,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509290928</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509290928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509290928</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2074,7 +2074,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509289840</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509289840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509289840</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2093,7 +2093,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509288736</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509288736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509288736</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2112,7 +2112,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509288208</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509288208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509288208</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2131,7 +2131,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509286704</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509286704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509286704</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2150,7 +2150,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509285632</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509285632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509285632</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2169,7 +2169,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509285168</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509285168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509285168</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2188,7 +2188,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509284080</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509284080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509284080</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2207,7 +2207,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509282992</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509282992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509282992</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2226,7 +2226,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509281888</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509281888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509281888</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2245,7 +2245,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509280880</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509280880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509280880</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2264,7 +2264,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509279872</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509279872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509279872</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2283,7 +2283,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509278816</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509278816</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509278816</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes trykte værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2302,7 +2302,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509276912</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509276912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509276912</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Samlede værker</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2321,7 +2321,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509273984</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509273984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509273984</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2340,7 +2340,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509273552</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509273552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509273552</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2359,7 +2359,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509272544</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509272544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509272544</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2378,7 +2378,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509271152</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509271152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509271152</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2397,7 +2397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509269776</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509269776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509269776</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2416,7 +2416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509267744</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509267744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509267744</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2435,7 +2435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509266096</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509266096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509266096</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2454,7 +2454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509265664</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509265664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509265664</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2473,7 +2473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509264208</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509264208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509264208</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2492,7 +2492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509262688</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509262688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509262688</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2511,7 +2511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509262256</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509262256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509262256</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2530,7 +2530,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509261008</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509261008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509261008</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2549,7 +2549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509258384</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509258384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509258384</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2568,7 +2568,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509257968</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509257968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509257968</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2587,7 +2587,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509256848</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509256848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509256848</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2606,7 +2606,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509255696</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509255696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509255696</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2625,7 +2625,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509253424</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509253424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509253424</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2644,7 +2644,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509252992</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509252992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509252992</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2663,7 +2663,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509251712</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509251712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509251712</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2682,7 +2682,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509251296</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509251296</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509251296</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2701,7 +2701,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509250064</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509250064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509250064</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2720,7 +2720,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509248832</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509248832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509248832</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2739,7 +2739,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509248400</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509248400</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509248400</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2758,7 +2758,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509247216</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509247216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509247216</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2777,7 +2777,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509246016</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509246016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509246016</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2796,7 +2796,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509245600</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509245600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509245600</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2815,7 +2815,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509244944</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509244944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509244944</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2834,7 +2834,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509242896</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509242896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509242896</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2853,7 +2853,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509241504</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509241504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509241504</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tekstudgaver og oversættelser</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2872,7 +2872,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509239280</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509239280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509239280</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Bibliografiske oversigter</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2891,7 +2891,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509238128</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509238128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509238128</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Bibliografiske oversigter</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2910,7 +2910,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509235424</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509235424</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509235424</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2929,7 +2929,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509234224</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509234224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509234224</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2948,7 +2948,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509233024</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509233024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509233024</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2967,7 +2967,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509231824</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509231824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509231824</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -2986,7 +2986,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509230448</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509230448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509230448</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3005,7 +3005,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509229264</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509229264</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509229264</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3024,7 +3024,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509228000</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509228000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509228000</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3043,7 +3043,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509226704</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509226704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509226704</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3062,7 +3062,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509225504</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509225504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509225504</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Monografier om Tycho Brahes liv og værk</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3081,7 +3081,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509222864</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509222864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509222864</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3100,7 +3100,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509221584</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509221584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509221584</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3119,7 +3119,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509220384</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509220384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509220384</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3138,7 +3138,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509219152</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509219152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509219152</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3157,7 +3157,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509217744</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509217744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509217744</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3176,7 +3176,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509216208</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509216208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509216208</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3195,7 +3195,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509214672</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509214672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509214672</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3214,7 +3214,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509213184</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509213184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509213184</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3233,7 +3233,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509211744</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509211744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509211744</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3252,7 +3252,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509210368</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509210368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509210368</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3271,7 +3271,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509209072</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509209072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509209072</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3290,7 +3290,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509207072</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509207072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509207072</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3309,7 +3309,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509204960</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509204960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509204960</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3328,7 +3328,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509203680</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509203680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509203680</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3347,7 +3347,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509202336</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509202336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509202336</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Behandlinger af Tycho Brahes latinske poesi</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3366,7 +3366,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509199520</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509199520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509199520</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Bogtrykkeriet på Hven</field>
     <field name="author_name">Peter Zeeberg</field>
@@ -3385,7 +3385,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">brahe-p#idm140372509196672</field>
     <field name="volume_id_ssi">brahe-p</field>
-    <field name="url_ssi">http://adl2.kb.dk/brahe-p#idm140372509196672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brahe-p#idm140372509196672</field>
     <field name="volume_title_tesim">Tycho Brahe</field>
     <field name="head_tesim">Tycho Brahes død</field>
     <field name="author_name">Peter Zeeberg</field>

@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Frederik Christian Sibbern</field>
     <field name="id">sibb-p-val</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="author_name"> Henrik Schovsbo</field>
     <field name="author_id_ssi">640be377661e98408e83523ebf7af065</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452812192</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452812192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452812192</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452811408</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452811408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452811408</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452810160</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452810160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452810160</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452807824</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452807824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452807824</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452804144</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452804144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452804144</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452803008</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452803008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452803008</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452801952</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452801952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452801952</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452799168</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452799168</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452799168</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452797200</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452797200</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452797200</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452794912</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452794912</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452794912</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452793776</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452793776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452793776</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452869952</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452869952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452869952</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452866448</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452866448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452866448</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452864416</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452864416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452864416</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452756272</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452756272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452756272</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452753936</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452753936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452753936</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452749936</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452749936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452749936</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452748256</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452748256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452748256</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452744896</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452744896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452744896</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452743120</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452743120</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452743120</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452741280</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452741280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452741280</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452734384</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452734384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452734384</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452731824</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452731824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452731824</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452710832</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452710832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452710832</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452709808</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452709808</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452709808</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452708608</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452708608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452708608</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452707520</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452707520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452707520</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tilblivelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452700512</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452700512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452700512</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452698128</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452698128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452698128</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452696352</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452696352</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452696352</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452694048</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452694048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452694048</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452693008</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452693008</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452693008</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452691024</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452691024</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452691024</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -649,7 +649,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452689888</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452689888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452689888</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -668,7 +668,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452689040</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452689040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452689040</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -687,7 +687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452686832</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452686832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452686832</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452686048</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452686048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452686048</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -725,7 +725,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452684992</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452684992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452684992</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -744,7 +744,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452683968</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452683968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452683968</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -763,7 +763,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452681040</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452681040</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452681040</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -782,7 +782,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452680208</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452680208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452680208</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -801,7 +801,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452677216</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452677216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452677216</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -820,7 +820,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452675056</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452675056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452675056</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Genre og Komposition</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -839,7 +839,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452668656</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452668656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452668656</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -858,7 +858,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452664320</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452664320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452664320</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -877,7 +877,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452662688</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452662688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452662688</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -896,7 +896,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452660688</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452660688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452660688</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -915,7 +915,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452651152</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452651152</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452651152</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tilblivelse</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -934,7 +934,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452649136</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452649136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452649136</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tilblivelse</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -953,7 +953,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452647904</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452647904</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452647904</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tilblivelse</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -972,7 +972,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452643360</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452643360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452643360</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tematik</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -991,7 +991,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452640768</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452640768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452640768</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tematik</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1010,7 +1010,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452638240</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452638240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452638240</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tematik</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1029,7 +1029,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452636048</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452636048</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452636048</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tematik</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1048,7 +1048,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452632672</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452632672</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452632672</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tematik</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1067,7 +1067,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452631632</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452631632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452631632</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tematik</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1086,7 +1086,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452629840</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452629840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452629840</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tematik</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1105,7 +1105,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452622656</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452622656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452622656</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1124,7 +1124,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452618944</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452618944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452618944</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Modtagelsen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1143,7 +1143,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452615632</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452615632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452615632</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
 						</field>
@@ -1163,7 +1163,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452612976</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452612976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452612976</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
 						</field>
@@ -1183,7 +1183,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452611744</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452611744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452611744</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
 						</field>
@@ -1203,7 +1203,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452610704</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452610704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452610704</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Et alderdomsværk af Sibbern: Meddelelser af Indholdet af et Skrivt fra Aaret 2135
 						</field>
@@ -1223,7 +1223,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452605584</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452605584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452605584</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1242,7 +1242,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452604480</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452604480</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452604480</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1261,7 +1261,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452600896</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452600896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452600896</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1280,7 +1280,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452598320</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452598320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452598320</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1299,7 +1299,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452595600</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452595600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452595600</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1318,7 +1318,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452594160</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452594160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452594160</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1337,7 +1337,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452591216</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452591216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452591216</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1356,7 +1356,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452589776</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452589776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452589776</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Forfatterskabets efterliv, bemærkninger til Sibbern-litteraturen</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1375,7 +1375,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452587056</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452587056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452587056</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Tekstkritiske oplysninger</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1394,7 +1394,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452582512</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452582512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452582512</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1413,7 +1413,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452578544</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452578544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452578544</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1432,7 +1432,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452577760</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452577760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452577760</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1451,7 +1451,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452576592</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452576592</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452576592</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1470,7 +1470,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452575408</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452575408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452575408</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1489,7 +1489,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452574112</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452574112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452574112</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1508,7 +1508,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452572784</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452572784</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452572784</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1527,7 +1527,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452570880</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452570880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452570880</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1546,7 +1546,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452570096</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452570096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452570096</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1565,7 +1565,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452568928</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452568928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452568928</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1584,7 +1584,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452567776</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452567776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452567776</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1603,7 +1603,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452566608</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452566608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452566608</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1622,7 +1622,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452565456</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452565456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452565456</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1641,7 +1641,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452564112</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452564112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452564112</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1660,7 +1660,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452562928</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452562928</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452562928</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>
@@ -1679,7 +1679,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">sibb-p-val#idm140103452561744</field>
     <field name="volume_id_ssi">sibb-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/sibb-p-val#idm140103452561744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/sibb-p-val#idm140103452561744</field>
     <field name="volume_title_tesim">Frederik Christian Sibbern</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name"> Henrik Schovsbo</field>

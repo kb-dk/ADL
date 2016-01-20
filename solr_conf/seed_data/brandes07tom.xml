@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Samlede Skrifter</field>
     <field name="id">brandes07tom</field>
     <field name="volume_id_ssi">brandes07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes07tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes07tom#</field>
     <field name="page_ssi">a</field>
     <field name="page_id_ssi">idm140122230001952</field>
     <field name="volume_title_tesim">Samlede Skrifter</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Franske Personligheder</field>
     <field name="id">brandes07tom#workid54136</field>
     <field name="volume_id_ssi">brandes07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes07tom#workid54136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes07tom#workid54136</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm140122229998352</field>
     <field name="volume_title_tesim">Samlede Skrifter</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Tyske Personligheder</field>
     <field name="id">brandes07tom#workid56121</field>
     <field name="volume_id_ssi">brandes07tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/brandes07tom#workid56121</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/brandes07tom#workid56121</field>
     <field name="page_ssi">275</field>
     <field name="page_id_ssi">idm140122229759376</field>
     <field name="volume_title_tesim">Samlede Skrifter</field>

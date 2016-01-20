@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Thomas Kingo</field>
     <field name="id">kingo-p-val</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -22,7 +22,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036866720</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036866720</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036866720</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -41,7 +41,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036865568</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036865568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036865568</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -60,7 +60,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036860416</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036860416</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036860416</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -79,7 +79,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036857648</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036857648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036857648</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -98,7 +98,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036857072</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036857072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036857072</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -117,7 +117,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036852256</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036852256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036852256</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Indledning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -136,7 +136,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036848880</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036848880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036848880</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036847856</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036847856</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036847856</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -174,7 +174,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036846752</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036846752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036846752</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -193,7 +193,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036845568</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036845568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036845568</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -212,7 +212,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036840848</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036840848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036840848</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -231,7 +231,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036839840</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036839840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036839840</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -250,7 +250,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036838800</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036838800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036838800</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -269,7 +269,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036836064</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036836064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036836064</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -288,7 +288,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036833680</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036833680</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036833680</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -307,7 +307,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036825072</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036825072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036825072</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -326,7 +326,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036821648</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036821648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036821648</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -345,7 +345,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036818736</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036818736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036818736</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -364,7 +364,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036918080</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036918080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036918080</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -383,7 +383,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036799520</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036799520</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036799520</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -402,7 +402,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036795280</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036795280</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036795280</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -421,7 +421,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036793968</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036793968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036793968</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -440,7 +440,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036789648</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036789648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036789648</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -459,7 +459,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036781072</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036781072</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036781072</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -478,7 +478,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036750016</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036750016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036750016</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -497,7 +497,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036748992</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036748992</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036748992</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -516,7 +516,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036747952</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036747952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036747952</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -535,7 +535,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036747232</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036747232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036747232</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -554,7 +554,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036744848</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036744848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036744848</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -573,7 +573,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036742128</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036742128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036742128</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -592,7 +592,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036739568</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036739568</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036739568</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Temaer i forfatterskabet. Kingos livsforståelse</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -611,7 +611,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036735792</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036735792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036735792</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Skabelsen og forsynet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -630,7 +630,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036734384</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036734384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036734384</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -651,7 +651,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036730608</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036730608</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036730608</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Skabelsen og forsynet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -670,7 +670,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036723232</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036723232</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036723232</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -691,7 +691,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036718448</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036718448</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036718448</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Synden og døden</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -710,7 +710,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036709664</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036709664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036709664</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -731,7 +731,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036706192</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036706192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036706192</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Synden og døden</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -750,7 +750,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036693728</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036693728</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036693728</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -769,7 +769,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036691056</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036691056</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036691056</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Synden og døden</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -788,7 +788,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036686096</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036686096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036686096</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim"> Boden</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -807,7 +807,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036681952</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036681952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036681952</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -827,7 +827,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036679088</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036679088</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036679088</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim"> Boden</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -846,7 +846,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036673984</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036673984</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036673984</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forsoningen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -865,7 +865,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036660800</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036660800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036660800</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -890,7 +890,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036655456</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036655456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036655456</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forsoningen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -909,7 +909,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036652624</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036652624</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036652624</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forsoningen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -928,7 +928,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036648640</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036648640</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036648640</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kald og stand</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -947,7 +947,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036646192</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036646192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036646192</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -968,7 +968,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036642768</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036642768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036642768</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kald og stand</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -987,7 +987,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036641488</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036641488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036641488</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1007,7 +1007,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036638496</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036638496</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036638496</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kald og stand</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1026,7 +1026,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036636064</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036636064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036636064</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1045,7 +1045,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036632688</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036632688</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036632688</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kald og stand</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1064,7 +1064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036630256</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036630256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036630256</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1085,7 +1085,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036626752</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036626752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036626752</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kald og stand</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1104,7 +1104,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036617664</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036617664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036617664</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kald og stand</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1123,7 +1123,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036611968</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036611968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036611968</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim"> Kongen og fædrelandet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1142,7 +1142,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036599136</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036599136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036599136</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim"> Kongen og fædrelandet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1161,7 +1161,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036591456</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036591456</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036591456</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1182,7 +1182,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036588080</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036588080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036588080</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim"> Kongen og fædrelandet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1201,7 +1201,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036577824</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036577824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036577824</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim"> Kongen og fædrelandet</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1220,7 +1220,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036572288</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036572288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036572288</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kirken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1239,7 +1239,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036559648</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036559648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036559648</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1258,7 +1258,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036555760</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036555760</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036555760</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets paradigme: Bibelen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1277,7 +1277,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036553664</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036553664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036553664</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1300,7 +1300,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036549328</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036549328</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036549328</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets paradigme: Bibelen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1319,7 +1319,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036546864</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036546864</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036546864</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets paradigme: Bibelen</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1338,7 +1338,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036544656</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036544656</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036544656</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kingos æstetiske idealer: barokken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1357,7 +1357,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036543472</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036543472</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036543472</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kingos æstetiske idealer: barokken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1376,7 +1376,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036542544</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036542544</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036542544</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1397,7 +1397,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036538256</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036538256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036538256</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kingos æstetiske idealer: barokken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1416,7 +1416,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036537184</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036537184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036537184</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kingos æstetiske idealer: barokken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1435,7 +1435,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036534288</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036534288</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036534288</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kingos æstetiske idealer: barokken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1454,7 +1454,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036531104</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036531104</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036531104</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kingos æstetiske idealer: barokken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1473,7 +1473,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036528800</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036528800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036528800</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Kingos æstetiske idealer: barokken</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1492,7 +1492,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036517360</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036517360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036517360</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Genrer</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1511,7 +1511,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036516272</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036516272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036516272</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Genrer</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1530,7 +1530,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036512880</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036512880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036512880</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">De utrykte værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1549,7 +1549,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036508000</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036508000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036508000</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">De utrykte værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1568,7 +1568,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036504896</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036504896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036504896</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
     <field name="author_id_ssi">db19d69120cb0f9a5386e04c35393daf</field>
@@ -1589,7 +1589,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036500704</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036500704</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036500704</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">De utrykte værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1608,7 +1608,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036493936</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036493936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036493936</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">De utrykte værker</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1627,7 +1627,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036485712</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036485712</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036485712</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Offentlig lejlighedsdigtning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1646,7 +1646,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036480768</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036480768</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036480768</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Offentlig lejlighedsdigtning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1665,7 +1665,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036478096</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036478096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036478096</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Offentlig lejlighedsdigtning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1684,7 +1684,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036471824</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036471824</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036471824</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Offentlig lejlighedsdigtning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1703,7 +1703,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036468016</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036468016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036468016</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Offentlig lejlighedsdigtning</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1722,7 +1722,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036464320</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036464320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036464320</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Salmerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1741,7 +1741,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036462320</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036462320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036462320</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Salmerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1760,7 +1760,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036460240</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036460240</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036460240</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Salmerne</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1779,7 +1779,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036455936</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036455936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036455936</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Modtagelsen af Kingos digte</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1798,7 +1798,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036455248</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036455248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036455248</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Modtagelsen af Kingos digte</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1817,7 +1817,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036449216</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036449216</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036449216</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Modtagelsen af Kingos digte</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1836,7 +1836,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036448144</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036448144</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036448144</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Modtagelsen af Kingos digte</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1855,7 +1855,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036446256</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036446256</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036446256</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1874,7 +1874,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036445184</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036445184</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036445184</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1893,7 +1893,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036440800</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036440800</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036440800</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1912,7 +1912,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036439776</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036439776</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036439776</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1931,7 +1931,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036437504</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036437504</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036437504</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Forfatterskabets efterliv</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1950,7 +1950,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036434208</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036434208</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036434208</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1969,7 +1969,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036430512</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036430512</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036430512</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -1988,7 +1988,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036429696</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036429696</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036429696</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2007,7 +2007,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036428320</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036428320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036428320</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2026,7 +2026,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036417648</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036417648</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036417648</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2045,7 +2045,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036414832</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036414832</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036414832</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Tekstoplysninger</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2064,7 +2064,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036412944</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036412944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036412944</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2083,7 +2083,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036412096</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036412096</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036412096</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2102,7 +2102,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036408272</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036408272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036408272</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2121,7 +2121,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036407600</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036407600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036407600</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Bibliografi</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2140,7 +2140,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036405248</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036405248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036405248</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Udgaver:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2159,7 +2159,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036403536</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036403536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036403536</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Udgaver:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2178,7 +2178,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036402192</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036402192</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036402192</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Udgaver:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2197,7 +2197,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036398880</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036398880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036398880</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografier:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2216,7 +2216,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036397584</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036397584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036397584</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Biografier:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2235,7 +2235,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036394944</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036394944</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036394944</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Værkanalyser:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2254,7 +2254,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036392960</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036392960</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036392960</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Værkanalyser:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>
@@ -2273,7 +2273,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">kingo-p-val#idm139784036391552</field>
     <field name="volume_id_ssi">kingo-p-val</field>
-    <field name="url_ssi">http://adl2.kb.dk/kingo-p-val#idm139784036391552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/kingo-p-val#idm139784036391552</field>
     <field name="volume_title_tesim">Thomas Kingo</field>
     <field name="head_tesim">Værkanalyser:</field>
     <field name="author_name">Marita Akhøj Nielsen</field>

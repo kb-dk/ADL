@@ -6,7 +6,7 @@
     <field name="work_title_tesim">Samlede poetiske Skrifter</field>
     <field name="id">drachmann12tom</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm140026787226112</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -26,7 +26,7 @@
     <field name="work_title_tesim">Guerre. Et Drama</field>
     <field name="id">drachmann12tom#workid54134</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid54134</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid54134</field>
     <field name="page_ssi">5</field>
     <field name="page_id_ssi">idm140026787222688</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -47,7 +47,7 @@
     <field name="work_title_tesim">Den Hellige Ild</field>
     <field name="id">drachmann12tom#workid53727</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid53727</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid53727</field>
     <field name="page_ssi">87</field>
     <field name="page_id_ssi">idm140026787153888</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -68,7 +68,7 @@
     <field name="work_title_tesim">Hallfred Vandraadeskjald</field>
     <field name="id">drachmann12tom#workid55792</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid55792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid55792</field>
     <field name="page_ssi">227</field>
     <field name="page_id_ssi">idm140026787042576</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -89,7 +89,7 @@
     <field name="work_title_tesim">Broget Løv</field>
     <field name="id">drachmann12tom#workid56298</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56298</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56298</field>
     <field name="page_ssi">303</field>
     <field name="page_id_ssi">idm140026786981104</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -110,7 +110,7 @@
     <field name="work_title_tesim">Romantik i Danmark</field>
     <field name="id">drachmann12tom#workid56310</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56310</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56310</field>
     <field name="page_ssi">304</field>
     <field name="page_id_ssi">idm140026786979136</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -133,7 +133,7 @@
     <field name="work_title_tesim">Solglød i Skoven</field>
     <field name="id">drachmann12tom#workid56312</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56312</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56312</field>
     <field name="page_ssi">304</field>
     <field name="page_id_ssi">idm140026786979136</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -155,7 +155,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786976320</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786976320</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786976320</field>
     <field name="page_ssi">304</field>
     <field name="page_id_ssi">idm140026786979136</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -181,7 +181,7 @@
     <field name="work_title_tesim">Foraar i Danmark</field>
     <field name="id">drachmann12tom#workid56325</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56325</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56325</field>
     <field name="page_ssi">305</field>
     <field name="page_id_ssi">idm140026786975936</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -203,7 +203,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786974224</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786974224</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786974224</field>
     <field name="page_ssi">305</field>
     <field name="page_id_ssi">idm140026786975936</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -229,7 +229,7 @@
     <field name="work_title_tesim">Jeg er kun en Visemager</field>
     <field name="id">drachmann12tom#workid56336</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56336</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56336</field>
     <field name="page_ssi">306</field>
     <field name="page_id_ssi">idm140026786973840</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -251,7 +251,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786972128</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786972128</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786972128</field>
     <field name="page_ssi">306</field>
     <field name="page_id_ssi">idm140026786973840</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -277,7 +277,7 @@
     <field name="work_title_tesim">Farende Folk</field>
     <field name="id">drachmann12tom#workid56348</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56348</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56348</field>
     <field name="page_ssi">307</field>
     <field name="page_id_ssi">idm140026786971744</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -299,7 +299,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786970080</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786970080</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786970080</field>
     <field name="page_ssi">307</field>
     <field name="page_id_ssi">idm140026786971744</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -325,7 +325,7 @@
     <field name="work_title_tesim">Paa Udvandrerskibet</field>
     <field name="id">drachmann12tom#workid56360</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56360</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56360</field>
     <field name="page_ssi">308</field>
     <field name="page_id_ssi">idm140026786969696</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -347,7 +347,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786968032</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786968032</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786968032</field>
     <field name="page_ssi">308</field>
     <field name="page_id_ssi">idm140026786969696</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -373,7 +373,7 @@
     <field name="work_title_tesim">Det gamle Kristianshavn</field>
     <field name="id">drachmann12tom#workid56372</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56372</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56372</field>
     <field name="page_ssi">309</field>
     <field name="page_id_ssi">idm140026786967648</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -395,7 +395,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786965888</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786965888</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786965888</field>
     <field name="page_ssi">309</field>
     <field name="page_id_ssi">idm140026786967648</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -421,7 +421,7 @@
     <field name="work_title_tesim">Til Emil Poulsen</field>
     <field name="id">drachmann12tom#workid56384</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56384</field>
     <field name="page_ssi">310</field>
     <field name="page_id_ssi">idm140026786965504</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -443,7 +443,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786963840</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786963840</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786963840</field>
     <field name="page_ssi">310</field>
     <field name="page_id_ssi">idm140026786965504</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -469,7 +469,7 @@
     <field name="work_title_tesim">Foraars-Bud</field>
     <field name="id">drachmann12tom#workid56396</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56396</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56396</field>
     <field name="page_ssi">311</field>
     <field name="page_id_ssi">idm140026786963456</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -491,7 +491,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786961632</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786961632</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786961632</field>
     <field name="page_ssi">311</field>
     <field name="page_id_ssi">idm140026786963456</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -517,7 +517,7 @@
     <field name="work_title_tesim">Mine Torne dem gemmer jeg</field>
     <field name="id">drachmann12tom#workid56408</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56408</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56408</field>
     <field name="page_ssi">312</field>
     <field name="page_id_ssi">idm140026786961248</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -539,7 +539,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786959536</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786959536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786959536</field>
     <field name="page_ssi">312</field>
     <field name="page_id_ssi">idm140026786961248</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -565,7 +565,7 @@
     <field name="work_title_tesim">Atter i Norge [Digte]</field>
     <field name="id">drachmann12tom#workid56421</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56421</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56421</field>
     <field name="page_ssi">313</field>
     <field name="page_id_ssi">idm140026786959024</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -588,7 +588,7 @@
     <field name="work_title_tesim">Atter i Norge</field>
     <field name="id">drachmann12tom#workid56423</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56423</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56423</field>
     <field name="page_ssi">313</field>
     <field name="page_id_ssi">idm140026786959024</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -610,7 +610,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786955584</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786955584</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786955584</field>
     <field name="page_ssi">314</field>
     <field name="page_id_ssi">idm140026786956352</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -636,7 +636,7 @@
     <field name="work_title_tesim">Fjæld-Luft</field>
     <field name="id">drachmann12tom#workid56441</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56441</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56441</field>
     <field name="page_ssi">315</field>
     <field name="page_id_ssi">idm140026786955200</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -658,7 +658,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786953536</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786953536</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786953536</field>
     <field name="page_ssi">315</field>
     <field name="page_id_ssi">idm140026786955200</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -684,7 +684,7 @@
     <field name="work_title_tesim">Norsk Divan</field>
     <field name="id">drachmann12tom#workid56453</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56453</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56453</field>
     <field name="page_ssi">316</field>
     <field name="page_id_ssi">idm140026786953152</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -706,7 +706,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786951440</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786951440</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786951440</field>
     <field name="page_ssi">316</field>
     <field name="page_id_ssi">idm140026786953152</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -732,7 +732,7 @@
     <field name="work_title_tesim">Ved Højfjældet</field>
     <field name="id">drachmann12tom#workid56464</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56464</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56464</field>
     <field name="page_ssi">317</field>
     <field name="page_id_ssi">idm140026786951056</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -754,7 +754,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786949392</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786949392</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786949392</field>
     <field name="page_ssi">317</field>
     <field name="page_id_ssi">idm140026786951056</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -780,7 +780,7 @@
     <field name="work_title_tesim">Henrik Ibsen</field>
     <field name="id">drachmann12tom#workid56476</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56476</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56476</field>
     <field name="page_ssi">318</field>
     <field name="page_id_ssi">idm140026786949008</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -802,7 +802,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786947248</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786947248</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786947248</field>
     <field name="page_ssi">318</field>
     <field name="page_id_ssi">idm140026786949008</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -828,7 +828,7 @@
     <field name="work_title_tesim">Højfjæld</field>
     <field name="id">drachmann12tom#workid56488</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56488</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56488</field>
     <field name="page_ssi">319</field>
     <field name="page_id_ssi">idm140026786946864</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -850,7 +850,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786944368</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786944368</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786944368</field>
     <field name="page_ssi">320</field>
     <field name="page_id_ssi">idm140026786945136</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -876,7 +876,7 @@
     <field name="work_title_tesim">Galge-Viser</field>
     <field name="id">drachmann12tom#workid56508</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56508</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56508</field>
     <field name="page_ssi">321</field>
     <field name="page_id_ssi">idm140026786943856</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -899,7 +899,7 @@
     <field name="work_title_tesim">Commune naufragium</field>
     <field name="id">drachmann12tom#workid56510</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56510</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56510</field>
     <field name="page_ssi">321</field>
     <field name="page_id_ssi">idm140026786943856</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -921,7 +921,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786940384</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786940384</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786940384</field>
     <field name="page_ssi">322</field>
     <field name="page_id_ssi">idm140026786941152</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -947,7 +947,7 @@
     <field name="work_title_tesim">Djævle-Øen</field>
     <field name="id">drachmann12tom#workid56528</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56528</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56528</field>
     <field name="page_ssi">323</field>
     <field name="page_id_ssi">idm140026786940000</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -969,7 +969,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786938272</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786938272</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786938272</field>
     <field name="page_ssi">323</field>
     <field name="page_id_ssi">idm140026786940000</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -995,7 +995,7 @@
     <field name="work_title_tesim">Braavalla-Brænding</field>
     <field name="id">drachmann12tom#workid56540</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56540</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56540</field>
     <field name="page_ssi">324</field>
     <field name="page_id_ssi">idm140026786937888</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1017,7 +1017,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786936160</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786936160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786936160</field>
     <field name="page_ssi">324</field>
     <field name="page_id_ssi">idm140026786937888</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1043,7 +1043,7 @@
     <field name="work_title_tesim">Evropas gamle Krokette</field>
     <field name="id">drachmann12tom#workid56552</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56552</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56552</field>
     <field name="page_ssi">325</field>
     <field name="page_id_ssi">idm140026786935776</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1065,7 +1065,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786934064</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786934064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786934064</field>
     <field name="page_ssi">325</field>
     <field name="page_id_ssi">idm140026786935776</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1091,7 +1091,7 @@
     <field name="work_title_tesim">Væ victis</field>
     <field name="id">drachmann12tom#workid56564</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56564</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56564</field>
     <field name="page_ssi">326</field>
     <field name="page_id_ssi">idm140026786933680</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1113,7 +1113,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786931136</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786931136</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786931136</field>
     <field name="page_ssi">327</field>
     <field name="page_id_ssi">idm140026786931904</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1139,7 +1139,7 @@
     <field name="work_title_tesim">Rus og Krig</field>
     <field name="id">drachmann12tom#workid56582</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56582</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56582</field>
     <field name="page_ssi">328</field>
     <field name="page_id_ssi">idm140026786930752</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1161,7 +1161,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786928160</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786928160</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786928160</field>
     <field name="page_ssi">329</field>
     <field name="page_id_ssi">idm140026786928976</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1187,7 +1187,7 @@
     <field name="work_title_tesim">Aqua vitæ</field>
     <field name="id">drachmann12tom#workid56600</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56600</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56600</field>
     <field name="page_ssi">330</field>
     <field name="page_id_ssi">idm140026786927776</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1209,7 +1209,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786926000</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786926000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786926000</field>
     <field name="page_ssi">330</field>
     <field name="page_id_ssi">idm140026786927776</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1235,7 +1235,7 @@
     <field name="work_title_tesim">O Galgetræ, o Galgetræ</field>
     <field name="id">drachmann12tom#workid56612</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56612</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56612</field>
     <field name="page_ssi">331</field>
     <field name="page_id_ssi">idm140026786925616</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1257,7 +1257,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786923952</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786923952</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786923952</field>
     <field name="page_ssi">331</field>
     <field name="page_id_ssi">idm140026786925616</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1283,7 +1283,7 @@
     <field name="work_title_tesim">Gige-Sange</field>
     <field name="id">drachmann12tom#workid56625</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56625</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56625</field>
     <field name="page_ssi">332</field>
     <field name="page_id_ssi">idm140026786923440</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1306,7 +1306,7 @@
     <field name="work_title_tesim">Fjæld-Stigning</field>
     <field name="id">drachmann12tom#workid56628</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56628</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56628</field>
     <field name="page_ssi">332</field>
     <field name="page_id_ssi">idm140026786923440</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1328,7 +1328,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786920000</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786920000</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786920000</field>
     <field name="page_ssi">333</field>
     <field name="page_id_ssi">idm140026786920768</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1354,7 +1354,7 @@
     <field name="work_title_tesim">Nu skulde vi bruge Styrken</field>
     <field name="id">drachmann12tom#workid56646</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56646</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56646</field>
     <field name="page_ssi">334</field>
     <field name="page_id_ssi">idm140026786919616</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1376,7 +1376,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786916976</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786916976</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786916976</field>
     <field name="page_ssi">335</field>
     <field name="page_id_ssi">idm140026786917792</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1402,7 +1402,7 @@
     <field name="work_title_tesim">Vision</field>
     <field name="id">drachmann12tom#workid56665</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56665</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56665</field>
     <field name="page_ssi">336</field>
     <field name="page_id_ssi">idm140026786916592</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1424,7 +1424,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786914112</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786914112</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786914112</field>
     <field name="page_ssi">337</field>
     <field name="page_id_ssi">idm140026786914880</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1450,7 +1450,7 @@
     <field name="work_title_tesim">Cosa rara, cosa sovente</field>
     <field name="id">drachmann12tom#workid56683</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56683</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56683</field>
     <field name="page_ssi">338</field>
     <field name="page_id_ssi">idm140026786913728</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1472,7 +1472,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786912064</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786912064</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786912064</field>
     <field name="page_ssi">338</field>
     <field name="page_id_ssi">idm140026786913728</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1498,7 +1498,7 @@
     <field name="work_title_tesim">Sommer-Drømme</field>
     <field name="id">drachmann12tom#workid56695</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56695</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56695</field>
     <field name="page_ssi">339</field>
     <field name="page_id_ssi">idm140026786911680</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1520,7 +1520,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786910016</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786910016</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786910016</field>
     <field name="page_ssi">339</field>
     <field name="page_id_ssi">idm140026786911680</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1546,7 +1546,7 @@
     <field name="work_title_tesim">Minderuner</field>
     <field name="id">drachmann12tom#workid56708</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56708</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56708</field>
     <field name="page_ssi">340</field>
     <field name="page_id_ssi">idm140026786909504</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1569,7 +1569,7 @@
     <field name="work_title_tesim">Vilhelm Topsøe [Minderune]</field>
     <field name="id">drachmann12tom#workid56710</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56710</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56710</field>
     <field name="page_ssi">340</field>
     <field name="page_id_ssi">idm140026786909504</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1591,7 +1591,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786906896</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786906896</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786906896</field>
     <field name="page_ssi">340</field>
     <field name="page_id_ssi">idm140026786909504</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1617,7 +1617,7 @@
     <field name="work_title_tesim">Vilhelm Wiehe [Minderune]</field>
     <field name="id">drachmann12tom#workid56722</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56722</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56722</field>
     <field name="page_ssi">341</field>
     <field name="page_id_ssi">idm140026786906512</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1639,7 +1639,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786904736</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786904736</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786904736</field>
     <field name="page_ssi">341</field>
     <field name="page_id_ssi">idm140026786906512</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1665,7 +1665,7 @@
     <field name="work_title_tesim">Etatsraad Frederik Hegel [Minderune]</field>
     <field name="id">drachmann12tom#workid56734</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56734</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56734</field>
     <field name="page_ssi">342</field>
     <field name="page_id_ssi">idm140026786904352</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1687,7 +1687,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786901872</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786901872</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786901872</field>
     <field name="page_ssi">343</field>
     <field name="page_id_ssi">idm140026786902640</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1713,7 +1713,7 @@
     <field name="work_title_tesim">Viggo Drewsen [Minderune]</field>
     <field name="id">drachmann12tom#workid56752</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56752</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56752</field>
     <field name="page_ssi">344</field>
     <field name="page_id_ssi">idm140026786901488</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1735,7 +1735,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786899664</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786899664</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786899664</field>
     <field name="page_ssi">344</field>
     <field name="page_id_ssi">idm140026786901488</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1761,7 +1761,7 @@
     <field name="work_title_tesim">Johanne Louise Heiberg [Minderune]</field>
     <field name="id">drachmann12tom#workid56764</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56764</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56764</field>
     <field name="page_ssi">345</field>
     <field name="page_id_ssi">idm140026786899280</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1783,7 +1783,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786896848</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786896848</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786896848</field>
     <field name="page_ssi">346</field>
     <field name="page_id_ssi">idm140026786897616</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1809,7 +1809,7 @@
     <field name="work_title_tesim">C. Berg [Minderune]</field>
     <field name="id">drachmann12tom#workid56783</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56783</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56783</field>
     <field name="page_ssi">347</field>
     <field name="page_id_ssi">idm140026786896464</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1831,7 +1831,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786893936</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786893936</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786893936</field>
     <field name="page_ssi">348</field>
     <field name="page_id_ssi">idm140026786894752</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1857,7 +1857,7 @@
     <field name="work_title_tesim">Julius Lange [Minderune]</field>
     <field name="id">drachmann12tom#workid56801</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56801</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56801</field>
     <field name="page_ssi">349</field>
     <field name="page_id_ssi">idm140026786893552</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1879,7 +1879,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786891792</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786891792</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786891792</field>
     <field name="page_ssi">349</field>
     <field name="page_id_ssi">idm140026786893552</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1905,7 +1905,7 @@
     <field name="work_title_tesim">Carl Rohl Smith [Minderune]</field>
     <field name="id">drachmann12tom#workid56814</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56814</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56814</field>
     <field name="page_ssi">350</field>
     <field name="page_id_ssi">idm140026786891408</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1927,7 +1927,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786889744</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786889744</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786889744</field>
     <field name="page_ssi">350</field>
     <field name="page_id_ssi">idm140026786891408</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1953,7 +1953,7 @@
     <field name="work_title_tesim">Sophus Schandorph [Minderune]</field>
     <field name="id">drachmann12tom#workid56826</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56826</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56826</field>
     <field name="page_ssi">351</field>
     <field name="page_id_ssi">idm140026786889360</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -1975,7 +1975,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786886880</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786886880</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786886880</field>
     <field name="page_ssi">352</field>
     <field name="page_id_ssi">idm140026786887696</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -2001,7 +2001,7 @@
     <field name="work_title_tesim">Til min Mor [Minderune]</field>
     <field name="id">drachmann12tom#workid56844</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56844</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56844</field>
     <field name="page_ssi">353</field>
     <field name="page_id_ssi">idm140026786886496</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -2023,7 +2023,7 @@
     <field name="type_ssi">leaf</field>
     <field name="id">drachmann12tom#idm140026786883968</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#idm140026786883968</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#idm140026786883968</field>
     <field name="page_ssi">354</field>
     <field name="page_id_ssi">idm140026786884736</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -2049,7 +2049,7 @@
     <field name="work_title_tesim">Det Grønne Haab</field>
     <field name="id">drachmann12tom#workid56866</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid56866</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid56866</field>
     <field name="page_ssi">355</field>
     <field name="page_id_ssi">idm140026786883200</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -2070,7 +2070,7 @@
     <field name="work_title_tesim">Kirke og Orgel. En Landsby-Elegi</field>
     <field name="id">drachmann12tom#workid57332</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid57332</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid57332</field>
     <field name="page_ssi">425</field>
     <field name="page_id_ssi">idm140026786825856</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -2091,7 +2091,7 @@
     <field name="work_title_tesim">Den Fattige Drengs Eventyr</field>
     <field name="id">drachmann12tom#workid57935</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid57935</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid57935</field>
     <field name="page_ssi">515</field>
     <field name="page_id_ssi">idm140026786752864</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -2112,7 +2112,7 @@
     <field name="work_title_tesim">Hr. Oluf han Rider -</field>
     <field name="id">drachmann12tom#workid58037</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid58037</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid58037</field>
     <field name="page_ssi">529</field>
     <field name="page_id_ssi">idm140026786739808</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
@@ -2133,7 +2133,7 @@
     <field name="work_title_tesim">Den Blaa Grotte. Capri-Breve</field>
     <field name="id">drachmann12tom#workid58641</field>
     <field name="volume_id_ssi">drachmann12tom</field>
-    <field name="url_ssi">http://adl2.kb.dk/drachmann12tom#workid58641</field>
+    <field name="url_ssi">http://adl2.kb.dk/catalog/drachmann12tom#workid58641</field>
     <field name="page_ssi">619</field>
     <field name="page_id_ssi">idm140026786666144</field>
     <field name="volume_title_tesim">Samlede poetiske Skrifter</field>
