@@ -3,16 +3,16 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim"/>
+    <field name="work_title_tesim">Anders Bording Samlede Skrifter. Kommentar til Anders Bordings digte</field>
     <field name="id">bord02tom</field>
     <field name="volume_id_ssi">bord02tom</field>
     <field name="url_ssi">http://adl2.kb.dk/catalog/bord02tom#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
-    <field name="volume_title_tesim"/>
+    <field name="volume_title_tesim">Anders Bording Samlede Skrifter. Kommentar til Anders Bordings digte</field>
     <field name="author_name">Anders Bording</field>
-    <field name="author_id_ssi">Anders%20Bording</field>
-    <field name="copyright_ssi"/>
+    <field name="author_id_ssi">2f768a9256bcc86f39c11d37bf7f7bac</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi"/>

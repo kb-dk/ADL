@@ -3,16 +3,16 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim"/>
+    <field name="work_title_tesim">C. C. Lyschander's Digtning 1579-1623 II Kommentar </field>
     <field name="id">lysc02tom</field>
     <field name="volume_id_ssi">lysc02tom</field>
     <field name="url_ssi">http://adl2.kb.dk/catalog/lysc02tom#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">n1</field>
-    <field name="volume_title_tesim"/>
+    <field name="volume_title_tesim">C. C. Lyschander's Digtning 1579-1623 II Kommentar </field>
     <field name="author_name">C. C. Lyschander</field>
-    <field name="author_id_ssi">C.%20C.%20Lyschander</field>
-    <field name="copyright_ssi"/>
+    <field name="author_id_ssi">a7975150ec6c34c33c23530805dd83bf</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi"/>

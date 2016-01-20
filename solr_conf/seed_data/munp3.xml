@@ -9,8 +9,8 @@
     <field name="url_ssi">http://adl2.kb.dk/catalog/munp3#</field>
     <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
     <field name="author_name">Munch-Petersen, Gustaf</field>
-    <field name="author_id_ssi">Munch-Petersen,%20Gustaf</field>
-    <field name="copyright_ssi"/>
+    <field name="author_id_ssi">80b3d97f946e6f751d1ff6e93b3d2d9c</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi"/>
@@ -28,8 +28,8 @@
     <field name="volume_title_tesim">Upubliceret; et indiskret svar paa et diskret spørgsmaal</field>
     <field name="head_tesim">Upubliceret</field>
     <field name="author_name">Munch-Petersen, Gustaf</field>
-    <field name="author_id_ssi">Munch-Petersen,%20Gustaf</field>
-    <field name="copyright_ssi"/>
+    <field name="author_id_ssi">80b3d97f946e6f751d1ff6e93b3d2d9c</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi"/>
@@ -49,8 +49,8 @@
 	  upubliceret, 1931
 	  </field>
     <field name="author_name">Munch-Petersen, Gustaf</field>
-    <field name="author_id_ssi">Munch-Petersen,%20Gustaf</field>
-    <field name="copyright_ssi"/>
+    <field name="author_id_ssi">80b3d97f946e6f751d1ff6e93b3d2d9c</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi"/>

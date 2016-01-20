@@ -3,16 +3,16 @@
   <doc>
     <field name="type_ssi">trunk</field>
     <field name="cat_ssi">work</field>
-    <field name="work_title_tesim"/>
+    <field name="work_title_tesim">Indskrift på et ur på Stjerneborg, Tempora circuitu</field>
     <field name="id">tycho-03-urindskrift</field>
     <field name="volume_id_ssi">tycho-03-urindskrift</field>
     <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-03-urindskrift#</field>
     <field name="page_ssi">1</field>
     <field name="page_id_ssi">idm139795043347632</field>
-    <field name="volume_title_tesim"/>
+    <field name="volume_title_tesim">Indskrift på et ur på Stjerneborg, Tempora circuitu</field>
     <field name="author_name">Tycho Brahe</field>
-    <field name="author_id_ssi">Tycho%20Brahe</field>
-    <field name="copyright_ssi"/>
+    <field name="author_id_ssi">1cde29e92fafb44315e44b1d92a8c1e4</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi"/>
@@ -27,11 +27,11 @@
     <field name="url_ssi">http://adl2.kb.dk/catalog/tycho-03-urindskrift#idm139795043342256</field>
     <field name="page_ssi">2</field>
     <field name="page_id_ssi">idm139795043343808</field>
-    <field name="volume_title_tesim"/>
+    <field name="volume_title_tesim">Indskrift på et ur på Stjerneborg, Tempora circuitu</field>
     <field name="head_tesim">Indskrift på et ur på Stjerneborg, Tempora circuitu</field>
     <field name="author_name">Tycho Brahe</field>
-    <field name="author_id_ssi">Tycho%20Brahe</field>
-    <field name="copyright_ssi"/>
+    <field name="author_id_ssi">1cde29e92fafb44315e44b1d92a8c1e4</field>
+    <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
     <field name="publisher_ssi"/>
