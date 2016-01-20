@@ -4,6 +4,7 @@
     <field name="work_title_tesim">Aakjær, Jeppe</field>
     <field name="author_name">Aakjær, Jeppe</field>
     <field name="family_name_ssi">Aakjær</field>
+    <field name="given_name_ssi">Jeppe</field>
     <field name="id">dbbccf977c3576e0ee981f00a150361b</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -12,6 +13,7 @@
     <field name="work_title_tesim">Aarestrup, Emil</field>
     <field name="author_name">Aarestrup, Emil</field>
     <field name="family_name_ssi">Aarestrup</field>
+    <field name="given_name_ssi">Emil</field>
     <field name="id">17f115848ddd1a1342b89de4b2773d93</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -20,6 +22,7 @@
     <field name="work_title_tesim">Andersen, H. C.</field>
     <field name="author_name">Andersen, H. C.</field>
     <field name="family_name_ssi">Andersen</field>
+    <field name="given_name_ssi">H. C.</field>
     <field name="id">18f8efcc98f5e84752aa8f75792fe26b</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -28,6 +31,7 @@
     <field name="work_title_tesim">Andersen, Jens Kristian</field>
     <field name="author_name">Andersen, Jens Kristian</field>
     <field name="family_name_ssi">Andersen</field>
+    <field name="given_name_ssi">Jens Kristian</field>
     <field name="id">575eff79ff6f37010bfc382ed956db47</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -36,6 +40,7 @@
     <field name="work_title_tesim">Andersen, Jørgen Erslev</field>
     <field name="author_name">Andersen, Jørgen Erslev</field>
     <field name="family_name_ssi">Andersen</field>
+    <field name="given_name_ssi">Jørgen Erslev</field>
     <field name="id">bce981d707c9cf125593c1ba572c2d0f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -44,6 +49,7 @@
     <field name="work_title_tesim">Andersen, Lise Præstgaard</field>
     <field name="author_name">Andersen, Lise Præstgaard</field>
     <field name="family_name_ssi">Andersen</field>
+    <field name="given_name_ssi">Lise Præstgaard</field>
     <field name="id">574aed6448167ab945dbb83139fba911</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -52,6 +58,7 @@
     <field name="work_title_tesim">Andersson, Henrik</field>
     <field name="author_name">Andersson, Henrik</field>
     <field name="family_name_ssi">Andersson</field>
+    <field name="given_name_ssi">Henrik</field>
     <field name="id">14e83eec836eafde912d9eca169bda08</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -60,6 +67,7 @@
     <field name="work_title_tesim">Andesen, J. K.</field>
     <field name="author_name">Andesen, J. K.</field>
     <field name="family_name_ssi">Andesen</field>
+    <field name="given_name_ssi">J. K.</field>
     <field name="id">5d61a198198e165928356ddd28b5c9f8</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -68,6 +76,7 @@
     <field name="work_title_tesim">Arndal, Steffen</field>
     <field name="author_name">Arndal, Steffen</field>
     <field name="family_name_ssi">Arndal</field>
+    <field name="given_name_ssi">Steffen</field>
     <field name="id">6bf5f4cf22ba99dca5146a23236f59a2</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -76,6 +85,7 @@
     <field name="work_title_tesim">Arrebo, Anders</field>
     <field name="author_name">Arrebo, Anders</field>
     <field name="family_name_ssi">Arrebo</field>
+    <field name="given_name_ssi">Anders</field>
     <field name="id">ef81a55d8a49a2c050bb7703bc7cad51</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -84,6 +94,7 @@
     <field name="work_title_tesim">Bagger, Carl</field>
     <field name="author_name">Bagger, Carl</field>
     <field name="family_name_ssi">Bagger</field>
+    <field name="given_name_ssi">Carl</field>
     <field name="id">3ee897831265109513216308c0bd18ff</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -92,6 +103,7 @@
     <field name="work_title_tesim">Baggesen, Jens</field>
     <field name="author_name">Baggesen, Jens</field>
     <field name="family_name_ssi">Baggesen</field>
+    <field name="given_name_ssi">Jens</field>
     <field name="id">192ad4ebb4808d54c61743d186e12c39</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -100,6 +112,7 @@
     <field name="work_title_tesim">Baggesen, Søren</field>
     <field name="author_name">Baggesen, Søren</field>
     <field name="family_name_ssi">Baggesen</field>
+    <field name="given_name_ssi">Søren</field>
     <field name="id">7b1a07365092aa64e1081099f6053853</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -108,6 +121,7 @@
     <field name="work_title_tesim">Bang, Herman</field>
     <field name="author_name">Bang, Herman</field>
     <field name="family_name_ssi">Bang</field>
+    <field name="given_name_ssi">Herman</field>
     <field name="id">31ffcf282a5fd3b82c6fb1dbe89e487e</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -116,6 +130,7 @@
     <field name="work_title_tesim">Bergsøe, Vilhelm</field>
     <field name="author_name">Bergsøe, Vilhelm</field>
     <field name="family_name_ssi">Bergsøe</field>
+    <field name="given_name_ssi">Vilhelm</field>
     <field name="id">9582931b79f48f88802eb55c6197e7d3</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -124,6 +139,7 @@
     <field name="work_title_tesim">Biehl, Charlotta Dorothea</field>
     <field name="author_name">Biehl, Charlotta Dorothea</field>
     <field name="family_name_ssi">Biehl</field>
+    <field name="given_name_ssi">Charlotta Dorothea</field>
     <field name="id">6b8244c8511b06b2a1928494e4150dbd</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -132,6 +148,7 @@
     <field name="work_title_tesim">Biehl, Charlotta Dorothea</field>
     <field name="author_name">Biehl, Charlotta Dorothea</field>
     <field name="family_name_ssi">Biehl</field>
+    <field name="given_name_ssi">Charlotta Dorothea</field>
     <field name="id">b14a6bf69c9105488eff4d50f7649f8a</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -140,6 +157,7 @@
     <field name="work_title_tesim">Blicher, Henrik</field>
     <field name="author_name">Blicher, Henrik</field>
     <field name="family_name_ssi">Blicher</field>
+    <field name="given_name_ssi">Henrik</field>
     <field name="id">e0acf809ffc94b1876ffa0cff64c3bdd</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -148,6 +166,7 @@
     <field name="work_title_tesim">Blicher, Steen Steensen</field>
     <field name="author_name">Blicher, Steen Steensen</field>
     <field name="family_name_ssi">Blicher</field>
+    <field name="given_name_ssi">Steen Steensen</field>
     <field name="id">ab15c40dbb8ea08e48e8e8d55bcdd6af</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -156,6 +175,7 @@
     <field name="work_title_tesim">Bødtcher, Ludvig</field>
     <field name="author_name">Bødtcher, Ludvig</field>
     <field name="family_name_ssi">Bødtcher</field>
+    <field name="given_name_ssi">Ludvig</field>
     <field name="id">c7a69a4833265882c45493d79dd0871d</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -164,6 +184,7 @@
     <field name="work_title_tesim">Bording, Anders</field>
     <field name="author_name">Bording, Anders</field>
     <field name="family_name_ssi">Bording</field>
+    <field name="given_name_ssi">Anders</field>
     <field name="id">2f768a9256bcc86f39c11d37bf7f7bac</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -172,6 +193,7 @@
     <field name="work_title_tesim">Bording, Anders</field>
     <field name="author_name">Bording, Anders</field>
     <field name="family_name_ssi">Bording</field>
+    <field name="given_name_ssi">Anders</field>
     <field name="id">f8504d7e675c5a84a3c5ef74eb0c8d49</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -180,6 +202,7 @@
     <field name="work_title_tesim">Brahe, Tycho</field>
     <field name="author_name">Brahe, Tycho</field>
     <field name="family_name_ssi">Brahe</field>
+    <field name="given_name_ssi">Tycho</field>
     <field name="id">1cde29e92fafb44315e44b1d92a8c1e4</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -188,6 +211,7 @@
     <field name="work_title_tesim">Brahe, Tycho</field>
     <field name="author_name">Brahe, Tycho</field>
     <field name="family_name_ssi">Brahe</field>
+    <field name="given_name_ssi">Tycho</field>
     <field name="id">6dddc41434e02d6adb82fc5e60334b2a</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -196,6 +220,7 @@
     <field name="work_title_tesim">Brandes, Edvard</field>
     <field name="author_name">Brandes, Edvard</field>
     <field name="family_name_ssi">Brandes</field>
+    <field name="given_name_ssi">Edvard</field>
     <field name="id">ce01a85a9ba274e99ee9a75358c7ea06</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -204,6 +229,7 @@
     <field name="work_title_tesim">Brandes, Georg</field>
     <field name="author_name">Brandes, Georg</field>
     <field name="family_name_ssi">Brandes</field>
+    <field name="given_name_ssi">Georg</field>
     <field name="id">86da4dda4e0613d4fcfa3cdcdc92c44a</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -212,6 +238,7 @@
     <field name="work_title_tesim">Brøndsted, Mogens</field>
     <field name="author_name">Brøndsted, Mogens</field>
     <field name="family_name_ssi">Brøndsted</field>
+    <field name="given_name_ssi">Mogens</field>
     <field name="id">3c697ece639fd041de385d1ff611cac5</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -220,6 +247,7 @@
     <field name="work_title_tesim">Brønsted, Mogens</field>
     <field name="author_name">Brønsted, Mogens</field>
     <field name="family_name_ssi">Brønsted</field>
+    <field name="given_name_ssi">Mogens</field>
     <field name="id">26033e44357065b7b36b8679b25717e0</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -228,6 +256,7 @@
     <field name="work_title_tesim">Brorson, Hans Adolph</field>
     <field name="author_name">Brorson, Hans Adolph</field>
     <field name="family_name_ssi">Brorson</field>
+    <field name="given_name_ssi">Hans Adolph</field>
     <field name="id">7edc382f449e8f03b88b91af3b1529d6</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -236,6 +265,7 @@
     <field name="work_title_tesim">Bruun, Malthe Conrad</field>
     <field name="author_name">Bruun, Malthe Conrad</field>
     <field name="family_name_ssi">Bruun</field>
+    <field name="given_name_ssi">Malthe Conrad</field>
     <field name="id">0d85271f187a80973f3cef0af7bac7af</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -244,6 +274,7 @@
     <field name="work_title_tesim">Busk-Jensen, Lise</field>
     <field name="author_name">Busk-Jensen, Lise</field>
     <field name="family_name_ssi">Busk-Jensen</field>
+    <field name="given_name_ssi">Lise</field>
     <field name="id">f48d2e2be7e79d50216a7957c413cd0e</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -252,6 +283,7 @@
     <field name="work_title_tesim">Chievitz, Poul</field>
     <field name="author_name">Chievitz, Poul</field>
     <field name="family_name_ssi">Chievitz</field>
+    <field name="given_name_ssi">Poul</field>
     <field name="id">79cde50e226ae62c79689c2561876cb6</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -260,6 +292,7 @@
     <field name="work_title_tesim">Claussen, Sophus</field>
     <field name="author_name">Claussen, Sophus</field>
     <field name="family_name_ssi">Claussen</field>
+    <field name="given_name_ssi">Sophus</field>
     <field name="id">5d10396598cd7735cd1c930aef96e776</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -268,6 +301,7 @@
     <field name="work_title_tesim">Conrad, Flemming</field>
     <field name="author_name">Conrad, Flemming</field>
     <field name="family_name_ssi">Conrad</field>
+    <field name="given_name_ssi">Flemming</field>
     <field name="id">976be7b373a5bfc20ac5a70398107639</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -276,6 +310,7 @@
     <field name="work_title_tesim">Dalgas, Ernesto</field>
     <field name="author_name">Dalgas, Ernesto</field>
     <field name="family_name_ssi">Dalgas</field>
+    <field name="given_name_ssi">Ernesto</field>
     <field name="id">d17527b362e1e2ae1526126103e85972</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -284,6 +319,7 @@
     <field name="work_title_tesim">Dorset, Rolf</field>
     <field name="author_name">Dorset, Rolf</field>
     <field name="family_name_ssi">Dorset</field>
+    <field name="given_name_ssi">Rolf</field>
     <field name="id">8c5b0f354c801086d201fccb4146d32b</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -292,6 +328,7 @@
     <field name="work_title_tesim">Drachmann, Holger</field>
     <field name="author_name">Drachmann, Holger</field>
     <field name="family_name_ssi">Drachmann</field>
+    <field name="given_name_ssi">Holger</field>
     <field name="id">4cbf2d43ff5f5ee2f71ccecb21d0e2eb</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -300,6 +337,7 @@
     <field name="work_title_tesim">Ewald, Johannes</field>
     <field name="author_name">Ewald, Johannes</field>
     <field name="family_name_ssi">Ewald</field>
+    <field name="given_name_ssi">Johannes</field>
     <field name="id">4337785211a3e14b3418a5accba0c50d</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -308,6 +346,7 @@
     <field name="work_title_tesim">Ewald, Johannes</field>
     <field name="author_name">Ewald, Johannes</field>
     <field name="family_name_ssi">Ewald</field>
+    <field name="given_name_ssi">Johannes</field>
     <field name="id">a078e63d643be62bccfc323bd486ef1d</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -316,6 +355,7 @@
     <field name="work_title_tesim">Falster, Christian</field>
     <field name="author_name">Falster, Christian</field>
     <field name="family_name_ssi">Falster</field>
+    <field name="given_name_ssi">Christian</field>
     <field name="id">e16e6031658c75664dc36db81b22f0f3</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -324,6 +364,7 @@
     <field name="work_title_tesim">Fibiger, Mathilde</field>
     <field name="author_name">Fibiger, Mathilde</field>
     <field name="family_name_ssi">Fibiger</field>
+    <field name="given_name_ssi">Mathilde</field>
     <field name="id">7411254f62709d2592d172c7e596e39f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -332,6 +373,7 @@
     <field name="work_title_tesim">Garton, Janet</field>
     <field name="author_name">Garton, Janet</field>
     <field name="family_name_ssi">Garton</field>
+    <field name="given_name_ssi">Janet</field>
     <field name="id">272175fd27f6a1228bde4ebf81a229bb</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -340,6 +382,7 @@
     <field name="work_title_tesim">Gjellerup, Karl</field>
     <field name="author_name">Gjellerup, Karl</field>
     <field name="family_name_ssi">Gjellerup</field>
+    <field name="given_name_ssi">Karl</field>
     <field name="id">56bd691a7828db5db0b677040de697f0</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -348,6 +391,7 @@
     <field name="work_title_tesim">Gjesing, Knud Bjarne</field>
     <field name="author_name">Gjesing, Knud Bjarne</field>
     <field name="family_name_ssi">Gjesing</field>
+    <field name="given_name_ssi">Knud Bjarne</field>
     <field name="id">a3cdf9e31ba808a03d350fbf2a4467e2</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -356,6 +400,7 @@
     <field name="work_title_tesim">Goldschmidt, M. A.</field>
     <field name="author_name">Goldschmidt, M. A.</field>
     <field name="family_name_ssi">Goldschmidt</field>
+    <field name="given_name_ssi">M. A.</field>
     <field name="id">91ae2560673df0ef5ecdf71d37b98bfb</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -364,6 +409,7 @@
     <field name="work_title_tesim">Goldschmidt, M. A.</field>
     <field name="author_name">Goldschmidt, M. A.</field>
     <field name="family_name_ssi">Goldschmidt</field>
+    <field name="given_name_ssi">M. A.</field>
     <field name="id">e98a9576cbaf5b2299152ed98b633f79</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -372,6 +418,7 @@
     <field name="work_title_tesim">Grundtvig, N. F. S.</field>
     <field name="author_name">Grundtvig, N. F. S.</field>
     <field name="family_name_ssi">Grundtvig</field>
+    <field name="given_name_ssi">N. F. S.</field>
     <field name="id">488cbcb448ac69ed37f512a890df37da</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -380,6 +427,7 @@
     <field name="work_title_tesim">Gyllembourg-Ehrensvärd, T. C.</field>
     <field name="author_name">Gyllembourg-Ehrensvärd, T. C.</field>
     <field name="family_name_ssi">Gyllembourg-Ehrensvärd</field>
+    <field name="given_name_ssi">T. C.</field>
     <field name="id">b875fd8151be8485b24a8a07bee09f58</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -388,6 +436,7 @@
     <field name="work_title_tesim">Hauch, Carsten</field>
     <field name="author_name">Hauch, Carsten</field>
     <field name="family_name_ssi">Hauch</field>
+    <field name="given_name_ssi">Carsten</field>
     <field name="id">ef359a4d2c2f0aa8c725aba19f52b25f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -396,6 +445,7 @@
     <field name="work_title_tesim">Heiberg, Johan Ludvig</field>
     <field name="author_name">Heiberg, Johan Ludvig</field>
     <field name="family_name_ssi">Heiberg</field>
+    <field name="given_name_ssi">Johan Ludvig</field>
     <field name="id">ff989dc41ade606b8c7796ec6201f53a</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -404,6 +454,7 @@
     <field name="work_title_tesim">Heiberg, Johanne Luise</field>
     <field name="author_name">Heiberg, Johanne Luise</field>
     <field name="family_name_ssi">Heiberg</field>
+    <field name="given_name_ssi">Johanne Luise</field>
     <field name="id">7f1e4aeb778e960c411b285ab80f532f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -412,6 +463,7 @@
     <field name="work_title_tesim">Heiberg, P. A.</field>
     <field name="author_name">Heiberg, P. A.</field>
     <field name="family_name_ssi">Heiberg</field>
+    <field name="given_name_ssi">P. A.</field>
     <field name="id">f4876afcc85536725f25dad5fea97256</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -420,6 +472,7 @@
     <field name="work_title_tesim">Helgesen, Poul</field>
     <field name="author_name">Helgesen, Poul</field>
     <field name="family_name_ssi">Helgesen</field>
+    <field name="given_name_ssi">Poul</field>
     <field name="id">cb80cc87453eda5aa6159e37cc43b1c1</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -428,6 +481,7 @@
     <field name="work_title_tesim">Hertz, Henrik</field>
     <field name="author_name">Hertz, Henrik</field>
     <field name="family_name_ssi">Hertz</field>
+    <field name="given_name_ssi">Henrik</field>
     <field name="id">10b3e11694eff4d761a603a8e60c7da4</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -436,6 +490,7 @@
     <field name="work_title_tesim">Hjordt-Vetlesen, Inger-Lise</field>
     <field name="author_name">Hjordt-Vetlesen, Inger-Lise</field>
     <field name="family_name_ssi">Hjordt-Vetlesen</field>
+    <field name="given_name_ssi">Inger-Lise</field>
     <field name="id">d30020879841232e5b4d62c591164164</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -444,6 +499,7 @@
     <field name="work_title_tesim">Hjortø, Knud</field>
     <field name="author_name">Hjortø, Knud</field>
     <field name="family_name_ssi">Hjortø</field>
+    <field name="given_name_ssi">Knud</field>
     <field name="id">b64425af3f2018c2233b8729565a23cc</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -452,6 +508,7 @@
     <field name="work_title_tesim">Holberg, Ludvig</field>
     <field name="author_name">Holberg, Ludvig</field>
     <field name="family_name_ssi">Holberg</field>
+    <field name="given_name_ssi">Ludvig</field>
     <field name="id">d702f4d156cfa61bcdad81687b84c555</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -460,6 +517,7 @@
     <field name="work_title_tesim">Hostrup, C.</field>
     <field name="author_name">Hostrup, C.</field>
     <field name="family_name_ssi">Hostrup</field>
+    <field name="given_name_ssi">C.</field>
     <field name="id">749272890d086283a7afd142fbe6314e</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -468,6 +526,7 @@
     <field name="work_title_tesim">Ingemann, B. S.</field>
     <field name="author_name">Ingemann, B. S.</field>
     <field name="family_name_ssi">Ingemann</field>
+    <field name="given_name_ssi">B. S.</field>
     <field name="id">12255ffd8b8b71eae76e284f558aa7fa</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -476,6 +535,7 @@
     <field name="work_title_tesim">Ingemann, B. S.</field>
     <field name="author_name">Ingemann, B. S.</field>
     <field name="family_name_ssi">Ingemann</field>
+    <field name="given_name_ssi">B. S.</field>
     <field name="id">3d9d4da2f0adfeb4a5d839a6e35ffbb2</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -484,6 +544,7 @@
     <field name="work_title_tesim">Jacobsen, Jørgen-Frantz</field>
     <field name="author_name">Jacobsen, Jørgen-Frantz</field>
     <field name="family_name_ssi">Jacobsen</field>
+    <field name="given_name_ssi">Jørgen-Frantz</field>
     <field name="id">fedc503cf88e6c2208bd8d30f959dbcb</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -492,6 +553,7 @@
     <field name="work_title_tesim">Jacobsen, J. P.</field>
     <field name="author_name">Jacobsen, J. P.</field>
     <field name="family_name_ssi">Jacobsen</field>
+    <field name="given_name_ssi">J. P.</field>
     <field name="id">7f71e439bcf6927895c23eedad226db4</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -500,6 +562,7 @@
     <field name="work_title_tesim">Jansen, F.J. Billeskov</field>
     <field name="author_name">Jansen, F.J. Billeskov</field>
     <field name="family_name_ssi">Jansen</field>
+    <field name="given_name_ssi">F.J. Billeskov</field>
     <field name="id">744895c0e5426116d4c84f89578a7c1e</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -508,6 +571,7 @@
     <field name="work_title_tesim">Jensen, Henrik Fibæk</field>
     <field name="author_name">Jensen, Henrik Fibæk</field>
     <field name="family_name_ssi">Jensen</field>
+    <field name="given_name_ssi">Henrik Fibæk</field>
     <field name="id">bcdd51e8c4921256ceef038b8867de27</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -516,6 +580,7 @@
     <field name="work_title_tesim">Jørgensen, Bo Hakon</field>
     <field name="author_name">Jørgensen, Bo Hakon</field>
     <field name="family_name_ssi">Jørgensen</field>
+    <field name="given_name_ssi">Bo Hakon</field>
     <field name="id">adb1d9222b7b27365dad70b5e1ba037f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -524,6 +589,7 @@
     <field name="work_title_tesim">Juel-Hansen, Erna</field>
     <field name="author_name">Juel-Hansen, Erna</field>
     <field name="family_name_ssi">Juel-Hansen</field>
+    <field name="given_name_ssi">Erna</field>
     <field name="id">18425d60594609ec5ffc47b067601fd3</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -532,6 +598,7 @@
     <field name="work_title_tesim">Kaalund, H. V.</field>
     <field name="author_name">Kaalund, H. V.</field>
     <field name="family_name_ssi">Kaalund</field>
+    <field name="given_name_ssi">H. V.</field>
     <field name="id">6352d56717c3d9d01267249cec4c2aa6</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -540,6 +607,7 @@
     <field name="work_title_tesim">Kidde, Harald</field>
     <field name="author_name">Kidde, Harald</field>
     <field name="family_name_ssi">Kidde</field>
+    <field name="given_name_ssi">Harald</field>
     <field name="id">103e07131f624808371c391bc3ea801a</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -548,6 +616,7 @@
     <field name="work_title_tesim">Kielberg, Esther</field>
     <field name="author_name">Kielberg, Esther</field>
     <field name="family_name_ssi">Kielberg</field>
+    <field name="given_name_ssi">Esther</field>
     <field name="id">51d1bc83268cc639a831f9d85278b425</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -556,6 +625,7 @@
     <field name="work_title_tesim">Kierkegaard, Søren</field>
     <field name="author_name">Kierkegaard, Søren</field>
     <field name="family_name_ssi">Kierkegaard</field>
+    <field name="given_name_ssi">Søren</field>
     <field name="id">f11b5e73720a76d4d086bf847578393e</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -564,6 +634,7 @@
     <field name="work_title_tesim">Kingo, Thomas</field>
     <field name="author_name">Kingo, Thomas</field>
     <field name="family_name_ssi">Kingo</field>
+    <field name="given_name_ssi">Thomas</field>
     <field name="id">4400bf5bfca0a9e966e534af367f0bc9</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -572,6 +643,7 @@
     <field name="work_title_tesim">Knudsen-Hjortø, Knud</field>
     <field name="author_name">Knudsen-Hjortø, Knud</field>
     <field name="family_name_ssi">Knudsen-Hjortø</field>
+    <field name="given_name_ssi">Knud</field>
     <field name="id">ec5edf8cdb5f8fd7cb2745406a204a7f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -580,6 +652,7 @@
     <field name="work_title_tesim">Knudsen, Jakob</field>
     <field name="author_name">Knudsen, Jakob</field>
     <field name="family_name_ssi">Knudsen</field>
+    <field name="given_name_ssi">Jakob</field>
     <field name="id">59bedd07257c4390ca850d77beaae346</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -588,6 +661,7 @@
     <field name="work_title_tesim">Knudsen, Jørgen</field>
     <field name="author_name">Knudsen, Jørgen</field>
     <field name="family_name_ssi">Knudsen</field>
+    <field name="given_name_ssi">Jørgen</field>
     <field name="id">6ae71ff45f99f90ac242b46771af925b</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -596,6 +670,7 @@
     <field name="work_title_tesim">Koch, Carl Henrik</field>
     <field name="author_name">Koch, Carl Henrik</field>
     <field name="family_name_ssi">Koch</field>
+    <field name="given_name_ssi">Carl Henrik</field>
     <field name="id">19e6eea37886ec5dea865f6f2b4372ae</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -604,6 +679,7 @@
     <field name="work_title_tesim">Larsen, Karl</field>
     <field name="author_name">Larsen, Karl</field>
     <field name="family_name_ssi">Larsen</field>
+    <field name="given_name_ssi">Karl</field>
     <field name="id">b69442c5308c5ce0cfa94ca52ef6c911</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -612,6 +688,7 @@
     <field name="work_title_tesim">Larsen, Thøger</field>
     <field name="author_name">Larsen, Thøger</field>
     <field name="family_name_ssi">Larsen</field>
+    <field name="given_name_ssi">Thøger</field>
     <field name="id">591c9459c248f9b5334518bcca07514f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -620,6 +697,7 @@
     <field name="work_title_tesim">Lehrmann, Ulrik</field>
     <field name="author_name">Lehrmann, Ulrik</field>
     <field name="family_name_ssi">Lehrmann</field>
+    <field name="given_name_ssi">Ulrik</field>
     <field name="id">19bad2dd0f1082ae5484e535ae20de76</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -628,6 +706,7 @@
     <field name="work_title_tesim">Lundgreen-Nielsen, Flemming</field>
     <field name="author_name">Lundgreen-Nielsen, Flemming</field>
     <field name="family_name_ssi">Lundgreen-Nielsen</field>
+    <field name="given_name_ssi">Flemming</field>
     <field name="id">943001d161040c19979b04a8c169f0e4</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -636,6 +715,7 @@
     <field name="work_title_tesim">Lyschander, C. C.</field>
     <field name="author_name">Lyschander, C. C.</field>
     <field name="family_name_ssi">Lyschander</field>
+    <field name="given_name_ssi">C. C.</field>
     <field name="id">a7975150ec6c34c33c23530805dd83bf</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -644,6 +724,7 @@
     <field name="work_title_tesim">Lyster, Jens</field>
     <field name="author_name">Lyster, Jens</field>
     <field name="family_name_ssi">Lyster</field>
+    <field name="given_name_ssi">Jens</field>
     <field name="id">878f51bd3a14bf876fb45024e73a54f9</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -652,6 +733,7 @@
     <field name="work_title_tesim">Michaëlis, Sophus</field>
     <field name="author_name">Michaëlis, Sophus</field>
     <field name="family_name_ssi">Michaëlis</field>
+    <field name="given_name_ssi">Sophus</field>
     <field name="id">fb999bb6eb2efd5e296196549365102a</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -660,6 +742,7 @@
     <field name="work_title_tesim">Michelsen, Knud</field>
     <field name="author_name">Michelsen, Knud</field>
     <field name="family_name_ssi">Michelsen</field>
+    <field name="given_name_ssi">Knud</field>
     <field name="id">7fb605498dcf76f31977f6ad86bb13d5</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -668,6 +751,7 @@
     <field name="work_title_tesim">Møller, Poul Martin</field>
     <field name="author_name">Møller, Poul Martin</field>
     <field name="family_name_ssi">Møller</field>
+    <field name="given_name_ssi">Poul Martin</field>
     <field name="id">cca198630066c24c87db16bdfbaa858c</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -676,6 +760,7 @@
     <field name="work_title_tesim">Mortensen, Birgit</field>
     <field name="author_name">Mortensen, Birgit</field>
     <field name="family_name_ssi">Mortensen</field>
+    <field name="given_name_ssi">Birgit</field>
     <field name="id">621dbf6dbdaf022b82c3331eb28e0df5</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -684,6 +769,7 @@
     <field name="work_title_tesim">Mortensen, Finn Hauberg</field>
     <field name="author_name">Mortensen, Finn Hauberg</field>
     <field name="family_name_ssi">Mortensen</field>
+    <field name="given_name_ssi">Finn Hauberg</field>
     <field name="id">8ead47ea1cc580f4bbc8cd791ef0a5f1</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -692,6 +778,7 @@
     <field name="work_title_tesim">Munch-Petersen, Gustaf</field>
     <field name="author_name">Munch-Petersen, Gustaf</field>
     <field name="family_name_ssi">Munch-Petersen</field>
+    <field name="given_name_ssi">Gustaf</field>
     <field name="id">80b3d97f946e6f751d1ff6e93b3d2d9c</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -700,6 +787,7 @@
     <field name="work_title_tesim">Mundbjerg, Torben</field>
     <field name="author_name">Mundbjerg, Torben</field>
     <field name="family_name_ssi">Mundbjerg</field>
+    <field name="given_name_ssi">Torben</field>
     <field name="id">2adc30c6cbc2acdbb5f7d7201c6be038</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -708,6 +796,7 @@
     <field name="work_title_tesim">Mylius, Johan de</field>
     <field name="author_name">Mylius, Johan de</field>
     <field name="family_name_ssi">Mylius</field>
+    <field name="given_name_ssi">Johan de</field>
     <field name="id">99844533cb421fed7f33da7ec2c72428</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -716,6 +805,7 @@
     <field name="work_title_tesim">Nansen, Peter</field>
     <field name="author_name">Nansen, Peter</field>
     <field name="family_name_ssi">Nansen</field>
+    <field name="given_name_ssi">Peter</field>
     <field name="id">9f5c2ed02b7b608b8a952fff59ce03ac</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -724,6 +814,7 @@
     <field name="work_title_tesim">Nielsen, Marita Akhøj</field>
     <field name="author_name">Nielsen, Marita Akhøj</field>
     <field name="family_name_ssi">Nielsen</field>
+    <field name="given_name_ssi">Marita Akhøj</field>
     <field name="id">db19d69120cb0f9a5386e04c35393daf</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -732,6 +823,7 @@
     <field name="work_title_tesim">Oehlenschläger, Adam</field>
     <field name="author_name">Oehlenschläger, Adam</field>
     <field name="family_name_ssi">Oehlenschläger</field>
+    <field name="given_name_ssi">Adam</field>
     <field name="id">fcbacdf0117adddae300bfd1e77ed87f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -740,6 +832,7 @@
     <field name="work_title_tesim">Olden-Jørgensen, Sebastian</field>
     <field name="author_name">Olden-Jørgensen, Sebastian</field>
     <field name="family_name_ssi">Olden-Jørgensen</field>
+    <field name="given_name_ssi">Sebastian</field>
     <field name="id">ab030b9750d9ca5d539a90e0a9e21a12</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -748,6 +841,7 @@
     <field name="work_title_tesim">Palladius, Peder</field>
     <field name="author_name">Palladius, Peder</field>
     <field name="family_name_ssi">Palladius</field>
+    <field name="given_name_ssi">Peder</field>
     <field name="id">416c64eb2cfafe32d26e962e33931c10</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -756,6 +850,7 @@
     <field name="work_title_tesim">Paludan-Müller, Fr.</field>
     <field name="author_name">Paludan-Müller, Fr.</field>
     <field name="family_name_ssi">Paludan-Müller</field>
+    <field name="given_name_ssi">Fr.</field>
     <field name="id">c8bc7154e7e317d60db11aab8dec4c43</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -764,6 +859,7 @@
     <field name="work_title_tesim">Pedersen, Vibeke A.</field>
     <field name="author_name">Pedersen, Vibeke A.</field>
     <field name="family_name_ssi">Pedersen</field>
+    <field name="given_name_ssi">Vibeke A.</field>
     <field name="id">7f9512d12e82dfc554d929ee3424a58c</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -772,6 +868,7 @@
     <field name="work_title_tesim">Ploug, Carl</field>
     <field name="author_name">Ploug, Carl</field>
     <field name="family_name_ssi">Ploug</field>
+    <field name="given_name_ssi">Carl</field>
     <field name="id">1f9775df5207c0f18bc602818cd33b72</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -780,6 +877,7 @@
     <field name="work_title_tesim">Rasmussen, Sten</field>
     <field name="author_name">Rasmussen, Sten</field>
     <field name="family_name_ssi">Rasmussen</field>
+    <field name="given_name_ssi">Sten</field>
     <field name="id">5e7c56679a252de37c288579a7c6b46b</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -788,6 +886,7 @@
     <field name="work_title_tesim">Ravnkilde, Adda</field>
     <field name="author_name">Ravnkilde, Adda</field>
     <field name="family_name_ssi">Ravnkilde</field>
+    <field name="given_name_ssi">Adda</field>
     <field name="id">5dbf6c12164238c1e6ab106c2e0ee6bc</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -796,6 +895,7 @@
     <field name="work_title_tesim">Richardt, Chr.</field>
     <field name="author_name">Richardt, Chr.</field>
     <field name="family_name_ssi">Richardt</field>
+    <field name="given_name_ssi">Chr.</field>
     <field name="id">4b6a0b1cbebfdf9a08947335cac3f062</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -804,6 +904,7 @@
     <field name="work_title_tesim">Ries, Paul</field>
     <field name="author_name">Ries, Paul</field>
     <field name="family_name_ssi">Ries</field>
+    <field name="given_name_ssi">Paul</field>
     <field name="id">d240be62b28dcb1852fd7976790819c8</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -812,6 +913,7 @@
     <field name="work_title_tesim">Rode, Helge</field>
     <field name="author_name">Rode, Helge</field>
     <field name="family_name_ssi">Rode</field>
+    <field name="given_name_ssi">Helge</field>
     <field name="id">8ff7411760b27d1f61086507ebe6c41c</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -820,6 +922,7 @@
     <field name="work_title_tesim">Rømhild, Lars Peter</field>
     <field name="author_name">Rømhild, Lars Peter</field>
     <field name="family_name_ssi">Rømhild</field>
+    <field name="given_name_ssi">Lars Peter</field>
     <field name="id">a76c9ebeca16ffc6c8c5b017bcf33850</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -828,6 +931,7 @@
     <field name="work_title_tesim">Rossel, Sven H.</field>
     <field name="author_name">Rossel, Sven H.</field>
     <field name="family_name_ssi">Rossel</field>
+    <field name="given_name_ssi">Sven H.</field>
     <field name="id">14f40e6c5b998a71587221a0ac826ef6</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -836,6 +940,7 @@
     <field name="work_title_tesim">, Saxo</field>
     <field name="author_name">, Saxo</field>
     <field name="family_name_ssi"/>
+    <field name="given_name_ssi">Saxo</field>
     <field name="id">3c7d541feee1c86e80dfc15c23de1307</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -844,6 +949,7 @@
     <field name="work_title_tesim">Schack, Hans Egede</field>
     <field name="author_name">Schack, Hans Egede</field>
     <field name="family_name_ssi">Schack</field>
+    <field name="given_name_ssi">Hans Egede</field>
     <field name="id">dab05da4c0516a9772f1f5120a4b53a9</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -852,6 +958,7 @@
     <field name="work_title_tesim">Schandorph, Sophus</field>
     <field name="author_name">Schandorph, Sophus</field>
     <field name="family_name_ssi">Schandorph</field>
+    <field name="given_name_ssi">Sophus</field>
     <field name="id">8f217eb8a1087598a0c358f74b29e2e8</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -860,6 +967,7 @@
     <field name="work_title_tesim">Schovsbo, Henrik</field>
     <field name="author_name">Schovsbo, Henrik</field>
     <field name="family_name_ssi">Schovsbo</field>
+    <field name="given_name_ssi">Henrik</field>
     <field name="id">3d25b02ad488df570133102be8e865b1</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -868,6 +976,7 @@
     <field name="work_title_tesim">Schovsbo, Henrik</field>
     <field name="author_name">Schovsbo, Henrik</field>
     <field name="family_name_ssi">Schovsbo</field>
+    <field name="given_name_ssi">Henrik</field>
     <field name="id">640be377661e98408e83523ebf7af065</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -876,6 +985,7 @@
     <field name="work_title_tesim">Sibbern, F. C.</field>
     <field name="author_name">Sibbern, F. C.</field>
     <field name="family_name_ssi">Sibbern</field>
+    <field name="given_name_ssi">F. C.</field>
     <field name="id">50426258f801a87900c1e942eb41e3a8</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -884,6 +994,7 @@
     <field name="work_title_tesim">Skjoldborg, Johan</field>
     <field name="author_name">Skjoldborg, Johan</field>
     <field name="family_name_ssi">Skjoldborg</field>
+    <field name="given_name_ssi">Johan</field>
     <field name="id">33dc0e651d963fa160479023435cde3e</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -892,6 +1003,7 @@
     <field name="work_title_tesim">Skram, Erik</field>
     <field name="author_name">Skram, Erik</field>
     <field name="family_name_ssi">Skram</field>
+    <field name="given_name_ssi">Erik</field>
     <field name="id">3cf9d8c6242ccaf44872a2a8e2e1344d</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -900,6 +1012,7 @@
     <field name="work_title_tesim">Sørensen, Peer E.</field>
     <field name="author_name">Sørensen, Peer E.</field>
     <field name="family_name_ssi">Sørensen</field>
+    <field name="given_name_ssi">Peer E.</field>
     <field name="id">7998bac86aa0cd00d5ca92169b203106</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -908,6 +1021,7 @@
     <field name="work_title_tesim">Staffeldt, A. W. Schack von</field>
     <field name="author_name">Staffeldt, A. W. Schack von</field>
     <field name="family_name_ssi">Staffeldt</field>
+    <field name="given_name_ssi">A. W. Schack von</field>
     <field name="id">e1dd8b8606192350dff0ada1fabda2f7</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -916,6 +1030,7 @@
     <field name="work_title_tesim">Steffens, Henrich</field>
     <field name="author_name">Steffens, Henrich</field>
     <field name="family_name_ssi">Steffens</field>
+    <field name="given_name_ssi">Henrich</field>
     <field name="id">bac8b04e54e14cf0ecdedb88f7cd095c</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -924,6 +1039,7 @@
     <field name="work_title_tesim">Stengaard, Niels</field>
     <field name="author_name">Stengaard, Niels</field>
     <field name="family_name_ssi">Stengaard</field>
+    <field name="given_name_ssi">Niels</field>
     <field name="id">53d1889aa7513307809aed92811af375</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -932,6 +1048,7 @@
     <field name="work_title_tesim">Sthen, Hans Christensen</field>
     <field name="author_name">Sthen, Hans Christensen</field>
     <field name="family_name_ssi">Sthen</field>
+    <field name="given_name_ssi">Hans Christensen</field>
     <field name="id">529f0d67d348484d1907c683a865f094</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -940,6 +1057,7 @@
     <field name="work_title_tesim">Stub, Ambrosius</field>
     <field name="author_name">Stub, Ambrosius</field>
     <field name="family_name_ssi">Stub</field>
+    <field name="given_name_ssi">Ambrosius</field>
     <field name="id">5346d4e38b706218997cafaa0c35376f</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -948,6 +1066,7 @@
     <field name="work_title_tesim">Stuckenberg, Viggo</field>
     <field name="author_name">Stuckenberg, Viggo</field>
     <field name="family_name_ssi">Stuckenberg</field>
+    <field name="given_name_ssi">Viggo</field>
     <field name="id">edd25fa1f04ff3fb4165d3c2d3093634</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -956,6 +1075,7 @@
     <field name="work_title_tesim">Tandgaard, Iben</field>
     <field name="author_name">Tandgaard, Iben</field>
     <field name="family_name_ssi">Tandgaard</field>
+    <field name="given_name_ssi">Iben</field>
     <field name="id">93285044871f506fa38d12bd0e36c5fb</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -964,6 +1084,7 @@
     <field name="work_title_tesim">Thomissøn, Hans</field>
     <field name="author_name">Thomissøn, Hans</field>
     <field name="family_name_ssi">Thomissøn</field>
+    <field name="given_name_ssi">Hans</field>
     <field name="id">cf38df5e67b3de0fb2767aa5986e51e9</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -972,6 +1093,7 @@
     <field name="work_title_tesim">Tjalve, Morten</field>
     <field name="author_name">Tjalve, Morten</field>
     <field name="family_name_ssi">Tjalve</field>
+    <field name="given_name_ssi">Morten</field>
     <field name="id">09919fa97e2b19a6af7c8d18e8262d23</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -980,6 +1102,7 @@
     <field name="work_title_tesim">Topsøe, Vilhelm</field>
     <field name="author_name">Topsøe, Vilhelm</field>
     <field name="family_name_ssi">Topsøe</field>
+    <field name="given_name_ssi">Vilhelm</field>
     <field name="id">a65adae7bd57d59df588df025b795eda</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -988,6 +1111,7 @@
     <field name="work_title_tesim">Ulfeldt, Leonora Christina</field>
     <field name="author_name">Ulfeldt, Leonora Christina</field>
     <field name="family_name_ssi">Ulfeldt</field>
+    <field name="given_name_ssi">Leonora Christina</field>
     <field name="id">9ab3327ec76ea385632fefb9ca7ee004</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -996,6 +1120,7 @@
     <field name="work_title_tesim">Wessel, Johan Herman</field>
     <field name="author_name">Wessel, Johan Herman</field>
     <field name="family_name_ssi">Wessel</field>
+    <field name="given_name_ssi">Johan Herman</field>
     <field name="id">fa5797413da22ab9cbe98c41df239071</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -1004,6 +1129,7 @@
     <field name="work_title_tesim">Wied, Gustav</field>
     <field name="author_name">Wied, Gustav</field>
     <field name="family_name_ssi">Wied</field>
+    <field name="given_name_ssi">Gustav</field>
     <field name="id">e3399843cc1bc923ce7df8ab09c056a8</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -1012,6 +1138,7 @@
     <field name="work_title_tesim">Winge, Mette</field>
     <field name="author_name">Winge, Mette</field>
     <field name="family_name_ssi">Winge</field>
+    <field name="given_name_ssi">Mette</field>
     <field name="id">1c55298638354f6a4524a76b64eef2ad</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -1020,6 +1147,7 @@
     <field name="work_title_tesim">Winther, Christian</field>
     <field name="author_name">Winther, Christian</field>
     <field name="family_name_ssi">Winther</field>
+    <field name="given_name_ssi">Christian</field>
     <field name="id">5e695befe244817d49c3c970234ef3f6</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -1028,6 +1156,7 @@
     <field name="work_title_tesim">Worm, Jacob</field>
     <field name="author_name">Worm, Jacob</field>
     <field name="family_name_ssi">Worm</field>
+    <field name="given_name_ssi">Jacob</field>
     <field name="id">27b1ae3ae64efb403b3e0736286a821a</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -1036,6 +1165,7 @@
     <field name="work_title_tesim">Worsøe-Schmidt, Lisbeth</field>
     <field name="author_name">Worsøe-Schmidt, Lisbeth</field>
     <field name="family_name_ssi">Worsøe-Schmidt</field>
+    <field name="given_name_ssi">Lisbeth</field>
     <field name="id">41698e78b39bb4802199648739414a85</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
@@ -1044,6 +1174,7 @@
     <field name="work_title_tesim">Zeeberg, Peter</field>
     <field name="author_name">Zeeberg, Peter</field>
     <field name="family_name_ssi">Zeeberg</field>
+    <field name="given_name_ssi">Peter</field>
     <field name="id">5e95a13f96a14d9c06f93b781cfdbdb9</field>
     <field name="cat_ssi">person</field>
     <field name="type_ssi">trunk</field>
