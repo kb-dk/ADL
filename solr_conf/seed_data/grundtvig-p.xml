@@ -2,7 +2,7 @@
 <add>
   <doc>
     <field name="type_ssi">trunk</field>
-    <field name="cat_ssi">work</field>
+    <field name="cat_ssi">portrait</field>
     <field name="work_title_tesim">Nikolai Frederik Severin Grundtvig</field>
     <field name="id">grundtvig-p</field>
     <field name="volume_id_ssi">grundtvig-p</field>

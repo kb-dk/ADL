@@ -2,7 +2,7 @@
 <add>
   <doc>
     <field name="type_ssi">trunk</field>
-    <field name="cat_ssi">work</field>
+    <field name="cat_ssi">portrait</field>
     <field name="work_title_tesim">Ludvig Holberg</field>
     <field name="id">holberg--p-val</field>
     <field name="volume_id_ssi">holberg--p-val</field>

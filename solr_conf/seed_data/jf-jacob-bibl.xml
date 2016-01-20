@@ -2,7 +2,7 @@
 <add>
   <doc>
     <field name="type_ssi">trunk</field>
-    <field name="cat_ssi">work</field>
+    <field name="cat_ssi">portrait</field>
     <field name="work_title_tesim"> Jørgen-Frantz Jacobsen</field>
     <field name="id">jf-jacob-bibl</field>
     <field name="volume_id_ssi">jf-jacob-bibl</field>
