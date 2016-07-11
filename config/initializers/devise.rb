@@ -269,8 +269,8 @@ Devise.setup do |config|
   # URL via the destination param. Set either of these urls and specify either nil,
   # 'destination' or 'follow' as the logout_url_param. If the urls are blank but
   # logout_url_param is set, a default will be detected for the service.
-  config.cas_destination_url = 'http://www.adl.dk'
-  config.cas_follow_url = 'http://www.adl.dk'
+  config.cas_destination_url = 'http://adl2.kb.dk'
+  config.cas_follow_url = 'http://adl2.kb.dk'
   config.cas_logout_url_param = 'destination'
 
   # You can specify the name of the destination argument with the following option.
