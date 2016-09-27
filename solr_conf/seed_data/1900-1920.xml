@@ -9,7 +9,8 @@
     <field name="volume_id_ssi">1900-1920</field>
     <field name="url_ssi">http://adl.kb.dk/1900-1920#</field>
     <field name="volume_title_tesim">Det Folkelige Gennembrud (1900-1920)</field>
-    <field name="author_name">Lehrmann, Ulrik</field>
+    <field name="author_ssim">Lehrmann, Ulrik</field>
+    <field name="author_tesim">Ulrik Lehrmann</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>

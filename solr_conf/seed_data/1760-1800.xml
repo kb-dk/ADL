@@ -8,9 +8,8 @@
     <field name="volume_id_ssi">1760-1800</field>
     <field name="url_ssi">http://adl.kb.dk/1760-1800#</field>
     <field name="volume_title_tesim">Senklassicisme (1760-1800)</field>
-    <field name="author_name">Blicher, Henrik</field>
+    <field name="author_ssim">Blicher, Henrik</field>
+    <field name="author_tesim">Henrik Blicher</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
-    <field name="editor_ssi"/>
-    <field name="editor_id_ssi"/>
   </doc>
 </add>
