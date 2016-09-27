@@ -227,8 +227,8 @@ class CatalogController < ApplicationController
     config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
       # add the fulltext term frequence to the result docs
       field.solr_parameters = {
-          :fq => 'type_ssi:trunk',
-          :fl => '* AND termfreq(text_tesim, $q)'
+          :fq => ['type_ssi:trunk', 'application_ssi:ADL'],
+      #    :fl => '* AND termfreq(text_tesim, $q)'
       }
     end
     
