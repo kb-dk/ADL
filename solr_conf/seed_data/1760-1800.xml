@@ -2,7 +2,7 @@
 <add>
   <doc>
     <field name="cat_ssi">period</field>
-    <field name="application_ssi">ADL</field>
+    <field name="application_ssim">ADL</field>
     <field name="work_title_tesim">Senklassicisme (1760-1800)</field>
     <field name="id">1760-1800</field>
     <field name="volume_id_ssi">1760-1800</field>
