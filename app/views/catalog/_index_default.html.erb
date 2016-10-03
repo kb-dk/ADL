@@ -1,7 +1,7 @@
 <%# default partial to display solr document fields in catalog index view -%>
 <% document_empty  = !FileServer.doc_has_text(document['id']) %>
 <% facsimile_empty  = !FileServer.has_facsimile(document.id) %>
-
+<div class="x">
 <dl class="document-metadata dl-horizontal dl-invert">
   <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
   <% result_id = "result-"+document['id'].gsub("#", "") %>
@@ -54,7 +54,7 @@
   <% end %>
 
 </dl>
-
+</div>
 <%= javascript_tag do %>
     $(document).ready(
             function () {
