@@ -1,0 +1,59 @@
+body {
+  color: #000;
+  font-family: 'Noto Serif', serif;
+  font-weight: 400;
+  background-color: #fff;
+  background-image: url(asset-path('lion-big-brown-repeatable.png'));
+  background-position: center 350px;
+  background-repeat: repeat-x;
+  -webkit-font-smoothing: antialiased;
+}
+body{
+  //color: #458402;
+}
+.navbar-fixed-top { // Correcting top bar
+  background-color:#FFFFFF;
+  height: 88px;
+  .container{
+    padding-top: 19px;
+    padding-bottom: 19px;
+    height: 64px;
+  }
+
+}
+#body-content{ // correcting body area size
+  min-height: 650px;
+}
+a { // Not underline anything and no background
+  background: transparent;
+  text-decoration: none;
+  &:hover{
+    color: $navbar-default-link-hover-color;
+  }
+}
+
+#search{
+    background: linear-gradient(to bottom, rgba(88,135,38,1) 0%,rgba(51,98,1,1) 100%);
+}
+
+.navbar-inverse{
+  .navbar-nav  > li > a, .navbar-brand {
+    color: $navbar-default-link-color;
+
+  }
+}
+.navbar-fixed-top  a{
+  &:hover{
+    color: $navbar-default-link-hover-color !important;
+  }
+}
+.badge{
+  background-color: #458402;
+}
+.navbar .navbar-nav {
+  text-transform: none;
+}
+.navbar-brand{
+  font-weight: 500;
+  font-size: 22px;
+}
