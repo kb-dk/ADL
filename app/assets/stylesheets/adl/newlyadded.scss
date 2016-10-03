@@ -6,11 +6,10 @@ body {
   background-image: url(asset-path('lion-big-brown-repeatable.png'));
   background-position: center 350px;
   background-repeat: repeat-x;
+  background-attachment: fixed;
   -webkit-font-smoothing: antialiased;
 }
-body{
-  //color: #458402;
-}
+
 .navbar-fixed-top { // Correcting top bar
   background-color:#FFFFFF;
   height: 88px;
@@ -56,4 +55,17 @@ a { // Not underline anything and no background
 .navbar-brand{
   font-weight: 500;
   font-size: 22px;
+}
+
+.document{
+  border:thin solid #f2eee2 ;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 10px;
+  background-color:rgba(242, 238, 226, .5) ;
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
 }
