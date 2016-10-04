@@ -9,7 +9,7 @@ module ApplicationHelper
   def author_link args
     repository = blacklight_config.repository_class.new(blacklight_config)
     ids = args[:value]
-    ids.map!{|id| link_to repository.find(id).documents.first['work_title_tesim'].join, solr_document_path(id)}
+    ids.map!{|id| link_to get_author_name(repository,id), solr_document_path(id)}
     ids.to_sentence(:last_word_connector => ' og ')
   end
 
@@ -78,4 +78,18 @@ module ApplicationHelper
     end
   end
 
+  private
+
+  def get_author_name repository, id
+    begin
+      solr_docs = repository.find(id).documents
+      if solr_docs.size > 0
+        solr_docs.first['work_title_tesim'].join
+      else
+        id
+      end
+    rescue Exception => e
+      id
+    end
+  end
 end
