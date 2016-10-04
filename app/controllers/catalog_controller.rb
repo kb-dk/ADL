@@ -88,7 +88,7 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
     #config.add_index_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    config.add_index_field 'author_name_tesim', :label => 'Forfatter', short_form: true
+    config.add_index_field 'author_id_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
     #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
     config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
     config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
