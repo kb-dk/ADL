@@ -1,21 +1,21 @@
 
 <% unless has_search_parameters? %>
-  <%# if there are no input/search related params, display the "home" partial -%>
+    <%# if there are no input/search related params, display the "home" partial -%>
     <%= render 'home' %>
 <% else %>
 
-  <% if has_search_parameters? %>
-      <div class="container">
-         <div class="row">
-        <div id="sidebar" class="<%= sidebar_classes %>">
-          <%= render 'search_sidebar' %>
-        </div>
+    <% if has_search_parameters? %>
+        <div id="content" >
+          <div class="container">
+            <div class="row">
+          <%= render 'search_results' %>
 
-  <% end %>
-        <div id="content" class="<%= main_content_classes %>">
-            <%= render 'search_results' %>
+              <div id="sidebar" class="<%= sidebar_classes %>">
+                <%= render 'search_sidebar' %>
+              </div>
+            </div>
+          </div>
         </div>
-    </div>
-    </div>
+    <% end %>
 <% end %>
 

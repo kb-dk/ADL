@@ -1,5 +1,6 @@
 .navbar{
   font-family: $font-family-nav;
+  font-weight: 400;
   .navbar-nav{
     @extend .text-uppercase;
   }

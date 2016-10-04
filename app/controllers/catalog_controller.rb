@@ -3,8 +3,6 @@ class CatalogController < ApplicationController
 
   include Blacklight::Catalog
 
-  self.search_params_logic += [:add_work_id]
-
   configure_blacklight do |config|
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
     config.default_solr_params = {
@@ -89,7 +87,8 @@ class CatalogController < ApplicationController
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
+    #config.add_index_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
+    config.add_index_field 'author_name_ssim', :label => 'Forfatter'
     #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
     config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
     config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
@@ -129,7 +128,7 @@ class CatalogController < ApplicationController
 
 
     # Work show fields
-    config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
+    config.add_show_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
     #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
     config.add_show_field 'publisher_ssi', :label => 'Udgiver'
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
@@ -139,7 +138,8 @@ class CatalogController < ApplicationController
     config.add_show_field 'editor_ssi', :label => 'Redaktør'
     #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
-    config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
+    #TODO: FIX
+    #config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
 
     # This overwrites the default blacklight sms_mappings so that
     # the sms tool is not shown.
@@ -229,8 +229,8 @@ class CatalogController < ApplicationController
     config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
       # add the fulltext term frequence to the result docs
       field.solr_parameters = {
-          :fq => 'type_ssi:trunk',
-          :fl => '* AND termfreq(text_tesim, $q)'
+          :fq => ['cat_ssi:work', 'application_ssim:ADL'],
+      #    :fl => '* AND termfreq(text_tesim, $q)'
       }
     end
     

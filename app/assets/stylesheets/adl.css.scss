@@ -13,54 +13,7 @@
 
 // Core variables and mixins
 //@import "bootstrap/variables";  Use ADL var file
-@import "bootstrap/mixins";
-
-// Reset and dependencies
-@import "bootstrap/normalize";
-@import "bootstrap/print";
-@import "bootstrap/glyphicons";
-
-// Core CSS
-@import "bootstrap/scaffolding";
-@import "bootstrap/type";
-@import "bootstrap/code";
-@import "bootstrap/grid";
-@import "bootstrap/tables";
-@import "bootstrap/forms";
-@import "bootstrap/buttons";
-
-// Components
-@import "bootstrap/component-animations";
-@import "bootstrap/dropdowns";
-@import "bootstrap/button-groups";
-@import "bootstrap/input-groups";
-@import "bootstrap/navs";
-@import "bootstrap/navbar";
-@import "bootstrap/breadcrumbs";
-@import "bootstrap/pagination";
-@import "bootstrap/pager";
-@import "bootstrap/labels";
-@import "bootstrap/badges";
-@import "bootstrap/jumbotron";
-@import "bootstrap/thumbnails";
-@import "bootstrap/alerts";
-@import "bootstrap/progress-bars";
-@import "bootstrap/media";
-@import "bootstrap/list-group";
-@import "bootstrap/panels";
-@import "bootstrap/responsive-embed";
-@import "bootstrap/wells";
-@import "bootstrap/close";
-
-// Components w/ JavaScript
-@import "bootstrap/modals";
-@import "bootstrap/tooltip";
-@import "bootstrap/popovers";
-@import "bootstrap/carousel";
-
-// Utility classes
-@import "bootstrap/utilities";
-@import "bootstrap/responsive-utilities";
+@import "bootstrap";
 
 
 /* BLACKLIGHT GEM
@@ -72,11 +25,9 @@
    which over-rides things in this file. Or of course you can choose
    not to use the blacklight CSS file at all in your local app. */
 
-@import 'blacklight/blacklight_defaults';
+@import "blacklight/blacklight_defaults";
 
 @import "blacklight/layout";
-//@import "blacklight/header";
-@import "blacklight/catalog";
 @import "blacklight/group";
 @import "blacklight/bookmark";
 @import "blacklight/facets";
@@ -94,9 +45,10 @@
 @import "adl/workTools";
 @import "adl/work";
 @import "adl/footer";
+@import "adl/newlyadded";
 
 body{
-  margin-top: 49px;
+  margin-top: 88px;
 }
 
 
