@@ -1,5 +1,5 @@
-<div class="homeSearch" >
-
+<div class="homeSearch box-gradient-blue fixed-top-second" >
+ <div class="search-bg">
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
@@ -9,23 +9,9 @@
 
 
           <%= form_tag search_action_url, :method => :get, :class => '' do %>
-              <%= render_hash_as_hidden_fields(params_for_search().except(:q, :search_field, :qt, :page, :utf8)) %>
+              <%= render_hash_as_hidden_fields(search_state.params_for_search.except(:q, :search_field, :qt, :page, :utf8)) %>
+              <%= hidden_field_tag :search_field, "Alt" %>
               <div class="input-group input-group-lg">
-                <% unless search_fields.empty? %>
-                    <label for="search_field" class="sr-only">
-                      <%= t('blacklight.search.form.search_field.label') %>
-                    </label>
-
-                     <span class="sr-only">
-                       <%= t('blacklight.search.form.search_field.post_label') %>
-                     </span>
-                <% end %>
-                <span class="input-group-btn hidden-xs">
-                            <%= select_tag(:search_field, options_for_select(search_fields, h(params[:search_field])), :title => t('blacklight.search.form.search_field.title'), :class=>"input-lg") %>
-
-                     </span>
-
-
                 <label for="q" class="sr-only"><%= t('blacklight.search.form.search.label') %></label>
                 <%= text_field_tag :q, params[:q], :placeholder => t('blacklight.search.form.search.placeholder'), :class => "search_q q form-control", :id => "q", :autofocus => should_autofocus_on_search_box? %>
 
@@ -51,6 +37,7 @@
 
 
   </div>
+ </div>
 </div>
 
 
