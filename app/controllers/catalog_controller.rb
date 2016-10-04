@@ -191,8 +191,10 @@ class CatalogController < ApplicationController
       if File.exist? path.to_s and ((type == 'text' and solr_timestamp < file_mtime) or type == 'image')
           send_file path.to_s, type: 'application/pdf', disposition: :inline, filename: name+".pdf"
       else
-        render pdf: name, footer: { right: '[page] af [topage] sider' },
-               save_to_file: path
+        render pdf: name,
+               footer: { right: '[page] af [topage] sider' },
+               save_to_file: path,
+               header:  { content: render_to_string( { template: 'shared/pdf_header'} ) }
       end
     end
 
