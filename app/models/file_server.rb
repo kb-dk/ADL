@@ -1,7 +1,12 @@
 # Class to centralise inteface with FileServer
 class FileServer
   def self.render_snippet(id,opts={})
-    a =id.split("-")
+    # only try to split id when we are requesting a text
+    if !opts.has_key? :c
+      a =id.split("-")
+    else
+      a = [id]
+    end
     uri = "#{Rails.application.config_for(:adl)["snippet_server_url"]}?doc=#{a[0]}.xml"
     uri += "&id=#{a[1]}" unless a.size < 2
     uri += "&op=#{opts[:op]}" if opts[:op].present?
