@@ -29,8 +29,6 @@ Rails.application.routes.draw do
 
   # OLD ADL routes
   get '/catalog/:id/facsimile' => 'catalog#facsimile', as: 'facsimile_catalog'
-  get 'people/:id' => 'people#show'
-  get 'people' => 'people#index'
   get 'oai' => 'catalog#oai'
   get '/catalog/:id/feedback' => 'catalog#feedback', as: 'feedback_catalog'
 end
