@@ -5,6 +5,8 @@ Rails.application.routes.draw do
 
   mount Blacklight::Engine => '/'
 
+  devise_for :users
+
   concern :searchable, Blacklight::Routes::Searchable.new
   concern :exportable, Blacklight::Routes::Exportable.new
 
