@@ -31,4 +31,5 @@ Rails.application.routes.draw do
   get '/catalog/:id/facsimile' => 'catalog#facsimile', as: 'facsimile_catalog'
   get 'oai' => 'catalog#oai'
   get '/catalog/:id/feedback' => 'catalog#feedback', as: 'feedback_catalog'
+  get '/authors' => 'catalog#authors'
 end
