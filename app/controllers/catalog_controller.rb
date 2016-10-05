@@ -8,7 +8,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => 'type_ssi:trunk',
+      :fq => ['type_ssi:trunk','application_ssim:ADL'],
       # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3',
@@ -179,6 +179,15 @@ class CatalogController < ApplicationController
       end
     end
 
+
+    def authors
+      (@response, @document_list) = search_results(params) do |builder|
+        builder.set_to_all_authors_search
+        builder
+      end
+      render "index"
+    end
+
     # common method for rendering pdfs based on wicked_pdf
     # cache files in the public folder based on their id
     # perhaps using the Solr document modified field
@@ -305,5 +314,9 @@ class CatalogController < ApplicationController
     else
       mail.deliver
     end
+  end
+
+  def has_search_parameters?
+    super || action_name == 'authors'
   end
 end 
