@@ -7,9 +7,10 @@ module ApplicationHelper
   end
 
   def author_link args
-    id = args[:document]['author_id_ssi']
-    return unless id.present?
-    link_to args[:value], controller: "people", action: "show", id: id
+    repository = blacklight_config.repository_class.new(blacklight_config)
+    ids = args[:value]
+    ids.map!{|id| link_to get_author_name(repository,id), solr_document_path(id)}
+    ids.to_sentence(:last_word_connector => ' og ')
   end
 
   def published_fields args
@@ -77,4 +78,18 @@ module ApplicationHelper
     end
   end
 
+  private
+
+  def get_author_name repository, id
+    begin
+      solr_docs = repository.find(id).documents
+      if solr_docs.size > 0
+        solr_docs.first['work_title_tesim'].join
+      else
+        id
+      end
+    rescue Exception => e
+      id
+    end
+  end
 end

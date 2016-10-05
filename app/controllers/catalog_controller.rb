@@ -8,7 +8,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => 'type_ssi:trunk',
+      :fq => ['type_ssi:trunk','application_ssim:ADL'],
       # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3',
@@ -88,7 +88,7 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
     #config.add_index_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    config.add_index_field 'author_name_tesim', :label => 'Forfatter', short_form: true
+    config.add_index_field 'author_id_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
     #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
     config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
     config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
@@ -128,7 +128,7 @@ class CatalogController < ApplicationController
 
 
     # Work show fields
-    config.add_show_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
+    config.add_show_field 'author_id_ssim', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
     #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
     config.add_show_field 'publisher_ssi', :label => 'Udgiver'
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
@@ -177,6 +177,15 @@ class CatalogController < ApplicationController
         format.html { setup_next_and_previous_documents }
         format.pdf { send_pdf(@document, 'image') }
       end
+    end
+
+
+    def authors
+      (@response, @document_list) = search_results(params) do |builder|
+        builder.set_to_all_authors_search
+        builder
+      end
+      render "index"
     end
 
     # common method for rendering pdfs based on wicked_pdf
@@ -305,5 +314,9 @@ class CatalogController < ApplicationController
     else
       mail.deliver
     end
+  end
+
+  def has_search_parameters?
+    super || action_name == 'authors'
   end
 end 
