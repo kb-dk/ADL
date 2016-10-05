@@ -4,8 +4,14 @@
     <%= render 'home' %>
 <% else %>
 
-    <% if has_search_parameters? %>
-        <div id="content" >
+<% if has_search_parameters? %>
+
+
+        <%= render 'catalog/search_form' %>
+
+
+
+        <div id="content" class="content-not-main">
           <div class="container">
             <div class="row">
           <%= render 'search_results' %>

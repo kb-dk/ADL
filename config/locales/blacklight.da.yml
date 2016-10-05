@@ -191,7 +191,7 @@ da:
         q: 'Søg...'
         submit: 'Søg'
         search:
-          placeholder: 'Søg'
+          placeholder: 'Indtast bogtitl, forfatternavn eller periode'
           all_filters: 'Alt'
           title: 'Titel'
           author: 'Forfatter'

@@ -6,11 +6,10 @@ body {
   background-image: url(asset-path('lion-big-brown-repeatable.png'));
   background-position: center 350px;
   background-repeat: repeat-x;
+  background-attachment: fixed;
   -webkit-font-smoothing: antialiased;
 }
-body{
-  //color: #458402;
-}
+
 .navbar-fixed-top { // Correcting top bar
   background-color:#FFFFFF;
   height: 88px;
@@ -37,6 +36,7 @@ a { // Not underline anything and no background
 }
 
 .navbar-inverse{
+  border: none !important;
   .navbar-nav  > li > a, .navbar-brand {
     color: $navbar-default-link-color;
 
@@ -56,4 +56,47 @@ a { // Not underline anything and no background
 .navbar-brand{
   font-weight: 500;
   font-size: 22px;
+}
+
+.document{
+  border:thin solid #f2eee2 ;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 10px;
+  background-color:rgba(242, 238, 226, .5) ;
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+.box-gradient-blue{
+  //padding:20px;
+  background: linear-gradient(to bottom, rgba(36, 82, 112, 1) 0%, rgba(24, 55, 75, 1) 100%);
+}
+
+.search-bg{
+  background: url(asset-path('lion-big-white.png')) no-repeat;
+  background-position: center;
+  height: inherit;
+}
+.fixed-top-second{
+  width: 100%;
+  position: fixed;
+  z-index: 1031;
+}
+.search-not-main{
+  height: 94px;
+
+}
+.content-not-main{
+  margin-top: 94px;
+}
+
+.homeSearch{
+  height: 323px;
+    form {
+      padding-top: 24px;
+    }
 }
