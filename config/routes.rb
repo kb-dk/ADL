@@ -4,6 +4,8 @@ Rails.application.routes.draw do
   # root to: "catalog#index"
 
   mount Blacklight::Engine => '/'
+  mount BlacklightAdvancedSearch::Engine => '/'
+
 
   devise_for :users
 
@@ -26,6 +28,7 @@ Rails.application.routes.draw do
     end
   end
 
+  get 'advanced' => 'advanced#index', as: 'advanced_search'
 
   # OLD ADL routes
   get '/catalog/:id/facsimile' => 'catalog#facsimile', as: 'facsimile_catalog'

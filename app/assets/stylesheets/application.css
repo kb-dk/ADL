@@ -12,4 +12,7 @@
  *
 
  *= require adl
- */
+ 
+ *= require 'blacklight_advanced_search'
+
+*/

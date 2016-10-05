@@ -11,6 +11,9 @@
 // about supported directives.
 //
 //= require jquery
+//= require 'blacklight_advanced_search'
+
+
 //= require jquery_ujs
 //= require jquery.unveil.min
 //= require jquery.visible.min
