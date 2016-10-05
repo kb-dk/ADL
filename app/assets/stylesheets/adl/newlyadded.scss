@@ -88,9 +88,11 @@ a { // Not underline anything and no background
 }
 .search-not-main{
   height: 94px;
+  top:88px;
+  left: 0px;
 
 }
-.content-not-main{
+#content{
   margin-top: 94px;
 }
 
@@ -100,3 +102,30 @@ a { // Not underline anything and no background
       padding-top: 24px;
     }
 }
+.bookmark_toggle {
+  .btn {
+    display: none;
+  }
+  .bookmark_remove_label{
+    color:rgba(51,98,1,1) !important;
+    cursor: pointer;
+  }
+  .bookmark_add_label{
+    color: rgba(88,135,38,1) !important;
+    cursor: pointer;
+  }
+}
+
+.content-header{
+  padding: 1em;
+  margin: 1em;
+}
+
+.page_links{
+  @extend .pull-left;
+}
+.search_q {
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+}
+
