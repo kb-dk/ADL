@@ -194,7 +194,7 @@ class CatalogController < ApplicationController
     def send_pdf(document, type)
       name = document['work_title_tesim'].first.strip rescue document.id
       path = Rails.root.join('public', 'pdfs', "#{document.id.gsub('/', '_')}_#{type}.pdf")
-      solr_timestamp = Time.parse(document.to_hash['timestamp'])
+      solr_timestamp = Time.parse(document['timestamp'])
       file_mtime = File.mtime(path) if File.exist? path.to_s
       # display the cached pdf if solr doc timestamp is older than the file's modified date
       if File.exist? path.to_s and ((type == 'text' and solr_timestamp < file_mtime) or type == 'image')
