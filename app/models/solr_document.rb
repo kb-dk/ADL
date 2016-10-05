@@ -6,7 +6,7 @@ class SolrDocument
 
   # overwrite the default behaviour to enable different schema definitions
   def itemtype
-    type = self.to_hash['cat_ssi'] || ''
+    type = self['cat_ssi'] || ''
     case type
       when 'work'
         'http://schema.org/CreativeWork'
