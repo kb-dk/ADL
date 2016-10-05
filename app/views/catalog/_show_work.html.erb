@@ -1,7 +1,7 @@
 <%# default partial to display solr document fields in catalog show view -%>
 
-<% document_empty  = @document_empty || !FileServer.doc_has_text(document.id) %>
-<% facsimile_empty  = !FileServer.has_facsimile(document.id) %>
+<% has_text  = document['has_text_ssi'].present? && document['has_text_ssi'] == 'yes' %>
+<% has_facs  = document['has_facs_ssi'].present? && document['has_facs_ssi'] == 'yes' %>
 
 
  <div class="container nav-tab-instance-fixContainer">
@@ -9,15 +9,15 @@
     <div class="nav-tab-instance">
       <ul class="nav nav-tabs">
         <li role="presentation" class="active">
-          <% unless document_empty %>
-              <%= link_to(solr_document_path(document), disabled: document_empty) do %>
+          <% if has_text %>
+              <%= link_to(solr_document_path(document), disabled: !has_text) do %>
                   <%= bootstrap_glyphicon 'align-left' %>
                   Tekst
               <% end %>
           <% end %>
         </li>
         <li role="presentation">
-          <% unless facsimile_empty %>
+          <% if has_facs %>
               <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
               <%= link_to(facsimile_catalog_path(document.id) + "/", data: { no_turbolink: true }) do %>
                   <%= bootstrap_glyphicon 'book' %>
@@ -32,10 +32,10 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <% if !document_empty %>
+      <% if has_text %>
           <div class="text-content workContent">
             <div class="text">
-              <% text ||= FileServer.render_snippet(document.id) %>
+              <% text = FileServer.render_snippet(document.id) %>
               <%= text.html_safe %>
             </div>
           </div>
@@ -43,7 +43,6 @@
           <div class="text-content workContent">
             <div class="text">
               <%= t '.no_text' %>
-              <% controller.redirect_to facsimile_catalog_path(document.id) %>
             </div>
           </div>
       <% end %>
