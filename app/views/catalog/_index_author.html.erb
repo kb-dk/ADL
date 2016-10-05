@@ -18,15 +18,6 @@
       <% end -%>
   <% end -%>
 
-  <% unless document_empty %>
-  <dt><%= t('blacklight.search.index.download') %></dt>
-  <dd>
-    <%= link_to(solr_document_path(document, format: :pdf), class:'btn btn-default dlTxt') do %>
-        <%= bootstrap_glyphicon 'align-left' %>
-        <%= t('blacklight.search.index.text') %>
-    <% end %>
-  </dd>
-<% end %>
 
   <div class="long_form_collapse collapse" id=<%= collapse_id %>>
     <% collapse_fields.each do |label, value, field_name| %>
