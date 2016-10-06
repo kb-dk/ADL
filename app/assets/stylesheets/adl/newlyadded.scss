@@ -94,6 +94,28 @@ a { // Not underline anything and no background
 }
 #content{
   margin-top: 94px;
+  .page-header{
+    @extend .box-gradient-blue;
+    position: absolute;
+    width:100%;
+    top:88px;
+    margin: 0;
+    left: 0;
+    height: 94px;
+    color: #dcd2ab;
+    font-size: 25px;
+    font-weight: normal;
+  }
+  .page-header-in-pages-with-searchbox{
+    height: 100px;
+    h3{
+      @extend .pull-left;
+      width: 70%;
+    }
+    .btn{
+      margin-top: 20px;
+    }
+  }
 }
 
 .homeSearch{
@@ -137,6 +159,33 @@ a { // Not underline anything and no background
   border-bottom-left-radius: 10px !important;
 }
 
+.constraint{
+  text-indent: 0 !important;
+}
+
+.divider-space {
+  padding: 18px 0 18px 0;
+}
+
+.divider .left,
+.divider .midt,
+.divider .right {
+  position: relative;
+  float: left;
+  height: 2px;
+}
+.divider .left {
+  width: 25%;
+  background: url(asset-path('divider-left.png')) no-repeat;
+}
+.divider .midt {
+  width: 50%;
+  background: url(asset-path('divider-repeat.png')) repeat-x;
+}
+.divider .right {
+  width: 25%;
+  background: url(asset-path('divider-right.png')) no-repeat;
+}
 #bookmarks_nav .badge{
   background-color:#dcd2ab;
 }
