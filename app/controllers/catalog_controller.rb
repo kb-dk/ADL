@@ -8,7 +8,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => ['cat_ssi:work','application_ssim:ADL'],
+      :fq => ['cat_ssi:work','type_ssi:trunk','application_ssim:ADL'],
       :hl => 'true',
       :'hl.snippets' => '3',
       :'hl.simple.pre' => '<em class="highlight" >',
@@ -233,9 +233,8 @@ class CatalogController < ApplicationController
     # since we aren't specifying it otherwise. 
     
     config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
-      # add the fulltext term frequence to the result docs
       field.solr_parameters = {
-          :fq => ['cat_ssi:work', 'application_ssim:ADL'],
+          :fq => ['cat_ssi:work','type_ssi:trunk', 'application_ssim:ADL'],
       }
     end
     
