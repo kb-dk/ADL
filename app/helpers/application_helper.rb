@@ -7,18 +7,31 @@ module ApplicationHelper
   end
 
   def author_link args
-    repository = blacklight_config.repository_class.new(blacklight_config)
     ids = args[:value]
-    ids.map!{|id| link_to get_author_name(repository,id), solr_document_path(id)}
-    ids.to_sentence(:last_word_connector => ' og ')
+    logger.debug "Creating author_link #{args[:document]['author_name_tesim'].to_s}"
+    if (ids.is_a? Array) && (ids.size > 1) # we have more than one author
+      repository = blacklight_config.repository_class.new(blacklight_config)
+      ids.map!{|id| link_to get_author_name(repository,id), solr_document_path(id)}
+      result=ids.to_sentence(:last_word_connector => ' og ')
+    else
+      if ids.is_a? Array
+        author_id = ids.first
+      else
+        author_id = ids
+      end
+      author_name = args[:document]['author_name_tesim'].first if args[:document]['author_name_tesim'].present?
+      author_name ||= "Intet Navn"
+      result = link_to author_name, solr_document_path(author_id)
+    end
+    logger.debug "result is #{result}"
+    result
   end
 
   def published_fields args
-    publisher = args[:document]['publisher_ssi']
-    published_place = args[:document]['published_place_ssi']
-    published_date = args[:document]['published_date_ssi']
-    # check if there are nil values in the array
-    published = [publisher, published_place, published_date].reject { |c| c.nil? }
+    published = []
+    published << args[:document]['publisher_tesim'].first if args[:document]['publisher_tesim'].first.present?
+    published << args[:document]['place_published_tesim'] if args[:document]['place_published_tesim'].present?
+    published << args[:document]['date_published_ssi'] if args[:document]['date_published_ssi'].present?
     published = published.join(', ')
     published.html_safe
   end

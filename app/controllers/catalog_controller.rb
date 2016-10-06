@@ -8,7 +8,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => ['type_ssi:trunk','application_ssim:ADL'],
+      :fq => ['cat_ssi:work','application_ssim:ADL'],
       # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3',
@@ -61,8 +61,7 @@ class CatalogController < ApplicationController
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
     # config.add_facet_field 'type_ssi', :label => 'Format'
-    config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true, :limit => 10
-    config.add_facet_field 'cat_ssi', :label => 'Kategori', helper_method: :translate_model_names
+    config.add_facet_field 'author_name_ssim', :label => 'Forfatter', :single => true, :limit => 10
 
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -87,16 +86,13 @@ class CatalogController < ApplicationController
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    #config.add_index_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    config.add_index_field 'author_id_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
-    config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
-    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
-    config.add_index_field 'published_date_ssi', :label => 'Udgivelsesdato', short_form: true
+    config.add_index_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
+    #config.add_index_field 'author_name_tesim', :label => 'Forfatter',  short_form: true, itemprop: :author
+    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
+    config.add_index_field 'publisher_tesim', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
 
     # this adds basic highlighting to index results
     #config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
-    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
@@ -128,14 +124,12 @@ class CatalogController < ApplicationController
 
 
     # Work show fields
-    config.add_show_field 'author_id_ssim', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
+    config.add_show_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
     #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
-    config.add_show_field 'publisher_ssi', :label => 'Udgiver'
-    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
-    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
-    # don't show the volume field if we're on the landing page for that volume!
     config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    config.add_show_field 'editor_ssi', :label => 'Redaktør'
+    config.add_show_field 'publisher_tesim', :label => 'Udgiver'
+    config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted'
+    config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato'
     #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
     #TODO: FIX
@@ -151,7 +145,6 @@ class CatalogController < ApplicationController
     # to use for this use case.
     def show
       @response, @document = fetch URI.unescape(params[:id])
-      @document_empty = !FileServer.doc_has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
@@ -172,7 +165,6 @@ class CatalogController < ApplicationController
 
     def facsimile
       @response, @document = fetch URI.unescape(params[:id])
-      @document_empty = !FileServer.doc_has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.pdf { send_pdf(@document, 'image') }
