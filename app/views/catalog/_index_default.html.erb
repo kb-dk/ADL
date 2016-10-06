@@ -22,9 +22,6 @@
       <% end -%>
   <% end -%>
 
-  <dt id=<%= text_label_id %>><%= t('blacklight.search.index.in_text') %></dt>
-  <dd class="search-results" id =<%= result_id %> ></dd>
-
   <dt><%= t('blacklight.search.index.download') %></dt>
   <dd>
     <% if has_text %>
@@ -56,10 +53,5 @@
 
 </dl>
 </div>
-<%= javascript_tag do %>
-    $(document).ready(
-            function () {
-                index_work_search("<%= document['id'] %>", $('#<%= result_id %>'), $('#<%= text_label_id %>'));
-            });
-<% end %>
+
 

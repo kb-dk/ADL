@@ -9,7 +9,6 @@ class CatalogController < ApplicationController
       :qt => 'search',
       :rows => 10,
       :fq => ['cat_ssi:work','application_ssim:ADL'],
-      # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3',
       :'hl.simple.pre' => '<em class="highlight" >',
@@ -29,7 +28,7 @@ class CatalogController < ApplicationController
     #  :qt => 'document',
     #  ## These are hard-coded in the blacklight 'document' requestHandler
     #  # :fl => '*',
-    #  # :rows => 1
+    #  # :rows => 1index_field
     #  # :q => '{!raw f=id v=$id}'
     #}
 
@@ -92,7 +91,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'publisher_tesim', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
 
     # this adds basic highlighting to index results
-    #config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
@@ -237,7 +236,6 @@ class CatalogController < ApplicationController
       # add the fulltext term frequence to the result docs
       field.solr_parameters = {
           :fq => ['cat_ssi:work', 'application_ssim:ADL'],
-      #    :fl => '* AND termfreq(text_tesim, $q)'
       }
     end
     
