@@ -125,16 +125,24 @@ a { // Not underline anything and no background
     }
 }
 .bookmark_toggle {
+  float: right;
+
   .btn {
     display: none;
   }
   .bookmark_remove_label{
-    color:rgba(51,98,1,1) !important;
+    color: #dcd2ab !important;
     cursor: pointer;
+    &:hover{
+      color: rgba(88,135,38,1) !important;
+    }
   }
   .bookmark_add_label{
     color: rgba(88,135,38,1) !important;
     cursor: pointer;
+    &:hover{
+      color: #dcd2ab !important;
+    }
   }
 }
 
@@ -177,4 +185,7 @@ a { // Not underline anything and no background
 .divider .right {
   width: 25%;
   background: url(asset-path('divider-right.png')) no-repeat;
+}
+#bookmarks_nav .badge{
+  background-color:#dcd2ab;
 }
