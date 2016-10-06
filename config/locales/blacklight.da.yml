@@ -195,6 +195,7 @@ da:
           all_filters: 'Alt'
           title: 'Titel'
           author: 'Forfatter'
+          text: "Tekst"
         sort:
           relevance: 'Relevans'
           author: 'Forfatter'

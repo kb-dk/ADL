@@ -239,11 +239,11 @@ class CatalogController < ApplicationController
     config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
       # add the fulltext term frequence to the result docs
       field.solr_parameters = {
-          :fq => ['cat_ssi:work', 'application_ssim:ADL'],
+          :fq => 'cat_ssi:work',
+          :fq => 'application_ssim:ADL'
       #    :fl => '* AND termfreq(text_tesim, $q)'
       }
     end
-    
 
     # Now we see how to over-ride Solr request handler defaults, in this
     # case for a BL "search field", which is really a dismax aggregate
@@ -270,14 +270,22 @@ class CatalogController < ApplicationController
       }
     end
 
-    config.add_search_field('leaf') do |field|
-      field.solr_parameters = { :fq => 'type_ssi:leaf' }
+    config.add_search_field(I18n.t'blacklight.search.form.search.text') do |field|
+      field.solr_parameters = { :'spellcheck.dictionary' => 'text' }
       field.solr_local_parameters = {
           :qf => '$text_qf',
-          :pf => '$text_pf',
-          :hl => 'true',
+          :pf => '$text_pf'
       }
     end
+
+  #  config.add_search_field('leaf') do |field|
+  #    field.solr_parameters = { :fq => 'type_ssi:leaf' }
+  #    field.solr_local_parameters = {
+  #        :qf => '$text_qf',
+  #        :pf => '$text_pf',
+  #        :hl => 'true',
+  #    }
+  #  end
 
     # "sort results by" select (pulldown)
     # label in pulldown is followed by the name of the SOLR field to sort by and
