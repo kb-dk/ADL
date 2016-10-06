@@ -2,6 +2,10 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
+
+gem 'blacklight', '~> 6.0'
+gem "blacklight_advanced_search"
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -15,8 +19,7 @@ gem 'therubyracer', platforms: :ruby
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-gem 'blacklight', '~> 6.0'
-gem "blacklight_advanced_search"
+
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'

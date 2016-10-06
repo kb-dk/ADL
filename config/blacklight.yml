@@ -10,9 +10,13 @@
 # jetty_path is only required for rake tasks that need to know
 # how to start up solr, generally for automated testing. 
 
+#development:
+#  adapter: solr
+#  url: <%= ENV['SOLR_URL'] || "http://bifrost-test-01.kb.dk:8080/solr/blacklight-core" %>
+
 development:
   adapter: solr
-  url: <%= ENV['SOLR_URL'] || "http://bifrost-test-01.kb.dk:8080/solr/blacklight-core" %>
+  url: <%= ENV['SOLR_URL'] || "http://disdev-01.kb.dk:8081/solr/blacklight-core" %>
 test: &test
   adapter: solr
   url: <%= "http://127.0.0.1:#{ENV['TEST_JETTY_PORT'] || 8888}/solr/blacklight-core" %>
