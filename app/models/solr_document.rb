@@ -85,9 +85,9 @@ class SolrDocument
 #End OAI functions
 
   def has_text?
-    if self.to_hash['text_tesim'].present?
+    if self['text_tesim'].present?
       # some documents contain text only with line breaks
-      text = self.to_hash['text_tesim'].first.delete("\n")
+      text = self['text_tesim'].first.delete("\n")
       !text.blank?
     else
       return false
@@ -95,7 +95,7 @@ class SolrDocument
   end
 
   def export_as_apa_citation_txt
-    doc = self.to_hash
+    doc = self
     cite = ""
     cite +=  doc['author_name'].first + ", " unless doc['author_name'].blank?
     cite +=  doc['published_date_ssi'] + ", " unless doc['published_date_ssi'].blank?
