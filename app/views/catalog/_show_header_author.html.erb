@@ -1,14 +1,11 @@
 <% document ||= @document %>
 <% doc_presenter = show_presenter(document) %>
-
 <% # bookmark/folder functions -%>
-
-
-<div class="container workHeaderFixContainer">
+<div class="page-header">
+<div class="container workHeaderFixContainer search-bg">
   <div class="row">
     <div class="col-md-12">
-      <div class="workHeader">
-        <h1><span class="glyphicon glyphicon-file"></span> <%= document['work_title_tesim'].first %></h1>
+        <h2><span class="glyphicon glyphicon-file"></span> <%= document['work_title_tesim'].first %></h2>
         <dl class="dl-horizontal  dl-invert">
           <dt class="blacklight-author_name_tesim">Forfatterportræt af</dt>
           <dd class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></dd>

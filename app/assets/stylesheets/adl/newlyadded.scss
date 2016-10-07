@@ -94,9 +94,12 @@ a { // Not underline anything and no background
 }
 #content{
   margin-top: 94px;
+  .header-container{
+    position: relative;
+  }
   .page-header{
     @extend .box-gradient-blue;
-    position: absolute;
+    position: fixed;
     width:100%;
     top:88px;
     margin: 0;
@@ -105,6 +108,9 @@ a { // Not underline anything and no background
     color: #dcd2ab;
     font-size: 25px;
     font-weight: normal;
+    dl{
+      font-size: 14px;
+    }
   }
   .page-header-in-pages-with-searchbox{
     height: 100px;
