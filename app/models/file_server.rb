@@ -12,8 +12,6 @@ class FileServer
     uri += "&op=#{opts[:op]}" if opts[:op].present?
     uri += "&c=#{opts[:c]}" if opts[:c].present?
     uri += "&prefix=#{opts[:prefix]}" if opts[:prefix].present?
-    Rails.logger.debug("VOLUME ID #{volume_id}")
-    Rails.logger.debug("OPTS #{opts}")
     Rails.logger.debug("snippet url #{uri}")
 
     uri = URI.parse(uri)
@@ -70,8 +68,8 @@ class FileServer
   end
 
   # return all image links for use in facsimile pdf view
-  def self.image_links(id)
-    html = FileServer.facsimile(id)
+  def self.image_links(id, opts={})
+    html = FileServer.facsimile(id, opts)
     xml = Nokogiri::HTML(html)
     links = []
     xml.css('img').each do |img|
@@ -80,8 +78,10 @@ class FileServer
     links
   end
 
-  def self.facsimile(id)
-    FileServer.render_snippet(id, {op: 'facsimile', prefix: Rails.application.config_for(:adl)["image_server_prefix"]})
+  def self.facsimile(id, opts={})
+    params = {op: 'facsimile', prefix: Rails.application.config_for(:adl)["image_server_prefix"]}
+    params = opts.merge(params)
+    FileServer.render_snippet(id, params)
   end
 
   ######################## COPY PASTE FROM SNIPPET_SERVER #############################
