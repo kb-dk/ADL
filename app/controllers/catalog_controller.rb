@@ -309,7 +309,11 @@ class CatalogController < ApplicationController
     end
   end
 
+  def is_text_search?
+    ['authors','periods'].exclude? action_name
+  end
+
   def has_search_parameters?
-    super || action_name == 'authors'
+    super || !is_text_search?
   end
 end 
