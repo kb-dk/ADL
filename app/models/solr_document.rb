@@ -85,7 +85,7 @@ class SolrDocument
 #End OAI functions
 
   def has_text?
-    if self.to_hash['text_tesim'].present?
+    if self['text_tesim'].present?
       # some documents contain text only with line breaks
       text = self.to_hash['text_tesim'].first.delete("\n")
       !text.blank?
