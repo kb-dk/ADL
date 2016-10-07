@@ -44,27 +44,11 @@ class FileServer
     FileServer.render_snippet(id, opts)
   end
 
-  def self.author_portrait_has_text(id)
-    text = self.render_snippet(id,{c: 'authors'}).to_str
-    has_text(text)
-  end
-
-  def self.doc_has_text(id)
-    text = self.render_snippet(id).to_str
-    has_text(text)
-  end
-
   def self.has_text(text)
     text = ActionController::Base.helpers.strip_tags(text).delete("\n")
     # check text length excluding pb elements
     text = text.gsub(/[s|S]\. [\w\d]+/,'').delete(' ')
     text.present?
-  end
-
-  def self.has_facsimile(id)
-    html = FileServer.facsimile(id)
-    xml = Nokogiri::HTML(html)
-    return !xml.css('img').empty?
   end
 
   # return all image links for use in facsimile pdf view
