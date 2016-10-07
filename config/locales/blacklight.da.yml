@@ -44,6 +44,8 @@ da:
       no_bookmarks: 'Du har ingen bogmærker'
       add:
         button: 'Tilføj til bogmærker'
+        title: 'Bogmærker'
+
         success:
           one: 'Dit bogmærke er blevet gemt.'
           other: 'Dine bogmærker er blevet gemt.'
@@ -191,7 +193,7 @@ da:
         q: 'Søg...'
         submit: 'Søg'
         search:
-          placeholder: 'Søg'
+          placeholder: 'Indtast bogtitl, forfatternavn eller periode'
           all_filters: 'Alt'
           title: 'Titel'
           author: 'Forfatter'
