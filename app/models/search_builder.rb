@@ -18,9 +18,10 @@ class SearchBuilder < Blacklight::SearchBuilder
   end
 
   def build_all_authors_search solr_params = {}
-    solr_params[:fq] ||= []
+    solr_params[:fq] = []
     solr_params[:fq] << 'cat_ssi:author'
-    solr_params[:sort] ||= []
+    solr_params[:fq] << 'type_ssi:work'
+    solr_params[:sort] = []
     solr_params[:sort] << 'id asc'
     solr_params[:rows] = 10000
   end
