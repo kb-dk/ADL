@@ -83,8 +83,6 @@ module ApplicationHelper
         route = blacklight_config.show.route.merge(action: :show, id: doc).merge(options)
         route[:controller] = controller_name if route[:controller] == :current
         route
-      elsif doc.present? && doc['cat_ssi'] == 'person'
-        { controller: :people, action: :show, id: doc }
       else
         doc
       end

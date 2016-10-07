@@ -233,8 +233,8 @@ class CatalogController < ApplicationController
     # since we aren't specifying it otherwise. 
     
     config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
-      field.solr_parameters = {
-          :fq => ['cat_ssi:work','type_ssi:trunk', 'application_ssim:ADL'],
+      field.solr_local_parameters = {
+          :qf => 'author_name_tesim^5 work_title_tesim^5 text_tesim'
       }
     end
     
@@ -251,7 +251,7 @@ class CatalogController < ApplicationController
       # Solr parameter de-referencing like $title_qf.
       # See: http://wiki.apache.org/solr/LocalParams
       field.solr_local_parameters = { 
-        :qf => 'volume_title_tesim',
+        :qf => 'work_title_tesim',
       }
     end
     
@@ -309,7 +309,11 @@ class CatalogController < ApplicationController
     end
   end
 
+  def is_text_search?
+    ['authors','periods'].exclude? action_name
+  end
+
   def has_search_parameters?
-    super || action_name == 'authors'
+    super || !is_text_search?
   end
 end 
