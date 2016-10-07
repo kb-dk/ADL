@@ -233,8 +233,8 @@ class CatalogController < ApplicationController
     # since we aren't specifying it otherwise. 
     
     config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
-      field.solr_parameters = {
-          :fq => ['cat_ssi:work','type_ssi:trunk', 'application_ssim:ADL'],
+      field.solr_local_parameters = {
+          :qf => 'author_name_tesim work_title_tesim text_tesim'
       }
     end
     
