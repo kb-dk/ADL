@@ -194,7 +194,7 @@ da:
         submit: 'Søg'
         search:
           placeholder: 'Indtast bogtitl, forfatternavn eller periode'
-          all_filters: 'Alt'
+          all_filters: 'Fritekst'
           title: 'Titel'
           author: 'Forfatter'
         sort:
