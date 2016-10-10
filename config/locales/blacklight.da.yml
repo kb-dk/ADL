@@ -193,7 +193,7 @@ da:
         q: 'Søg...'
         submit: 'Søg'
         search:
-          placeholder: 'Indtast bogtitl, forfatternavn eller periode'
+          placeholder: 'Indtast bogtitel, forfatternavn eller ord og begreber der fremkommer i bogen'
           all_filters: 'Alt'
           title: 'Titel'
           author: 'Forfatter'
