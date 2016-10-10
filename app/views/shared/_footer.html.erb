@@ -1,56 +1,38 @@
 
 <footer class="pageFooter">
 
+  <div class="row divider-space">
+    <div class="col-md-12">
+      <div class="divider clearfix">
+        <div class="left"></div>
+        <div class="midt"></div>
+        <div class="right"></div>
+      </div>
+    </div>
+  </div>
+
   <div class="container">
 
     <div class="row">
-      <div class="col-sm-5">
 
-      <h2>Om ADL</h2>
-        <ul class="list-unstyled">
-          <li><%= link_to 'Om ADL', page_path('about') , class:'' %></li>
-          <li><%= link_to 'Cookie- og Privatlivspolitik', page_path('politik'), class:'' %></li>
-          <li><a href="/?f[cat_ssi][]=person&sort=author_ssi+asc"  href="#" role="button">Forfatteroversigt</a></li>
-        </ul>
-      </div>
-      <div class="col-sm-5">
-
-          <h2 class="">Samarbejdspartnere</h2>
-        <div class="media">
-          <a href="http://www.kb.dk" target="_blank">
-          <div class="media-left">
-              <%= image_tag("partner/kb.png", :alt => "Det Kongelige Bibliotek") %>
+          <div class="row text-center">
+            <%= link_to 'Om ADL', page_path('about') , class:'' %>
           </div>
-          <div class="media-body">
-            <h4 class="media-heading">Det Kongelige Bibliotek</h4>
+
+          <div class="row text-center footer">
+            <span>&copy; </span>
+            <a href="http://www.dsl.dk" target="_blank">Det Danske Sprog- og Litteraturselskab</a>
+            <span> & </span>
+            <a href="http://www.kb.dk" target="_blank">Det Kongelige Bibliotek</a>
+            <span> * </span>
+            <%= link_to 'Cookie- og Privatlivspolitik', page_path('politik'), class:'' %>
+            <span> * </span>
+            <a href="mailto:info@adl.dk">Kontakt os</a>
           </div>
-          </a>
-        </div>
-
-        <div class="media">
-          <a href="http://www.dsl.dk" target="_blank">
-              <div class="media-left">
-                  <%= image_tag("partner/dsl.png", :alt => "Det Danske Sprog- og Litteraturselskab") %>
-              </div>
-              <div class="media-body">
-                <h4 class="media-heading">Det Danske Sprog- og Litteraturselskab</h4>
-              </div>
-          </a>
-        </div>
-
-      </div>
-      <div class="col-sm-2">
-        <h2 class="">Kontakt os</h2>
-       <hr class="visible-xs-block"/>
-        <address>
-          <strong>Arkiv for Dansk Litteratur</strong><br>
-          <a href="mailto:info@adl.dk"><span class="glyphicon glyphicon-envelope"></span> info@adl.dk</a>
-        </address>
-
-      </div>
 
     </div>
   </div>
 
 </footer>
+
 
