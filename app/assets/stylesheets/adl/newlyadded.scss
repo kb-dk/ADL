@@ -93,6 +93,7 @@ a { // Not underline anything and no background
 
 }
 #content{
+  min-height: 500px;
   margin-top: 94px;
   .header-container{
     position: relative;
@@ -194,4 +195,9 @@ a { // Not underline anything and no background
 }
 #bookmarks_nav .badge{
   background-color:#dcd2ab;
+}
+.pageFooter{
+  .footer {
+    font-size: 12px;
+  }
 }
