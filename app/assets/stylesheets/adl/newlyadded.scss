@@ -93,6 +93,7 @@ a { // Not underline anything and no background
 
 }
 #content{
+  min-height: 500px;
   margin-top: 94px;
   .header-container{
     position: relative;
@@ -262,4 +263,8 @@ a { // Not underline anything and no background
 
 .frontpage-content {
   margin-top: 350px;
+}.pageFooter{
+  .footer {
+    font-size: 12px;
+  }
 }
