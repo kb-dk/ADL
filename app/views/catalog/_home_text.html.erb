@@ -1,62 +1,31 @@
-<div class="homeSearch" >
-
+<div class="homeSearch box-gradient-blue fixed-top-second" >
+ <div class="search-bg">
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
         <div class="text-center well well-lg ">
-
-
-
-
-          <%= form_tag search_action_url, :method => :get, :class => '' do %>
-              <%= render_hash_as_hidden_fields(search_state.params_for_search.except(:q, :search_field, :qt, :page, :utf8)) %>
-              <div class="input-group input-group-lg">
-                <% unless search_fields.empty? %>
-                    <label for="search_field" class="sr-only">
-                      <%= t('blacklight.search.form.search_field.label') %>
-                    </label>
-
-                     <span class="sr-only">
-                       <%= t('blacklight.search.form.search_field.post_label') %>
-                     </span>
-                <% end %>
-                <span class="input-group-btn hidden-xs">
-                            <%= select_tag(:search_field, options_for_select(search_fields, h(params[:search_field])), :title => t('blacklight.search.form.search_field.title'), :class=>"input-lg") %>
-
-                     </span>
-
-
-                <label for="q" class="sr-only"><%= t('blacklight.search.form.search.label') %></label>
-                <%= text_field_tag :q, params[:q], :placeholder => t('blacklight.search.form.search.placeholder'), :class => "search_q q form-control", :id => "q", :autofocus => should_autofocus_on_search_box? %>
-
-                <span class="input-group-btn ">
-                <button type="submit" class="btn btn-primary btn-lg" id="search">
-                  <span class="submit-search-text"><%=t('blacklight.search.form.submit')%></span>
-                  <span class="glyphicon glyphicon-search"></span>
-                </button>
-                </span>
-
-              </div>
-
-              <span class="advanced-search">
-                <%= link_to "Avanceret søgning", blacklight_advanced_search_engine.advanced_search_path(params.except(:controller, :action)), class: 'advanced_search'%>
-              </span>
-
-        <% end %>
-
-
-
-          <a href="/?f[cat_ssi][]=person&sort=author_ssi+asc"  class="btn btn-link btn-lg" href="#" role="button">Se forfatteroversigt</a>
-
+          <%= render 'simple_search_form' %>
+          <%= link_to  "Forfattere", authors_path, :class => "btn btn-link btn-lg"  %>
+          <%= link_to  "Perioder", '', :class => "btn btn-link btn-lg"  %>
         </div>
-
       </div>
     </div>
 
+      <div class="col-md-4">
+        <div class="link-block-content ">
+          <div class="image2 image img-thumbnail">
+          </div>
+          <div class="text">
+            <h3>          
+              <%= link_to  "Perioder", '', :class => "btn btn-link btn-lg"  %>
+            </h3>
+            <p>time periods time periods time periods time periods time periods time periods time periods time periods time periods time periods </p>
+          </div>
+        </div>
+      </div>
 
   </div>
 </div>
-
 
 
 
