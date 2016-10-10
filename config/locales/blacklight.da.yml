@@ -193,13 +193,15 @@ da:
         q: 'Søg...'
         submit: 'Søg'
         search:
-          placeholder: 'Indtast bogtitl, forfatternavn eller periode'
+          placeholder: 'Indtast bogtitel, forfatternavn eller ord og begreber der fremkommer i bogen'
           all_filters: 'Alt'
           title: 'Titel'
           author: 'Forfatter'
         sort:
           relevance: 'Relevans'
           author: 'Forfatter'
+      page_title:
+       title: 'Arkiv for Dansk Litteratur'
       pagination:
         title: 'Results navigation'
       pagination_info:
