@@ -19,6 +19,19 @@ class SearchBuilder < Blacklight::SearchBuilder
     solr_params[:fq] << "cat_ssi:work"
   end
 
+  def build_all_authors_search solr_params = {}
+    solr_params[:fq] = []
+    solr_params[:fq] << 'cat_ssi:author'
+    solr_params[:fq] << 'type_ssi:work'
+    solr_params[:sort] = []
+    solr_params[:sort] << 'id asc'
+    solr_params[:rows] = 10000
+  end
+
+  def set_to_all_authors_search
+    @processor_chain = [:default_solr_parameters,:build_all_authors_search]
+  end
+
   def add_timestamp_interval solr_params
     timeinterval_string = '['+ (blacklight_params[:from].present? ? blacklight_params[:from] : '*')
     timeinterval_string += ' TO '

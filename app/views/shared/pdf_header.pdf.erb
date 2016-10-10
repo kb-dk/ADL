@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset='utf-8'/>
+    <% wicked_pdf_stylesheet_link_tag "pdf" %>
+    <% wicked_pdf_javascript_include_tag "number_pages" %>
+
+    <div id="pdf_header">
+      Hentet fra Arkiv for Dansk Litteratur -
+      Bog: <%= @document['volume_title_tesim'].first %>
+    </div>
+  </head>
+</html>
