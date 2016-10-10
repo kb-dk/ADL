@@ -200,6 +200,8 @@ da:
         sort:
           relevance: 'Relevans'
           author: 'Forfatter'
+      page_title:
+       title: 'Arkiv for Dansk Litteratur'
       pagination:
         title: 'Results navigation'
       pagination_info:
