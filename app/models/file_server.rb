@@ -1,5 +1,6 @@
 # Class to centralise inteface with FileServer
 class FileServer
+
   def self.render_snippet(id,opts={})
     # only try to split id when we are requesting a text
     if !opts.has_key? :c
@@ -14,24 +15,23 @@ class FileServer
     uri += "&prefix=#{opts[:prefix]}" if opts[:prefix].present?
     Rails.logger.debug("snippet url #{uri}")
 
-    #res = Net::HTTP.get_response(URI(uri))
     uri = URI.parse(uri)
-    http = Net::HTTP.new(uri.host, uri.port)
-    http.open_timeout = 10
-    http.read_timeout = 20
     begin
-      res = http.start { |conn| conn.request_get(URI(uri)) }
-      if res.code == "200"
-        result = res.body
-      else
-        result ="<div class='alert alert-danger'>Unable to connect to data server</div>"
-      end
+      result = Net::HTTP.start(uri.host,uri.port) { |http|
+        http.read_timeout = 20
+        res = http.request_get(URI(uri))
+        if res.code == "200"
+          result = res.body
+        else
+          result ="<div class='alert alert-danger'>Unable to connect to data server</div>"
+        end
+        result
+      }
     rescue Net::OpenTimeout, Net::ReadTimeout => e
       Rails.logger.error "Could not connect to #{uri}"
       Rails.logger.error e
       result ="<div class='alert alert-danger'>Unable to connect to data server</div>"
     end
-
     result.html_safe.force_encoding('UTF-8')
   end
 

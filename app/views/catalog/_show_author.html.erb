@@ -1,13 +1,9 @@
 <%# default partial to display solr document fields in catalog show view -%>
-
-
-<div class="container">
     <div class="text-content">
       <div class="text">
         <% text ||= FileServer.render_snippet(document.id,{c: 'authors'}) %>
         <%= text.html_safe %>
       </div>
     </div>
-</div>
 
 
