@@ -8,7 +8,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => 'type_ssi:trunk',
+      :fq => ['type_ssi:trunk','application_ssim:ADL'],
       # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
       :hl => 'true',
       :'hl.snippets' => '3',
@@ -88,7 +88,7 @@ class CatalogController < ApplicationController
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
     #config.add_index_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    config.add_index_field 'author_name_ssim', :label => 'Forfatter'
+    config.add_index_field 'author_id_ssim', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
     #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
     config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
     config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
@@ -128,7 +128,7 @@ class CatalogController < ApplicationController
 
 
     # Work show fields
-    config.add_show_field 'author_name_ssim', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
+    config.add_show_field 'author_id_ssim', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
     #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
     config.add_show_field 'publisher_ssi', :label => 'Udgiver'
     config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
@@ -179,20 +179,35 @@ class CatalogController < ApplicationController
       end
     end
 
+
+    def authors
+      (@response, @document_list) = search_results(params) do |builder|
+        builder.set_to_all_authors_search
+        builder
+      end
+      render "index"
+    end
+
     # common method for rendering pdfs based on wicked_pdf
     # cache files in the public folder based on their id
     # perhaps using the Solr document modified field
     def send_pdf(document, type)
       name = document['work_title_tesim'].first.strip rescue document.id
       path = Rails.root.join('public', 'pdfs', "#{document.id.gsub('/', '_')}_#{type}.pdf")
-      solr_timestamp = Time.parse(document.to_hash['timestamp'])
+      solr_timestamp = Time.parse(document['timestamp'])
       file_mtime = File.mtime(path) if File.exist? path.to_s
       # display the cached pdf if solr doc timestamp is older than the file's modified date
       if File.exist? path.to_s and ((type == 'text' and solr_timestamp < file_mtime) or type == 'image')
-          send_file path.to_s, type: 'application/pdf', disposition: :inline, filename: name+".pdf"
+        send_file path.to_s, type: 'application/pdf', disposition: :inline, filename: name+".pdf"
       else
-        render pdf: name, footer: { right: '[page] af [topage] sider' },
-               save_to_file: path
+        render pdf: name,
+               footer: {right: '[page] af [topage] sider'},
+               save_to_file: path,
+               header: {html: {template: 'shared/pdf_header.pdf.erb'},
+                        spacing: 5},
+               margin: {top: 15, # default 10 (mm)
+                        bottom: 15}
+
       end
     end
 
@@ -305,5 +320,9 @@ class CatalogController < ApplicationController
     else
       mail.deliver
     end
+  end
+
+  def has_search_parameters?
+    super || action_name == 'authors'
   end
 end 

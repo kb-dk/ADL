@@ -23,6 +23,7 @@ $(document).ready(function(){
      * If we are already making a search, trigger
      * a new search, otherwise stay on the same page.
      */
+
     $('a[data-search-type]').click(function(event) {
         event.preventDefault();
         var type = $(this).data('search-type');
