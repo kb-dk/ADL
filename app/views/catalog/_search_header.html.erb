@@ -1,4 +1,7 @@
-<%= render 'search_form' %>
-<%= render 'did_you_mean' %>
-<%= render 'constraints' %>
-<%= render 'sort_and_per_page' %>
+<% unless ['authors','periods'].include? controller.action_name %>
+<div class="content-header">
+        <%= render 'did_you_mean' %>
+        <%= render 'constraints' %>
+        <%= render 'sort_and_per_page' %>
+</div>
+<% end %>

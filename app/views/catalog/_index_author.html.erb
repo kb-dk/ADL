@@ -1,12 +1,7 @@
 <%# default partial to display solr document fields in catalog index view -%>
 <% doc_presenter = index_presenter(document) %>
-<% has_text  = document['has_text_ssi'].present? && document['has_text_ssi'] == 'yes' %>
-<% has_facs  = document['has_facs_ssi'].present? && document['has_facs_ssi'] == 'yes' %>
-<div class="x">
 <dl class="document-metadata dl-horizontal dl-invert">
-  <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
-  <% result_id = "result-"+document['id'].gsub("#", "") %>
-  <% text_label_id = "text-label-"+document['id'].gsub("#", "") %>
+  <% collapse_id = document['id'].gsub("#", "") %>
 
   <% collapse_fields = [] %>
   <% index_fields(document).each do |field_name, field| -%>
@@ -22,36 +17,17 @@
       <% end -%>
   <% end -%>
 
-  <dt><%= t('blacklight.search.index.download') %></dt>
-  <dd>
-    <% if has_text %>
-        <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt') do %>
-            <%= bootstrap_glyphicon 'align-left' %>
-            <%= t('blacklight.search.index.text') %>
-        <% end %>
-    <% end %>
-    <% if has_facs %>
-        <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
-            <%= bootstrap_glyphicon 'book' %>
-            <%= t('blacklight.search.index.facsimile') %>
-        <% end %>
-    <% end %>
-  </dd>
-
 
   <div class="long_form_collapse collapse" id=<%= collapse_id %>>
     <% collapse_fields.each do |label, value, field_name| %>
-          <dt class="blacklight-<%= field_name.parameterize %>"><%= label %></dt>
-          <dd class="blacklight-<%= field_name.parameterize %>"><%= value %></dd>
+        <dt class="blacklight-<%= field_name.parameterize %>"><%= label %></dt>
+        <dd class="blacklight-<%= field_name.parameterize %>"><%= value %></dd>
     <% end %>
   </div>
   <% unless collapse_fields.empty? %>
       <a class="collapse-button" role="button" data-toggle="collapse" href="#<%= collapse_id %>" aria-expanded="false" aria-controls="<%= collapse_id %>" onclick="changeButtonLabel(this);">
-        <%= t('blacklight.search.index.show_more') %>
+        Vis mere
       </a>
   <% end %>
 
 </dl>
-</div>
-
-

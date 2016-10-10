@@ -1,6 +1,8 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
 
+  self.default_processor_chain += [:add_work_id]
+
   def add_work_id solr_params
     if blacklight_params[:search_field] == 'leaf' && blacklight_params[:workid].present?
       solr_params[:fq] ||= []
@@ -13,6 +15,19 @@ class SearchBuilder < Blacklight::SearchBuilder
   def restrict_to_works solr_params
     solr_params[:fq] ||= []
     solr_params[:fq] << "cat_ssi:work"
+  end
+
+  def build_all_authors_search solr_params = {}
+    solr_params[:fq] = []
+    solr_params[:fq] << 'cat_ssi:author'
+    solr_params[:fq] << 'type_ssi:work'
+    solr_params[:sort] = []
+    solr_params[:sort] << 'id asc'
+    solr_params[:rows] = 10000
+  end
+
+  def set_to_all_authors_search
+    @processor_chain = [:default_solr_parameters,:build_all_authors_search]
   end
 
   def add_timestamp_interval solr_params

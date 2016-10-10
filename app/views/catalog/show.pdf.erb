@@ -13,7 +13,7 @@
   <% if @document['cat_ssi'] == 'portrait' %>
       <%= FileServer.render_snippet(@document.id,{c: 'authors'}) %>
   <% else %>
-      <%= FileServer.render_snippet(@document.id) %>
+      <%= FileServer.render_snippet(@document['volume_id_ssi'], {c: 'texts', xml_id: @document['xmlid_ssi']}) %>
   <% end %>
 </div>
 </body>

@@ -2,7 +2,8 @@
 
 
 footer.pageFooter{
-  @include gradient-vertical($gray-lighter, #FFF);
+  //@include gradient-vertical($gray-lighter, #FFF);
+  background-color: #FFFFFF;
    font-family: $font-family-nav;
    padding: $grid-gutter-width 0;
    h2{
@@ -15,7 +16,7 @@ footer.pageFooter{
    img{
      width: 42px;
    }
-   a{
-     text-decoration: underline;
-   }
+   //a{
+   //  text-decoration: underline;
+   //}
  }

@@ -1,5 +1,6 @@
 .navbar{
   font-family: $font-family-nav;
+  font-weight: 400;
   .navbar-nav{
     @extend .text-uppercase;
   }
@@ -51,11 +52,11 @@ body.fixedHeader .workNavbarFixContainer{
 // header (titlebar)
 body.fixedHeader .workHeaderFixContainer{
   position: fixed;
-  top: 82px;
+  top: 88px;
   right: 0;
   left: 0;
   padding-bottom: 10px;
-  background-color: white;
+  background-color: transparent;
   z-index:10;
 }
 
