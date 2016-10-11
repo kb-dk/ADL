@@ -5,8 +5,8 @@
   });
 </script>
 
-<% has_text = !(document['has_text_ssi'].present? && document['has_text_ssi'] == 'yes') %>
-<% has_facs = !(document['has_facs_ssi'].present? && document['has_facs_ssi'] == 'yes') %>
+<% has_text = document['has_text_ssi'].present? && document['has_text_ssi'] == 'yes' %>
+<% has_facs = document['has_facs_ssi'].present? && document['has_facs_ssi'] == 'yes' %>
 
 <div class="container">
   <div class="row">
