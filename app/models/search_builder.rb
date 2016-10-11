@@ -1,10 +1,10 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
 
-  self.default_processor_chain += [:add_work_id]
+  self.default_processor_chain += [:add_volume_id]
 
-  def add_work_id solr_params
-    if blacklight_params[:search_field] == 'leaf' && blacklight_params[:workid].present?
+  def add_volume_id solr_params
+    if blacklight_params[:search_field] == '' && blacklight_params[:workid].present?
       solr_params[:fq] ||= []
       workid = blacklight_params[:workid]
       workid = "#{workid}*" unless workid.include? '*'
@@ -24,10 +24,6 @@ class SearchBuilder < Blacklight::SearchBuilder
     solr_params[:sort] = []
     solr_params[:sort] << 'id asc'
     solr_params[:rows] = 10000
-  end
-
-  def set_to_all_authors_search
-    @processor_chain = [:default_solr_parameters,:build_all_authors_search]
   end
 
   def add_timestamp_interval solr_params

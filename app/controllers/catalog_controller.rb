@@ -174,8 +174,7 @@ class CatalogController < ApplicationController
 
     def authors
       (@response, @document_list) = search_results(params) do |builder|
-        builder.set_to_all_authors_search
-        builder
+        search_builder_class.new([:default_solr_parameters,:build_all_authors_search],builder)
       end
       render "index"
     end
