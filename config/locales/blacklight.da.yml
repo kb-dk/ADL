@@ -194,7 +194,7 @@ da:
         submit: 'Søg'
         search:
           placeholder: 'Indtast bogtitel, forfatternavn eller ord og begreber der fremkommer i bogen'
-          all_filters: 'Alt'
+          all_filters: 'Fritekst'
           title: 'Titel'
           author: 'Forfatter'
         sort:
