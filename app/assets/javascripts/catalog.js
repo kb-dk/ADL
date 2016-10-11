@@ -46,10 +46,6 @@ $(document).ready(function(){
         $target.toggle();
         return false;
     });
-    /**
-     * Remove the 'leaf' option from search_field options
-     */
-    $("#search_field option[value='leaf']").remove()
 
     $("[data-function='worksearch']").click(function(e){
         workid = encodeURIComponent($(this).data('workid'));
