@@ -146,6 +146,15 @@ a { // Not underline anything and no background
     margin: auto;
   }
 }
+
+a[name]::before {
+  display: block;
+  content: " ";
+  margin-top: -195px;
+  height: 195px;
+  visibility: hidden;
+}
+
 .bookmark_toggle {
   float: right;
 
