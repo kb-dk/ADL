@@ -3,15 +3,12 @@ class CatalogController < ApplicationController
 
   include Blacklight::Catalog
 
-  self.search_params_logic += [:add_work_id]
-
   configure_blacklight do |config|
     ## Default parameters to send to solr for all search-like requests. See also SearchBuilder#processed_parameters
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => 'type_ssi:trunk',
-      # :fl => '* AND termfreq(text_tesim, $q)', # add the fulltext term frequence to the result docs
+      :fq => ['cat_ssi:work','type_ssi:trunk','application_ssim:ADL'],
       :hl => 'true',
       :'hl.snippets' => '3',
       :'hl.simple.pre' => '<em class="highlight" >',
@@ -31,7 +28,7 @@ class CatalogController < ApplicationController
     #  :qt => 'document',
     #  ## These are hard-coded in the blacklight 'document' requestHandler
     #  # :fl => '*',
-    #  # :rows => 1
+    #  # :rows => 1index_field
     #  # :q => '{!raw f=id v=$id}'
     #}
 
@@ -63,8 +60,7 @@ class CatalogController < ApplicationController
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
     # config.add_facet_field 'type_ssi', :label => 'Format'
-    config.add_facet_field 'author_ssi', :label => 'Forfatter', :single => true, :limit => 10
-    config.add_facet_field 'cat_ssi', :label => 'Kategori', helper_method: :translate_model_names
+    config.add_facet_field 'author_name_ssim', :label => 'Forfatter', :single => true, :limit => 10
 
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -89,15 +85,16 @@ class CatalogController < ApplicationController
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
     # config.add_index_field 'title_vern_display', :label => 'Title'
-    config.add_index_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
-    #config.add_index_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
-    config.add_index_field 'publisher_ssi', :label => 'Udgiver', short_form: true, itemprop: :publisher
-    config.add_index_field 'published_place_ssi', :label => 'Udgivelsessted', short_form: true
-    config.add_index_field 'published_date_ssi', :label => 'Udgivelsesdato', short_form: true
+    config.add_index_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
+    ## if we have no author_id_ssi (link to author portrait, just show the author name)
+    config.add_index_field 'author_name_tesim', :label => 'Forfatter',  short_form: true, itemprop: :author, unless: proc {|_context, _field_config, doc| doc['author_id_ssi'].present?}
+    config.add_index_field 'volume_title_tesim', :label => 'Anvendt udgave', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
+    # config.add_index_field 'publisher_tesim', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
+    config.add_index_field 'place_published_tesim', :label => 'Udgivelsessted', short_form: true
+    config.add_index_field 'date_published_ssi', :label => 'Udgivelsesdato', short_form: true
 
     # this adds basic highlighting to index results
-    #config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', helper_method: :present_snippets, short_form: true
-    config.add_index_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
+    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
@@ -129,17 +126,16 @@ class CatalogController < ApplicationController
 
 
     # Work show fields
-    config.add_show_field 'author_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
+    config.add_show_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
     #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
-    config.add_show_field 'publisher_ssi', :label => 'Udgiver'
-    config.add_show_field 'published_date_ssi', :label => 'Udgivelsesdato'
-    config.add_show_field 'published_place_ssi', :label => 'Udgivelsessted'
-    # don't show the volume field if we're on the landing page for that volume!
-    config.add_show_field 'volume_title_tesim', :label => 'Bog', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    config.add_show_field 'editor_ssi', :label => 'Redaktør'
+    config.add_show_field 'volume_title_tesim', :label => 'Anvendt udgave', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
+    config.add_show_field 'publisher_tesim', :label => 'Udgiver'
+    config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted'
+    config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato'
     #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
-    config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
+    #TODO: FIX
+    #config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
 
     # This overwrites the default blacklight sms_mappings so that
     # the sms tool is not shown.
@@ -151,7 +147,6 @@ class CatalogController < ApplicationController
     # to use for this use case.
     def show
       @response, @document = fetch URI.unescape(params[:id])
-      @document_empty = !FileServer.doc_has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
@@ -172,11 +167,19 @@ class CatalogController < ApplicationController
 
     def facsimile
       @response, @document = fetch URI.unescape(params[:id])
-      @document_empty = !FileServer.doc_has_text(@document.id)
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.pdf { send_pdf(@document, 'image') }
       end
+    end
+
+
+    def authors
+      (@response, @document_list) = search_results(params) do |builder|
+        builder.set_to_all_authors_search
+        builder
+      end
+      render "index"
     end
 
     # common method for rendering pdfs based on wicked_pdf
@@ -185,14 +188,20 @@ class CatalogController < ApplicationController
     def send_pdf(document, type)
       name = document['work_title_tesim'].first.strip rescue document.id
       path = Rails.root.join('public', 'pdfs', "#{document.id.gsub('/', '_')}_#{type}.pdf")
-      solr_timestamp = Time.parse(document.to_hash['timestamp'])
+      solr_timestamp = Time.parse(document['timestamp'])
       file_mtime = File.mtime(path) if File.exist? path.to_s
       # display the cached pdf if solr doc timestamp is older than the file's modified date
       if File.exist? path.to_s and ((type == 'text' and solr_timestamp < file_mtime) or type == 'image')
-          send_file path.to_s, type: 'application/pdf', disposition: :inline, filename: name+".pdf"
+        send_file path.to_s, type: 'application/pdf', disposition: :inline, filename: name+".pdf"
       else
-        render pdf: name, footer: { right: '[page] af [topage] sider' },
-               save_to_file: path
+        render pdf: name,
+               footer: {right: '[page] af [topage] sider'},
+               save_to_file: path,
+               header: {html: {template: 'shared/pdf_header.pdf.erb'},
+                        spacing: 5},
+               margin: {top: 15, # default 10 (mm)
+                        bottom: 15}
+
       end
     end
 
@@ -227,10 +236,8 @@ class CatalogController < ApplicationController
     # since we aren't specifying it otherwise. 
     
     config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
-      # add the fulltext term frequence to the result docs
-      field.solr_parameters = {
-          :fq => 'type_ssi:trunk',
-          :fl => '* AND termfreq(text_tesim, $q)'
+      field.solr_local_parameters = {
+          :qf => 'author_name_tesim^5 work_title_tesim^5 text_tesim'
       }
     end
     
@@ -247,16 +254,14 @@ class CatalogController < ApplicationController
       # Solr parameter de-referencing like $title_qf.
       # See: http://wiki.apache.org/solr/LocalParams
       field.solr_local_parameters = { 
-        :qf => '$title_qf',
-        :pf => '$title_pf'
+        :qf => 'work_title_tesim',
       }
     end
     
     config.add_search_field(I18n.t'blacklight.search.form.search.author') do |field|
       field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
       field.solr_local_parameters = { 
-        :qf => '$author_qf',
-        :pf => '$author_pf'
+        :qf => 'author_name_tesim',
       }
     end
 
@@ -305,5 +310,13 @@ class CatalogController < ApplicationController
     else
       mail.deliver
     end
+  end
+
+  def is_text_search?
+    ['authors','periods'].exclude? action_name
+  end
+
+  def has_search_parameters?
+    super || !is_text_search?
   end
 end 

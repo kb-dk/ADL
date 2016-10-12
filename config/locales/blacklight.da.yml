@@ -44,6 +44,8 @@ da:
       no_bookmarks: 'Du har ingen bogmærker'
       add:
         button: 'Tilføj til bogmærker'
+        title: 'Bogmærker'
+
         success:
           one: 'Dit bogmærke er blevet gemt.'
           other: 'Dine bogmærker er blevet gemt.'
@@ -191,13 +193,15 @@ da:
         q: 'Søg...'
         submit: 'Søg'
         search:
-          placeholder: 'Søg'
-          all_filters: 'Alt'
+          placeholder: 'Indtast bogtitel, forfatternavn eller ord og begreber der fremkommer i bogen'
+          all_filters: 'Fritekst'
           title: 'Titel'
           author: 'Forfatter'
         sort:
           relevance: 'Relevans'
           author: 'Forfatter'
+      page_title:
+       title: 'Arkiv for Dansk Litteratur'
       pagination:
         title: 'Results navigation'
       pagination_info:
