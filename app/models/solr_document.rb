@@ -97,16 +97,15 @@ class SolrDocument
   def export_as_apa_citation_txt
     doc = self
     cite = ""
-    cite +=  doc['author_name'].first + ", " unless doc['author_name'].blank?
-    cite +=  doc['published_date_ssi'] + ", " unless doc['published_date_ssi'].blank?
+    cite +=  doc['author_name_ssim'].first + ", " unless doc['author_name_ssim'].blank?
+    cite +=  doc['date_published_ssi'] + ", " unless doc['date_published_ssi '].blank?
     cite +=  "<i>"+doc['work_title_tesim'].first + "</i>, " unless doc['work_title_tesim'].blank?
     # check if the work is a book
     if !doc['volume_title_tesim'].blank? and doc['volume_title_tesim'] != doc['work_title_tesim']
       cite +=  I18n.t('blacklight.from') + "<i>" + doc['volume_title_tesim'].first + "</i>, "
     end
-    cite +=  doc['publisher_ssi'] + " " unless doc['publisher_ssi'].blank?
-    cite +=  doc['published_place_ssi'] + ", " unless doc['published_place_ssi'].blank?
-    cite +=  I18n.t('blacklight.retrieve') + doc['url_ssi']
+    cite +=  doc['publisher_tesim'].first + " " unless doc['publisher_tesim'].blank?
+    cite +=  doc['place_published_tesim'].first unless doc['place_published_tesim'].blank?
     cite.html_safe
   end
 
