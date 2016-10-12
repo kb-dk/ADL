@@ -49,7 +49,7 @@ module ApplicationHelper
   end
 
   def search_type_link(type, label)
-    link_to label, '#', data: { search_type: type,  no_turbolink: true }
+    link_to label, '#', data: { search_type: type}
   end
 
   # Generic method to create glyphicon icons
