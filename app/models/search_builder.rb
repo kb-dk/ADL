@@ -6,7 +6,8 @@ class SearchBuilder < Blacklight::SearchBuilder
   def restrict_to_author_id solr_params
     if (blacklight_params[:authorid].present?)
       solr_params[:fq] ||= []
-      solr_params[:fq] << "author_id_ssim:#{blacklight_params[:authorid]}"
+      solr_params[:fq] << "author_id_ssi:#{blacklight_params[:authorid]}"
+      solr_params[:fq] << "cat_ssi:work"
     end
   end
 
