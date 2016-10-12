@@ -193,6 +193,11 @@ class CatalogController < ApplicationController
       render "index"
     end
 
+    def allworks
+      (@response, @document_list) = search_results(params)
+      render "index"
+    end
+
     # common method for rendering pdfs based on wicked_pdf
     # cache files in the public folder based on their id
     # perhaps using the Solr document modified field
@@ -334,7 +339,7 @@ class CatalogController < ApplicationController
   end
 
   def is_text_search?
-    ['authors','periods'].exclude? action_name
+    ['authors','periods',"allworks"].exclude? action_name
   end
 
   def has_search_parameters?
