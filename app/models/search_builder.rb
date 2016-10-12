@@ -1,6 +1,15 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
 
+  self.default_processor_chain += [:restrict_to_author_id]
+
+  def restrict_to_author_id solr_params
+    if (blacklight_params[:authorid].present?)
+      solr_params[:fq] ||= []
+      solr_params[:fq] << "author_id_ssim:#{blacklight_params[:authorid]}"
+    end
+  end
+
   def part_of_volume_search solr_params
     solr_params[:fq] = []
     solr_params[:fq] << "cat_ssi:work"
