@@ -109,6 +109,8 @@ a { // Not underline anything and no background
     color: #dcd2ab;
     font-size: 25px;
     font-weight: normal;
+    z-index: 1031;
+
     dl{
       font-size: 14px;
     }
@@ -277,3 +279,14 @@ a[name]::before {
     font-size: 12px;
   }
 }
+
+ #text-landing-page{
+   .contentContainer{
+     margin: auto !important;
+   }
+   .page-header{
+   }
+ }
+ .indexPage.shown{
+  display: none;
+ }
