@@ -1,0 +1,12 @@
+<% document ||= @document %>
+
+Indeholder følgende værk:
+<div class="col-md-12 contentContainer">
+  <dl>
+
+
+<% @work_docs.each do |doc| %>
+   <dd><%= link_to doc['work_title_tesim'].join, solr_document_path(doc['id']) %></dd>
+<% end %>
+</dl>
+</div>

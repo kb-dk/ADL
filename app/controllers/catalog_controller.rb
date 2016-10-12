@@ -147,6 +147,18 @@ class CatalogController < ApplicationController
     # to use for this use case.
     def show
       @response, @document = fetch URI.unescape(params[:id])
+
+      # if we are showing a volume, fetch list of all works in the volume
+      if @document['cat_ssi'].starts_with? 'volume'
+        (@work_resp, @work_docs) = search_results({}) do |builder|
+          if respond_to? (:blacklight_config)
+            builder = blacklight_config.search_builder_class.new([:default_solr_parameters,:part_of_volume_search],builder)
+            builder = builder.with({volumeid: @document['volume_id_ssi']})
+            builder
+          end
+        end
+      end
+
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
@@ -176,8 +188,7 @@ class CatalogController < ApplicationController
 
     def authors
       (@response, @document_list) = search_results(params) do |builder|
-        builder.set_to_all_authors_search
-        builder
+        search_builder_class.new([:default_solr_parameters,:build_all_authors_search],builder)
       end
       render "index"
     end
@@ -275,6 +286,7 @@ class CatalogController < ApplicationController
     end
 
     config.add_search_field('leaf') do |field|
+      field.include_in_simple_select = false
       field.solr_parameters = { :fq => 'type_ssi:leaf' }
       field.solr_local_parameters = {
           :qf => '$text_qf',
