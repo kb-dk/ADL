@@ -235,7 +235,7 @@ class CatalogController < ApplicationController
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise. 
     
-    config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|
+    config.add_search_field('Alt',label: I18n.t('blacklight.search.form.search.all_filters')) do |field|
       field.solr_parameters = {
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk']
       }
@@ -249,7 +249,7 @@ class CatalogController < ApplicationController
     # case for a BL "search field", which is really a dismax aggregate
     # of Solr search fields. 
     
-    config.add_search_field(I18n.t'blacklight.search.form.search.title') do |field|
+    config.add_search_field('title', label: I18n.t('blacklight.search.form.search.title')) do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
       field.solr_parameters = {
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
@@ -264,7 +264,7 @@ class CatalogController < ApplicationController
       }
     end
     
-    config.add_search_field(I18n.t'blacklight.search.form.search.author') do |field|
+    config.add_search_field('author', label: I18n.t('blacklight.search.form.search.author')) do |field|
       field.solr_parameters = {
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
         :'spellcheck.dictionary' => 'author'
