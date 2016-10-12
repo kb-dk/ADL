@@ -11,11 +11,14 @@
         <div id="content" class="content-not-main">
           <div class="container">
             <div class="row">
-          <%= render 'search_results' %>
-
               <div id="sidebar" class="<%= sidebar_classes %>">
                 <%= render 'search_sidebar' %>
               </div>
+              <div class="col-md-9 col-sm-8">
+          <%= render 'search_results' %>
+              </div>
+
+
             </div>
           </div>
         </div>
