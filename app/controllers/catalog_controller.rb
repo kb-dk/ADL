@@ -135,7 +135,7 @@ class CatalogController < ApplicationController
     #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
     #TODO: FIX
-    #config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
+    add_show_tools_partial :feedback, callback: :email_action, if: proc { |attrs| attrs.class == CatalogController}
 
     # This overwrites the default blacklight sms_mappings so that
     # the sms tool is not shown.
@@ -153,16 +153,6 @@ class CatalogController < ApplicationController
         format.pdf { send_pdf(@document, 'text') }
         additional_export_formats(@document, format)
       end
-    end
-
-    def feedback
-      @response, @document = fetch URI.unescape(params[:id])
-      @report = ""
-      #@report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
-      @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
-      @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
-      @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
-      render layout: nil
     end
 
     def facsimile
@@ -311,6 +301,18 @@ class CatalogController < ApplicationController
       mail.deliver
     end
   end
+
+
+  def feedback
+    @response, @document = fetch URI.unescape(params[:id])
+    @report = ""
+    #@report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+    @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
+    @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
+    @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
+    render layout: nil
+  end
+
 
   def is_text_search?
     ['authors','periods'].exclude? action_name
