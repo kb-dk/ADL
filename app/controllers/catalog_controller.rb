@@ -8,7 +8,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => ['cat_ssi:work','type_ssi:trunk','application_ssim:ADL'],
+      :fq => ['application_ssim:ADL'],
       :hl => 'true',
       :'hl.snippets' => '3',
       :'hl.simple.pre' => '<em class="highlight" >',
@@ -233,7 +233,10 @@ class CatalogController < ApplicationController
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise. 
     
-    config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
+    config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|
+      field.solr_parameters = {
+          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk']
+      }
       field.solr_local_parameters = {
           :qf => 'author_name_tesim^5 work_title_tesim^5 text_tesim'
       }
@@ -246,7 +249,10 @@ class CatalogController < ApplicationController
     
     config.add_search_field(I18n.t'blacklight.search.form.search.title') do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
-      field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
+      field.solr_parameters = {
+          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
+          :'spellcheck.dictionary' => 'title'
+      }
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
       # Solr parameter de-referencing like $title_qf.
@@ -257,7 +263,10 @@ class CatalogController < ApplicationController
     end
     
     config.add_search_field(I18n.t'blacklight.search.form.search.author') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
+      field.solr_parameters = {
+          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
+        :'spellcheck.dictionary' => 'author'
+      }
       field.solr_local_parameters = { 
         :qf => 'author_name_tesim',
       }
