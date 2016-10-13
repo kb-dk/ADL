@@ -28,6 +28,14 @@ class SearchBuilder < Blacklight::SearchBuilder
     solr_params[:rows] = 10000
   end
 
+  def build_all_periods_search solr_params = {}
+    solr_params[:fq] = []
+    solr_params[:fq] << 'cat_ssi:period'
+    solr_params[:sort] = []
+    solr_params[:sort] << 'id asc'
+    solr_params[:rows] = 10000
+  end
+
   def add_timestamp_interval solr_params
     timeinterval_string = '['+ (blacklight_params[:from].present? ? blacklight_params[:from] : '*')
     timeinterval_string += ' TO '

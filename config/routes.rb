@@ -32,5 +32,6 @@ Rails.application.routes.draw do
   get 'oai' => 'catalog#oai'
   get '/catalog/:id/feedback' => 'catalog#feedback', as: 'feedback_catalog'
   get '/authors' => 'catalog#authors'
+  get '/periods' => 'catalog#periods'
   get '/allworks/:authorid' => 'catalog#allworks'
 end
