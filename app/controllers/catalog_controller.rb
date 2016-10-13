@@ -159,6 +159,17 @@ class CatalogController < ApplicationController
         end
       end
 
+      #if we are showin a period, fetch a list of authors
+      if @document['cat_ssi'].starts_with? 'period'
+        (@auth_resp, @auth_docs) = search_results({}) do |builder|
+          if respond_to? (:blacklight_config)
+            builder = blacklight_config.search_builder_class.new([:default_solr_parameters,:build_authors_in_period_search],builder)
+            builder = builder.with({perioid: @document['id']})
+            builder
+          end
+        end
+      end
+
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }

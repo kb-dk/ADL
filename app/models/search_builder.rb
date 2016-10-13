@@ -24,7 +24,7 @@ class SearchBuilder < Blacklight::SearchBuilder
     solr_params[:fq] << 'cat_ssi:author'
     solr_params[:fq] << 'type_ssi:work'
     solr_params[:sort] = []
-    solr_params[:sort] << 'id asc'
+    solr_params[:sort] << 'work_title_ssi asc'
     solr_params[:rows] = 10000
   end
 
@@ -33,6 +33,15 @@ class SearchBuilder < Blacklight::SearchBuilder
     solr_params[:fq] << 'cat_ssi:period'
     solr_params[:sort] = []
     solr_params[:sort] << 'id asc'
+    solr_params[:rows] = 10000
+  end
+
+  def build_authors_in_period_search solr_params = {}
+    solr_params[:fq] = []
+    solr_params[:fq] << 'cat_ssi:author'
+    solr_params[:fq] << "perioid_ssi:#{blacklight_params[:perioid]}"
+    solr_params[:sort] = []
+    solr_params[:sort] << 'work_title_ssi asc'
     solr_params[:rows] = 10000
   end
 

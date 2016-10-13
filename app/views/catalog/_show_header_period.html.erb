@@ -9,6 +9,11 @@
         <dl class="dl-horizontal  dl-invert">
           <dt class="blacklight-author_name_tesim">Periode beskrivelse af</dt>
           <dd class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></dd>
+          <dt class="blacklight-author_name_tesim">Forfattere i ADL</dt>
+          <dd>
+          <% @auth_docs.each do |doc| %>
+            <%= link_to doc['work_title_tesim'].join, solr_document_path(doc['id']) %>
+            <% end %></dd>
         </dl>
       </div>
     </div>
