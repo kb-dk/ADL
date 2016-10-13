@@ -186,6 +186,13 @@ class CatalogController < ApplicationController
     end
 
 
+    def periods
+      (@response, @document_list) = search_results(params) do |builder|
+        search_builder_class.new([:default_solr_parameters,:build_all_periods_search],builder)
+      end
+      render "index"
+    end
+
     def authors
       (@response, @document_list) = search_results(params) do |builder|
         search_builder_class.new([:default_solr_parameters,:build_all_authors_search],builder)
