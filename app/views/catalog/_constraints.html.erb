@@ -2,11 +2,15 @@
 
       <!--<div id="appliedParams" class="clearfix constraints-container">-->
         <!--<div class="row">-->
-        <div class="pull-left">
+        <div id="appliedParams" class="panel">
+          <div class="panel-heading">
           <span class="constraints-label"><%= t('blacklight.search.filters.title') %></span>
+          </div>
+          <div class="panel-body">
           <%= render_constraints(params) %>
+          </div>
         </div>
-        <div class="pull-right">
+        <div class="row new-search">
           <%=link_to t('blacklight.search.start_over'), start_over_path, :class => "catalog_startOverLink btn btn-text", :id=>"startOverLink" %>
         </div>
         <!--</div>-->
