@@ -10,6 +10,7 @@
           <dt class="blacklight-author_name_tesim">Forfatterportræt af</dt>
           <dd class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></dd>
         </dl>
+        <%= link_to "Værker i ADL", "/?utf8=✓&search_field=author&q=#{document['work_title_tesim'].try(:join)}" %>
       </div>
     </div>
   </div>
