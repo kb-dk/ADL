@@ -174,6 +174,12 @@ class CatalogController < ApplicationController
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
         format.pdf { send_pdf(@document, 'text') }
+        format.xml do
+          if @document['cat_ssi'] == 'volume'
+            data = FileServer.get_file("/texts/#{@document['volume_id_ssi']}.xml")
+            send_data data, type: 'application/xml'
+          end
+        end
         additional_export_formats(@document, format)
       end
     end
@@ -300,6 +306,24 @@ class CatalogController < ApplicationController
           :qf => '$text_qf',
           :pf => '$text_pf',
           :hl => 'true',
+      }
+    end
+
+    config.add_search_field('oai_time') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
+      }
+      field.solr_local_parameters = {
+          :fl => 'timestamp'
+      }
+    end
+
+
+    config.add_search_field('oai_search') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
       }
     end
 
