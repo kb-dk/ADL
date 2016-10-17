@@ -7,10 +7,14 @@
     <div class="col-md-12">
         <h2><span class="glyphicon glyphicon-file"></span> <%= document['work_title_tesim'].first %></h2>
         <dl class="dl-horizontal  dl-invert">
-          <dt class="blacklight-author_name_tesim">Forfatterportræt af</dt>
+          <dt class="blacklight-author_name_tesim">Periode beskrivelse af</dt>
           <dd class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></dd>
+          <dt class="blacklight-author_name_tesim">Forfattere i ADL</dt>
+          <dd>
+          <% @auth_docs.each do |doc| %>
+            <%= link_to doc['work_title_tesim'].join, solr_document_path(doc['id']) %>
+            <% end %></dd>
         </dl>
-        <%= link_to "Værker i ADL", "/?utf8=✓&search_field=author&q=#{document['work_title_tesim'].try(:join)}", :class => "btn btn-link btn-lg" %>
       </div>
     </div>
   </div>

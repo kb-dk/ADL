@@ -159,6 +159,17 @@ class CatalogController < ApplicationController
         end
       end
 
+      #if we are showin a period, fetch a list of authors
+      if @document['cat_ssi'].starts_with? 'period'
+        (@auth_resp, @auth_docs) = search_results({}) do |builder|
+          if respond_to? (:blacklight_config)
+            builder = blacklight_config.search_builder_class.new([:default_solr_parameters,:build_authors_in_period_search],builder)
+            builder = builder.with({perioid: @document['id']})
+            builder
+          end
+        end
+      end
+
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
@@ -176,10 +187,22 @@ class CatalogController < ApplicationController
     end
 
 
+    def periods
+      (@response, @document_list) = search_results(params) do |builder|
+        search_builder_class.new([:default_solr_parameters,:build_all_periods_search],builder)
+      end
+      render "index"
+    end
+
     def authors
       (@response, @document_list) = search_results(params) do |builder|
         search_builder_class.new([:default_solr_parameters,:build_all_authors_search],builder)
       end
+      render "index"
+    end
+
+    def allworks
+      (@response, @document_list) = search_results(params)
       render "index"
     end
 
@@ -291,8 +314,8 @@ class CatalogController < ApplicationController
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => (I18n.t'blacklight.search.form.sort.relevance')
     # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
-    config.add_sort_field 'author_sort asc', :label => (I18n.t'blacklight.search.form.sort.author')
-    # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
+    config.add_sort_field 'author_name_ssi asc', :label => (I18n.t'blacklight.search.form.sort.author')
+    config.add_sort_field 'work_title_ssi asc', :label => 'Titel'
 
     # If there are more than this many search results, no spelling ("did you 
     # mean") suggestion is offered.
@@ -336,7 +359,7 @@ class CatalogController < ApplicationController
 
 
   def is_text_search?
-    ['authors','periods'].exclude? action_name
+    ['authors','periods',"allworks"].exclude? action_name
   end
 
   def has_search_parameters?
