@@ -94,7 +94,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'date_published_ssi', :label => 'Udgivelsesdato', short_form: true
 
     # this adds basic highlighting to index results
-    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
+    # config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
@@ -233,11 +233,6 @@ class CatalogController < ApplicationController
     # to avoid messing up previous and next links
     def start_new_search_session?
       action_name == "index" && params['search_field'] != 'leaf'
-    end
-
-    #overwritten to get highlighting included in the json results
-    def render_search_results_as_json
-      {response: {docs: @document_list, facets: search_facets_as_json, highlighting: @response['highlighting'], pages: pagination_info(@response)}}
     end
 
 
