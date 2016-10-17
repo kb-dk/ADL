@@ -234,12 +234,7 @@ class CatalogController < ApplicationController
     def start_new_search_session?
       action_name == "index" && params['search_field'] != 'leaf'
     end
-
-    #overwritten to get highlighting included in the json results
-    def render_search_results_as_json
-      {response: {docs: @document_list, facets: search_facets_as_json, highlighting: @response['highlighting'], pages: pagination_info(@response)}}
-    end
-
+    
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for blacklight::SearchFields
