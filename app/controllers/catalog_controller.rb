@@ -174,6 +174,12 @@ class CatalogController < ApplicationController
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
         format.pdf { send_pdf(@document, 'text') }
+        format.xml do
+          if @document['cat_ssi'] == 'volume'
+            data = FileServer.get_file("/texts/#{@document['volume_id_ssi']}.xml")
+            send_data data, type: 'application/xml'
+          end
+        end
         additional_export_formats(@document, format)
       end
     end

@@ -113,6 +113,26 @@ class FileServer
     self.get(uri)
   end
 
+  def self.get_file(path)
+    uri = URI.parse("#{Rails.application.config_for(:adl)["temp_snippet_server_url"]}#{path}")
+    begin
+      result = Net::HTTP.start(uri.host,uri.port) { |http|
+        http.read_timeout = 20
+        res = http.request_get(URI(uri))
+        if res.code == "200"
+          result = res.body
+        else
+          result ="<div class='alert alert-danger'>Unable to connect to data server</div>"
+        end
+        result
+      }
+    rescue Net::OpenTimeout, Net::ReadTimeout => e
+      Rails.logger.error "Could not connect to #{uri}"
+      Rails.logger.error e
+      result ="<div class='alert alert-danger'>Unable to connect to data server</div>"
+    end
+  end
+
   private
 
   def self.contruct_url(base, script, opts={})
