@@ -512,7 +512,7 @@ function getURLParameter(url,name) {
 }
 
 // FIXME: When is this called? If it is debris, it should be cleaned up /HAFE
-function index_work_search(full_id, volume_id, target_selector, text_label_id){
+function index_work_search(volume_id, target_selector, text_label_id){
     volume_id = encodeURIComponent(volume_id);
     qselector = $('#q.search_q.q.form-control');
     q = encodeURIComponent($(qselector).val());
@@ -531,7 +531,7 @@ function index_work_search(full_id, volume_id, target_selector, text_label_id){
                 if (matches_num>0) {
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
-                        $(target_selector).append('<p><a href="/solr_documents/'+full_id+(ADL.pageType === 'text' ? extractDivId(docs[i].id) : '#' + docs[i].page_id_ssi)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                        $(target_selector).append('<p><a href="/solr_documents/'+volume_id+(ADL.pageType === 'text' ? extractDivId(docs[i].id) : '#' + docs[i].page_id_ssi)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                     }
                 }else{$(text_label_id).hide();}
             }

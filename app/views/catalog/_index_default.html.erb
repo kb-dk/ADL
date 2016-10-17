@@ -60,6 +60,6 @@
 <%= javascript_tag do %>
     $(document).ready(
             function () {
-                index_work_search("<%= document['id'] %>", "<%= document['volume_id_ssi'] %>", $('#<%= result_id %>'), $('#<%= text_label_id %>'));
+                index_work_search("<%= document['id'] %>", $('#<%= result_id %>'), $('#<%= text_label_id %>'));
             });
 <% end %>
