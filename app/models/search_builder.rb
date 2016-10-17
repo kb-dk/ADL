@@ -1,7 +1,7 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
 
-  self.default_processor_chain += [:restrict_to_author_id]
+  self.default_processor_chain += [:restrict_to_author_id, :add_timestamp_interval]
 
   def restrict_to_author_id solr_params
     if (blacklight_params[:authorid].present?)

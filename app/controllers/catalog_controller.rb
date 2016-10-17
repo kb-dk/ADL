@@ -308,6 +308,24 @@ class CatalogController < ApplicationController
       }
     end
 
+    config.add_search_field('oai_time') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
+      }
+      field.solr_local_parameters = {
+          :fl => 'timestamp'
+      }
+    end
+
+
+    config.add_search_field('oai_search') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
+      }
+    end
+
     # "sort results by" select (pulldown)
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
