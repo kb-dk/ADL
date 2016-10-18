@@ -150,11 +150,28 @@ a {
   .header-container {
     position: relative;
   }
+  .page-heading{
+    margin-top: 0;
+    line-height: 94px;
+  }
+  article.container{
+    @extend .document;
+    margin-right: 0;
+    margin-left: 0;
+    width: 100% !important;
+  }
+  #politik {
+    padding-left: 29px;
+    padding-right: 29px;
+
+  }
+
   h1[itemprop="headline"]{
     @extend .container;
     @extend .search-bg;
-    margin-top: 20px !important;
+    margin-top: 0px !important;
     font-size: 30px;
+    line-height: 94px;
   }
   .page-header {
     @extend .box-gradient-blue;
