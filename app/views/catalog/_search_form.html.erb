@@ -1,7 +1,6 @@
 <div class="search-not-main box-gradient-blue fixed-top-second">
   <div class="container search-bg">
     <%= form_tag search_action_url, :method => :get, :class => 'search ' do %>
-        <%= render_hash_as_hidden_fields(search_state.params_for_search.except(:q, :search_field, :qt, :page, :utf8)) %>
         <div class="input-group input-group-lg search-form-with-tooltips">
           <% unless search_fields.empty? %>
               <label for="search_field" class="sr-only">
