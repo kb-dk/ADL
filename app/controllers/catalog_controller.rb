@@ -61,7 +61,7 @@ class CatalogController < ApplicationController
     # facet bar
     # config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'author_name_ssim', :label => 'Forfatter', :single => true, :limit => 10, :collapse => false
-    config.add_facet_field 'perioid_ssi', :label => 'Periode', :single => true, :limit => 10, :collapse => false
+    config.add_facet_field 'perioid_ssi', :label => 'Periode', :single => true, :limit => 10, :collapse => false, helper_method: :get_period_name
 
 
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20

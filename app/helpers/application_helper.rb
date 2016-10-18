@@ -1,5 +1,20 @@
 module ApplicationHelper
 
+  def get_period_name value
+    res = value
+    if controller.present?
+      begin
+        resp, doc = controller.fetch(value)
+        if doc['work_title_tesim'].present?
+          res = doc['work_title_tesim'].join(' ')
+        end
+      rescue Exception => e
+        logger.error("Could not get period name #{value} #{e.message}")
+      end
+    end
+    res
+  end
+
   def show_volume args
     id = args[:document]['volume_id_ssi']
     return unless id.present?
