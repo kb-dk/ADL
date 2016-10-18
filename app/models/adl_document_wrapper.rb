@@ -29,7 +29,7 @@ class AdlDocumentWrapper < ::OAI::Provider::Model
     if :all == selector
       response, records  = @controller.search_results({:search_field => 'oai_search',:sort => @timestamp_field + ' asc', :rows => @limit, :from => options[:from].utc.iso8601, :until => options[:until].utc.iso8601})
 
-      if @limit && response.total >= @limit
+      if @limit && response.total > @limit
         return select_partial(OAI::Provider::ResumptionToken.new(options.merge({:last => 0})))
       end
     else
@@ -39,11 +39,15 @@ class AdlDocumentWrapper < ::OAI::Provider::Model
   end
 
   def select_partial token
-    records = @controller.search_results({:search_field => 'oai_search', :sort => @timestamp_field + ' asc', :rows => @limit, :from => token.from.utc.iso8601, :until => token.until.utc.iso8601, :page => token.last/@limit + 1}).last
+    response, records = @controller.search_results({:search_field => 'oai_search', :sort => @timestamp_field + ' asc', :rows => @limit, :from => token.from.utc.iso8601, :until => token.until.utc.iso8601, :page => token.last/@limit + 1})
 
     raise ::OAI::ResumptionTokenException.new unless records
 
-    OAI::Provider::PartialResult.new(records, token.next(token.last+@limit))
+    if @limit && response.total > token.last + @limit
+      OAI::Provider::PartialResult.new(records, token.next(token.last+@limit))
+    else
+      records
+    end
   end
 
   def next_set(token_string)
