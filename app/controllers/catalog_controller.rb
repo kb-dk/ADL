@@ -96,7 +96,7 @@ class CatalogController < ApplicationController
     config.add_index_field 'date_published_ssi', :label => 'Udgivelsesdato', short_form: true
 
     # this adds basic highlighting to index results
-    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
+    # config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
     #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
     # comment this out because we're not using the default highlighting config
@@ -242,7 +242,7 @@ class CatalogController < ApplicationController
     def start_new_search_session?
       action_name == "index" && params['search_field'] != 'leaf'
     end
-    
+
 
     # "fielded" search configuration. Used by pulldown among other places.
     # For supported keys in hash, see rdoc for blacklight::SearchFields

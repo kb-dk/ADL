@@ -1,7 +1,16 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
 
-  self.default_processor_chain += [:restrict_to_author_id, :add_timestamp_interval]
+  self.default_processor_chain += [:restrict_to_author_id, :add_work_id, :add_timestamp_interval]
+
+  def add_work_id solr_params
+    if blacklight_params[:search_field] == 'leaf' && blacklight_params[:workid].present?
+      solr_params[:fq] ||= []
+      workid = blacklight_params[:workid]
+      workid = "#{workid}*" unless workid.include? '*'
+      solr_params[:fq] << "part_of_ssim:#{workid}"
+    end
+  end
 
   def restrict_to_author_id solr_params
     if (blacklight_params[:authorid].present?)

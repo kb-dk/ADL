@@ -512,8 +512,8 @@ function getURLParameter(url,name) {
 }
 
 // FIXME: When is this called? If it is debris, it should be cleaned up /HAFE
-function index_work_search(workid, target_selector, text_label_id){
-    workid = encodeURIComponent(workid);
+function index_work_search(id, target_selector, text_label_id){
+    id = encodeURIComponent(id);
     qselector = $('#q.search_q.q.form-control');
     q = encodeURIComponent($(qselector).val());
     if (!q.trim()){
@@ -521,17 +521,17 @@ function index_work_search(workid, target_selector, text_label_id){
     }else{
         $.ajax({
             type: 'GET',
-            url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+workid,
+            url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+id,
             datatype: 'json',
             success: function(data) {
                 $(target_selector).empty();
-                docs = data.response.docs
+                docs = data.response.docs;
                 highlighting = data.response.highlighting;
                 matches_num = data.response.pages.total_count;
                 if (matches_num>0) {
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
-                        $(target_selector).append('<p><a href="/catalog/'+workid+(ADL.pageType === 'text' ? extractDivId(docs[i].id) : '#' + docs[i].page_id_ssi)+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                        $(target_selector).append('<p><a href="/solr_documents/'+id+ '#' + docs[i].page_id_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                     }
                 }else{$(text_label_id).hide();}
             }
