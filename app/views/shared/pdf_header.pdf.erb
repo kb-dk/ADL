@@ -6,8 +6,9 @@
     <% wicked_pdf_javascript_include_tag "number_pages" %>
 
     <div id="pdf_header">
-      Hentet fra Arkiv for Dansk Litteratur -
-      Bog: <%= @document['volume_title_tesim'].first %>
+      <%= @document['author_name_ssim'].first+',' unless @document['author_name_ssim'].empty? %>
+      <i><%= @document['volume_title_tesim'].first+',' unless @document['volume_title_tesim'].empty? %></i>
+      <%= @document['date_published_ssi'] unless @document['date_published_ssi'].empty? %>
     </div>
   </head>
 </html>
