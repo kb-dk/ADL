@@ -61,6 +61,8 @@ class CatalogController < ApplicationController
     # facet bar
     # config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'author_name_ssim', :label => 'Forfatter', :single => true, :limit => 10, :collapse => false
+    config.add_facet_field 'perioid_ssi', :label => 'Periode', :single => true, :limit => 10, :collapse => false
+
 
     # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
     # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
@@ -174,6 +176,12 @@ class CatalogController < ApplicationController
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
         format.pdf { send_pdf(@document, 'text') }
+        format.xml do
+          if @document['cat_ssi'] == 'volume'
+            data = FileServer.get_file("/texts/#{@document['volume_id_ssi']}.xml")
+            send_data data, type: 'application/xml'
+          end
+        end
         additional_export_formats(@document, format)
       end
     end
@@ -300,6 +308,24 @@ class CatalogController < ApplicationController
           :qf => '$text_qf',
           :pf => '$text_pf',
           :hl => 'true',
+      }
+    end
+
+    config.add_search_field('oai_time') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
+      }
+      field.solr_local_parameters = {
+          :fl => 'timestamp'
+      }
+    end
+
+
+    config.add_search_field('oai_search') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
       }
     end
 
