@@ -150,6 +150,12 @@ a {
   .header-container {
     position: relative;
   }
+  h1[itemprop="headline"]{
+    @extend .container;
+    @extend .search-bg;
+    margin-top: 20px !important;
+    font-size: 30px;
+  }
   .page-header {
     @extend .box-gradient-blue;
     position: fixed;
@@ -413,6 +419,9 @@ button#search {
 
 .frontpage-content {
   margin-top: 280px;
+  .text{
+    padding:0px 15px;
+  }
 }
 
 .pageFooter {
@@ -539,4 +548,8 @@ footer.pageFooter{
 }
 .period-writers-list{
   padding: 20px 15px;
+}
+.indented{
+  margin-left: 10px;
+  margin-right: 10px;
 }
