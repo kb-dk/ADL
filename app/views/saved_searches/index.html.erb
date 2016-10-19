@@ -1,33 +1,36 @@
-<div id="content" class="container">
+<div id="content" >
   <div class="page-header">
-    <h1 class='page-heading'><span class="glyphicon glyphicon-search"></span> <%= t('blacklight.saved_searches.title') %></h1>
+    <div class="container search-bg">
+
+    <h2 class='page-heading'><%= t('blacklight.saved_searches.title') %></h2>
+      </div>
   </div>
-
-
+  <div class="container">
+    <div class="content-header">
 <%- if current_or_guest_user.blank? -%>
   
-  <p class='section-heading lead'><%= t('blacklight.saved_searches.need_login') %></p>
+  <h3 class='section-heading'><%= t('blacklight.saved_searches.need_login') %></h3>
   
 <%- elsif @searches.blank? -%>
-
-  <p class='section-heading lead'><%= t('blacklight.saved_searches.no_searches') %></p>
+  
+  <h3 class='section-heading'><%= t('blacklight.saved_searches.no_searches') %></h3>
   
 <%- else -%>
-
-  <%= link_to t('blacklight.saved_searches.clear.action_title'), clear_saved_searches_path, :method => :delete, :data => { :confirm => t('blacklight.saved_searches.clear.action_confirm') }, :class => 'btn btn-danger pull-right'  %>
-
-
+  <p>
+  <%= link_to t('blacklight.saved_searches.clear.action_title'), blacklight.clear_saved_searches_path, :method => :delete, :data => { :confirm => t('blacklight.saved_searches.clear.action_confirm') } %>
+  </p>
   <h3 class='section-heading'><%= t('blacklight.saved_searches.list_title') %></h3>
+          </div>
 
   <table class="table table-striped">
   <%- @searches.each do |search| -%>
     <tr>
       <td><%= link_to_previous_search(search.query_params) %></td>
-      <td class="text-right"><%= button_to t('blacklight.saved_searches.delete'), forget_search_path(search.id), :class => 'btn btn-danger' %></td>
+      <td><%= button_to t('blacklight.saved_searches.delete'), blacklight.forget_search_path(search.id), :class => 'btn btn-danger' %></td>
     </tr>
   <%- end -%>
   </table>
 
 <%- end -%>
-
+  </div>
 </div>

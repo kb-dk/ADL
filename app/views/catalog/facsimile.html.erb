@@ -1,7 +1,7 @@
-<% document ||= @document %>
-<% document_empty  = @document_empty || !FileServer.doc_has_text(document.id) %>
+<% has_text  = document['has_text_ssi'].present? && document['has_text_ssi'] == 'yes' %>
+<% has_facs  = document['has_facs_ssi'].present? && document['has_facs_ssi'] == 'yes' %>
 
-      <% @page_title = @document['work_title_tesim'].first.strip+'- Arkiv for Dansk Litteratur' %>
+      <% @page_title = @document['work_title_tesim'].first.strip+' - Arkiv for Dansk Litteratur' %>
       <div id="content" class="col-sm-12">
         <%= render partial: 'previous_next_doc' %>
         <%= render partial: 'catalog/show_header_work' %>
@@ -12,8 +12,8 @@
                 <div class="nav-tab-instance">
                     <ul class="nav nav-tabs">
                       <li role="presentation">
-                        <% unless document_empty %>
-                            <%= link_to(solr_document_path(document), disabled: document_empty) do %>
+                        <% unless has_text %>
+                            <%= link_to(solr_document_path(document), disabled: !has_text) do %>
                                 <%= bootstrap_glyphicon 'align-left' %>
                                 Tekst
                             <% end %>
@@ -21,7 +21,7 @@
                       </li>
                       <li role="presentation" class="active">
                         <%# Note we need to use no_turbolink because turbolinks will fuck with the unveil library %>
-                        <%= link_to(facsimile_catalog_path(document.id) + "/", data: { no_turbolink: true }) do %>
+                        <%= link_to(facsimile_catalog_path(document.id) + "/") do %>
                             <%= bootstrap_glyphicon 'book' %>
                             Faksimile
                         <% end %>

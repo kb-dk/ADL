@@ -1,10 +1,19 @@
 <% if query_has_constraints? %>
 
-      <div id="appliedParams" class="clearfix constraints-container">
-        <div class="pull-right">
+      <!--<div id="appliedParams" class="clearfix constraints-container">-->
+        <!--<div class="row">-->
+        <div id="appliedParams" class="panel box-shadow">
+          <div class="panel-heading">
+          <span class="constraints-label"><%= t('blacklight.search.filters.title') %></span>
+          </div>
+          <div class="panel-body">
+          <%= render_constraints(params) %>
+          </div>
+        </div>
+        <div class="row new-search">
           <%=link_to t('blacklight.search.start_over'), start_over_path, :class => "catalog_startOverLink btn btn-text", :id=>"startOverLink" %>
         </div>
-        <span class="constraints-label"><%= t('blacklight.search.filters.title') %></span>
-        <%= render_constraints(params) %>
-      </div>
+        <!--</div>-->
+
+      <!--</div>-->
 <% end %>

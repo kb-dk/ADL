@@ -1,7 +1,6 @@
 <% document ||= @document %>
 <% # bookmark/folder functions -%>
 
-<% document_empty = !FileServer.doc_has_text(document.id) %>
 
 <!-- Button trigger table of content -->
 <button type="button" class="btn btn-default tableOfContent" data-toggle="modal" data-target="#toc">
@@ -9,11 +8,12 @@
   Indhold
 </button>
 
+<!-- HIDE IT FOR NOW -->
 <!-- Button trigger search in full text -->
-<button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">
-  <%= bootstrap_glyphicon 'search' %>
-  Søg
-</button>
+<!--<button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">-->
+<!--<%#= bootstrap_glyphicon 'search' %>-->
+<!--Søg-->
+<!--</button>-->
 
 <!-- Modal Table of content  -->
 <div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
@@ -30,12 +30,8 @@
         <% if document['cat_ssi'] == 'portrait' %>
             <%= FileServer.toc(document.id,{c: 'authors'}) %>
         <% else %>
-	   <% if request.url =~ /facsimile/ %>
-              <%= FileServer.toc_facsimile(document.id) %>
-           <% else %>
-              <%= FileServer.toc(document.id) %>
+            <%= FileServer.toc(@document['volume_id_ssi'], {xml_id: @document['xmlid_ssi']}) %>
            <% end %>
-        <% end %>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>

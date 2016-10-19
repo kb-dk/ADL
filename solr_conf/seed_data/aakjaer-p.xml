@@ -2,14 +2,14 @@
 <add>
   <doc>
     <field name="type_ssi">trunk</field>
-    <field name="cat_ssi">portrait</field>
+    <field name="cat_ssi">author</field>
+    <field name="application_ssim">ADL</field>
     <field name="work_title_tesim">Jeppe Aakjær</field>
     <field name="id">aakjaer-p</field>
-    <field name="volume_id_ssi">aakjaer-p</field>
     <field name="url_ssi">http://adl.kb.dk/aakjaer-p#</field>
     <field name="volume_title_tesim">Jeppe Aakjær</field>
-    <field name="author_name">Jensen, Henrik Fibæk</field>
-    <field name="author_id_ssi">2e/88/82/a8/2e8882a8-8716-4d53-af4a-73d6648d85bf</field>
+    <field name="author_ssim">Jensen, Henrik Fibæk</field>
+    <field name="author_tesim">Henrik Fibæk Jensen</field>
     <field name="copyright_ssi">Attribution-NonCommercial-ShareAlike CC BY-NC-SA</field>
     <field name="editor_ssi"/>
     <field name="editor_id_ssi"/>
