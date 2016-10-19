@@ -156,13 +156,31 @@ a {
   }
   article.container{
     @extend .document;
+    @extend .text;
+
+    margin-top: 48px;
     margin-right: 0;
     margin-left: 0;
+    padding-left: 59px !important;
+    padding-right: 59px !important;
     width: 100% !important;
   }
+  #om-adl{
+    margin-top: 48px;
+  }
   #politik {
-    padding-left: 29px;
-    padding-right: 29px;
+    //padding-left: 29px;
+    //padding-right: 29px;
+
+    h3{
+      margin-top: 20px;
+      margin-bottom: 10px;
+      font-weight: 500;
+      line-height: 1.1;
+      font-size: 30px;
+      color: #666;
+    }
+
 
   }
 
