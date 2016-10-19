@@ -150,6 +150,29 @@ a {
   .header-container {
     position: relative;
   }
+  .page-heading{
+    margin-top: 0;
+    line-height: 94px;
+  }
+  article.container{
+    @extend .document;
+    margin-right: 0;
+    margin-left: 0;
+    width: 100% !important;
+  }
+  #politik {
+    padding-left: 29px;
+    padding-right: 29px;
+
+  }
+
+  h1[itemprop="headline"]{
+    @extend .container;
+    @extend .search-bg;
+    margin-top: 0px !important;
+    font-size: 30px;
+    line-height: 94px;
+  }
   .page-header {
     @extend .box-gradient-blue;
     position: fixed;
@@ -413,6 +436,9 @@ button#search {
 
 .frontpage-content {
   margin-top: 280px;
+  .text{
+    padding:0px 15px;
+  }
 }
 
 .pageFooter {
@@ -539,4 +565,8 @@ footer.pageFooter{
 }
 .period-writers-list{
   padding: 20px 15px;
+}
+.indented{
+  margin-left: 10px;
+  margin-right: 10px;
 }

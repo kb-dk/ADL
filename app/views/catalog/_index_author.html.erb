@@ -29,5 +29,7 @@
         Vis mere
       </a>
   <% end %>
+  <dt>Værker:</dt>
+  <dd><%= link_to "Værkliste i ADL", "/?utf8=✓&search_field=author&q=#{document['work_title_tesim'].try(:join)}" %></dd>
 
 </dl>
