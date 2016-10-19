@@ -47,30 +47,6 @@ $(document).ready(function(){
         return false;
     });
 
-    $("[data-function='worksearch']").click(function(e){
-        workid = encodeURIComponent($(this).data('workid'));
-        qselector = $(this).data('selector');
-        target_selector = $(this).data('target');
-        q = encodeURIComponent($(qselector).val());
-        $.ajax({
-            type: 'GET',
-            url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+workid,
-            datatype: 'json',
-            success: function(data) {
-                $(target_selector).empty();
-                docs = data.response.docs
-                highlighting = data.response.highlighting;
-                $(target_selector).append('<div id="results-header"><p>'+data.response.pages.total_count+' match</p></div>');
-                for (i in docs) {
-                    $(target_selector).append('<p><a href="'+(ADL.pageType === 'text' ? extractDivId(docs[i].id) : '#' + docs[i].page_id_ssi)+'">' + highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
-                }
-            }
-
-        });
-       return false;
-    });
-
-
 
     /*
      * Get the query from the 'back to search' link and trigger an  automatic document search
