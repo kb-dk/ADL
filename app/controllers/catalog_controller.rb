@@ -232,8 +232,11 @@ class CatalogController < ApplicationController
                header: {html: {template: 'shared/pdf_header.pdf.erb'},
                         spacing: 5},
                margin: {top: 15, # default 10 (mm)
-                        bottom: 15}
-
+                        bottom: 15},
+               cover:  Rails.root.join('app', 'views', 'shared', 'pdf_cover.html')
+               # If dynamic information is needed, it can come either from the snippet_server or by creating a string
+               # here as:
+               # cover:  'Hentet fra ADL. Forfatter: ' + document['author_name_ssi']
       end
     end
 
