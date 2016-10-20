@@ -10,8 +10,10 @@
   <%#= wicked_pdf_image_tag 'logo.png' %>
 </div>
 <div id="pdf_content">
-  <% if @document['cat_ssi'] == 'portrait' %>
+  <% if @document['cat_ssi'] == 'author' %>
       <%= FileServer.render_snippet(@document.id,{c: 'authors'}) %>
+  <% elsif @document['cat_ssi'] == 'period'%>
+      <%= FileServer.render_snippet(@document.id,{c: 'periods'}) %>
   <% else %>
       <%= FileServer.render_snippet(@document['volume_id_ssi'], {c: 'texts', xml_id: @document['xmlid_ssi']}) %>
   <% end %>
