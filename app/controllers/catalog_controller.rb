@@ -96,12 +96,9 @@ class CatalogController < ApplicationController
     config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted'
     config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato'
 
-    add_show_tools_partial(:feedback, callback: :email_action, if: :user_signed_in?)
-    config.show.document_actions.email.if = :user_signed_in?
-    def render_sms_action?
-      false
-    end
-
+    add_show_tools_partial(:feedback, callback: :email_action, if: :render_feedback_action?)
+    config.show.document_actions.email.if = :render_email_action?
+    config.show.document_actions.citation.if = :render_citation_action?
 
 
     # Overwriting this method to enable pdf generation using WickedPDF
@@ -342,7 +339,19 @@ class CatalogController < ApplicationController
     super || !is_text_search?
   end
 
-  def user_signed_in?
-    current_user.present?
+  def render_email_action?
+    current_user.present? && self.class == CatalogController
+  end
+
+  def render_feedback_action?
+    current_user.present? && self.class == CatalogController
+  end
+
+  def render_sms_action?
+    false
+  end
+
+  def render_citation_action?
+    self.class == CatalogController
   end
 end 
