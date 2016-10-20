@@ -290,6 +290,7 @@ class CatalogController < ApplicationController
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => (I18n.t'blacklight.search.form.sort.relevance')
     config.add_sort_field 'author_name_ssi asc', :label => (I18n.t'blacklight.search.form.sort.author')
+#    config.add_sort_field 'sort_title_ssi asc', :label => 'Titel'
     config.add_sort_field 'work_title_ssi asc', :label => 'Titel'
 
     config.spell_max = 5
