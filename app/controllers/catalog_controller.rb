@@ -59,17 +59,10 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    # config.add_facet_field 'type_ssi', :label => 'Format'
     config.add_facet_field 'author_name_ssim', :label => 'Forfatter', :single => true, :limit => 10, :collapse => false
     config.add_facet_field 'perioid_ssi', :label => 'Periode', :single => true, :limit => 10, :collapse => false, helper_method: :get_period_name
 
 
-    # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
-    # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
-    # config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
-    # config.add_facet_field 'subject_geo_facet', :label => 'Region'
-    # config.add_facet_field 'subject_era_facet', :label => 'Era'
-    #
     # config.add_facet_field 'example_pivot_field', :label => 'Pivot Field', :pivot => ['format', 'language_facet']
     #
     # config.add_facet_field 'example_query_facet_field', :label => 'Publish Date', :query => {
@@ -78,7 +71,6 @@ class CatalogController < ApplicationController
     #    :years_25 => { :label => 'within 25 Years', :fq => "pub_date:[#{Time.now.year - 25 } TO *]" }
     # }
 
-
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
     # handler defaults, or have no facets.
@@ -86,55 +78,23 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
-    # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
     ## if we have no author_id_ssi (link to author portrait, just show the author name)
     config.add_index_field 'author_name_tesim', :label => 'Forfatter',  short_form: true, itemprop: :author, unless: proc {|_context, _field_config, doc| doc['author_id_ssi'].present?}
     config.add_index_field 'volume_title_tesim', :label => 'Anvendt udgave', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    # config.add_index_field 'publisher_tesim', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
     config.add_index_field 'place_published_tesim', :label => 'Udgivelsessted', short_form: true
     config.add_index_field 'date_published_ssi', :label => 'Udgivelsesdato', short_form: true
-
-    # this adds basic highlighting to index results
-    # config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
-    #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
-    # comment this out because we're not using the default highlighting config
-    # config.add_field_configuration_to_solr_request!
-
-    # config.add_index_field 'author_vern_display', :label => 'Author'
-    # config.add_index_field 'format', :label => 'Format'
-    # config.add_index_field 'language_facet', :label => 'Language'
-    # config.add_index_field 'published_display', :label => 'Published'
-    # config.add_index_field 'published_vern_display', :label => 'Published'
-    # config.add_index_field 'lc_callnum_display', :label => 'Call number'
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display 
-    # config.add_show_field 'title_display', :label => 'Title'
-    # config.add_show_field 'title_vern_display', :label => 'Title'
-    # config.add_show_field 'subtitle_display', :label => 'Subtitle'
-    # config.add_show_field 'subtitle_vern_display', :label => 'Subtitle'
-    # config.add_show_field 'author_display', :label => 'Author'
-    # config.add_show_field 'author_vern_display', :label => 'Author'
-    # config.add_show_field 'format', :label => 'Format'
-    # config.add_show_field 'url_fulltext_display', :label => 'URL'
-    # config.add_show_field 'url_suppl_display', :label => 'More Information'
-    # config.add_show_field 'language_facet', :label => 'Language'
-    # config.add_show_field 'published_display', :label => 'Published'
-    # config.add_show_field 'published_vern_display', :label => 'Published'
-    # config.add_show_field 'lc_callnum_display', :label => 'Call number'
-    # config.add_show_field 'isbn_t', :label => 'ISBN'
-
 
     # Work show fields
     config.add_show_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
-    #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
     config.add_show_field 'volume_title_tesim', :label => 'Anvendt udgave', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
     config.add_show_field 'publisher_tesim', :label => 'Udgiver'
     config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted'
     config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato'
-    #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
     add_show_tools_partial(:feedback, callback: :email_action, if: :user_signed_in?)
     config.show.document_actions.email.if = :user_signed_in?
@@ -143,8 +103,9 @@ class CatalogController < ApplicationController
     end
 
 
+
     # Overwriting this method to enable pdf generation using WickedPDF
-    # Unfortunately the additional_export_formats method was quite difficult t
+    # Unfortunately the additional_export_formats method was quite difficult
     # to use for this use case.
     def show
       @response, @document = fetch URI.unescape(params[:id])
@@ -160,7 +121,7 @@ class CatalogController < ApplicationController
         end
       end
 
-      #if we are showin a period, fetch a list of authors
+      #if we are showing a period, fetch a list of authors
       if @document['cat_ssi'].starts_with? 'period'
         (@auth_resp, @auth_docs) = search_results({}) do |builder|
           if respond_to? (:blacklight_config)
@@ -272,12 +233,7 @@ class CatalogController < ApplicationController
           :qf => 'author_name_tesim^5 work_title_tesim^5 text_tesim'
       }
     end
-    
 
-    # Now we see how to over-ride Solr request handler defaults, in this
-    # case for a BL "search field", which is really a dismax aggregate
-    # of Solr search fields. 
-    
     config.add_search_field('title', label: I18n.t('blacklight.search.form.search.title')) do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
       field.solr_parameters = {
@@ -336,12 +292,9 @@ class CatalogController < ApplicationController
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => (I18n.t'blacklight.search.form.sort.relevance')
-    # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
     config.add_sort_field 'author_name_ssi asc', :label => (I18n.t'blacklight.search.form.sort.author')
     config.add_sort_field 'work_title_ssi asc', :label => 'Titel'
 
-    # If there are more than this many search results, no spelling ("did you 
-    # mean") suggestion is offered.
     config.spell_max = 5
   end
 
