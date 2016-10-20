@@ -90,9 +90,17 @@ a {
 }
 
 .badge {
-  background-color: #458402;
+  background-color: #326100;;
 }
-
+.works-in-adl{
+  background: linear-gradient(to bottom, #588726 0%, #336201 100%) !important;
+  color: #fff;
+  margin: auto;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
 .navbar .navbar-nav {
   text-transform: none;
 }
@@ -505,7 +513,7 @@ footer.pageFooter{
 #appliedParams.panel .panel-body {
   span, a {
     background-color: transparent;
-    color: #458402;
+    color: #326100;;
   }
 }
 
@@ -513,7 +521,7 @@ footer.pageFooter{
   @extend .box-shadow;
 
   li a {
-    color: #458402;
+    color: #326100;;
   }
   background-color: transparent;
   .panel {
@@ -560,9 +568,11 @@ footer.pageFooter{
   ul,
   li.more_facets_link,
   .facets .panel-group .panel {
+    @extend .text-center;
     border-radius: 0 0 10px 10px;
     background: transparent;
     border: none;
+
   }
 }
 
