@@ -84,16 +84,6 @@ class SolrDocument
   end
 #End OAI functions
 
-  def has_text?
-    if self['text_tesim'].present?
-      # some documents contain text only with line breaks
-      text = self['text_tesim'].first.delete("\n")
-      !text.blank?
-    else
-      return false
-    end
-  end
-
   def export_as_apa_citation_txt
     doc = self
     cite = ""
