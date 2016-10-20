@@ -25,19 +25,15 @@
   <dt id=<%= text_label_id %>><%= t('blacklight.search.index.in_text') %></dt>
   <dd class="search-results" id =<%= result_id %> ></dd>
 
-  <dt><%= t('blacklight.search.index.download') %></dt>
+  <dt><%= t('blacklight.search.index.format') %></dt>
   <dd>
     <% if has_text %>
-        <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt') do %>
             <%= bootstrap_glyphicon 'align-left' %>
-            <%= t('blacklight.search.index.text') %>
-        <% end %>
+            <span class="dlTxt"><%= t('blacklight.search.index.text') %></span>
     <% end %>
     <% if has_facs %>
-        <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
             <%= bootstrap_glyphicon 'book' %>
-            <%= t('blacklight.search.index.facsimile') %>
-        <% end %>
+            <span class="dlFaks"><%= t('blacklight.search.index.facsimile') %></span>
     <% end %>
   </dd>
 
