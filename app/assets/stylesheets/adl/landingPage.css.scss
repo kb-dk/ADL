@@ -49,7 +49,7 @@ h1[itemprop=name]{
 
 .textAndFacsimileContainer{
   width: 80%;
-  min-height:200px; // This will get overwritten on load and window.resize
+  min-height:600px; // This will get overwritten on load and window.resize
   float:left;
   display:inline-block;
   position:relative;
@@ -157,7 +157,7 @@ body{
   position:relative;
   margin-left: -15px; // compensates from a lacking row class
   overflow-y:hidden;
-  max-height:200px; // This will get overwritten on load and window.resize
+  max-height:600px; // This will get overwritten on load and window.resize
   &.nometa{
     .letter-metadata{
       width: 4%; //32px;
