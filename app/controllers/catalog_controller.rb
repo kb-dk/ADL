@@ -96,13 +96,13 @@ class CatalogController < ApplicationController
     config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted'
     config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato'
 
-    add_show_tools_partial :feedback, callback: :email_action, if: proc { |attrs| attrs.class == CatalogController}
-
-    # This overwrites the default blacklight sms_mappings so that
-    # the sms tool is not shown.
-    def sms_mappings
-      {}
+    add_show_tools_partial(:feedback, callback: :email_action, if: :user_signed_in?)
+    config.show.document_actions.email.if = :user_signed_in?
+    def render_sms_action?
+      false
     end
+
+
 
     # Overwriting this method to enable pdf generation using WickedPDF
     # Unfortunately the additional_export_formats method was quite difficult
@@ -326,7 +326,7 @@ class CatalogController < ApplicationController
   def feedback
     @response, @document = fetch URI.unescape(params[:id])
     @report = ""
-    #@report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+    @report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
     @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
     @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
     @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
@@ -340,5 +340,9 @@ class CatalogController < ApplicationController
 
   def has_search_parameters?
     super || !is_text_search?
+  end
+
+  def user_signed_in?
+    current_user.present?
   end
 end 
