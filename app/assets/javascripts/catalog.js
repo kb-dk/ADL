@@ -19,6 +19,18 @@ function index_work_search(id, target_selector, text_label_id){
                     for (var i= 0; i in docs && i<3; i++) {
                         $(target_selector).append('<p><a href="/solr_documents/'+id+ '#' + docs[i].page_id_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                     }
+                }if (matches_num>3){
+                    var btn = document.createElement("BUTTON");
+                    var t = document.createTextNode("Vis alle");
+                    btn.appendChild(t);
+                    btn.setAttribute("id","matches-button-"+id);
+                    $(target_selector).append(btn);
+                    $("#matches-button-"+id).click(function(){
+                        $("#matches-"+id).modal();
+                    });
+                    for (var i= 0; i in docs ; i++) {
+                        $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
+                    }
                 }else{$(text_label_id).hide();}
             }
         });
