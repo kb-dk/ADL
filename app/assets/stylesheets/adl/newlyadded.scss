@@ -59,12 +59,12 @@ body {
   min-height: 650px;
 }
 
-a {
+a, button, .checkbox {
   // Not underline anything and no background
   background: transparent;
   text-decoration: none;
   &:hover, &:active, &:target  {
-    color: $navbar-default-link-hover-color;
+    color: #422b06 !important;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 
   }
@@ -172,6 +172,9 @@ a {
     padding-left: 59px !important;
     padding-right: 59px !important;
     width: 100% !important;
+  }
+  article.ocr{
+    width: 100%;
   }
   #om-adl{
     margin-top: 48px;
@@ -403,7 +406,8 @@ button#search {
 
 #bookmarks_nav .badge {
   //background-color: #dcd2ab;
-  background-color: #422b06;
+  background-color: #dcd2ab;
+  color: #326100;
 
 }
 
@@ -598,3 +602,45 @@ footer.pageFooter{
   margin-left: 10px;
   margin-right: 10px;
 }
+
+
+///// Bookmark icon
+.checkbox.toggle_bookmark{
+  label{
+    &:before {
+      @extend .glyphicon-bookmark;
+      @extend .glyphicon;
+      position: relative;
+      padding-left: 80px;
+      padding-top: 2px;
+      color: #326100;
+    }
+
+    input{
+      display:none;
+    }
+    span {
+      display:none;
+    }
+  }
+  .checked {
+    &:before {
+      color: #dcd2ab;
+    }
+  }
+
+}
+//// Text-landingpage-toolbar
+  .work-toolbar {
+    width: 100%;
+    .checkbox.toggle_bookmark {
+      @extend .pull-right;
+    }
+    button, a, label{
+      color: #326100 !important;
+      &:hover{
+        background-color: transparent !important;
+        color: #422b06 !important;
+      }
+    }
+  }
