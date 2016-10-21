@@ -19,10 +19,16 @@
 </div>
 
     <div class="text">
-        <dl class="dl-horizontal  dl-invert">
-          <dt class="blacklight-author_name_tesim">Forfatterportræt af</dt>
+        <dl class="dl-horizontal  dl-invert pull-left">
+          <dt class="blacklight-author_name_tesim text-left-important">Forfatterportræt af</dt>
           <dd class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></dd>
         </dl>
+        <div class="pull-right">
+          <a target="_blank" href="">
+            <span class="glyphicon glyphicon-save"></span> Tekst
+          </a>
+        </div>
+        <div><br/></div>
         <% text ||= FileServer.render_snippet(document.id,{c: 'authors'}) %>
         <%= text.html_safe %>
       </div>
