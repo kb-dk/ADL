@@ -24,6 +24,7 @@ function index_work_search(id, target_selector, text_label_id){
                     var t = document.createTextNode("Alle matcher");
                     btn.appendChild(t);
                     btn.setAttribute("id","matches-button-"+id);
+                    btn.setAttribute("class","all-matches");
                     $(target_selector).append(btn);
                     $("#matches-button-"+id).click(function(){
                         $("#matches-"+id).modal();
