@@ -2,8 +2,14 @@
 <% doc_presenter = show_presenter(document) %>
 <div class="text-content">
 
-  <div class="period-writers-list text-center">
-      <%= link_to "Værkliste i ADL", "/?utf8=✓&search_field=author&q=#{document['work_title_tesim'].try(:join)}", :class => "works-in-adl" %>
+  <div class="period-writers-list text-left">
+     <a class="icon-list" href="<%= "/?utf8=✓&search_field=author&q=#{document['work_title_tesim'].try(:join)}" %>">
+      <span class="glyphicon glyphicon-list"></span> Værkliste i ADL
+     </a>
+
+    <a class="icon-list" href="<%= solr_document_path(document.id, format:'pdf')%>">
+      <span class="glyphicon glyphicon-save"></span> Tekst
+    </a>
   </div>
 
 <div class="row divider-space">
@@ -23,10 +29,9 @@
           <dt class="blacklight-author_name_tesim text-left-important">Forfatterportræt af</dt>
           <dd class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></dd>
         </dl>
-        <div class="pull-right">
-          <a target="_blank" href="">
-            <span class="glyphicon glyphicon-save"></span> <%= link_to "Tekst", solr_document_path(document.id, format: 'pdf') %>
-          </a>
+
+        <div class="pull-right thumbnail">
+          <%= image_tag "/assets/authors/#{document.id}.jpg" %>
         </div>
         <div><br/></div>
         <% text ||= FileServer.render_snippet(document.id,{c: 'authors'}) %>
