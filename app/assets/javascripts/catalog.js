@@ -1,3 +1,5 @@
+// Called in the _index_default.html to populate the index partial with links of text searches
+// If the matxhes are more than 3, it creates a button that triggers a modal with all the matches/links
 function index_work_search(id, target_selector, text_label_id){
     id = encodeURIComponent(id);
     qselector = $('#q.search_q.q.form-control');
@@ -38,6 +40,30 @@ function index_work_search(id, target_selector, text_label_id){
     }
     return false;
 }
+
+// Called in the app/views/catalog/_show_tools_work.erb to trigger a modal with all the matches for the search performed in the index
+function show_work_search(id, target_selector, q){
+    $('.contentSearch').hide();
+    $.ajax({
+        type: 'GET',
+        url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+id,
+        datatype: 'json',
+        success: function(data) {
+            $(target_selector).empty();
+            docs = data.response.docs;
+            highlighting = data.response.highlighting;
+            matches_num = data.response.pages.total_count;
+                if(matches_num>0){
+                    $('.contentSearch').show();
+                    $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
+                    for (var i= 0; i in docs; i++) {
+                        $(target_selector).append('<p><a href="/solr_documents/'+id+ '#' + docs[i].page_id_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                    }
+                }
+        }
+    });
+}
+
 
 function cookieTerms(cname, cvalue, exdays) {
     var d = new Date();
