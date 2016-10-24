@@ -12,6 +12,7 @@ class FileServer
     uri += "&op=#{opts[:op]}" if opts[:op].present?
     uri += "&c=#{opts[:c]}" if opts[:c].present?
     uri += "&prefix=#{opts[:prefix]}" if opts[:prefix].present?
+    uri += "&q=#{URI.escape(opts[:q])}" if opts[:q].present?
     Rails.logger.debug("snippet url #{uri}")
 
     uri = URI.parse(uri)
@@ -146,6 +147,7 @@ class FileServer
     uri += "&prefix=#{URI.escape(opts[:prefix])}" if opts[:prefix].present?
     uri += "&work_id=#{URI.escape(opts[:work_id])}" if opts[:work_id].present?
     uri += "&status=#{URI.escape(opts[:status])}" if opts[:status].present?
+    uri += "&q=#{URI.escape(opts[:q])}" if opts[:q].present?
     uri
   end
 
