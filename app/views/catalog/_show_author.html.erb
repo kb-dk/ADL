@@ -31,7 +31,7 @@
         </dl>
 
         <div class="pull-right thumbnail">
-          <%= image_tag "/assets/authors/#{document.id}.jpg" %>
+          <%= image_tag "authors/#{document.id}.jpg" %>
         </div>
         <div><br/></div>
         <% text ||= FileServer.render_snippet(document.id,{c: 'authors'}) %>
