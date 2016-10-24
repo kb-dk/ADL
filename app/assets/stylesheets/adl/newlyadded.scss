@@ -557,6 +557,7 @@ footer.pageFooter{
     color: #fff;
     margin: auto;
   }
+
   .facet-values {
     font-size: small;
   }
@@ -565,7 +566,17 @@ footer.pageFooter{
     font-weight: bold;
   }
 }
-
+.all-matches{
+  border: 1px solid transparent;
+  background: linear-gradient(to bottom, #588726 0%, #336201 100%) !important;
+  color: #fff;
+  margin: auto auto 30px auto;
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+  border-color: #ccc;
+}
 .facets .panel-group .panel .panel-body ul li {
   background: none;
 }
