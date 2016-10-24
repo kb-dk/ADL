@@ -21,7 +21,7 @@ function index_work_search(id, target_selector, text_label_id){
                     }
                 }if (matches_num>3){
                     var btn = document.createElement("BUTTON");
-                    var t = document.createTextNode("Vis alle");
+                    var t = document.createTextNode("Alle matcher");
                     btn.appendChild(t);
                     btn.setAttribute("id","matches-button-"+id);
                     $(target_selector).append(btn);
