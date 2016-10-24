@@ -2,6 +2,8 @@
 <% doc_presenter = show_presenter(document) %>
 
     <div class="text-content">
+      <div class="text">
+
       <div class="period-writers-list">
 
         <dl>
@@ -28,11 +30,18 @@
         <div class="col-md-1"></div>
       </div>
 
-      <div class="text">
-        <dl class="dl-horizontal  dl-invert">
+        <dl class="dl-horizontal  dl-invert pull-left">
           <dt class="blacklight-author_name_tesim">Periodebeskrivelse af</dt>
           <dd class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></dd>
         </dl>
+        <div class="pull-right text-right">
+          <a target="_blank" href="">
+            <span class="glyphicon glyphicon-save"></span> <%= link_to "Tekst", solr_document_path(document.id, format: 'pdf') %>
+          </a>
+        </div>
+
+        <div><br/></div>
+
         <% text ||= FileServer.render_snippet(document.id,{c: 'periods'}) %>
         <%= text.html_safe %>
       </div>

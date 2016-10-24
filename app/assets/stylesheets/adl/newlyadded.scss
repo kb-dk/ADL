@@ -107,7 +107,22 @@ a, button, .checkbox {
 
 .navbar-brand {
   font-weight: 500;
-  font-size: 22px;
+  font-size: 18px;
+}
+
+.author-img-thumbnail{
+  padding: 4px;
+  margin-right: 30px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  display: inline-block;
+  height: auto;
+  width: 58px;
+  img{
+    width:48px;
+
+  }
 }
 
 .document {
@@ -596,14 +611,20 @@ footer.pageFooter{
   padding: 30px;
 }
 .period-writers-list{
-  padding: 20px 15px;
+  .icon-list{
+    padding: 40px 20px 20px 20px;
+
+  }
 }
 .indented{
   margin-left: 10px;
   margin-right: 10px;
 }
 
-
+///// Text left important
+.text-left-important{
+  text-align: left !important;
+}
 ///// Bookmark icon
 .checkbox.toggle_bookmark{
   label{
