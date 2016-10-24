@@ -149,7 +149,7 @@ window.dkBreve = (function (window, $, undefined) {
             }
         },
         onWindowResize : function () {
-            this.setContentHeight($(window).innerHeight() - this.getFooterAndHeaderHeight()-150);
+            this.setContentHeight($(window).innerHeight() - this.getFooterAndHeaderHeight());
         },
         closeFullScreen : function () {
             if (document.exitFullscreen) {
