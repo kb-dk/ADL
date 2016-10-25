@@ -46,7 +46,8 @@
                   <button class="escFullScreenButton btn btn-default" title="Tilbage til normal visning">
                     <span class="glyphicon glyphicon-remove"></span></button>
                   <%# Get the last query and remove " %>
-                  <% query = current_search_session.try(:query_params)[:q]
+                  <% query_params = current_search_session.try(:query_params)
+                     query = query_params[:q] if  query_params.present?
                     query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
                   <%= FileServer.render_snippet(@document['volume_id_ssi'],
                                                 {c: 'texts', xml_id: @document['xmlid_ssi'],

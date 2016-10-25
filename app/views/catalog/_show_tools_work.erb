@@ -15,7 +15,8 @@
 </button>
 
 <!--Retrieve the query-->
-<% query = current_search_session.try(:query_params)[:q]
+<% query_params = current_search_session.try(:query_params)
+   query = query_params[:q] if  query_params.present?
    query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
 
 <!-- Modal Table of content  -->
