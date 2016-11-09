@@ -242,7 +242,7 @@ da:
       index:
         label: '%{label}:'
         in_text: 'I tekst:'
-        download: 'Download:'
+        format: 'Formater:'
         text: 'Tekst'
         facsimile: 'Faksimile'
         show_more: 'Vis mere'

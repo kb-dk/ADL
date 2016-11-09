@@ -7,6 +7,9 @@ Rails.application.routes.draw do
 
   devise_for :users
 
+  get '/solr_documents/:id/feedback' => 'catalog#feedback', as: 'feedback_solr_document'
+
+
   concern :searchable, Blacklight::Routes::Searchable.new
   concern :exportable, Blacklight::Routes::Exportable.new
 
@@ -30,6 +33,7 @@ Rails.application.routes.draw do
   # OLD ADL routes
   get '/catalog/:id/facsimile' => 'catalog#facsimile', as: 'facsimile_catalog'
   get 'oai' => 'catalog#oai'
-  get '/catalog/:id/feedback' => 'catalog#feedback', as: 'feedback_catalog'
   get '/authors' => 'catalog#authors'
+  get '/periods' => 'catalog#periods'
+  get '/allworks/:authorid' => 'catalog#allworks'
 end

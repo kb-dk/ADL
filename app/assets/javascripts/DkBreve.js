@@ -87,7 +87,7 @@ window.dkBreve = (function (window, $, undefined) {
         onDocumentReady: function () {
             var headerFooterHeight = dkBreve.getFooterAndHeaderHeight(),
                 windowHeight = $(window).innerHeight(),
-                contentHeight = windowHeight - headerFooterHeight;
+                contentHeight = windowHeight - headerFooterHeight-150;
             dkBreve.setContentHeight(contentHeight);
 
             // Collapse/Expand metadata column

@@ -8,7 +8,7 @@ class CatalogController < ApplicationController
     config.default_solr_params = {
       :qt => 'search',
       :rows => 10,
-      :fq => ['cat_ssi:work','type_ssi:trunk','application_ssim:ADL'],
+      :fq => ['application_ssim:ADL'],
       :hl => 'true',
       :'hl.snippets' => '3',
       :'hl.simple.pre' => '<em class="highlight" >',
@@ -59,15 +59,10 @@ class CatalogController < ApplicationController
     #
     # :show may be set to false if you don't want the facet to be drawn in the 
     # facet bar
-    # config.add_facet_field 'type_ssi', :label => 'Format'
-    config.add_facet_field 'author_name_ssim', :label => 'Forfatter', :single => true, :limit => 10
+    config.add_facet_field 'author_name_ssim', :label => 'Forfatter', :single => true, :limit => 10, :collapse => false
+    config.add_facet_field 'perioid_ssi', :label => 'Periode', :single => true, :limit => 10, :collapse => false, helper_method: :get_period_name
 
-    # config.add_facet_field 'subject_topic_facet', :label => 'Topic', :limit => 20
-    # config.add_facet_field 'language_facet', :label => 'Language', :limit => true
-    # config.add_facet_field 'lc_1letter_facet', :label => 'Call Number'
-    # config.add_facet_field 'subject_geo_facet', :label => 'Region'
-    # config.add_facet_field 'subject_era_facet', :label => 'Era'
-    #
+
     # config.add_facet_field 'example_pivot_field', :label => 'Pivot Field', :pivot => ['format', 'language_facet']
     #
     # config.add_facet_field 'example_query_facet_field', :label => 'Publish Date', :query => {
@@ -76,7 +71,6 @@ class CatalogController < ApplicationController
     #    :years_25 => { :label => 'within 25 Years', :fq => "pub_date:[#{Time.now.year - 25 } TO *]" }
     # }
 
-
     # Have BL send all facet field names to Solr, which has been the default
     # previously. Simply remove these lines if you'd rather use Solr request
     # handler defaults, or have no facets.
@@ -84,85 +78,69 @@ class CatalogController < ApplicationController
 
     # solr fields to be displayed in the index (search results) view
     #   The ordering of the field names is the order of the display 
-    # config.add_index_field 'title_vern_display', :label => 'Title'
     config.add_index_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, short_form: true, itemprop: :author
     ## if we have no author_id_ssi (link to author portrait, just show the author name)
     config.add_index_field 'author_name_tesim', :label => 'Forfatter',  short_form: true, itemprop: :author, unless: proc {|_context, _field_config, doc| doc['author_id_ssi'].present?}
     config.add_index_field 'volume_title_tesim', :label => 'Anvendt udgave', helper_method: :show_volume, short_form: true, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    # config.add_index_field 'publisher_tesim', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, short_form: true, itemprop: :publisher
     config.add_index_field 'place_published_tesim', :label => 'Udgivelsessted', short_form: true
     config.add_index_field 'date_published_ssi', :label => 'Udgivelsesdato', short_form: true
-
-    # this adds basic highlighting to index results
-    config.add_index_field 'text_tesim', :highlight => true, :label => 'I tekst', short_form: true
     config.add_index_field 'editor_ssi', :label => 'Redaktør', itemprop: :editor
-    #config.add_index_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
-    # comment this out because we're not using the default highlighting config
-    # config.add_field_configuration_to_solr_request!
-
-    # config.add_index_field 'author_vern_display', :label => 'Author'
-    # config.add_index_field 'format', :label => 'Format'
-    # config.add_index_field 'language_facet', :label => 'Language'
-    # config.add_index_field 'published_display', :label => 'Published'
-    # config.add_index_field 'published_vern_display', :label => 'Published'
-    # config.add_index_field 'lc_callnum_display', :label => 'Call number'
 
     # solr fields to be displayed in the show (single result) view
     #   The ordering of the field names is the order of the display 
-    # config.add_show_field 'title_display', :label => 'Title'
-    # config.add_show_field 'title_vern_display', :label => 'Title'
-    # config.add_show_field 'subtitle_display', :label => 'Subtitle'
-    # config.add_show_field 'subtitle_vern_display', :label => 'Subtitle'
-    # config.add_show_field 'author_display', :label => 'Author'
-    # config.add_show_field 'author_vern_display', :label => 'Author'
-    # config.add_show_field 'format', :label => 'Format'
-    # config.add_show_field 'url_fulltext_display', :label => 'URL'
-    # config.add_show_field 'url_suppl_display', :label => 'More Information'
-    # config.add_show_field 'language_facet', :label => 'Language'
-    # config.add_show_field 'published_display', :label => 'Published'
-    # config.add_show_field 'published_vern_display', :label => 'Published'
-    # config.add_show_field 'lc_callnum_display', :label => 'Call number'
-    # config.add_show_field 'isbn_t', :label => 'ISBN'
-
 
     # Work show fields
     config.add_show_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
-    #config.add_show_field 'publisher_ssi', :label => 'Udgivelsesoplysninger', helper_method: :published_fields, itemprop: :publisher
     config.add_show_field 'volume_title_tesim', :label => 'Anvendt udgave', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    config.add_show_field 'publisher_tesim', :label => 'Udgiver'
+    #config.add_show_field 'publisher_tesim', :label => 'Udgiver', unless: proc { |_context, _field_config, doc | doc['cat_ssi'] == 'volume' }
     config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted'
     config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato'
-    #config.add_show_field 'copyright_ssi', :label => 'Copyrightoplysninger', itemprop: :license
 
-    #TODO: FIX
-    #config.add_show_tools_partial :feedback, callback: :email_action, validator: :validate_email_params, if: proc { |attrs| attrs.controller.class == CatalogController}
+    add_show_tools_partial(:feedback, callback: :email_action, if: :render_feedback_action?)
+    config.show.document_actions.email.if = :render_email_action?
+    config.show.document_actions.citation.if = :render_citation_action?
 
-    # This overwrites the default blacklight sms_mappings so that
-    # the sms tool is not shown.
-    def sms_mappings
-      {}
-    end
+
     # Overwriting this method to enable pdf generation using WickedPDF
-    # Unfortunately the additional_export_formats method was quite difficult t
+    # Unfortunately the additional_export_formats method was quite difficult
     # to use for this use case.
     def show
       @response, @document = fetch URI.unescape(params[:id])
+
+      # if we are showing a volume, fetch list of all works in the volume
+      if @document['cat_ssi'].starts_with? 'volume'
+        (@work_resp, @work_docs) = search_results({}) do |builder|
+          if respond_to? (:blacklight_config)
+            builder = blacklight_config.search_builder_class.new([:default_solr_parameters,:part_of_volume_search],builder)
+            builder = builder.with({volumeid: @document['volume_id_ssi']})
+            builder
+          end
+        end
+      end
+
+      #if we are showing a period, fetch a list of authors
+      if @document['cat_ssi'].starts_with? 'period'
+        (@auth_resp, @auth_docs) = search_results({}) do |builder|
+          if respond_to? (:blacklight_config)
+            builder = blacklight_config.search_builder_class.new([:default_solr_parameters,:build_authors_in_period_search],builder)
+            builder = builder.with({perioid: @document['id']})
+            builder
+          end
+        end
+      end
+
       respond_to do |format|
         format.html { setup_next_and_previous_documents }
         format.json { render json: { response: { document: @document } } }
         format.pdf { send_pdf(@document, 'text') }
+        format.xml do
+          if @document['cat_ssi'] == 'volume'
+            data = FileServer.get_file("/texts/#{@document['volume_id_ssi']}.xml")
+            send_data data, type: 'application/xml'
+          end
+        end
         additional_export_formats(@document, format)
       end
-    end
-
-    def feedback
-      @response, @document = fetch URI.unescape(params[:id])
-      @report = ""
-      #@report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
-      @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
-      @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
-      @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
-      render layout: nil
     end
 
     def facsimile
@@ -174,11 +152,22 @@ class CatalogController < ApplicationController
     end
 
 
+    def periods
+      (@response, @document_list) = search_results(params) do |builder|
+        search_builder_class.new([:default_solr_parameters,:build_all_periods_search],builder)
+      end
+      render "index"
+    end
+
     def authors
       (@response, @document_list) = search_results(params) do |builder|
-        builder.set_to_all_authors_search
-        builder
+        search_builder_class.new([:default_solr_parameters,:build_all_authors_search],builder)
       end
+      render "index"
+    end
+
+    def allworks
+      (@response, @document_list) = search_results(params)
       render "index"
     end
 
@@ -200,8 +189,11 @@ class CatalogController < ApplicationController
                header: {html: {template: 'shared/pdf_header.pdf.erb'},
                         spacing: 5},
                margin: {top: 15, # default 10 (mm)
-                        bottom: 15}
-
+                        bottom: 15},
+               cover:  Rails.root.join('app', 'views', 'shared', 'pdf_cover.html')
+               # If dynamic information is needed, it can come either from the snippet_server or by creating a string
+               # here as:
+               # cover:  'Hentet fra ADL. Forfatter: ' + document['author_name_ssi']
       end
     end
 
@@ -209,11 +201,6 @@ class CatalogController < ApplicationController
     # to avoid messing up previous and next links
     def start_new_search_session?
       action_name == "index" && params['search_field'] != 'leaf'
-    end
-
-    #overwritten to get highlighting included in the json results
-    def render_search_results_as_json
-      {response: {docs: @document_list, facets: search_facets_as_json, highlighting: @response['highlighting'], pages: pagination_info(@response)}}
     end
 
 
@@ -235,20 +222,21 @@ class CatalogController < ApplicationController
     # solr request handler? The one set in config[:default_solr_parameters][:qt],
     # since we aren't specifying it otherwise. 
     
-    config.add_search_field(I18n.t'blacklight.search.form.search.all_filters') do |field|()
+    config.add_search_field('Alt',label: I18n.t('blacklight.search.form.search.all_filters')) do |field|
+      field.solr_parameters = {
+          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk']
+      }
       field.solr_local_parameters = {
           :qf => 'author_name_tesim^5 work_title_tesim^5 text_tesim'
       }
     end
-    
 
-    # Now we see how to over-ride Solr request handler defaults, in this
-    # case for a BL "search field", which is really a dismax aggregate
-    # of Solr search fields. 
-    
-    config.add_search_field(I18n.t'blacklight.search.form.search.title') do |field|
+    config.add_search_field('title', label: I18n.t('blacklight.search.form.search.title')) do |field|
       # solr_parameters hash are sent to Solr as ordinary url query params. 
-      field.solr_parameters = { :'spellcheck.dictionary' => 'title' }
+      field.solr_parameters = {
+          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
+          :'spellcheck.dictionary' => 'title'
+      }
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
       # Solr parameter de-referencing like $title_qf.
@@ -258,14 +246,18 @@ class CatalogController < ApplicationController
       }
     end
     
-    config.add_search_field(I18n.t'blacklight.search.form.search.author') do |field|
-      field.solr_parameters = { :'spellcheck.dictionary' => 'author' }
+    config.add_search_field('author', label: I18n.t('blacklight.search.form.search.author')) do |field|
+      field.solr_parameters = {
+          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
+        :'spellcheck.dictionary' => 'author'
+      }
       field.solr_local_parameters = { 
         :qf => 'author_name_tesim',
       }
     end
 
     config.add_search_field('leaf') do |field|
+      field.include_in_simple_select = false
       field.solr_parameters = { :fq => 'type_ssi:leaf' }
       field.solr_local_parameters = {
           :qf => '$text_qf',
@@ -274,17 +266,32 @@ class CatalogController < ApplicationController
       }
     end
 
+    config.add_search_field('oai_time') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
+      }
+      field.solr_local_parameters = {
+          :fl => 'timestamp'
+      }
+    end
+
+
+    config.add_search_field('oai_search') do |field|
+      field.include_in_simple_select = false
+      field.solr_parameters = {
+          :fq => 'cat_ssi:work'
+      }
+    end
+
     # "sort results by" select (pulldown)
     # label in pulldown is followed by the name of the SOLR field to sort by and
     # whether the sort is ascending or descending (it must be asc or desc
     # except in the relevancy case).
     config.add_sort_field 'score desc', :label => (I18n.t'blacklight.search.form.sort.relevance')
-    # config.add_sort_field 'pub_date_sort desc, title_sort asc', :label => 'year'
-    config.add_sort_field 'author_sort asc', :label => (I18n.t'blacklight.search.form.sort.author')
-    # config.add_sort_field 'title_sort asc, pub_date_sort desc', :label => 'title'
+    config.add_sort_field 'author_name_ssi asc', :label => (I18n.t'blacklight.search.form.sort.author')
+    config.add_sort_field 'work_title_ssi asc', :label => 'Titel'
 
-    # If there are more than this many search results, no spelling ("did you 
-    # mean") suggestion is offered.
     config.spell_max = 5
   end
 
@@ -312,11 +319,39 @@ class CatalogController < ApplicationController
     end
   end
 
+
+  def feedback
+    @response, @document = fetch URI.unescape(params[:id])
+    @report = ""
+    @report +=  I18n.t('blacklight.email.text.from', value: current_user.email) + "\n" unless current_user.nil?
+    @report +=  I18n.t('blacklight.email.text.url', url: @document['url_ssi']) + "\n" unless @document['url_ssi'].blank?
+    @report += I18n.t('blacklight.email.text.author', value: @document['author_name'].first) + "\n" unless @document['author_name'].blank?
+    @report += I18n.t('blacklight.email.text.title', value: @document['work_title_tesim'].first.strip)+ "\n" unless @document['work_title_tesim'].blank?
+    render layout: nil
+  end
+
+
   def is_text_search?
-    ['authors','periods'].exclude? action_name
+    ['authors','periods',"allworks"].exclude? action_name
   end
 
   def has_search_parameters?
     super || !is_text_search?
+  end
+
+  def render_email_action?
+    current_user.present? && self.class == CatalogController
+  end
+
+  def render_feedback_action?
+    current_user.present? && self.class == CatalogController
+  end
+
+  def render_sms_action?
+    false
+  end
+
+  def render_citation_action?
+    self.class == CatalogController
   end
 end 

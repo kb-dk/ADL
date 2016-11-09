@@ -1,7 +1,7 @@
 class SearchBuilder < Blacklight::SearchBuilder
   include Blacklight::Solr::SearchBuilderBehavior
 
-  self.default_processor_chain += [:add_work_id]
+  self.default_processor_chain += [:restrict_to_author_id, :add_work_id, :add_timestamp_interval]
 
   def add_work_id solr_params
     if blacklight_params[:search_field] == 'leaf' && blacklight_params[:workid].present?
@@ -12,9 +12,20 @@ class SearchBuilder < Blacklight::SearchBuilder
     end
   end
 
-  def restrict_to_works solr_params
-    solr_params[:fq] ||= []
+  def restrict_to_author_id solr_params
+    if (blacklight_params[:authorid].present?)
+      solr_params[:fq] ||= []
+      solr_params[:fq] << "author_id_ssi:#{blacklight_params[:authorid]}"
+      solr_params[:fq] << "cat_ssi:work"
+    end
+  end
+
+  def part_of_volume_search solr_params
+    solr_params[:fq] = []
     solr_params[:fq] << "cat_ssi:work"
+    solr_params[:fq] << "volume_id_ssi:#{blacklight_params[:volumeid]}"
+    solr_params[:rows] = 10000
+
   end
 
   def build_all_authors_search solr_params = {}
@@ -22,12 +33,25 @@ class SearchBuilder < Blacklight::SearchBuilder
     solr_params[:fq] << 'cat_ssi:author'
     solr_params[:fq] << 'type_ssi:work'
     solr_params[:sort] = []
-    solr_params[:sort] << 'id asc'
+    solr_params[:sort] << 'sort_title_ssi asc'
     solr_params[:rows] = 10000
   end
 
-  def set_to_all_authors_search
-    @processor_chain = [:default_solr_parameters,:build_all_authors_search]
+  def build_all_periods_search solr_params = {}
+    solr_params[:fq] = []
+    solr_params[:fq] << 'cat_ssi:period'
+    solr_params[:sort] = []
+    solr_params[:sort] << 'sort_title_ssi asc'
+    solr_params[:rows] = 10000
+  end
+
+  def build_authors_in_period_search solr_params = {}
+    solr_params[:fq] = []
+    solr_params[:fq] << 'cat_ssi:author'
+    solr_params[:fq] << "perioid_ssi:#{blacklight_params[:perioid]}"
+    solr_params[:sort] = []
+    solr_params[:sort] << 'work_title_ssi asc'
+    solr_params[:rows] = 10000
   end
 
   def add_timestamp_interval solr_params

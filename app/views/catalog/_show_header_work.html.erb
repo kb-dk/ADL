@@ -5,11 +5,11 @@
 
 
 <% # bookmark/folder functions -%>
-<div class="container workNavbarFixContainer">
+<div class="workNavbarFixContainer">
     <div class="row">
         <div class="col-md-12">
             <div class="workNavBar">
-                <div class="btn-group" role="group">
+                <div class="btn-group work-toolbar" role="group">
                   <% if has_text %>
                     <%= render :partial => 'show_tools_work' %>
                   <% end %>
@@ -20,7 +20,13 @@
     </div>
 </div>
 
-<div class="container workHeaderFixContainer">
+<div class="page-header">
+  <div class="container search-bg">
+    <h2><span class="glyphicon glyphicon-book"></span> <%= document['work_title_tesim'].first %></h2>
+  </div>
+</div>
+
+<div class="container workHeaderFixContainer hide">
     <div class="row">
         <div class="col-md-12">
             <div class="workHeader">
