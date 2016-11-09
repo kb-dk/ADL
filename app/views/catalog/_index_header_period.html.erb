@@ -15,9 +15,10 @@
         <%= t('blacklight.search.documents.counter', counter: counter) %>
       </span-->
     <% end %>
-    <a href="document_show_link_field(document)">
+    <a href="<%= solr_document_url(document.id) %>">
       <span class="glyphicon glyphicon-time"></span>
-      <%= link_to_document document %>
     </a>
+    <%= link_to_document document %>
+
   </h4>
 </div>
