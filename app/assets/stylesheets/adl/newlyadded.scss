@@ -285,24 +285,27 @@ a, button, .checkbox {
     padding: 0;
     position: absolute;
     z-index: 1;
-    left: 110%;
 
+    top: 130%;
+    left:-650%;
     opacity: 0;
     transition: opacity 1s;
 
     ul {
-      -webkit-padding-start: 10px;
+      padding-left: 10px;
     }
   }
   .tooltiptext::after {
     content: "";
     position: absolute;
-    top: 5%;
-    right: 100%;
-    margin-top: -5px;
+    bottom: 100%;
+    left: 90%;
+
+    margin-left: -5px;
+
     border-width: 5px;
     border-style: solid;
-    border-color: transparent #f5f5f5 transparent transparent;
+    border-color: transparent transparent #f5f5f5  transparent;
   }
   &:hover .tooltiptext {
     visibility: visible;
