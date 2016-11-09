@@ -25,10 +25,12 @@
 </div>
 
     <div class="text">
+      <% unless doc_presenter.field_value("author_name_tesim").empty? %>
         <div class="dl-horizontal  dl-invert pull-left">
           <strong><span class="blacklight-author_name_tesim text-left-important"><%= t('author.author_potrait_written_by') %> </span></strong>
           <span class="blacklight-author_name_tesim"><%= doc_presenter.field_value "author_name_tesim" %></span>
         </div>
+      <% end %>
 
         <div class="pull-right thumbnail">
           <%= image_tag "authors/#{document.id}.jpg" %>
