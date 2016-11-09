@@ -331,7 +331,7 @@ a, button, .checkbox {
   }
 }
 
-a[name]::before {
+a[name]{
   display: block;
   content: " ";
   margin-top: -195px;
