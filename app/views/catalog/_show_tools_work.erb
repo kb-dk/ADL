@@ -8,6 +8,16 @@
   Indhold
 </button>
 
+<!-- Button trigger all matches modal -->
+<button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">
+  <%= bootstrap_glyphicon 'search' %>
+  Alle matcher
+</button>
+
+<!--Retrieve the query-->
+<% query_params = current_search_session.try(:query_params)
+   query = query_params[:q] if  query_params.present?
+   query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
 
 <!-- Modal Table of content  -->
 <div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
@@ -33,3 +43,30 @@
     </div>
   </div>
 </div>
+
+<!-- Modal Show all matches -->
+<div class="modal fade" id="searchFullText" tabindex="-1" role="dialog" aria-labelledby="searchFullText">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="textMatches">
+          Alle matcher
+        </h4>
+      </div>
+      <div class="modal-body" id="matchesModalBody">
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<%= javascript_tag do %>
+    $(document).ready(
+      function () {
+        show_work_search("<%= document['id'] %>", $('#matchesModalBody'), "<%= query %>");
+      });
+<% end %>

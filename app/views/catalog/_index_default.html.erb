@@ -51,6 +51,27 @@
   <% end %>
 
 </dl>
+
+  <!-- Modal Table of content  -->
+  <div class="modal fade" id="matches-<%= document['id'] %>" tabindex="-1" role="dialog" aria-labelledby="textMatches">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="textMatches">
+            Alle matcher
+          </h4>
+        </div>
+        <div class="modal-body" id="matchesModalBody-<%= document['id']%>">
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <%= javascript_tag do %>
