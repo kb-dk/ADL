@@ -193,7 +193,7 @@ da:
         q: 'Søg...'
         submit: 'Søg'
         search:
-          placeholder: 'Indtast bogtitel, forfatternavn eller ord og begreber der fremkommer i bogen'
+          placeholder: 'Forfatter, titel eller søgeord'
           all_filters: 'Fritekst'
           title: 'Titel'
           author: 'Forfatter'
