@@ -282,3 +282,6 @@ da:
     work: 'Værk'
     person: 'Person'
     portrait: 'Portræt'
+
+  author:
+    author_potrait_written_by: 'Forfatterportræt skrevet af'

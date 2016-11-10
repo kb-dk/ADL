@@ -6,11 +6,12 @@
     <% wicked_pdf_javascript_include_tag "number_pages" %>
 
     <% if @document['cat_ssi'] == 'author' %>
-        <i><%= @document['volume_title_tesim'].first+' ' unless @document['volume_title_tesim'].blank? %></i>
-        Forfatterportræt af
-        <%= @document['author_name_tesim'].first unless @document['author_name_tesim'].blank? %>
+        <i><%= @document['volume_title_tesim'].first unless @document['volume_title_tesim'].blank? %></i>
+        <% unless @document['author_name_tesim'].blank? %>
+          <%= ' - ' + t('author.author_potrait_written_by') + " "+ @document['author_name_tesim'].first%>
+        <% end %>
   <% elsif @document['cat_ssi'] == 'period' %>
-        <i><%= @document['work_title_tesim'].first+' ' unless @document['volume_title_tesim'].blank? %></i>
+        <i><%= @document['work_title_tesim'].first+' - ' unless @document['volume_title_tesim'].blank? %></i>
         Periodebeskrivelse af
         <%= @document['author_name_tesim'].first unless @document['author_name_tesim'].blank? %>
     <% else %>
