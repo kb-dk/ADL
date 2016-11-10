@@ -42,7 +42,20 @@
             <h3>          
               <%= link_to  "Forfattere", authors_path, :class => "btn btn-link btn-lg"  %>
             </h3>
-            <p>Klik her hvis du vil finde en bestemt forfatter. Et klik på et forfatternavn i den alfabetiske forfatterovesigt giver både adgang til forfatterens værker og til en introduktion om forfatteren.</p>
+            <p>Find en forfatter i den alfabetiske oversigt og få adgang til forfatterens værker og en introduktion.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 frontpage-content-box">
+        <div class="link-block-content box-shadow">
+          <div class="image3 image img-thumbnail">
+          </div>
+          <div class="text">
+            <h3>
+              <%= link_to  "Titler", "/?q=&search_field=Alt&sort=work_title_ssi+asc", :class => "btn btn-link btn-lg"  %>
+            </h3>
+            <p>Få overblik over alle værktitler i ADL.</p>
           </div>
         </div>
       </div>
@@ -55,20 +68,7 @@
             <h3>          
               <%= link_to  "Perioder", periods_path, :class => "btn btn-link btn-lg"  %>
             </h3>
-            <p>Klik her hvis du vil læse om en bestemt periode i den danske litteraturhistorie.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4 frontpage-content-box">
-        <div class="link-block-content box-shadow">
-          <div class="image3 image img-thumbnail">
-          </div>
-          <div class="text">
-            <h3>
-                <%= link_to  "Titler", "/?q=&search_field=Alt&sort=work_title_ssi+asc", :class => "btn btn-link btn-lg"  %>
-            </h3>
-            <p>Klik her hvis du leder efter et bestemt værk i dansk litteraturhistorie. Her får du en alfabetisk liste over titlerne på alle de værker der er med i ADL.</p>
+            <p>Læs om en bestemt periode i den danske litteraturhistorie.</p>
           </div>
         </div>
       </div>
