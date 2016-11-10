@@ -18,8 +18,26 @@
       </li>
       <% end %>
       <% else %>
-      <li>
+      <li id="login-link">
         <%= link_to t('blacklight.header_links.login'), new_user_session_path %>
+        <span class="login-tooltip ">?
+         <span class="login-tooltiptext">
+            <div class="panel panel-default">
+              <div class="panel-heading">Søgetips</div>
+              <div class="panel-body">
+                <ul class="advanced-help">
+
+                  <li>Kombiner søgertermer for at finde</li>
+                  <li>Brug " for at søge efter en sætning</li>
+                  <li>Brug "+" før et ord hvis resultatet skal indeholde dette ord.</li>
+                  <li>Brug "-" for at udelukke ord fra søgningen.</li>
+                  <li>Brug "OR", "AND", and "NOT" til mere avancerede søgninger. </li>
+                  <li>Bemærk at systemet understøtter ikke wildcards. Trunkering udføres automatisk af systemet</li>
+                </ul>
+              </div>
+            </div>
+         </span>
+        </span>
       </li>
       <% end %>
       </ul>
