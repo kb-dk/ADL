@@ -18,8 +18,17 @@
       </li>
       <% end %>
       <% else %>
-      <li>
+      <li id="login-link">
         <%= link_to t('blacklight.header_links.login'), new_user_session_path %>
+        <span class="login-tooltip ">?
+         <span class="login-tooltiptext">
+            <div class="panel panel-default">
+              <div class="panel-body">
+                Log ind hvis du vil benytte bogmærke-funktionen
+              </div>
+            </div>
+         </span>
+        </span>
       </li>
       <% end %>
       </ul>
