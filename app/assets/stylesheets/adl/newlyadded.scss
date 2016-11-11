@@ -9,11 +9,12 @@ body {
   background-attachment: fixed;
   -webkit-font-smoothing: antialiased;
 }
-
 .box-shadow{
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 3px 10px 0 rgba(0, 0, 0, 0.09);
 }
-
+#header-navbar{
+@extend .box-shadow;
+}
 .navbar-fixed-top {
   // Correcting top bar
   background-color: #FFFFFF;
@@ -130,6 +131,7 @@ a, button, .checkbox {
   padding: 1em;
   margin: 1em;
   border-radius: 10px;
+  margin-top: 0;
   background-color: rgba(242, 238, 226, .5);
 
   @extend .box-shadow;
@@ -155,7 +157,7 @@ a, button, .checkbox {
 
 .fixed-top-second {
   width: 100%;
-  position: fixed;
+  //position: fixed;
   z-index: 1029;
 }
 
@@ -163,13 +165,17 @@ a, button, .checkbox {
   height: 94px;
   top: 88px;
   left: 0px;
+  position: absolute;
   @extend .box-shadow;
 
 }
-
+.content-not-main{
+  margin-top: 108px !important;
+}
 #content {
   min-height: 500px;
-  margin-top: 94px;
+  //margin-top: 94px;
+  margin-top: 88px;
   .header-container {
     position: relative;
   }
@@ -219,7 +225,8 @@ a, button, .checkbox {
   }
   .page-header {
     @extend .box-gradient-blue;
-    position: fixed;
+    //position: fixed;
+    position:absolute;
     width: 100%;
     top: 88px;
     margin: 0;
@@ -233,6 +240,10 @@ a, button, .checkbox {
       font-size: 14px;
     }
   }
+
+  #document .page-header{
+    top: -88px;
+  }
   .page-header-in-pages-with-searchbox {
     height: 100px;
     h3 {
@@ -244,7 +255,6 @@ a, button, .checkbox {
     }
   }
 }
-
 
 .input-group.search-form-with-tooltips {
   .input-group-btn {
@@ -259,7 +269,7 @@ a, button, .checkbox {
   }
 }
 
-.search-tooltip {
+.search-tooltip, .login-tooltip {
   cursor: pointer;
   color: #dcd2ab;
   font-size: 25px;
@@ -273,7 +283,7 @@ a, button, .checkbox {
   .panel-heading {
     text-align: center;
   }
-  .tooltiptext {
+  .tooltiptext, .login-tooltiptext {
     font-size: small;
     visibility: hidden;
     white-space: normal;
@@ -295,7 +305,7 @@ a, button, .checkbox {
       padding-left: 10px;
     }
   }
-  .tooltiptext::after {
+  .tooltiptext::after, .login-tooltiptext::after {
     content: "";
     position: absolute;
     bottom: 100%;
@@ -307,7 +317,7 @@ a, button, .checkbox {
     border-style: solid;
     border-color: transparent transparent #f5f5f5  transparent;
   }
-  &:hover .tooltiptext {
+  &:hover .tooltiptext, &:hover .login-tooltiptext {
     visibility: visible;
     opacity: 1;
 
@@ -337,8 +347,8 @@ a, button, .checkbox {
 a[name]{
   display: block;
   content: " ";
-  margin-top: -195px;
-  height: 195px;
+  margin-top: -100px;
+  height: 100px;
   visibility: hidden;
 }
 
@@ -483,7 +493,8 @@ button#search {
 }
 
 .frontpage-content {
-  margin-top: 280px;
+  //margin-top: 280px;
+  margin-top: 20px;
   .text{
     padding:0px 15px;
   }
@@ -681,4 +692,22 @@ footer.pageFooter{
   }
 h3 {
   line-height: normal !important;
+}
+
+#login-link{
+a{
+  display: inline-block;
+  padding-right: 0;
+}
+  span.login-tooltip{
+    font-size: 14px;
+    line-height: 20px;
+    padding: 15px;
+    padding-left: 0;
+  }
+  .login-tooltiptext{
+    left: -1384%;
+    top: 90%;
+    width: 340px;
+  }
 }
