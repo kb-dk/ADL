@@ -17,8 +17,10 @@ module ApplicationHelper
 
   def show_volume args
     id = args[:document]['volume_id_ssi']
+    label = args[:document]['volume_title_tesim'].try(:first).to_s
+    label += " (#{args[:document]['date_published_ssi']})" if args[:document]['date_published_ssi'].present?
     return unless id.present?
-    link_to args[:value].first, solr_document_path(id)
+    link_to label, solr_document_path(id)
   end
 
   def author_link args
