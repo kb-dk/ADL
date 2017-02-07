@@ -260,8 +260,8 @@ class CatalogController < ApplicationController
       field.include_in_simple_select = false
       field.solr_parameters = { :fq => 'type_ssi:leaf' }
       field.solr_local_parameters = {
-          :qf => '$text_qf',
-          :pf => '$text_pf',
+          :qf => 'text_tesim',
+          :pf => 'text_tesim',
           :hl => 'true',
       }
     end
