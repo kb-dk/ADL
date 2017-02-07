@@ -44,6 +44,8 @@ da:
       no_bookmarks: 'Du har ingen bogmærker'
       add:
         button: 'Tilføj til bogmærker'
+        title: 'Bogmærker'
+
         success:
           one: 'Dit bogmærke er blevet gemt.'
           other: 'Dine bogmærker er blevet gemt.'
@@ -104,7 +106,7 @@ da:
 
     tools:
       title: 'Værktøjer'
-      cite: 'Citer'
+      citation: 'Citér dette værk'
       endnote: 'Eksporter til EndNote'
       refworks: 'Eksporter til Refworks'
       email: 'E-mail'
@@ -191,13 +193,15 @@ da:
         q: 'Søg...'
         submit: 'Søg'
         search:
-          placeholder: 'Søg'
-          all_filters: 'Alt'
+          placeholder: 'Forfatter, titel eller søgeord'
+          all_filters: 'Fritekst'
           title: 'Titel'
           author: 'Forfatter'
         sort:
-          relevance: 'Relevans'
+          relevance: 'Standard'
           author: 'Forfatter'
+      page_title:
+       title: 'Arkiv for Dansk Litteratur'
       pagination:
         title: 'Results navigation'
       pagination_info:
@@ -238,7 +242,7 @@ da:
       index:
         label: '%{label}:'
         in_text: 'I tekst:'
-        download: 'Download:'
+        format: 'Formater:'
         text: 'Tekst'
         facsimile: 'Faksimile'
         show_more: 'Vis mere'
@@ -278,3 +282,6 @@ da:
     work: 'Værk'
     person: 'Person'
     portrait: 'Portræt'
+
+  author:
+    author_potrait_written_by: 'Forfatterportræt skrevet af'

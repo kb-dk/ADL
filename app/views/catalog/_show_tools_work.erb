@@ -1,7 +1,6 @@
 <% document ||= @document %>
 <% # bookmark/folder functions -%>
 
-<% document_empty = !FileServer.doc_has_text(document.id) %>
 
 <!-- Button trigger table of content -->
 <button type="button" class="btn btn-default tableOfContent" data-toggle="modal" data-target="#toc">
@@ -9,11 +8,16 @@
   Indhold
 </button>
 
-<!-- Button trigger search in full text -->
+<!-- Button trigger all matches modal -->
 <button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">
   <%= bootstrap_glyphicon 'search' %>
-  Søg
+  Alle forekomster
 </button>
+
+<!--Retrieve the query-->
+<% query_params = current_search_session.try(:query_params)
+   query = query_params[:q] if  query_params.present?
+   query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
 
 <!-- Modal Table of content  -->
 <div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
@@ -30,12 +34,8 @@
         <% if document['cat_ssi'] == 'portrait' %>
             <%= FileServer.toc(document.id,{c: 'authors'}) %>
         <% else %>
-	   <% if request.url =~ /facsimile/ %>
-              <%= FileServer.toc_facsimile(document.id) %>
-           <% else %>
-              <%= FileServer.toc(document.id) %>
+            <%= FileServer.toc(@document['volume_id_ssi'], {xml_id: @document['xmlid_ssi']}) %>
            <% end %>
-        <% end %>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
@@ -44,19 +44,18 @@
   </div>
 </div>
 
-<!-- Modal Search in content  -->
+<!-- Modal Show all matches -->
 <div class="modal fade" id="searchFullText" tabindex="-1" role="dialog" aria-labelledby="searchFullText">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="searchInFullText">
-          <%= bootstrap_glyphicon 'search' %>
-          Søg
+        <h4 class="modal-title" id="textMatches">
+          Alle forekomster
         </h4>
       </div>
-      <div class="modal-body">
-        <%= render partial: 'work_search', locals: {document: document} %>
+      <div class="modal-body" id="matchesModalBody">
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
@@ -65,10 +64,9 @@
   </div>
 </div>
 
-
-
-
-
-
-
-
+<%= javascript_tag do %>
+    $(document).ready(
+      function () {
+        show_work_search("<%= document['id'] %>", $('#matchesModalBody'), "<%= query %>");
+      });
+<% end %>

@@ -1,0 +1,203 @@
+*{
+  box-sizing:border-box;
+}
+#header-navbar.navbar{
+  margin-bottom:0;
+}
+.letter-metadata, .ocrContainer, .facsimile{
+  float:left;
+  display:inline-block;
+  transition:width 200ms ease-in;
+  header{
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    padding:10px;
+  }
+  article{
+    padding:10px;
+  }
+}
+
+#header-navbar{
+  margin-bottom:0;
+}
+h1[itemprop=name]{
+  font-size:25px;
+}
+#content #previousNextDocument{
+  padding:0px; // It has got all the spacing it needs from the margin-bottom of the top logo!
+}
+
+.letter-metadata {
+  width: 20%;
+  overflow-x:auto; // This sucks, but it might be better than just hidden?
+  header{
+    height:33px; // FIXME: Don't really know why, but the collapse link doesn't span vertically?
+    .collapseMetadata{
+      cursor:pointer;
+      margin:-2px; // Positioning it vertically centered the ugly way? :-/
+      .glyphicon-chevron-left{
+        transition:transform 200ms ease-in;
+      }
+    }
+  }
+  article{
+    //opacity:1;
+    transition:opacity 200ms ease-in;
+  }
+}
+
+.textAndFacsimileContainer{
+  width: 80%;
+  min-height:200px; // This will get overwritten on load and window.resize
+  float:left;
+  display:inline-block;
+  position:relative;
+  transition:width 200ms ease-in;
+  .downloadLinkContainer{
+    text-align:left;
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    .dlButton{
+      border:none;
+    }
+  }
+}
+
+.ocrContainer {
+  border-left: 1px solid #ccc;
+  width: 50%;
+  min-width: 150px;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  #ocrFullscreenButton{
+    border:0;
+    margin-top:1px; // FIXME: This is crap, I don't know why it doesn't act like the other buttons, but it don't. I have no more time for this unfortunately (AKA: Congratulations with your new job next frontender! ;-) )
+    padding-bottom:5px;
+    outline:none;
+  }
+}
+.ocr{
+  overflow-y: auto;
+  position:absolute;
+  bottom:0px;
+  top:$letter-landingpage-header-height;
+  .escFullScreenButton{
+    display:none;
+    position:fixed;
+    top:30px;
+    right:30px;
+    opacity:0.8;
+  }
+  &:-webkit-full-screen{
+    padding:0 10%;
+    max-width:57em;
+    background-color:#fff;
+    font-family:Serif;
+    .escFullScreenButton{
+      display:block;
+    }
+  }
+  &:-moz-full-screen{
+    padding:0 10%;
+    max-width:57em;
+    background-color:#fff;
+    font-family:Serif;
+    .escFullScreenButton{
+      display:block;
+    }
+  }
+  &:-ms-fullscreen{
+    padding:0 10%;
+    max-width:57em;
+    background-color:#fff;
+    font-family:Serif;
+    .escFullScreenButton{
+      display:block;
+    }
+  }
+  &:fullscreen{
+    padding:20px 10%;
+    max-width:57em;
+    background-color:#fff;
+    font-family:Serif;
+    .escFullScreenButton{
+      display:block;
+    }
+  }
+}
+
+.kbFastNav input{
+  line-height:normal; // I don't know where this gets screwed, but it does, so here I am fixing it for kbOSD
+}
+
+.facsimile {
+  border-left:1px solid #ccc;
+  width:50%;
+  min-width:240px;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left:50%;
+  article{
+    position:absolute;
+    top:$letter-landingpage-header-height;
+    left:0;
+    right:0;
+    bottom:0;
+  }
+}
+
+body{
+  min-width:620px;
+}
+
+.contentContainer{
+  position:relative;
+  margin-left: -15px; // compensates from a lacking row class
+  overflow-y:hidden;
+  max-height:200px; // This will get overwritten on load and window.resize
+  &.nometa{
+    .letter-metadata{
+      width: 4%; //32px;
+      overflow-x: hidden;
+      header .glyphicon-chevron-left{
+        transform:rotate(-180deg);
+      }
+      article{
+        opacity:0;
+      }
+    }
+    .textAndFacsimileContainer{
+      width:96%;
+    }
+  }
+}
+
+footer.pageFooter.dkbreveFooter{
+  margin:0;
+  padding:20px 0 10px 0;
+  a{
+    color:#666;
+    text-decoration:none;
+    &:hover{
+      text-decoration:underline;
+      color:#000;
+    }
+  }
+  address{
+    color:#666;
+    margin-bottom:0;
+  }
+  ul{
+    margin-bottom: 0;
+  }
+  img{
+    width:32px;
+  }
+  hr{
+    margin-top:7px;
+    margin-bottom:7px;
+  }
+}

@@ -1,7 +1,8 @@
 <%# default partial to display solr document fields in catalog index view -%>
-<% document_empty  = !FileServer.doc_has_text(document['id']) %>
-<% facsimile_empty  = !FileServer.has_facsimile(document.id) %>
-
+<% doc_presenter = index_presenter(document) %>
+<% has_text  = document['has_text_ssi'].present? && document['has_text_ssi'] == 'yes' %>
+<% has_facs  = document['has_facs_ssi'].present? && document['has_facs_ssi'] == 'yes' %>
+<div class="x">
 <dl class="document-metadata dl-horizontal dl-invert">
   <% collapse_id = "collapse-"+document['id'].gsub("#", "") %>
   <% result_id = "result-"+document['id'].gsub("#", "") %>
@@ -11,7 +12,7 @@
   <% index_fields(document).each do |field_name, field| -%>
       <% if should_render_index_field? document, field %>
           <% label = render_index_field_label document, field: field_name %>
-          <% value = render_index_field_value document, field: field_name %>
+          <% value = doc_presenter.field_value field_name %>
           <% if value.present? and field.short_form %>
               <dt class="blacklight-<%= field_name.parameterize %>"><%= label %></dt>
               <dd class="blacklight-<%= field_name.parameterize %>"><%= value %></dd>
@@ -24,19 +25,15 @@
   <dt id=<%= text_label_id %>><%= t('blacklight.search.index.in_text') %></dt>
   <dd class="search-results" id =<%= result_id %> ></dd>
 
-  <dt><%= t('blacklight.search.index.download') %></dt>
+  <dt><%= t('blacklight.search.index.format') %></dt>
   <dd>
-    <% unless document_empty %>
-        <%= link_to(solr_document_path(document, format: :pdf), class:'dlTxt') do %>
+    <% if has_text %>
             <%= bootstrap_glyphicon 'align-left' %>
-            <%= t('blacklight.search.index.text') %>
-        <% end %>
+            <span class="dlTxt"><%= t('blacklight.search.index.text') %></span>
     <% end %>
-    <% unless facsimile_empty %>
-        <%= link_to(facsimile_catalog_path(document.id, format: :pdf), class:'dlFaks') do %>
+    <% if has_facs %>
             <%= bootstrap_glyphicon 'book' %>
-            <%= t('blacklight.search.index.facsimile') %>
-        <% end %>
+            <span class="dlFaks"><%= t('blacklight.search.index.facsimile') %></span>
     <% end %>
   </dd>
 
@@ -54,6 +51,28 @@
   <% end %>
 
 </dl>
+
+  <!-- Modal Table of content  -->
+  <div class="modal fade" id="matches-<%= document['id'] %>" tabindex="-1" role="dialog" aria-labelledby="textMatches">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="textMatches">
+            Alle forekomster
+          </h4>
+        </div>
+        <div class="modal-body" id="matchesModalBody-<%= document['id']%>">
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 <%= javascript_tag do %>
     $(document).ready(

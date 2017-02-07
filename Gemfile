@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.1'
+gem 'rails', '4.2.6'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
@@ -15,11 +15,11 @@ gem 'therubyracer', platforms: :ruby
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-gem 'blacklight'
+gem 'blacklight', '~> 6.0'
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
-gem 'jquery-turbolinks'
+#gem 'turbolinks'
+#gem 'jquery-turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
@@ -41,7 +41,7 @@ gem 'wkhtmltopdf-binary'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   #  gem 'byebug'
-    gem 'better_errors'
+  gem 'better_errors'
   gem 'binding_of_caller'
 
   # Access an IRB console on exception pages or by using <%= console %> in views
@@ -49,6 +49,7 @@ group :development, :test do
 
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
+  gem 'xray-rails'
 end
 
 
@@ -58,3 +59,5 @@ gem 'devise'
 gem 'devise-guests', '~> 0.3'
 gem 'devise_cas_authenticatable'
 gem 'oai'
+
+gem 'kbcookie', '>=0.0.0', :git => 'https://github.com/Det-Kongelige-Bibliotek/kbcookie.git'

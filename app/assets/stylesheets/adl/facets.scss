@@ -32,12 +32,17 @@
             display:block;
             .facet-label{
               @extend .pull-left;
+              padding: 0 !important;
+              text-indent: 0 !important;
+              text-align: left;
+              width: 80%;
               .facet_select, .selected{
                 color: inherit;
               }
             }
             .facet-count{
               @extend .pull-right;
+              width: 20%;
             }
             .facet-count.selected{
               color: inherit;

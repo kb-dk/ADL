@@ -10,9 +10,9 @@
   <%#= wicked_pdf_image_tag 'logo.png' %>
 </div>
 <div id="pdf_content">
-  <% links = FileServer.image_links(@document.id) %>
+  <% links = FileServer.image_links(@document['volume_id_ssi'], {xml_id: @document['xmlid_ssi']}) %>
   <% links.each do |link| %>
-    <%= image_tag(link) %>
+      <%= image_tag(link) %>
   <% end %>
 </div>
 </body>

@@ -6,7 +6,7 @@ class SolrDocument
 
   # overwrite the default behaviour to enable different schema definitions
   def itemtype
-    type = self.to_hash['cat_ssi'] || ''
+    type = self['cat_ssi'] || ''
     case type
       when 'work'
         'http://schema.org/CreativeWork'
@@ -38,13 +38,13 @@ class SolrDocument
       #dc_fields
       #:contributor,
       #:coverage,
-      :creator => 'author_name',
-      :date => 'published_date_ssi',
+      :creator => 'author_name_ssim',
+      :date => 'date_published_ssi',
       #:description,
       #:format,
       :identifier => 'id',
       #:language,
-      :publisher=> 'publisher_ssi',
+      :publisher=> 'publisher_tesim',
       #:relation,
       #:rights,
       #:source,
@@ -84,29 +84,18 @@ class SolrDocument
   end
 #End OAI functions
 
-  def has_text?
-    if self.to_hash['text_tesim'].present?
-      # some documents contain text only with line breaks
-      text = self.to_hash['text_tesim'].first.delete("\n")
-      !text.blank?
-    else
-      return false
-    end
-  end
-
   def export_as_apa_citation_txt
-    doc = self.to_hash
+    doc = self
     cite = ""
-    cite +=  doc['author_name'].first + ", " unless doc['author_name'].blank?
-    cite +=  doc['published_date_ssi'] + ", " unless doc['published_date_ssi'].blank?
+    cite +=  doc['author_name_ssim'].first + ", " unless doc['author_name_ssim'].blank?
+    cite +=  doc['date_published_ssi'] + ", " unless doc['date_published_ssi '].blank?
     cite +=  "<i>"+doc['work_title_tesim'].first + "</i>, " unless doc['work_title_tesim'].blank?
     # check if the work is a book
     if !doc['volume_title_tesim'].blank? and doc['volume_title_tesim'] != doc['work_title_tesim']
       cite +=  I18n.t('blacklight.from') + "<i>" + doc['volume_title_tesim'].first + "</i>, "
     end
-    cite +=  doc['publisher_ssi'] + " " unless doc['publisher_ssi'].blank?
-    cite +=  doc['published_place_ssi'] + ", " unless doc['published_place_ssi'].blank?
-    cite +=  I18n.t('blacklight.retrieve') + doc['url_ssi']
+    cite +=  doc['publisher_tesim'].first + " " unless doc['publisher_tesim'].blank?
+    cite +=  doc['place_published_tesim'].first unless doc['place_published_tesim'].blank?
     cite.html_safe
   end
 

@@ -61,7 +61,7 @@
         border-bottom: 1px solid #efefef;
         background-color: #f8f8f8;
         &:hover{
-          text-decoration: underline;
+          //text-decoration: underline;
         }
       }
       ul{
@@ -92,9 +92,8 @@
   margin: 0 0 10px 0;
 }
 
-
-
-
-
-
+.modal .modal-body {
+  max-height: 600px;
+  overflow-y: auto;
+}
 

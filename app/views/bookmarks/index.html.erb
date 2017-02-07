@@ -1,25 +1,29 @@
 <div class="container">
-    <div id="content">
+  <div id="content">
 
-      <div class="page-header">
-        <h1 class='page-heading'><span class="glyphicon glyphicon-bookmark"></span> <%= t('blacklight.bookmarks.title') %></h1>
+    <div class="page-header">
+      <div class="container search-bg">
+        <h2 class='page-heading'><span class="glyphicon glyphicon-bookmark"></span> <%= t('blacklight.bookmarks.title') %></h2>
       </div>
-
-
-    <%- if current_or_guest_user.blank? -%>
-
-      <p class='section-heading lead'><%= t('blacklight.bookmarks.need_login') %></p>
-
-    <%- elsif @document_list.blank? -%>
-
-      <p class='section-heading lead'><%= t('blacklight.bookmarks.no_bookmarks') %></p>
-    <% else %>
-          <%= render partial: 'tools', locals: { document_list: @document_list } %>
-      <%= render 'sort_and_per_page' %>
-
-
-      <%= render_document_index %>
-      <%= render 'results_pagination' %>
-    <% end %>
     </div>
+
+    <div class="container">
+      <div class="content-header">
+        <%- if current_or_guest_user.blank? -%>
+
+            <p class='section-heading lead'><%= t('blacklight.bookmarks.need_login') %></p>
+
+        <%- elsif @document_list.blank? -%>
+
+            <p class='section-heading lead'><%= t('blacklight.bookmarks.no_bookmarks') %></p>
+        <% else %>
+            <%= render partial: 'tools', locals: { document_list: @document_list } %>
+            <%= render 'sort_and_per_page' %>
+            </div>
+
+            <%= render_document_index %>
+            <%= render 'results_pagination' %>
+        <% end %>
+        </div>
+  </div>
 </div>
