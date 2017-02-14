@@ -68,13 +68,14 @@
             <article>
               <% if has_facs %>
                   <%# OpenSeadragon start %>
-                  <div id="kbOSDInstance" style="height:100%">
+                  <div id="kbOSDInstance">
                     <div class="kbOSDViewer">
+                      <div class="kbOSDToolbar"></div>
                       <div class="kbOSDContent"></div>
-                      <div class="kbOSDFooter"></div>
                     </div>
                   </div>
-                  <script type="text/javascript">
+
+                    <script type="text/javascript">
                     var kbOSDconfig = [<%= FileServer.openSeadragon_snippet({doc: @document['volume_id_ssi']+'.xml', id: @document['xmlid_ssi']}) %>];
                     // Converting certain strings => numbers, that OpenSeadragon expects to be numbers, but Sigges serializer returns as strings
                     // TODO: This ought to be done serverside, but until we get a better serializer, it's easier to do clientside.
@@ -95,7 +96,7 @@
                       });
                     }
                   </script>
-                  <script src="https://static.kb.dk/kbOpenSeadragon/js/KbOSD_bundle_min.js"></script>
+                  <script src="http://static.kb.dk/kbOpenSeadragon/2.0.0/js/KbOSD_bundle_min.js" ></script>
                   <%# OpenSeadragon end %>
               <% else %>
                   Ingen facsimile

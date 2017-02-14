@@ -1,0 +1,24 @@
+
+#kbOSDInstance {
+
+  height: 120% ;
+  .kbOSDViewer{
+    top:-45px;
+  }
+  canvas{
+    border:none !important;
+  }
+  .fa {
+    color: #326100 !important;
+    &:hover {
+      color: #422b06 !important;
+    }
+  }
+  canvas{
+    border: none !important;
+  }
+  .hideWhenSmall{
+    @extend .hidden-md;
+  }
+
+}
