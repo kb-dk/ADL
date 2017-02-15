@@ -1,9 +1,9 @@
 
 #kbOSDInstance {
 
-  height: 120% ;
+  height: 100% ;
   .kbOSDViewer{
-    top:-45px;
+
   }
   canvas{
     border:none !important;
@@ -18,7 +18,16 @@
     border: none !important;
   }
   .hideWhenSmall{
-    @extend .hidden-md;
-  }
+    @extend .hidden-sm;
 
+  }
+.fa-undo, .home{
+  @extend .hideWhenSmall;
+}
+  .kbOSDToolbar{
+    line-height: 2;
+    input{
+      line-height: 1.3;
+    }
+  }
 }
