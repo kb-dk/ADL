@@ -46,7 +46,7 @@ function show_work_search(id, target_selector, q){
     $('.contentSearch').hide();
     $.ajax({
         type: 'GET',
-        url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+q+'&workid='+id,
+        url: '/catalog.json?search_field=leaf&rows=200&sort=position_isi+asc&q='+encodeURI(q)+'&workid='+id,
         datatype: 'json',
         success: function(data) {
             $(target_selector).empty();
