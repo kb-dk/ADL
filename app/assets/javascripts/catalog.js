@@ -19,7 +19,7 @@ function index_work_search(id, target_selector, text_label_id){
                 if (matches_num>0) {
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
-                        $(target_selector).append('<p><a href="/solr_documents/'+id+ '#' + docs[i].page_id_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                        $(target_selector).append('<p><a href="/solr_documents/'+id+ '#kbOSD-0=page:' + docs[i].page_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
                     }
                 }if (matches_num>3){
                     var btn = document.createElement("BUTTON");
@@ -32,7 +32,7 @@ function index_work_search(id, target_selector, text_label_id){
                         $("#matches-"+id).modal();
                     });
                     for (var i= 0; i in docs ; i++) {
-                        $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
+                        $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#kbOSD-0=page:' + docs[i].page_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
                     }
                 }else{$(text_label_id).hide();}
             }
@@ -41,7 +41,7 @@ function index_work_search(id, target_selector, text_label_id){
     return false;
 }
 
-// Called in the app/views/catalog/_show_tools_work.erb to trigger a modal with all the matches for the search performed in the index
+// Called in the app/views/catalog/_show_tools_work.erb to trigger a modal with all the matches for the search performed in the index     kbOSD-0=page:62
 function show_work_search(id, target_selector, q){
     $('.contentSearch').hide();
     $.ajax({
