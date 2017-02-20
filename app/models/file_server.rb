@@ -99,7 +99,7 @@ class FileServer
   end
 
   def self.get_openSeadragon_script
-    "#{Rails.application.config_for(:snippet)["openSeadragon_script"]}"
+    "#{Rails.application.config_for(:adl)["openSeadragon_script"]}"
   end
 
   def self.openSeadragon_snippet(opts={})
