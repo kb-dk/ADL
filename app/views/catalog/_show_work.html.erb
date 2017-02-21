@@ -74,9 +74,13 @@
                       <div class="kbOSDToolbar"></div>
                     </div>
                   </div>
-
+                  <script src="http://static.kb.dk/~laap/kbOpenSeadragon/2.0.0/js/KbOSD_bundle_min.js" ></script>
                     <script type="text/javascript">
                     var kbOSDconfig = [<%= FileServer.openSeadragon_snippet({doc: @document['volume_id_ssi']+'.xml', id: @document['xmlid_ssi']}) %>];
+
+                    //Hide the rotation and flip option
+                    kbOSDconfig[0].showTransformationControl = false;
+
                     // Converting certain strings => numbers, that OpenSeadragon expects to be numbers, but Sigges serializer returns as strings
                     // TODO: This ought to be done serverside, but until we get a better serializer, it's easier to do clientside.
                     // NOTE: If there are more than one kbOSD instance on this page (I don't think there ever will be?), we need to do the following alterations on all config objects!
@@ -96,7 +100,7 @@
                       });
                     }
                   </script>
-                  <script src="http://static.kb.dk/kbOpenSeadragon/2.0.0/js/KbOSD_bundle_min.js" ></script>
+
                   <%# OpenSeadragon end %>
               <% else %>
                   Ingen facsimile
