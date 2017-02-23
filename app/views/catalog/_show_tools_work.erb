@@ -1,23 +1,26 @@
 <% document ||= @document %>
 <% # bookmark/folder functions -%>
 
+<!--Retrieve the query-->
+<% query_params = current_search_session.try(:query_params)
+   query = query_params[:q] if  query_params.present?
+   query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
 
 <!-- Button trigger table of content -->
+
 <button type="button" class="btn btn-default tableOfContent" data-toggle="modal" data-target="#toc">
   <%= bootstrap_glyphicon 'list' %>
   Indhold
 </button>
 
-<!-- Button trigger all matches modal -->
-<button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">
-  <%= bootstrap_glyphicon 'search' %>
-  Alle forekomster
-</button>
 
-<!--Retrieve the query-->
-<% query_params = current_search_session.try(:query_params)
-   query = query_params[:q] if  query_params.present?
-   query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
+<!-- Button trigger all matches modal -->
+<% if query.present? %>
+    <button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">
+      <%= bootstrap_glyphicon 'search' %>
+      Alle forekomster
+    </button>
+<% end %>
 
 <!-- Modal Table of content  -->
 <div class="modal fade" id="toc" tabindex="-1" role="dialog" aria-labelledby="tableOfContent">
