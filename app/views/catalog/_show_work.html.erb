@@ -33,7 +33,7 @@
         <div class="row">
           <div class="ocrContainer">
             <button id="ocrFullscreenButton" class="btn btn-default pull-right" title="Se tekst i fuld skærm">
-              <span class="glyphicon glyphicon-fullscreen"></span></button>
+              <i class="fa fa-expand fa-lg"></i></button>
             <% if has_text %>
               <div class="downloadLinkContainer">
                 <%= link_to(solr_document_path(document, format: :pdf), :target => "_blank", class: 'btn btn-default dlButton') do %>
@@ -70,8 +70,8 @@
                   <%# OpenSeadragon start %>
                   <div id="kbOSDInstance">
                     <div class="kbOSDViewer">
-                      <div class="kbOSDContent"></div>
                       <div class="kbOSDToolbar"></div>
+                      <div class="kbOSDContent"></div>
                     </div>
                   </div>
                   <script src="http://static.kb.dk/~laap/kbOpenSeadragon/2.0.0/js/KbOSD_bundle_min.js" ></script>

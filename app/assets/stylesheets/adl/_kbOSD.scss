@@ -1,7 +1,7 @@
 
 #kbOSDInstance {
 
-  height: 100% ;
+  height: 120% ;
   .kbOSDViewer{
 
   }
@@ -29,5 +29,8 @@
     input{
       line-height: 1.3;
     }
+  }
+  .kbOSDViewer {
+    top: -37px;
   }
 }
