@@ -4,7 +4,20 @@
 #header-navbar.navbar{
   margin-bottom:0;
 }
+
 .letter-metadata, .ocrContainer, .facsimile{
+  a, button{
+    background: transparent;
+    &:hover {
+      background: transparent;
+    }
+    .glyphicon, .fa {
+      color: #326100 !important;
+      &:hover {
+        color: #422b06 !important;
+      }
+    }
+  }
   float:left;
   display:inline-block;
   transition:width 200ms ease-in;
@@ -146,6 +159,8 @@ h1[itemprop=name]{
     left:0;
     right:0;
     bottom:0;
+    padding:0;
+    padding-left:10px;
   }
 }
 

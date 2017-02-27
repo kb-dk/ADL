@@ -1,0 +1,41 @@
+
+#kbOSDInstance {
+
+  height: 120% ;
+  .kbOSDViewer{
+
+  }
+  canvas{
+    border:none !important;
+  }
+  .fa {
+    color: #326100 !important;
+    &:hover {
+      color: #422b06 !important;
+    }
+  }
+  canvas{
+    border: none !important;
+  }
+  .hideWhenSmall{
+    @extend .hidden-sm;
+    @extend .hidden-xs;
+
+  }
+.fa-undo, .home{
+  @extend .hideWhenSmall;
+}
+  .kbOSDToolbar{
+    line-height: 2;
+    input{
+      line-height: 1.3;
+    }
+  }
+  .kbOSDViewer {
+    top: -37px;
+  }
+  .zoomIn, .zoomOut{
+    @extend .hideWhenSmall;
+
+  }
+}

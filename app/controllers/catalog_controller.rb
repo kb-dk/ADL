@@ -190,10 +190,18 @@ class CatalogController < ApplicationController
                         spacing: 5},
                margin: {top: 15, # default 10 (mm)
                         bottom: 15},
-               cover:  Rails.root.join('app', 'views', 'shared', 'pdf_cover.html')
+               encoding: 'utf8', # needed here to encode danish characters
+               # cover:  Rails.root.join('app', 'views', 'shared', 'pdf_cover.html')
+               # Cover page can only be a static page OR
                # If dynamic information is needed, it can come either from the snippet_server or by creating a string
                # here as:
                # cover:  'Hentet fra ADL. Forfatter: ' + document['author_name_ssi']
+               cover:  'Tekst fra Arkiv for Dansk Litteratur (adl.dk) <br /> <hr> <br /><br />' +
+                            'Forfatter: ' + document['author_name_ssi'] + '<br />' +
+                            'Titel: ' + document['work_title_tesim'].first + '<br />' +
+                            'Anvendt udgave: ' + document['volume_title_tesim'].first + '<br /><br /><br /><br /><br />'+
+                            'Det Danske Sprog- og Litteraturselskab (dsl.dk)<br />'+
+                            'Det Kongelige Bibliotek (kb.dk)'
       end
     end
 
@@ -235,7 +243,7 @@ class CatalogController < ApplicationController
       # solr_parameters hash are sent to Solr as ordinary url query params. 
       field.solr_parameters = {
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
-          :'spellcheck.dictionary' => 'title'
+         # :'spellcheck.dictionary' => 'title'
       }
       # :solr_local_parameters will be sent using Solr LocalParams
       # syntax, as eg {! qf=$title_qf }. This is neccesary to use
@@ -249,7 +257,7 @@ class CatalogController < ApplicationController
     config.add_search_field('author', label: I18n.t('blacklight.search.form.search.author')) do |field|
       field.solr_parameters = {
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
-        :'spellcheck.dictionary' => 'author'
+         # :'spellcheck.dictionary' => 'author'
       }
       field.solr_local_parameters = { 
         :qf => 'author_name_tesim',
