@@ -19,6 +19,7 @@
   }
   .hideWhenSmall{
     @extend .hidden-sm;
+    @extend .hidden-xs;
 
   }
 .fa-undo, .home{
@@ -32,5 +33,9 @@
   }
   .kbOSDViewer {
     top: -37px;
+  }
+  .zoomIn, .zoomOut{
+    @extend .hideWhenSmall;
+
   }
 }
