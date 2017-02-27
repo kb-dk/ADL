@@ -4,7 +4,20 @@
 #header-navbar.navbar{
   margin-bottom:0;
 }
+
 .letter-metadata, .ocrContainer, .facsimile{
+  a, button{
+    background: transparent;
+    &:hover {
+      background: transparent;
+    }
+    .glyphicon, .fa {
+      color: #326100 !important;
+      &:hover {
+        color: #422b06 !important;
+      }
+    }
+  }
   float:left;
   display:inline-block;
   transition:width 200ms ease-in;
