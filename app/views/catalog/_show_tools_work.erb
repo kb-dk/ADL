@@ -2,8 +2,9 @@
 <% # bookmark/folder functions -%>
 
 <!--Retrieve the query-->
-<% query_params = current_search_session.try(:query_params)
-   query = query_params[:q] if  query_params.present?
+<% query_params = current_search_session.try(:query_params)%>
+<% search_field = query_params[:search_field] %>
+<%  query = query_params[:q] if  query_params.present?
    query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
 
 <!-- Button trigger table of content -->
@@ -16,7 +17,7 @@
 
 <!-- Button trigger all matches modal -->
 <!-- Check if the search field is fritekst and if there is a query -->
-<% if search_field_fritekst? and query.present? %>
+<% if search_field == "Alt" and query.present? %>
     <button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">
       <%= bootstrap_glyphicon 'search' %>
       Alle forekomster
@@ -69,7 +70,7 @@
 </div>
 
 <%= javascript_tag do %>
-    <% if search_field_fritekst? %>
+    <% if search_field == 'Alt' %>
       $(document).ready(
         function () {
           show_work_search("<%= document['id'] %>", $('#matchesModalBody'), "<%= query %>");
