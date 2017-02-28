@@ -34,7 +34,7 @@ function index_work_search(id, target_selector, text_label_id){
                     for (var i= 0; i in docs ; i++) {
                         $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#kbOSD-0=page:' + docs[i].page_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
                     }
-                }else{$(text_label_id).hide();}
+                }if(matches_num==0){$(text_label_id).hide();} // If the number of matches is 0, hide the label
             }
         });
     }
