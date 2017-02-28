@@ -19,8 +19,8 @@ function index_work_search(id, target_selector, text_label_id){
                 if (matches_num>0) {
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
-                        if (highlighting[docs[i].id].text_tesim != null){
-                            $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
+                        if (highlighting[docs[i].id].text_tesim != null) {
+                            $(target_selector).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');                        // }
                         }
                     }
                 }if (matches_num>3){
