@@ -362,4 +362,10 @@ class CatalogController < ApplicationController
   def render_citation_action?
     self.class == CatalogController
   end
+
+  # method to be used in the views, that checks if the selected search field is fritekst
+  def search_field_fritekst?
+    params['search_field'] == 'Alt' ? true : false
+  end
+  helper_method :search_field_fritekst?
 end 
