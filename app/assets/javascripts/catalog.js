@@ -20,7 +20,7 @@ function index_work_search(id, target_selector, text_label_id){
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
                         if (highlighting[docs[i].id].text_tesim != null){
-                            $(target_selector).append('<p><a href="/solr_documents/'+id+ '#kbOSD-0=page:' + docs[i].page_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                            $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
                         }
                     }
                 }if (matches_num>3){
@@ -35,7 +35,7 @@ function index_work_search(id, target_selector, text_label_id){
                     });
                     for (var i= 0; i in docs ; i++) {
                         if (highlighting[docs[i].id].text_tesim != null) {
-                            $("#matchesModalBody-" + id).append('<p><a href="/solr_documents/' + id + '#kbOSD-0=page:' + docs[i].page_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
+                            $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
                         }
                         }
                 }if(matches_num==0){$(text_label_id).hide();} // If the number of matches is 0, hide the label
@@ -45,7 +45,7 @@ function index_work_search(id, target_selector, text_label_id){
     return false;
 }
 
-// Called in the app/views/catalog/_show_tools_work.erb to trigger a modal with all the matches for the search performed in the index     kbOSD-0=page:62
+// Called in the app/views/catalog/_show_tools_work.erb to trigger a modal with all the matches for the search performed in the index
 function show_work_search(id, target_selector, q){
     $('.contentSearch').hide();
     $.ajax({
