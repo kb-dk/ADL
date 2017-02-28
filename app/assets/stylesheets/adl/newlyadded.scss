@@ -71,6 +71,15 @@ a, button, .checkbox {
   }
 }
 
+#cookie-button {
+  a {
+    &:hover, &:active, &:target  {
+      color: white !important;
+    }
+  }
+
+}
+
 #search {
   background: linear-gradient(to bottom, rgba(88, 135, 38, 1) 0%, rgba(51, 98, 1, 1) 100%);
 

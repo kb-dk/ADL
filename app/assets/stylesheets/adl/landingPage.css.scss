@@ -24,7 +24,7 @@
   header{
     border-top:1px solid #ccc;
     border-bottom:1px solid #ccc;
-    padding:10px;
+    padding:6px;
   }
   article{
     padding:10px;
@@ -73,6 +73,11 @@ h1[itemprop=name]{
     border-bottom:1px solid #ccc;
     .dlButton{
       border:none;
+    }
+
+    a {
+      position: relative;
+      z-index: 1000;
     }
   }
 }
