@@ -15,7 +15,8 @@
 
 
 <!-- Button trigger all matches modal -->
-<% if query.present? %>
+<!-- Check if the search field is fritekst and if there is a query -->
+<% if search_field_fritekst? and query.present? %>
     <button type="button" class="btn btn-default contentSearch" data-toggle="modal" data-target="#searchFullText">
       <%= bootstrap_glyphicon 'search' %>
       Alle forekomster
@@ -68,8 +69,10 @@
 </div>
 
 <%= javascript_tag do %>
-    $(document).ready(
-      function () {
-        show_work_search("<%= document['id'] %>", $('#matchesModalBody'), "<%= query %>");
-      });
+    <% if search_field_fritekst? %>
+      $(document).ready(
+        function () {
+          show_work_search("<%= document['id'] %>", $('#matchesModalBody'), "<%= query %>");
+        });
+    <% end %>
 <% end %>
