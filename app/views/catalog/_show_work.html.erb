@@ -5,6 +5,10 @@
     });
 </script>
 
+<!--Retrieve the query-->
+<% query_params = current_search_session.try(:query_params)%>
+<% search_field = query_params[:search_field] %>
+
 <% has_text = document['has_text_ssi'].present? && document['has_text_ssi'] == 'yes' %>
 <% has_facs = document['has_facs_ssi'].present? && document['has_facs_ssi'] == 'yes' %>
 
@@ -49,10 +53,13 @@
             <% if has_text %>
                 <button class="escFullScreenButton btn btn-default" title="Tilbage til normal visning">
                   <span class="glyphicon glyphicon-remove"></span></button>
-                <%# Get the last query and remove " %>
-                <% query_params = current_search_session.try(:query_params)
-                   query = query_params[:q] if query_params.present?
-                   query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
+                <%# If the search field is fritekst, get the last query and remove " %>
+                <%# If not, the the q parameter will be left empty and the render_snippet will not highlight the text %>
+                <% if search_field == "Alt" %>
+                    <% query_params = current_search_session.try(:query_params)
+                       query = query_params[:q] if  query_params.present?
+                       query = query.gsub!(/^\"|\"?$/, '') if query.present? %>
+                <% end %>
                 <%= FileServer.render_snippet(@document['volume_id_ssi'],
                                               {c: 'texts', xml_id: @document['xmlid_ssi'],
                                                q: query}) %>

@@ -22,8 +22,11 @@
       <% end -%>
   <% end -%>
 
-  <dt id=<%= text_label_id %>><%= t('blacklight.search.index.in_text') %></dt>
-  <dd class="search-results" id =<%= result_id %> ></dd>
+  <!-- Show the 'I teskt' label, only if the search_field is fritekst-->
+  <% if search_field_fritekst? %>
+    <dt id=<%= text_label_id %>><%= t('blacklight.search.index.in_text') %></dt>
+    <dd class="search-results" id =<%= result_id %> ></dd>
+  <% end %>
 
   <dt><%= t('blacklight.search.index.format') %></dt>
   <dd>
@@ -75,8 +78,10 @@
 </div>
 
 <%= javascript_tag do %>
-    $(document).ready(
-            function () {
-                index_work_search("<%= document['id'] %>", $('#<%= result_id %>'), $('#<%= text_label_id %>'));
-            });
+    <% if search_field_fritekst? %>
+      $(document).ready(
+              function () {
+                  index_work_search("<%= document['id'] %>", $('#<%= result_id %>'), $('#<%= text_label_id %>'));
+              });
+    <% end %>
 <% end %>
