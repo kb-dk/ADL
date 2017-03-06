@@ -87,9 +87,10 @@
                     <div class="kbOSDContent"></div>
                   </div>
                 </div>
-                <script src="http://static.kb.dk/kbOpenSeadragon/2.2.0/js/KbOSD_bundle_min.js"></script>
+
                 <script type="text/javascript">
                     var kbOSDconfig = [<%= FileServer.openSeadragon_snippet({doc: @document['volume_id_ssi']+'.xml', id: @document['xmlid_ssi']}) %>];
+
 
                     //Hide the rotation and flip option
                     kbOSDconfig[0].showTransformationControl = false;
@@ -112,6 +113,7 @@
                         });
                     }
                 </script>
+                <script src="http://static.kb.dk/kbOpenSeadragon/2.2.0/js/KbOSD_bundle_min.js"></script>
                 <%# OpenSeadragon end %>
             <% end %>
           </article>
