@@ -19,6 +19,9 @@ da:
       previous: '&laquo; Forrige'
       next: 'Næste &raquo;'
 
+    volume:
+      content: 'Indholde:'
+
   blacklight:
     application_name: 'Arkiv for Dansk Litteratur'
 
