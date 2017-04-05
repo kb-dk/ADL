@@ -43,7 +43,9 @@
                 <%= link_to(solr_document_path(document, format: :pdf), :target => "_blank", class: 'btn btn-default dlButton') do %>
                     <span class="glyphicon glyphicon-save"></span> Tekst
                 <% end %>
-                  <i class="fa fa-paint-brush" onclick="toggleHighlight()" title="<%= t('catalog.show_work.Toggle_highlight')  %>"></i>
+                <a href="javascript:toggleHighlight()" title="<%= t('catalog.show_work.Toggle_highlight')  %>">
+                  <i class="fa fa-paint-brush"></i>
+                </a>
               </div>
           <% else %>
               <header>
