@@ -43,10 +43,13 @@
                 <%= link_to(solr_document_path(document, format: :pdf), :target => "_blank", class: 'btn btn-default dlButton') do %>
                     <span class="glyphicon glyphicon-save"></span> Tekst
                 <% end %>
+                <a href="javascript:toggleHighlight()" title="<%= t('catalog.show_work.Toggle_highlight')  %>">
+                  <i class="fa fa-paint-brush"></i>
+                </a>
               </div>
           <% else %>
               <header>
-                <span> Ingen tekst </span>
+                <span><%= t('catalog.show_work.no_text')  %></span>
               </header>
           <% end %>
           <article class="ocr">
@@ -75,7 +78,7 @@
               </div>
           <% else %>
               <header>
-                <span> Ingen facsimile </span>
+                <span><%= t('catalog.show_work.No_facsimile')  %> </span>
               </header>
           <% end %>
           <article>

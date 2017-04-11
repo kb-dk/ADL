@@ -663,8 +663,11 @@ footer.pageFooter{
 .checkbox.toggle_bookmark{
   label{
     &:before {
-      @extend .glyphicon-bookmark;
-      @extend .glyphicon;
+     //@extend .glyphicon-bookmark;
+     //@extend .glyphicon;
+      content: "\f097";
+      font-family: FontAwesome;
+
       position: relative;
       padding-left: 80px;
       padding-top: 2px;
@@ -680,6 +683,7 @@ footer.pageFooter{
   }
   .checked {
     &:before {
+      content: "\f02e";
       color: #326100;
     }
   }
