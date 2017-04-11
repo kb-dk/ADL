@@ -43,8 +43,8 @@
                 <%= link_to(solr_document_path(document, format: :pdf), :target => "_blank", class: 'btn btn-default dlButton') do %>
                     <span class="glyphicon glyphicon-save"></span> Tekst
                 <% end %>
-                <a href="javascript:toggleHighlight()" title="<%= t('catalog.show_work.Toggle_highlight')  %>">
-                  <i class="fa fa-paint-brush"></i>
+                <a href="javascript:toggleHighlight()" class="btn btn-default dlButton">
+                  <i class="fa fa-paint-brush"></i> <%= t('catalog.show_work.Toggle_highlight')  %>
                 </a>
               </div>
           <% else %>
@@ -54,6 +54,10 @@
           <% end %>
           <article class="ocr">
             <% if has_text %>
+                <button onclick="javascript:toggleHighlight()" class="showOnFullscreen btn btn-default" title="<%= t('catalog.show_work.Toggle_highlight')  %>">
+                  <i class="fa fa-paint-brush"></i>
+                </a>
+                  </button>
                 <button class="escFullScreenButton btn btn-default" title="Tilbage til normal visning">
                   <span class="glyphicon glyphicon-remove"></span></button>
                 <%# If the search field is fritekst, get the last query and remove " %>
