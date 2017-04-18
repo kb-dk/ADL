@@ -108,12 +108,19 @@ h1[itemprop=name]{
     right:30px;
     opacity:0.8;
   }
+  .showOnFullscreen{
+    display:none;
+    position:fixed;
+    top:30px;
+    right:80px;
+    opacity:0.8;
+  }
   &:-webkit-full-screen{
     padding:0 10%;
     max-width:57em;
     background-color:#fff;
     font-family:Serif;
-    .escFullScreenButton{
+    .escFullScreenButton,.showOnFullscreen{
       display:block;
     }
   }
@@ -122,7 +129,7 @@ h1[itemprop=name]{
     max-width:57em;
     background-color:#fff;
     font-family:Serif;
-    .escFullScreenButton{
+    .escFullScreenButton,.showOnFullscreen{
       display:block;
     }
   }
@@ -131,7 +138,7 @@ h1[itemprop=name]{
     max-width:57em;
     background-color:#fff;
     font-family:Serif;
-    .escFullScreenButton{
+    .escFullScreenButton,.showOnFullscreen{
       display:block;
     }
   }
@@ -140,7 +147,7 @@ h1[itemprop=name]{
     max-width:57em;
     background-color:#fff;
     font-family:Serif;
-    .escFullScreenButton{
+    .escFullScreenButton,.showOnFullscreen{
       display:block;
     }
   }
