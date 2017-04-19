@@ -86,7 +86,7 @@ class SolrDocument
 
   def export_as_apa_citation_txt
     doc = self
-    cite = ""
+    cite = " APA "
     cite +=  doc['author_name_ssim'].first + ", " unless doc['author_name_ssim'].blank?
     cite +=  doc['date_published_ssi'] + ", " unless doc['date_published_ssi '].blank?
     cite +=  "<i>"+doc['work_title_tesim'].first + "</i>, " unless doc['work_title_tesim'].blank?
