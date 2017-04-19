@@ -42,7 +42,7 @@ class SolrDocument
       :date => 'date_published_ssi',
       #:description,
       #:format,
-      :identifier => 'id',
+      #:identifier => 'id',
       #:language,
       :publisher=> 'publisher_tesim',
       #:relation,
@@ -53,7 +53,7 @@ class SolrDocument
       #:type
 
       # :ese_dataProvider,
-      :ese_isShownAt => 'url_ssi',
+      #:ese_isShownAt => 'url_ssi',
       #:ese_provider,
       #:ese_rights,
       #:ese_type,
