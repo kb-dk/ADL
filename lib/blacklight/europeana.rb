@@ -92,6 +92,7 @@ module Europeana
         xml.tag! "dc:#{field}", v
       end
     end
+    xml.tag! "dc:identifier",  "xsi:type" => "dcterms:URI" do xml.text!(get_external_url) end
   end
 
   def add_ese_data(xml)
@@ -101,6 +102,7 @@ module Europeana
         xml.tag! "europeana:#{field.to_s.gsub(/^.*_/,'')}", v
       end
     end
+    xml.tag! "europeana:isShownAt", get_external_url
   end
 
   def dublin_core_field_name? field
@@ -127,5 +129,9 @@ module Europeana
       end
     end
     values
+  end
+
+  def get_external_url
+    "#{Rails.application.config_for(:adl)['adl_external_prefix']}#{Rails.application.routes.url_helpers.solr_document_path(:id => self.id)}"
   end
 end
