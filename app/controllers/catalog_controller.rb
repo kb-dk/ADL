@@ -235,7 +235,8 @@ class CatalogController < ApplicationController
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk']
       }
       field.solr_local_parameters = {
-          :qf => 'author_nasim^100 work_title_tesim^5 text_tesim'
+          :qf => 'author_nasim^100 work_title_tesim^10 text_tsim^2 text_tesim',
+          :pf => 'author_nasim^100 work_title_tesim^10 text_tesim'
       }
     end
 

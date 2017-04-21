@@ -1,0 +1,22 @@
+
+<% @documents.each do |document| %>
+
+    <!--Comment out the work title-->
+  <!--<h3 class="modal-title"><%#= document_heading(document) %></h3>-->
+
+<% if document.respond_to?(:export_as_mla_citation_txt) %>
+  <%= t('blacklight.citation.mla') %><br />
+  <%= document.send(:export_as_mla_citation_txt).html_safe %><br/><br/>
+<% end %>
+
+<% if document.respond_to?(:export_as_apa_citation_txt) %>
+  <%= t('blacklight.citation.apa') %><br />
+  <%= document.send(:export_as_apa_citation_txt).html_safe %><br/><br/>
+<% end %>
+
+<%- if document.respond_to?(:export_as_chicago_citation_txt) -%>
+  <%= t('blacklight.citation.chicago') %><br />
+  <%= document.send(:export_as_chicago_citation_txt).html_safe %>
+<%- end -%>
+
+<% end %>
