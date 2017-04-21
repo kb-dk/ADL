@@ -1,0 +1,21 @@
+div.text > div > div > div > h2{
+  font-weight: bold;
+}
+div.text > div > div > div > div > h2:nth-child(2){
+  @extend h4;
+}
+div.text > div > div > div >  div  > div > h2{
+  @extend h3;
+}
+
+div.text > div > div > div > div >  div  > div > h2{
+  @extend h4;
+}
+
+div.text > div > div > div > div > div >  div  > div > h2{
+  @extend h5;
+}
+
+div.text > div > div > div > div > div > div >  div  > div > h2{
+  @extend h6;
+}
