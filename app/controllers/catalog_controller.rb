@@ -36,6 +36,8 @@ class CatalogController < ApplicationController
     config.index.title_field = 'work_title_tesim'
     config.index.display_type_field = 'cat_ssi'
 
+    config.index.document_presenter_class = AdlIndexPresenter
+
     # solr field configuration for document/show views
     #config.show.title_field = 'title_display'
     #config.show.display_type_field = 'format'
