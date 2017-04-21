@@ -88,14 +88,21 @@ class SolrDocument
     doc = self
     cite = ""
     cite +=  doc['author_name_ssim'].first + ", " unless doc['author_name_ssim'].blank?
-    cite +=  doc['date_published_ssi'] + ", " unless doc['date_published_ssi '].blank?
-    cite +=  "<i>"+doc['work_title_tesim'].first + "</i>, " unless doc['work_title_tesim'].blank?
+    if !doc['volume_title_tesim'].blank? and doc['volume_title_tesim'] != doc['work_title_tesim']
+      cite +=  " \"" + doc['work_title_tesim'].first + "\", " unless doc['work_title_tesim'].blank?
+    else
+      cite +=  "<i>\""+doc['work_title_tesim'].first + "\"</i>, " unless doc['work_title_tesim'].blank?
+    end
     # check if the work is a book
     if !doc['volume_title_tesim'].blank? and doc['volume_title_tesim'] != doc['work_title_tesim']
       cite +=  I18n.t('blacklight.from') + "<i>" + doc['volume_title_tesim'].first + "</i>, "
     end
     cite +=  doc['publisher_tesim'].first + " " unless doc['publisher_tesim'].blank?
     cite +=  doc['place_published_tesim'].first unless doc['place_published_tesim'].blank?
+    cite +=  ", " + doc['date_published_ssi'] unless doc['date_published_ssi'].blank?
+    if !doc['volume_title_tesim'].blank? and doc['volume_title_tesim'] != doc['work_title_tesim']
+      cite += ", s. " + doc['page_ssi'] + ", " unless  doc['page_ssi'].blank?
+    end
     cite.html_safe
   end
 
