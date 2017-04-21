@@ -94,9 +94,9 @@ class CatalogController < ApplicationController
     # Work show fields
     config.add_show_field 'author_id_ssi', :label => 'Forfatter', helper_method: :author_link, itemprop: :author
     config.add_show_field 'volume_title_tesim', :label => 'Anvendt udgave', helper_method: :show_volume, itemprop: :isPartOf, unless: proc { |_context, _field_config, doc | doc.id == doc['volume_id_ssi'] }
-    #config.add_show_field 'publisher_tesim', :label => 'Udgiver', unless: proc { |_context, _field_config, doc | doc['cat_ssi'] == 'volume' }
-    #config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted'
-    #config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato'
+    config.add_show_field 'publisher_tesim', :label => 'Udgiver', if: proc { |_context, _field_config, doc | doc['cat_ssi'] == 'volume' }
+    config.add_show_field 'place_published_tesim', :label => 'Udgivelsessted', if: proc { |_context, _field_config, doc | doc['cat_ssi'] == 'volume' }
+    config.add_show_field 'date_published_ssi', :label => 'Udgivelsesdato', if: proc { |_context, _field_config, doc | doc['cat_ssi'] == 'volume' }
 
     add_show_tools_partial(:feedback, callback: :email_action, if: :render_feedback_action?)
     config.show.document_actions.email.if = :render_email_action?
