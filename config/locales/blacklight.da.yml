@@ -20,7 +20,7 @@ da:
       next: 'Næste &raquo;'
 
     volume:
-      content: 'Indholde:'
+      content: 'Indeholdte værker:'
 
   blacklight:
     application_name: 'Arkiv for Dansk Litteratur'
