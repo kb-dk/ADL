@@ -18,11 +18,11 @@ body {
 .navbar-fixed-top {
   // Correcting top bar
   background-color: #FFFFFF;
-  height: 88px;
+  height: 68px;
   .container {
-    padding-top: 19px;
-    padding-bottom: 19px;
-    height: 64px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 44px;
   }
 }
 
@@ -57,7 +57,7 @@ body {
 
 #body-content {
   // correcting body area size
-  min-height: 650px;
+  min-height: 600px;
 }
 
 a, button, .checkbox {
@@ -69,6 +69,15 @@ a, button, .checkbox {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 
   }
+}
+
+#cookie-button {
+  a {
+    &:hover, &:active, &:target  {
+      color: white !important;
+    }
+  }
+
 }
 
 #search {
@@ -139,7 +148,7 @@ a, button, .checkbox {
 
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    //width: 970px;
   }
 }
 
@@ -163,19 +172,19 @@ a, button, .checkbox {
 
 .search-not-main {
   height: 94px;
-  top: 88px;
+  top: 68px;
   left: 0px;
   position: absolute;
   @extend .box-shadow;
 
 }
 .content-not-main{
-  margin-top: 108px !important;
+  margin-top: 78px !important;
 }
 #content {
   min-height: 500px;
   //margin-top: 94px;
-  margin-top: 88px;
+  margin-top: 94px;
   .header-container {
     position: relative;
   }
@@ -228,7 +237,7 @@ a, button, .checkbox {
     //position: fixed;
     position:absolute;
     width: 100%;
-    top: 88px;
+    top: 68px;
     margin: 0;
     left: 0;
     height: 94px;
@@ -242,7 +251,7 @@ a, button, .checkbox {
   }
 
   #document .page-header{
-    top: -88px;
+    top: -94px;
   }
   .page-header-in-pages-with-searchbox {
     height: 100px;
@@ -458,7 +467,7 @@ button#search {
 
 .image {
   background-position: top;
-  height: 150px;
+  height: 169px;
   width: 100%;
   padding: 20px 15px;
   border-radius: 25px 25px 0 0;
@@ -654,12 +663,15 @@ footer.pageFooter{
 .checkbox.toggle_bookmark{
   label{
     &:before {
-      @extend .glyphicon-bookmark;
-      @extend .glyphicon;
+     //@extend .glyphicon-bookmark;
+     //@extend .glyphicon;
+      content: "\f097";
+      font-family: FontAwesome;
+
       position: relative;
       padding-left: 80px;
       padding-top: 2px;
-      color: #dcd2ab;
+      color: #326100;
     }
 
     input{
@@ -671,6 +683,7 @@ footer.pageFooter{
   }
   .checked {
     &:before {
+      content: "\f02e";
       color: #326100;
     }
   }

@@ -1,13 +1,14 @@
 /* global $,window, jQuery, dkBreve, KbOSD */
 window.dkBreve = (function (window, $, undefined) {
     'use strict';
-    var DkBreve = function () {};
+    var DkBreve = function () {
+    };
 
     DkBreve.prototype = {
         /**
          * Get current page in ocr pane
          */
-        getOcrCurrentPage : function () {
+        getOcrCurrentPage: function () {
             var ocrElem = $('.ocr'),
                 ocrScrollTop = ocrElem[0].scrollTop,
                 ocrScrollTopOffset = ocrScrollTop + 9, // Magic number 9 is 1 px less than the margin added when setting pages
@@ -28,7 +29,7 @@ window.dkBreve = (function (window, $, undefined) {
          * Scroll to a (one-based) numbered page in the ocr
          * @param page
          */
-        gotoOcrPage : function (page, skipAnimation) {
+        gotoOcrPage: function (page, skipAnimation) {
             var that = this,
                 ocrElem = $('.ocr').first(),
                 pageCount = $('.pageBreak', ocrElem).length + 1;
@@ -45,7 +46,9 @@ window.dkBreve = (function (window, $, undefined) {
                 } else {
                     ocrElem[0].scrollTop = $($('.ocr .pageBreak')[page - 2]).position().top + $('.ocr')[0].scrollTop + 10;
                 }
-                setTimeout(function () {that.animInProgress = false;}, 0);
+                setTimeout(function () {
+                    that.animInProgress = false;
+                }, 0);
             } else {
                 that.animInProgress = true;
                 if (page === 1) {
@@ -61,7 +64,7 @@ window.dkBreve = (function (window, $, undefined) {
                 }
             }
         },
-        onOcrScroll : function () {
+        onOcrScroll: function () {
             var that = dkBreve;
             if (!that.animInProgress) {
                 // this is a genuine scroll event, not something that origins from a kbOSD event
@@ -87,7 +90,7 @@ window.dkBreve = (function (window, $, undefined) {
         onDocumentReady: function () {
             var headerFooterHeight = dkBreve.getFooterAndHeaderHeight(),
                 windowHeight = $(window).innerHeight(),
-                contentHeight = windowHeight - headerFooterHeight-150;
+                contentHeight = windowHeight - headerFooterHeight - 10;
             dkBreve.setContentHeight(contentHeight);
 
             // Collapse/Expand metadata column
@@ -96,7 +99,7 @@ window.dkBreve = (function (window, $, undefined) {
             });
 
             // set up handler for ocr fullscreen
-            $('#ocrFullscreenButton').click(function(e) {
+            $('#ocrFullscreenButton').click(function (e) {
                 // Copy/Pasted from http://stackoverflow.com/questions/7130397/how-do-i-make-a-div-full-screen /HAFE
                 // if already full screen; exit
                 // else go fullscreen
@@ -131,13 +134,28 @@ window.dkBreve = (function (window, $, undefined) {
 
             $('.escFullScreenButton').click(dkBreve.closeFullScreen);
 
-            $(window).resize(function () { dkBreve.onWindowResize.call(dkBreve); });
+            $(window).resize(function () {
+                dkBreve.onWindowResize.call(dkBreve);
+            });
         },
-        onKbOSDReady : function (kbosd) {
+        onKbOSDReady: function (kbosd) {
             var that = this;
             that.kbosd = kbosd;
             if (kbosd.pageCount > 1) { // if there isn't more than one page, no synchronization between the panes are needed.
-                that.gotoOcrPage(kbosd.getCurrentPage(), true);
+                //currentOcrpage is more than 1 if readed by the URL
+                var currentOcrPage = that.getOcrCurrentPage();
+                if (currentOcrPage > 1) {
+                    kbosd = KbOSD.prototype.instances[0]; // The dkBreve object should have a kbosd property set to the KbOSD it uses!
+                    if (kbosd.getCurrentPage() !== currentOcrPage) {
+                        that.scrollingInProgress = true;
+                        kbosd.setCurrentPage(currentOcrPage, function () {
+                            that.scrollingInProgress = false; // This is ALMOST enough ... but it
+                        });
+                    }
+                } else { // initlaize from osd gragon page instead
+                    that.gotoOcrPage(kbosd.getCurrentPage(), true);
+                }
+
                 $(kbosd.contentElem).on('pagechange', function (e) {
                     if (!that.scrollingInProgress && !that.fullScreen) {
                         that.gotoOcrPage(e.detail.page);
@@ -148,10 +166,10 @@ window.dkBreve = (function (window, $, undefined) {
                 $('.ocr').scroll(this.onOcrScroll);
             }
         },
-        onWindowResize : function () {
+        onWindowResize: function () {
             this.setContentHeight($(window).innerHeight() - this.getFooterAndHeaderHeight());
         },
-        closeFullScreen : function () {
+        closeFullScreen: function () {
             if (document.exitFullscreen) {
                 document.exitFullscreen();
             } else if (document.mozCancelFullScreen) {
@@ -162,7 +180,7 @@ window.dkBreve = (function (window, $, undefined) {
                 document.msExitFullscreen();
             }
         },
-        getFooterAndHeaderHeight : function () {
+        getFooterAndHeaderHeight: function () {
             return $('.page_links').outerHeight() +
                 $('.workNavBar').outerHeight() +
                 $('h1[itemprop=name]').outerHeight() +
@@ -170,7 +188,7 @@ window.dkBreve = (function (window, $, undefined) {
                 $('#user-util-collapse').outerHeight() +
                 $('footer.pageFooter').outerHeight();
         },
-        setContentHeight : function (height) {
+        setContentHeight: function (height) {
             if (height > 200) {
                 $('.contentContainer').css('maxHeight', height);
                 $('.textAndFacsimileContainer').css('minHeight', height);
@@ -179,8 +197,8 @@ window.dkBreve = (function (window, $, undefined) {
     };
 
     return new DkBreve();
-})(window,jQuery);
+})(window, jQuery);
 
-$(document).on('kbosdready', function(e) {
+$(document).on('kbosdready', function (e) {
     dkBreve.onKbOSDReady(e.detail.kbosd);
 });

@@ -19,11 +19,13 @@ function index_work_search(id, target_selector, text_label_id){
                 if (matches_num>0) {
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs && i<3; i++) {
-                        $(target_selector).append('<p><a href="/solr_documents/'+id+ '#kbOSD-0=page:' + docs[i].page_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                        if (highlighting[docs[i].id].text_tesim != null) {
+                            $(target_selector).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');                        // }
+                        }
                     }
                 }if (matches_num>3){
                     var btn = document.createElement("BUTTON");
-                    var t = document.createTextNode("Alle matcher");
+                    var t = document.createTextNode("Alle forekomster");
                     btn.appendChild(t);
                     btn.setAttribute("id","matches-button-"+id);
                     btn.setAttribute("class","all-matches");
@@ -32,16 +34,18 @@ function index_work_search(id, target_selector, text_label_id){
                         $("#matches-"+id).modal();
                     });
                     for (var i= 0; i in docs ; i++) {
-                        $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#kbOSD-0=page:' + docs[i].page_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
-                    }
-                }else{$(text_label_id).hide();}
+                        if (highlighting[docs[i].id].text_tesim != null) {
+                            $("#matchesModalBody-"+id).append('<p><a href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
+                        }
+                        }
+                }if(matches_num==0){$(text_label_id).hide();} // If the number of matches is 0, hide the label
             }
         });
     }
     return false;
 }
 
-// Called in the app/views/catalog/_show_tools_work.erb to trigger a modal with all the matches for the search performed in the index     kbOSD-0=page:62
+// Called in the app/views/catalog/_show_tools_work.erb to trigger a modal with all the matches for the search performed in the index
 function show_work_search(id, target_selector, q){
     $('.contentSearch').hide();
     $.ajax({
@@ -57,7 +61,9 @@ function show_work_search(id, target_selector, q){
                     $('.contentSearch').show();
                     $(target_selector).append('<div id="results-header"><p>'+matches_num+' match</p></div>');
                     for (var i= 0; i in docs; i++) {
-                        $(target_selector).append('<p><a onClick="$(\'#searchFullText\').modal(\'hide\')" href="/solr_documents/'+id+ '#' + docs[i].page_id_ssi+'">'+highlighting[docs[i].id].text_tesim.join("...")+'</a></br>Side: '+docs[i].page_ssi+'</p>');
+                        if (highlighting[docs[i].id].text_tesim != null) {
+                            $(target_selector).append('<p><a onClick="$(\'#searchFullText\').modal(\'hide\')" href="/solr_documents/' + id + '#' + docs[i].page_id_ssi + '">' + highlighting[docs[i].id].text_tesim.join("...") + '</a></br>Side: ' + docs[i].page_ssi + '</p>');
+                        }
                     }
                 }
         }
@@ -95,5 +101,11 @@ function checkCookie() {
         }
     }
 }
-
-
+/////////
+function toggleHighlight() {
+    var el = document.getElementsByClassName('hit');
+    var len = el.length;
+    for ( i=0; i<len; i++){
+        el[i].classList.toggle('transparentBackground');
+    }
+}
