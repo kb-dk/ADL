@@ -22,7 +22,7 @@ class SearchBuilder < Blacklight::SearchBuilder
 
   def part_of_volume_search solr_params
     solr_params[:fq] = []
-    solr_params[:fq] << "cat_ssi:work"
+    solr_params[:fq] << "(cat_ssi:work OR cat_ssi:editorial)"
     solr_params[:fq] << "volume_id_ssi:#{blacklight_params[:volumeid]}"
     solr_params[:sort] = []
     solr_params[:sort] << 'position_isi asc'
