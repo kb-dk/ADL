@@ -257,12 +257,12 @@ Devise.setup do |config|
   # so you need to do it manually. For the users scope, it would be:
   # config.omniauth_path_prefix = '/my_engine/users/auth'
 
-  config.cas_base_url = "https://login-test.kb.dk/simplesaml/module.php/kbcasserver/cas.php"
+  config.cas_base_url = "https://login.kb.dk/simplesaml/module.php/kbcasserver/cas.php"
 
   # you can override these if you need to, but cas_base_url is usually enough
-  config.cas_login_url = "https://login-test.kb.dk/simplesaml/module.php/kbcasserver/cas.php/login"
-  config.cas_logout_url = "https://login-test.kb.dk/simplesaml/module.php/kbcasserver/cas.php/logout2"
-  config.cas_validate_url = "https://login-test.kb.dk/simplesaml/module.php/kbcasserver/cas.php/serviceValidate"
+  config.cas_login_url = "https://login.kb.dk/simplesaml/module.php/kbcasserver/cas.php/login"
+  config.cas_logout_url = "https://login.kb.dk/simplesaml/module.php/kbcasserver/cas.php/logout2"
+  config.cas_validate_url = "https://login.kb.dk/simplesaml/module.php/kbcasserver/cas.php/serviceValidate"
 
   # The CAS specification allows for the passing of a follow URL to be displayed when
   # a user logs out on the CAS server. RubyCAS-Server also supports redirecting to a
