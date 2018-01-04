@@ -22,10 +22,11 @@ class SearchBuilder < Blacklight::SearchBuilder
 
   def part_of_volume_search solr_params
     solr_params[:fq] = []
-    solr_params[:fq] << "cat_ssi:work"
+    solr_params[:fq] << "(cat_ssi:work OR cat_ssi:editorial)"
     solr_params[:fq] << "volume_id_ssi:#{blacklight_params[:volumeid]}"
+    solr_params[:sort] = []
+    solr_params[:sort] << 'position_isi asc'
     solr_params[:rows] = 10000
-
   end
 
   def build_all_authors_search solr_params = {}
@@ -39,7 +40,7 @@ class SearchBuilder < Blacklight::SearchBuilder
 
   def build_all_periods_search solr_params = {}
     solr_params[:fq] = []
-    solr_params[:fq] << 'cat_ssi:period'
+    solr_params[:fq] << 'cat_ssi:period AND type_ssi:work'
     solr_params[:sort] = []
     solr_params[:sort] << 'sort_title_ssi asc'
     solr_params[:rows] = 10000
