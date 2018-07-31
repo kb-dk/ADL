@@ -5,7 +5,7 @@
     <% wicked_pdf_stylesheet_link_tag "pdf" %>
     <% wicked_pdf_javascript_include_tag "number_pages" %>
 
-    <% if @document['cat_ssi'] == 'author' %>
+    <% if @document['cat_ssi'] == 'author' && !@document['volume_title_tesim'].present? %>
         <i><%= @document['volume_title_tesim'].first unless @document['volume_title_tesim'].blank? %></i>
         <% unless @document['author_name_tesim'].first.blank? %>
           <%= ' - ' + t('author.author_potrait_written_by') + " "+ @document['author_name_tesim'].first%>
