@@ -60,5 +60,3 @@ gem 'devise-guests', '~> 0.3'
 gem 'devise_cas_authenticatable'
 gem 'oai'
 gem 'font-awesome-rails'
-
-gem 'kbcookie', '>=0.0.0', :git => 'https://github.com/Det-Kongelige-Bibliotek/kbcookie.git'
