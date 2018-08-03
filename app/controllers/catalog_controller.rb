@@ -234,9 +234,7 @@ class CatalogController < ApplicationController
     
     config.add_search_field('Alt',label: I18n.t('blacklight.search.form.search.all_filters')) do |field|
       field.solr_parameters = {
-          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk']
-      }
-      field.solr_local_parameters = {
+          :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
           :qf => 'author_nasim^100 work_title_tesim^10 text_tsim^2 text_tesim',
           :pf => 'author_nasim^100 work_title_tesim^10 text_tesim'
       }
@@ -246,13 +244,6 @@ class CatalogController < ApplicationController
       # solr_parameters hash are sent to Solr as ordinary url query params. 
       field.solr_parameters = {
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
-         # :'spellcheck.dictionary' => 'title'
-      }
-      # :solr_local_parameters will be sent using Solr LocalParams
-      # syntax, as eg {! qf=$title_qf }. This is neccesary to use
-      # Solr parameter de-referencing like $title_qf.
-      # See: http://wiki.apache.org/solr/LocalParams
-      field.solr_local_parameters = { 
         :qf => 'work_title_tesim',
       }
     end
@@ -260,17 +251,14 @@ class CatalogController < ApplicationController
     config.add_search_field('author', label: I18n.t('blacklight.search.form.search.author')) do |field|
       field.solr_parameters = {
           :fq => ['application_ssim:ADL','cat_ssi:work','type_ssi:trunk'],
-         # :'spellcheck.dictionary' => 'author'
-      }
-      field.solr_local_parameters = { 
         :qf => 'author_nasim',
       }
     end
 
     config.add_search_field('leaf') do |field|
       field.include_in_simple_select = false
-      field.solr_parameters = { :fq => 'type_ssi:leaf' }
-      field.solr_local_parameters = {
+      field.solr_parameters = {
+          :fq => 'type_ssi:leaf',
           :qf => 'text_tesim',
           :pf => 'text_tesim',
           :hl => 'true',
@@ -280,9 +268,7 @@ class CatalogController < ApplicationController
     config.add_search_field('oai_time') do |field|
       field.include_in_simple_select = false
       field.solr_parameters = {
-          :fq => 'cat_ssi:work'
-      }
-      field.solr_local_parameters = {
+          :fq => 'cat_ssi:work',
           :fl => 'timestamp'
       }
     end
