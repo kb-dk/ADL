@@ -21,7 +21,7 @@
 
 
 <% @work_docs.each do |doc| %>
-   <dd><%= link_to doc['work_title_tesim'].join, solr_document_path(doc['id']) %></dd>
+   <dd><%= link_to doc['work_title_tesim'].join, solr_document_path(doc['id']) unless doc['work_title_tesim'].blank?  %></dd>
 <% end %>
 </dl>
 </div>
