@@ -127,7 +127,7 @@ GEM
       kaminari-core (= 1.0.1)
     kaminari-core (1.0.1)
     libv8 (3.16.14.17)
-    logger (1.2.8)
+    logger (1.5.1)
     loofah (2.2.2)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -215,7 +215,7 @@ GEM
       actionpack (>= 3.1)
       jquery-rails
       railties (>= 3.1)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     tzinfo-data (1.2016.10)
       tzinfo (>= 1.0.0)
@@ -245,7 +245,6 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jettywrapper (>= 2.0)
   jquery-rails
-  kbcookie!
   oai
   rails (= 4.2.9)
   rsolr (~> 1.0.6)
